@@ -1,0 +1,57 @@
+AIN;Айны;;;;;;;;;;;;;x
+AIN_ADJ;Айны;;;;;;;;;;;;;x
+AIN_absolute_monarchy;Айну Мосир;;;;;;;;;;;;;x
+AIN_conservative;Консервативная фракция;;;;;;;;;;;;;x
+AIN_liberal;Реформистская фракция;;;;;;;;;;;;;x
+AIN_socialist;Прогрессивная фракция;;;;;;;;;;;;;x
+AIN_communist;Фракция коммунистов;;;;;;;;;;;;;x
+AIN_reactionary;Фракция националистов;;;;;;;;;;;;;x
+AIN_anarcho_liberal;Радикальная фракция;;;;;;;;;;;;;x
+AIN_fascist;Фашистская фракция;;;;;;;;;;;;;x
+CHO;Тюгоку;;;;;;;;;;;;;x
+CHO_ADJ;Чугокуан;;;;;;;;;;;;;x
+CHO_absolute_monarchy;Тёсю;;;;;;;;;;;;;x
+CHO_prussian_constitutionalism;Тёсю;;;;;;;;;;;;;x
+CHO_hms_government;Тёсю;;;;;;;;;;;;;x
+CHO_absolute_monarchy_ADJ;Мори;;;;;;;;;;;;;x
+CHO_prussian_constitutionalism_ADJ;Мори;;;;;;;;;;;;;x
+CHO_hms_government_ADJ;Мори;;;;;;;;;;;;;x
+KAG;Ишикава;;;;;;;;;;;;;x
+KAG_ADJ;Ишикаван;;;;;;;;;;;;;x
+KAG_absolute_monarchy;Кага;;;;;;;;;;;;;x
+KAG_prussian_constitutionalism;Кага;;;;;;;;;;;;;x
+KAG_hms_government;Кага;;;;;;;;;;;;;x
+KAG_absolute_monarchy_ADJ;Маэда;;;;;;;;;;;;;x
+KAG_prussian_constitutionalism_ADJ;Маэда;;;;;;;;;;;;;x
+KAG_hms_government_ADJ;Маэда;;;;;;;;;;;;;x
+SAT;Кюсю;;;;;;;;;;;;;x
+SAT_ADJ;Кюшуань;;;;;;;;;;;;;x
+SAT_absolute_monarchy;Сацума;;;;;;;;;;;;;x
+SAT_prussian_constitutionalism;Сацума;;;;;;;;;;;;;x
+SAT_hms_government;Сацума;;;;;;;;;;;;;x
+SAT_absolute_monarchy_ADJ;Симадзу;;;;;;;;;;;;;x
+SAT_prussian_constitutionalism_ADJ;Симадзу;;;;;;;;;;;;;x
+SAT_hms_government_ADJ;Симадзу;;;;;;;;;;;;;x
+SEN;Тохоку;;;;;;;;;;;;;x
+SEN_ADJ;Тохокуан;;;;;;;;;;;;;x
+SEN_absolute_monarchy;Сендай;;;;;;;;;;;;;x
+SEN_prussian_constitutionalism;Сендай;;;;;;;;;;;;;x
+SEN_hms_government;Сендай;;;;;;;;;;;;;x
+SEN_absolute_monarchy_ADJ;Дата;;;;;;;;;;;;;x
+SEN_prussian_constitutionalism_ADJ;Дата;;;;;;;;;;;;;x
+SEN_hms_government_ADJ;Дата;;;;;;;;;;;;;x
+TKG;Япония эпохи сёгуната;;;;;;;;;;;x;;
+TKG_ADJ;Токугава;;;;;;;;;;;x;;
+TOS;Сикоку;;;;;;;;;;;;;x
+TOS_ADJ;Шикокуань;;;;;;;;;;;;;x
+TOS_absolute_monarchy;Тоса;;;;;;;;;;;;;x
+TOS_prussian_constitutionalism;Тоса;;;;;;;;;;;;;x
+TOS_hms_government;Тоса;;;;;;;;;;;;;x
+TOS_absolute_monarchy_ADJ;Ямаути;;;;;;;;;;;;;x
+TOS_prussian_constitutionalism_ADJ;Ямаути;;;;;;;;;;;;;x
+TOS_hms_government_ADJ;Ямаути;;;;;;;;;;;;;x
+YZW;Ёнэдзава;;;;;;;;;;;;;x
+YZW_ADJ;Ёнэдзаван;;;;;;;;;;;;;x
+YZW_absolute_monarchy_ADJ;Уэсуги;;;;;;;;;;;;;x
+YZW_prussian_constitutionalism_ADJ;Уэсуги;;;;;;;;;;;;;x
+YZW_hms_government_ADJ;Уэсуги;;;;;;;;;;;;;x

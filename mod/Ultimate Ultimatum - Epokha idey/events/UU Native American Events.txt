@@ -1,0 +1,149 @@
+country_event = {
+	id = 99000010
+	title = "UU_NATIVE_COUNCIL_TITLE"
+	desc = "UU_NATIVE_COUNCIL_DESC"
+	picture = "native_force"
+	fire_only_once = yes
+	trigger = {
+		year = 1600
+		NOT = { has_country_flag = uu_native_council_event_done }
+		OR = {
+			tag = ALT
+			tag = APC
+			tag = ARP
+			tag = AZT
+			tag = CHE
+			tag = CMC
+			tag = CMS
+			tag = CNK
+			tag = CRK
+			tag = CYN
+			tag = GRL
+			tag = INC
+			tag = IRO
+			tag = LEN
+			tag = LSK
+			tag = MCM
+			tag = MTC
+			tag = MYA
+			tag = POW
+			tag = QUI
+			tag = SIX
+			tag = SQH
+			tag = WYA
+		}
+	}
+	mean_time_to_happen = { months = 18 }
+	option = {
+		name = "UU_NATIVE_COUNCIL_A"
+		set_country_flag = uu_native_council_event_done
+		prestige = 2
+		plurality = 1
+	}
+	option = {
+		name = "UU_NATIVE_COUNCIL_B"
+		set_country_flag = uu_native_council_event_done
+		consciousness = -1
+		militancy = -1
+	}
+}
+
+country_event = {
+	id = 99000011
+	title = "UU_NATIVE_ROUTES_TITLE"
+	desc = "UU_NATIVE_ROUTES_DESC"
+	picture = "native_force"
+	fire_only_once = yes
+	trigger = {
+		year = 1600
+		NOT = { has_country_flag = uu_native_routes_event_done }
+		OR = {
+			tag = ALT
+			tag = APC
+			tag = ARP
+			tag = AZT
+			tag = CHE
+			tag = CMC
+			tag = CMS
+			tag = CNK
+			tag = CRK
+			tag = CYN
+			tag = GRL
+			tag = INC
+			tag = IRO
+			tag = LEN
+			tag = LSK
+			tag = MCM
+			tag = MTC
+			tag = MYA
+			tag = POW
+			tag = QUI
+			tag = SIX
+			tag = SQH
+			tag = WYA
+		}
+	}
+	mean_time_to_happen = { months = 18 }
+	option = {
+		name = "UU_NATIVE_ROUTES_A"
+		set_country_flag = uu_native_routes_event_done
+		money = 250
+		prestige = 1
+	}
+	option = {
+		name = "UU_NATIVE_ROUTES_B"
+		set_country_flag = uu_native_routes_event_done
+		money = 100
+		consciousness = -1
+	}
+}
+
+country_event = {
+	id = 99000012
+	title = "UU_NATIVE_STEWARDSHIP_TITLE"
+	desc = "UU_NATIVE_STEWARDSHIP_DESC"
+	picture = "native_force"
+	fire_only_once = yes
+	trigger = {
+		year = 1600
+		NOT = { has_country_flag = uu_native_stewardship_event_done }
+		OR = {
+			tag = ALT
+			tag = APC
+			tag = ARP
+			tag = AZT
+			tag = CHE
+			tag = CMC
+			tag = CMS
+			tag = CNK
+			tag = CRK
+			tag = CYN
+			tag = GRL
+			tag = INC
+			tag = IRO
+			tag = LEN
+			tag = LSK
+			tag = MCM
+			tag = MTC
+			tag = MYA
+			tag = POW
+			tag = QUI
+			tag = SIX
+			tag = SQH
+			tag = WYA
+		}
+	}
+	mean_time_to_happen = { months = 18 }
+	option = {
+		name = "UU_NATIVE_STEWARDSHIP_A"
+		set_country_flag = uu_native_stewardship_event_done
+		prestige = 2
+		militancy = -1
+	}
+	option = {
+		name = "UU_NATIVE_STEWARDSHIP_B"
+		set_country_flag = uu_native_stewardship_event_done
+		money = 200
+		plurality = 1
+	}
+}

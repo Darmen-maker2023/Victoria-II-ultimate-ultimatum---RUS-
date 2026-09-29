@@ -1,0 +1,456 @@
+color = { 144  181  106 }
+graphical_culture = EuropeanGC
+
+party = {
+	name = "MEI_liberal"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MEI_conservative"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MEI_liberal_2"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "MEI_liberal_3"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MEI_socialist"
+	start_date = 1860.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MEI_socialist_2"
+	start_date = 1860.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MEI_socialist_3"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MEI_reactionary"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MEI_conservative_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MEI_conservative_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MEI_anarcho_liberal"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MEI_communist"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MEI_fascist"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	ironclad = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	manowar = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	cruiser = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	frigate = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	monitor = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld 
+	}
+}
+party = {
+	name = "MEI_nationalism"
+	start_date = 1820.1.1
+	end_date = 99999.1.1
+
+	ideology = nationalism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "MEI_nationalism_2"
+	start_date = 1820.1.1
+	end_date = 99999.1.1
+
+	ideology = nationalism
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_agrarianism"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = agrarianism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_agrarianism_2"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = agrarianism
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "MEI_technocratism"
+	start_date = 1930.1.1
+	end_date = 99999.1.1
+
+	ideology = technocratism
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_technocratism_2"
+	start_date = 1930.1.1
+	end_date = 99999.1.1
+
+	ideology = technocratism
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = "MEI_communist_2"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_communist_3"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = "MEI_fascist_2"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "MEI_fascist_3"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_anarcho_liberal_2"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "MEI_anarcho_liberal_3"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = "MEI_reactionary_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = "MEI_reactionary_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_MEI_syndicalism"
+	start_date = 1890.1.1
+	end_date = 9999.1.1
+	ideology = syndicalism
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_MEI_militarism"
+	start_date = 1815.1.1
+	end_date = 9999.1.1
+	ideology = militarism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_MEI_ecologism"
+	start_date = 1960.1.1
+	end_date = 9999.1.1
+	ideology = ecologism
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "UU1600_MEI_corporatism"
+	start_date = 1880.1.1
+	end_date = 9999.1.1
+	ideology = corporatism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_MEI_cyber_autonomism"
+	start_date = 2000.1.1
+	end_date = 9999.1.1
+	ideology = cyber_autonomism
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}

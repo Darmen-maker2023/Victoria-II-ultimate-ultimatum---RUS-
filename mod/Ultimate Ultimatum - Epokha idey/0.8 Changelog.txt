@@ -1,0 +1,41 @@
+0.8 Changelog
+
+*Bugfixes
+- Fixed AI in early start date not building armies or militaries
+- Fixed buggy icons
+- Fixed maps and cores for various start dates
+- Fixed various Cultural Union not forming, example German Empire and Yugoslavia not being formed
+- Fixed some pops needs
+- Fixed moon landing events randomly popped up in earlier start dates
+- Fixed missing pictures for various decisions and events
+- Fixed colonial cost for some of the regions in North America
+- Fixed some WW1 and WW2 events crashing, especially for Central Powers and the Axis Powers
+- Fixed Austria still having HRE modifier in later start date
+- Conquest and various cbs now have reasonable infamy and prestige cost
+- Communist or socialist countries now cannot select slavery in the political reform tab
+- Industrial and military cost reduced
+- Bankrupt events reduced
+- Rearrange the techs inventions and names
+
+*Contents
+- Various new German, African, South American and Pacific states
+- Added localizations for most of the political parties
+- Localizations for most of the events and decisions
+- New 1870, 1923, and 1964 start dates respectively
+- Adjusted and added several new flags
+- Added crisis locked option and custom decisions
+- Added modifier so that uncivilized countries cannot westernize early
+- Added unique cultures for Native Americans
+- Added Shogunate Japan mechanics
+- Added League of Nations and NATO, and various new intergovernmental organizations
+- Added various new Cold War events and decisions
+- Added various new modifiers
+- Techs for Cold War great powers adjusted, now the Big 5 have decent techs and for 1964 start dates, every great powers have invented Atomic bomb techs
+- Various new Napoleonic Wars post-war events
+- Various new WW2 flavour events
+- Various new Japanese flavour decisions and events
+- Various new Pre-Industrial events
+- New formable countries, Benelux and Holy Roman Empire
+- New soundtracks, credits for the song to their respective copyright holders
+- New CBs, Take Capital and Dismantle Industries
+- Some table contents borrowed from GSGVickyMod, HPM, HPM, CWE, Ultimate Rebooted 2016 version, NWO, Blood and Iron, AOE, COE, ZinnMod

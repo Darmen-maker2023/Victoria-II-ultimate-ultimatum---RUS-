@@ -1,0 +1,11 @@
+owner = TKG
+controller = TKG
+add_core = AIN
+1868.10.23 = {
+	owner = JAP	
+	controller = JAP
+	add_core = JAP
+	railroad = 4
+		}
+trade_goods = timber
+life_rating = 20

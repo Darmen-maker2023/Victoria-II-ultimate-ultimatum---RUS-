@@ -1,0 +1,24 @@
+# Applies to an existing Chinook save after the mod is reloaded.
+country_event = {
+	id = 99000002
+	title = "UU_CNK_ASSEMBLY_TITLE"
+	desc = "UU_CNK_ASSEMBLY_DESC"
+	picture = "Socialism"
+	fire_only_once = yes
+
+	trigger = {
+		tag = CNK
+		year = 1600
+		NOT = { has_country_flag = uu_cnk_assembly_1600 }
+	}
+	mean_time_to_happen = { days = 1 }
+
+	option = {
+		name = "UU_CNK_ASSEMBLY_OPTION"
+		set_country_flag = uu_cnk_assembly_1600
+		upper_house = { ideology = conservative value = 0.25 }
+		upper_house = { ideology = liberal value = 0.20 }
+		upper_house = { ideology = agrarianism value = 0.10 }
+		upper_house = { ideology = nationalism value = 0.05 }
+	}
+}

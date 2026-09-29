@@ -1,0 +1,74 @@
+political_decisions = {
+	uu_native_frontier_settlement = {
+		# Settle an adjacent empty province in the Americas.
+		# Restricted to the 23 Native American nations only.
+		potential = {
+			OR = {
+				tag = ALT
+				tag = APC
+				tag = ARP
+				tag = AZT
+				tag = CHE
+				tag = CMC
+				tag = CMS
+				tag = CNK
+				tag = CRK
+				tag = CYN
+				tag = GRL
+				tag = INC
+				tag = IRO
+				tag = LEN
+				tag = LSK
+				tag = MCM
+				tag = MTC
+				tag = MYA
+				tag = POW
+				tag = QUI
+				tag = SIX
+				tag = SQH
+				tag = WYA
+			}
+		}
+		allow = {
+			year = 1604
+			NOT = { year = 1750 }
+			money = 250
+			war = no
+			NOT = { has_country_modifier = uu_native_frontier_cooldown }
+			any_owned = {
+				limit = {
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					has_empty_adjacent_province = yes
+				}
+			}
+		}
+		effect = {
+			treasury = -250
+			random_owned = {
+				limit = {
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					has_empty_adjacent_province = yes
+				}
+				random_neighbor = {
+					limit = {
+						empty = yes
+					}
+					secede_province = THIS
+					add_core = THIS
+					claim = THIS
+				}
+			}
+			add_country_modifier = {
+				name = uu_native_frontier_cooldown
+				duration = 1825
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

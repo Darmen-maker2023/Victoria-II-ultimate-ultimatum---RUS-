@@ -1,0 +1,349 @@
+BLZ_communist;Коммунистическая партия;;;;;;;;;;;;;x
+BLZ_nationalist;Фракция националистов;;;;;;;;;;;;;x
+BLZ_liberal;Либеральная партия;;;;;;;;;;;;;x
+BLZ_conservative;Консервативная партия;;;;;;;;;;;;;x
+BLZ_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+BLZ_socialist;Социалистическая партия;;;;;;;;;;;;;x
+BLZ_reactionary;Популистская партия;;;;;;;;;;;;;x
+BLZ_fascist;Фашистская партия;;;;;;;;;;;;;x
+GUY_communist;Коммунистическая партия;;;;;;;;;;;;;x
+GUY_nationalist;Фракция националистов;;;;;;;;;;;;;x
+GUY_liberal;Либеральная партия;;;;;;;;;;;;;x
+GUY_conservative;Консервативная партия;;;;;;;;;;;;;x
+GUY_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+GUY_socialist;Социалистическая партия;;;;;;;;;;;;;x
+GUY_reactionary;Популистская партия;;;;;;;;;;;;;x
+GUY_fascist;Фашистская партия;;;;;;;;;;;;;x
+LAO_communist;Коммунистическая партия;;;;;;;;;;;;;x
+LAO_nationalist;Фракция националистов;;;;;;;;;;;;;x
+LAO_liberal;Либеральная партия;;;;;;;;;;;;;x
+LAO_conservative;Консервативная партия;;;;;;;;;;;;;x
+LAO_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+LAO_socialist;Социалистическая партия;;;;;;;;;;;;;x
+LAO_reactionary;Популистская партия;;;;;;;;;;;;;x
+LAO_fascist;Фашистская партия;;;;;;;;;;;;;x
+THA_communist;Коммунистическая партия;;;;;;;;;;;;;x
+THA_nationalist;Фракция националистов;;;;;;;;;;;;;x
+THA_liberal;Либеральная партия;;;;;;;;;;;;;x
+THA_conservative;Консервативная партия;;;;;;;;;;;;;x
+THA_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+THA_socialist;Социалистическая партия;;;;;;;;;;;;;x
+THA_reactionary;Популистская партия;;;;;;;;;;;;;x
+THA_fascist;Фашистская партия;;;;;;;;;;;;;x
+CHD_communist;Коммунистическая партия Чада;;;;;;;;;;;;;x
+CHD_nationalist;Фракция националистов Чада;;;;;;;;;;;;;x
+CHD_liberal;Либеральная партия Чада;;;;;;;;;;;;;x
+CHD_conservative;Консервативная партия Чада;;;;;;;;;;;;;x
+CHD_anarcho_liberal;Радикалистская партия Чада;;;;;;;;;;;;;x
+CHD_socialist;Социалистическая партия Чада;;;;;;;;;;;;;x
+CHD_reactionary;Популистская партия Чада;;;;;;;;;;;;;x
+CHD_fascist;Фашистская партия Чада;;;;;;;;;;;;;x
+MAC_communist;Коммунистическая партия;;;;;;;;;;;;;x
+MAC_nationalist;Фракция националистов;;;;;;;;;;;;;x
+MAC_liberal;Либеральная партия;;;;;;;;;;;;;x
+MAC_conservative;Консервативная партия;;;;;;;;;;;;;x
+MAC_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+MAC_socialist;Социалистическая партия;;;;;;;;;;;;;x
+MAC_reactionary;Популистская партия;;;;;;;;;;;;;x
+MAC_fascist;Фашистская партия;;;;;;;;;;;;;x
+CZR_communist;Коммунистическая партия;;;;;;;;;;;;;x
+CZR_nationalist;Фракция националистов;;;;;;;;;;;;;x
+CZR_liberal;Либеральная партия;;;;;;;;;;;;;x
+CZR_conservative;Консервативная партия;;;;;;;;;;;;;x
+CZR_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+CZR_socialist;Социалистическая партия;;;;;;;;;;;;;x
+CZR_reactionary;Популистская партия;;;;;;;;;;;;;x
+CZR_fascist;Фашистская партия;;;;;;;;;;;;;x
+MAL_communist;Коммунистическая партия;;;;;;;;;;;;;x
+MAL_nationalist;Фракция националистов;;;;;;;;;;;;;x
+MAL_liberal;Либеральная партия;;;;;;;;;;;;;x
+MAL_conservative;Консервативная партия;;;;;;;;;;;;;x
+MAL_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+MAL_socialist;Социалистическая партия;;;;;;;;;;;;;x
+MAL_reactionary;Популистская партия;;;;;;;;;;;;;x
+MAL_fascist;Фашистская партия;;;;;;;;;;;;;x
+ERI_communist;Коммунистическая партия;;;;;;;;;;;;;x
+ERI_nationalist;Фракция националистов;;;;;;;;;;;;;x
+ERI_liberal;Либеральная партия;;;;;;;;;;;;;x
+ERI_conservative;Консервативная партия;;;;;;;;;;;;;x
+ERI_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+ERI_socialist;Социалистическая партия;;;;;;;;;;;;;x
+ERI_reactionary;Популистская партия;;;;;;;;;;;;;x
+ERI_fascist;Фашистская партия;;;;;;;;;;;;;x
+PTK_communist;Коммунистическая партия;;;;;;;;;;;;;x
+PTK_nationalist;Фракция националистов;;;;;;;;;;;;;x
+PTK_liberal;Либеральная партия;;;;;;;;;;;;;x
+PTK_conservative;Консервативная партия;;;;;;;;;;;;;x
+PTK_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+PTK_socialist;Социалистическая партия;;;;;;;;;;;;;x
+PTK_reactionary;Популистская партия;;;;;;;;;;;;;x
+PTK_fascist;Фашистская партия;;;;;;;;;;;;;x
+KTA_communist;Коммунистическая партия;;;;;;;;;;;;;x
+KTA_nationalist;Фракция националистов;;;;;;;;;;;;;x
+KTA_liberal;Либеральная партия;;;;;;;;;;;;;x
+KTA_conservative;Консервативная партия;;;;;;;;;;;;;x
+KTA_anarcho_liberal;Радикалистская партия;;;;;;;;;;;;;x
+KTA_socialist;Социалистическая партия;;;;;;;;;;;;;x
+KTA_reactionary;Популистская партия;;;;;;;;;;;;;x
+KTA_fascist;Фашистская партия;;;;;;;;;;;;;x
+NKA_anarcho_liberal;Радикалы;;;;;;;;;x;;;;
+NKA_communist;Трудовая партия Кореи;;;;;;;;;x;;;;
+NKA_conservative;Тонг Хак;;;;;;;;;x;;;;
+NKA_conservative_2;Роялист;;;;;;;;;x;;;;
+NKA_fascist;фашистский;Fasciste;;;;;;;;;x;;;
+NKA_liberal;Тэвонгун;;;;;;;;;x;;;;
+NKA_liberal_2;Либеральная корейская партия;;;;;;;;;x;;;;
+NKA_liberal_3;либералы;;;;;;;;;x;;;;
+NKA_reactionary;Консерваторы;;;;;;;;;x;;;;
+NKA_socialist;Социалистический;;;;;;;;;x;;;;
+SKA_anarcho_liberal;Радикалы;;;;;;;;;x;;;;
+SKA_communist;Коммунистическая партия Кореи;;;;;;;;;x;;;;
+SKA_conservative;Тонг Хак;;;;;;;;;x;;;;
+SKA_conservative_2;Роялист;;;;;;;;;x;;;;
+SKA_fascist;фашистский;Fasciste;;;;;;;;;x;;;
+SKA_liberal;Тэвонгун;;;;;;;;;x;;;;
+SKA_liberal_2;Проамериканский;;;;;;;;;x;;;;
+SKA_liberal_3;либералы;;;;;;;;;x;;;;
+SKA_reactionary;Консерваторы;;;;;;;;;x;;;;
+SKA_socialist;Социалистический;;;;;;;;;x;;;;
+IDO_anarcho_liberal;Партия Радикала Индонезия;;;;;;;;;x;;;;
+IDO_communist;Партия Коммунис Индонезия;;;;;;;;;x;;;;
+IDO_conservative;Партия демократов;;;;;;;;;x;;;;
+IDO_conservative_2;Партай Голкар;;;;;;;;;x;;;;
+IDO_fascist;Партай Фасис Индонезия;;;;;;;;;x;;;;
+IDO_liberal;Индонезийская демократическая партия борьбы;;;;;;;;;x;;;;
+IDO_liberal_2;Партай Серикат Индонезия;;;;;;;;;x;;;;
+IDO_liberal_3;Партай Насдем;;;;;;;;;x;;;;
+IDO_reactionary;Партай Гериндра;;;;;;;;;x;;;;
+IDO_socialist;Партия Социализма Индонезии;;;;;;;;;x;;;;
+NCN_anarcho_liberal;республиканцы;;;;;;;;;x;;;;
+NCN_communist;Коммунистическая партия Китая;;;;;;;;;x;;;;
+NCN_conservative;Гоминьдан;;;;;;;;;x;;;;
+NCN_conservative_2;Чжицян;;;;;;;;;x;;;;
+NCN_conservative_3;Бэйян;;;;;;;;;x;;;;
+NCN_conservative_4;Гоминьдан Чан;;;;;;;;;x;;;;
+NCN_fascist;Фашисты;;;;;;;;;x;;;;
+NCN_liberal;Реформаторская партия Китая;;;;;;;;;x;;;;
+NCN_liberal_2;Гоминьдановское солнце;;;;;;;;;x;;;;
+NCN_liberal_3;Фэн Юйсян;;;;;;;;;x;;;;
+NCN_reactionary;Гоминьдановский реакционер;;;;;;;;;x;;;;
+NCN_reactionary_2;Юань Ши Кай;;;;;;;;;x;;;;
+NCN_socialist;Социалисты;;;;;;;;;x;;;;
+ARP_anarcho_liberal;Союз вольных общин арапахо;Free Communities of the Arapaho;Partido Federalista;;;Partido Federalista;;;;;;;;x
+ARP_communist;Община общей земли арапахо;Common Land Community of the Arapaho;Partido Communist;;;Partido Comunista;;;;;;;;x
+ARP_conservative;Совет старейшин арапахо;Council of Elders of the Arapaho;Partido Conservador;;;Partido Conservador;;;;;;;;x
+ARP_fascist;Движение единства арапахо;Unity Movement of the Arapaho;Partido Fascist;;;Partido Fascista;;;;;;;;x
+ARP_liberal;Торговая лига арапахо;Trade League of the Arapaho;Partido Liberal;;;Partido Liberal;;;;;;;;x
+ARP_reactionary;Хранители традиций арапахо;Keepers of Arapaho Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+ARP_socialist;Союз общинных мастеров арапахо;Guild of Community Crafts of the Arapaho;Partido Socialist;;;Partido Socialista;;;;;;;;x
+SQH_anarcho_liberal;Союз вольных общин саскуэханноков;Free Communities of the Susquehannock;Partido Federalista;;;Partido Federalista;;;;;;;;x
+SQH_communist;Община общей земли саскуэханноков;Common Land Community of the Susquehannock;Partido Communist;;;Partido Comunista;;;;;;;;x
+SQH_conservative;Совет старейшин саскуэханноков;Council of Elders of the Susquehannock;Partido Conservador;;;Partido Conservador;;;;;;;;x
+SQH_fascist;Движение единства саскуэханноков;Unity Movement of the Susquehannock;Partido Fascist;;;Partido Fascista;;;;;;;;x
+SQH_liberal;Торговая лига саскуэханноков;Trade League of the Susquehannock;Partido Liberal;;;Partido Liberal;;;;;;;;x
+SQH_reactionary;Хранители традиций саскуэханноков;Keepers of Susquehannock Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+SQH_socialist;Союз общинных мастеров саскуэханноков;Guild of Community Crafts of the Susquehannock;Partido Socialist;;;Partido Socialista;;;;;;;;x
+SIX_anarcho_liberal;Союз вольных общин сиу;Free Communities of the Sioux;Partido Federalista;;;Partido Federalista;;;;;;;;x
+SIX_communist;Община общей земли сиу;Common Land Community of the Sioux;Partido Communist;;;Partido Comunista;;;;;;;;x
+SIX_conservative;Совет старейшин сиу;Council of Elders of the Sioux;Partido Conservador;;;Partido Conservador;;;;;;;;x
+SIX_fascist;Движение единства сиу;Unity Movement of the Sioux;Partido Fascist;;;Partido Fascista;;;;;;;;x
+SIX_liberal;Торговая лига сиу;Trade League of the Sioux;Partido Liberal;;;Partido Liberal;;;;;;;;x
+SIX_reactionary;Хранители традиций сиу;Keepers of Sioux Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+ARP_socialist;Союз общинных мастеров арапахо;Guild of Community Crafts of the Arapaho;Partido Socialist;;;Partido Socialista;;;;;;;;x
+CYN_anarcho_liberal;Союз вольных общин шайеннов;Free Communities of the Cheyenne;Partido Federalista;;;Partido Federalista;;;;;;;;x
+CYN_communist;Община общей земли шайеннов;Common Land Community of the Cheyenne;Partido Communist;;;Partido Comunista;;;;;;;;x
+CYN_conservative;Совет старейшин шайеннов;Council of Elders of the Cheyenne;Partido Conservador;;;Partido Conservador;;;;;;;;x
+CYN_fascist;Движение единства шайеннов;Unity Movement of the Cheyenne;Partido Fascist;;;Partido Fascista;;;;;;;;x
+CYN_liberal;Торговая лига шайеннов;Trade League of the Cheyenne;Partido Liberal;;;Partido Liberal;;;;;;;;x
+CYN_reactionary;Хранители традиций шайеннов;Keepers of Cheyenne Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+CYN_socialist;Союз общинных мастеров шайеннов;Guild of Community Crafts of the Cheyenne;Partido Socialist;;;Partido Socialista;;;;;;;;x
+CNK_anarcho_liberal;Союз вольных общин чинуков;Free Communities of the Chinook;Partido Federalista;;;Partido Federalista;;;;;;;;x
+CNK_communist;Община общей земли чинуков;Common Land Community of the Chinook;Partido Communist;;;Partido Comunista;;;;;;;;x
+CNK_conservative;Совет старейшин чинуков;Council of Elders of the Chinook;Partido Conservador;;;Partido Conservador;;;;;;;;x
+CNK_fascist;Движение единства чинуков;Unity Movement of the Chinook;Partido Fascist;;;Partido Fascista;;;;;;;;x
+CNK_liberal;Торговая лига чинуков;Trade League of the Chinook;Partido Liberal;;;Partido Liberal;;;;;;;;x
+CNK_reactionary;Хранители традиций чинуков;Keepers of Chinook Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+CNK_socialist;Союз общинных мастеров чинуков;Guild of Community Crafts of the Chinook;Partido Socialist;;;Partido Socialista;;;;;;;;x
+CMS_anarcho_liberal;Союз вольных общин чумашей;Free Communities of the Chumash;Partido Federalista;;;Partido Federalista;;;;;;;;x
+CMS_communist;Община общей земли чумашей;Common Land Community of the Chumash;Partido Communist;;;Partido Comunista;;;;;;;;x
+CMS_conservative;Совет старейшин чумашей;Council of Elders of the Chumash;Partido Conservador;;;Partido Conservador;;;;;;;;x
+CMS_fascist;Движение единства чумашей;Unity Movement of the Chumash;Partido Fascist;;;Partido Fascista;;;;;;;;x
+CMS_liberal;Торговая лига чумашей;Trade League of the Chumash;Partido Liberal;;;Partido Liberal;;;;;;;;x
+CMS_reactionary;Хранители традиций чумашей;Keepers of Chumash Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+CMS_socialist;Союз общинных мастеров чумашей;Guild of Community Crafts of the Chumash;Partido Socialist;;;Partido Socialista;;;;;;;;x
+ALT_anarcho_liberal;Союз вольных общин алеутов;Free Communities of the Aleut;Partido Federalista;;;Partido Federalista;;;;;;;;x
+ALT_communist;Община общей земли алеутов;Common Land Community of the Aleut;Partido Communist;;;Partido Comunista;;;;;;;;x
+ALT_conservative;Совет старейшин алеутов;Council of Elders of the Aleut;Partido Conservador;;;Partido Conservador;;;;;;;;x
+ALT_fascist;Движение единства алеутов;Unity Movement of the Aleut;Partido Fascist;;;Partido Fascista;;;;;;;;x
+ALT_liberal;Торговая лига алеутов;Trade League of the Aleut;Partido Liberal;;;Partido Liberal;;;;;;;;x
+ALT_reactionary;Хранители традиций алеутов;Keepers of Aleut Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+ALT_socialist;Союз общинных мастеров алеутов;Guild of Community Crafts of the Aleut;Partido Socialist;;;Partido Socialista;;;;;;;;x
+MCM_anarcho_liberal;Союз вольных общин микмаков;Free Communities of the Mi'kmaq;Partido Federalista;;;Partido Federalista;;;;;;;;x
+MCM_communist;Община общей земли микмаков;Common Land Community of the Mi'kmaq;Partido Communist;;;Partido Comunista;;;;;;;;x
+MCM_conservative;Совет старейшин микмаков;Council of Elders of the Mi'kmaq;Partido Conservador;;;Partido Conservador;;;;;;;;x
+MCM_fascist;Движение единства микмаков;Unity Movement of the Mi'kmaq;Partido Fascist;;;Partido Fascista;;;;;;;;x
+MCM_liberal;Торговая лига микмаков;Trade League of the Mi'kmaq;Partido Liberal;;;Partido Liberal;;;;;;;;x
+MCM_reactionary;Хранители традиций микмаков;Keepers of Mi'kmaq Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+MCM_socialist;Союз общинных мастеров микмаков;Guild of Community Crafts of the Mi'kmaq;Partido Socialist;;;Partido Socialista;;;;;;;;x
+LEN_anarcho_liberal;Союз вольных общин ленапе;Free Communities of the Lenape;Partido Federalista;;;Partido Federalista;;;;;;;;x
+LEN_communist;Община общей земли ленапе;Common Land Community of the Lenape;Partido Communist;;;Partido Comunista;;;;;;;;x
+LEN_conservative;Совет старейшин ленапе;Council of Elders of the Lenape;Partido Conservador;;;Partido Conservador;;;;;;;;x
+LEN_fascist;Движение единства ленапе;Unity Movement of the Lenape;Partido Fascist;;;Partido Fascista;;;;;;;;x
+LEN_liberal;Торговая лига ленапе;Trade League of the Lenape;Partido Liberal;;;Partido Liberal;;;;;;;;x
+LEN_reactionary;Хранители традиций ленапе;Keepers of Lenape Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+LEN_socialist;Союз общинных мастеров ленапе;Guild of Community Crafts of the Lenape;Partido Socialist;;;Partido Socialista;;;;;;;;x
+QUI_anarcho_liberal;Союз вольных общин квиннипиаков;Free Communities of the Quinnipiac;Partido Federalista;;;Partido Federalista;;;;;;;;x
+QUI_communist;Община общей земли квиннипиаков;Common Land Community of the Quinnipiac;Partido Communist;;;Partido Comunista;;;;;;;;x
+QUI_conservative;Совет старейшин квиннипиаков;Council of Elders of the Quinnipiac;Partido Conservador;;;Partido Conservador;;;;;;;;x
+QUI_fascist;Движение единства квиннипиаков;Unity Movement of the Quinnipiac;Partido Fascist;;;Partido Fascista;;;;;;;;x
+QUI_liberal;Торговая лига квиннипиаков;Trade League of the Quinnipiac;Partido Liberal;;;Partido Liberal;;;;;;;;x
+QUI_reactionary;Хранители традиций квиннипиаков;Keepers of Quinnipiac Traditions;Partido Imperialista;;;Partido Imperialista;;;;;;;;x
+QUI_socialist;Союз общинных мастеров квиннипиаков;Guild of Community Crafts of the Quinnipiac;Partido Socialist;;;Partido Socialista;;;;;;;;x
+KKK_anarcho_liberal;Фракция радикальных реднеков;;;;;;;;;x;;;;
+KKK_communist;Фракция Красных Реднеков;;;;;;;;;x;;;;
+KKK_conservative;Фракция Синих Реднеков;;;;;;;;;x;;;;
+KKK_conservative_2;Фракция красно-бело-синих реднеков;;;;;;;;;x;;;;
+KKK_fascist;Фракция коричневых реднеков;;;;;;;;;x;;;;
+KKK_liberal_3;Фракция Желтых Реднеков;;;;;;;;;x;;;;
+KKK_reactionary;Фракция черных реднеков;;;;;;;;;x;;;;
+KKK_socialist;Фракция «Танки Реднеки»;;;;;;;;;x;;;;
+WLS_communist;Коммунистическая партия;;;;;;x;;;;;;;
+WLS_conservative;Консервативная партия;;;;;;x;;;;;;;
+WLS_fascist;Фашистская партия;;;;;;x;;;;;;;
+WLS_liberal;Либеральная партия;;;;;;x;;;;;;;
+WLS_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+WLS_socialist;Лейбористская партия;;;;;;x;;;;;;;
+WLS_reactionary;Консервативная партия;;;;;;x;;;;;;;
+BSQ_communist;Коммунистическая партия;;;;;;x;;;;;;;
+BSQ_conservative;Консервативная партия;;;;;;x;;;;;;;
+BSQ_fascist;Фашистская партия;;;;;;x;;;;;;;
+BSQ_liberal;Либеральная партия;;;;;;x;;;;;;;
+BSQ_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+BSQ_socialist;Лейбористская партия;;;;;;x;;;;;;;
+BSQ_reactionary;Реакционная партия;;;;;;x;;;;;;;
+LSK_communist;Община общей земли инуитов Аляски;Common Land Community of the Alaskan Inuit;;;;;x;;;;;;;
+LSK_conservative;Совет старейшин инуитов Аляски;Council of Elders of the Alaskan Inuit;;;;;x;;;;;;;
+LSK_fascist;Движение единства инуитов Аляски;Unity Movement of the Alaskan Inuit;;;;;x;;;;;;;
+LSK_liberal;Торговая лига инуитов Аляски;Trade League of the Alaskan Inuit;;;;;x;;;;;;;
+LSK_liberal_2;Торговая лига инуитов Аляски II;Trade League of the Alaskan Inuit II;;;;;x;;;;;;;
+LSK_socialist;Союз общинных мастеров инуитов Аляски;Guild of Community Crafts of the Alaskan Inuit;;;;;x;;;;;;;
+LSK_reactionary;Хранители традиций инуитов Аляски;Keepers of Alaskan Inuit Traditions;;;;;x;;;;;;;
+SCL_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;La facciAіn radical;;;;;;;;;x
+SCL_communist;Коммунистическая фракция;Faction communiste;Die kommunistische Fraktion;;La facciAіn comunista;;;;;;;;;x
+SCL_conservative;Королевская фракция;Faction royale;KA¶nigsfraktion;;FacciAіn real;;;;;;;;;x
+SCL_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;La facciAіn fascista;;;;;;;;;x
+SCL_liberal;Либеральная фракция;Faction libA©rale;Die liberale Fraktion;;La facciAіn liberal;;;;;;;;;x
+SCL_reactionary;Националистическая фракция;Faction nationaliste;Die nationalistische Fraktion;;La facciAіn nacionalista;;;;;;;;;x
+SCL_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;La facciAіn socialista;;;;;;;;;x
+COR_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;La facciAіn radical;;;;;;;;;x
+COR_communist;Коммунистическая фракция;Faction communiste;Die kommunistische Fraktion;;La facciAіn comunista;;;;;;;;;x
+COR_conservative;Королевская фракция;Faction royale;KA¶nigsfraktion;;FacciAіn real;;;;;;;;;x
+COR_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;La facciAіn fascista;;;;;;;;;x
+COR_liberal;Либеральная фракция;Faction libA©rale;Die liberale Fraktion;;La facciAіn liberal;;;;;;;;;x
+COR_reactionary;Националистическая фракция;Faction nationaliste;Die nationalistische Fraktion;;La facciAіn nacionalista;;;;;;;;;x
+COR_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;La facciAіn socialista;;;;;;;;;x
+TNT_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;La facciAіn radical;;;;;;;;;x
+TNT_communist;Коммунистическая фракция;Faction communiste;Die kommunistische Fraktion;;La facciAіn comunista;;;;;;;;;x
+TNT_conservative;Королевская фракция;Faction royale;KA¶nigsfraktion;;FacciAіn real;;;;;;;;;x
+TNT_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;La facciAіn fascista;;;;;;;;;x
+TNT_liberal;Либеральная фракция;Faction libA©rale;Die liberale Fraktion;;La facciAіn liberal;;;;;;;;;x
+TNT_reactionary;Националистическая фракция;Faction nationaliste;Die nationalistische Fraktion;;La facciAіn nacionalista;;;;;;;;;x
+TNT_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;La facciAіn socialista;;;;;;;;;x
+BGL_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;La facciAіn radical;;;;;;;;;x
+BGL_communist;Коммунистическая фракция;Faction communiste;Die kommunistische Fraktion;;La facciAіn comunista;;;;;;;;;x
+BGL_conservative;Королевская фракция;Faction royale;KA¶nigsfraktion;;FacciAіn real;;;;;;;;;x
+BGL_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;La facciAіn fascista;;;;;;;;;x
+BGL_liberal;Либеральная фракция;Faction libA©rale;Die liberale Fraktion;;La facciAіn liberal;;;;;;;;;x
+BGL_reactionary;Националистическая фракция;Faction nationaliste;Die nationalistische Fraktion;;La facciAіn nacionalista;;;;;;;;;x
+BGL_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;La facciAіn socialista;;;;;;;;;x
+ERI_communist;Коммунистическая партия;;;;;;x;;;;;;;
+ERI_conservative;Консервативная партия;;;;;;x;;;;;;;
+ERI_fascist;Фашистская партия;;;;;;x;;;;;;;
+ERI_liberal;Либеральная партия;;;;;;x;;;;;;;
+ERI_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+ERI_socialist;Лейбористская партия;;;;;;x;;;;;;;
+ERI_reactionary;Реакционная партия;;;;;;x;;;;;;;
+GWD_communist;Фракция коммунистов;;;;;;x;;;;;;;
+GWD_conservative;Консервативная фракция;;;;;;x;;;;;;;
+GWD_fascist;Фашистская фракция;;;;;;x;;;;;;;
+GWD_liberal;Либеральная фракция;;;;;;x;;;;;;;
+GWD_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+GWD_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+GWD_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+MDR_communist;Фракция коммунистов;;;;;;x;;;;;;;
+MDR_conservative;Консервативная фракцияФракция;;;;;;x;;;;;;;
+MDR_fascist;Фашистская фракция;;;;;;x;;;;;;;
+MDR_liberal;Либеральная фракция;;;;;;x;;;;;;;
+MDR_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+MDR_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+MDR_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+BNJ_communist;Фракция коммунистов;;;;;;x;;;;;;;
+BNJ_conservative;Консервативная фракция;;;;;;x;;;;;;;
+BNJ_fascist;Фашистская фракция;;;;;;x;;;;;;;
+BNJ_liberal;Либеральная фракция;;;;;;x;;;;;;;
+BNJ_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+BNJ_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+BNJ_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+SLW_communist;Фракция коммунистов;;;;;;x;;;;;;;
+SLW_conservative;Консервативная фракция;;;;;;x;;;;;;;
+SLW_fascist;Фашистская фракция;;;;;;x;;;;;;;
+SLW_liberal;Либеральная фракция;;;;;;x;;;;;;;
+SLW_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+SLW_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+SLW_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+MLK_communist;Фракция коммунистов;;;;;;x;;;;;;;
+MLK_conservative;Консервативная фракция;;;;;;x;;;;;;;
+MLK_fascist;Фашистская фракция;;;;;;x;;;;;;;
+MLK_liberal;Либеральная фракция;;;;;;x;;;;;;;
+MLK_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+MLK_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+MLK_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+BNT_communist;Фракция коммунистов;;;;;;x;;;;;;;
+BNT_conservative;Консервативная фракция;;;;;;x;;;;;;;
+BNT_fascist;Фашистская фракция;;;;;;x;;;;;;;
+BNT_liberal;Либеральная фракция;;;;;;x;;;;;;;
+BNT_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+BNT_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+BNT_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+MTR_communist;Фракция коммунистов;;;;;;x;;;;;;;
+MTR_conservative;Консервативная фракция;;;;;;x;;;;;;;
+MTR_fascist;Фашистская фракция;;;;;;x;;;;;;;
+MTR_liberal;Либеральная фракция;;;;;;x;;;;;;;
+MTR_liberal_2;Либеральная фракция;;;;;;x;;;;;;;
+MTR_socialist;Лейбористская фракция;;;;;;x;;;;;;;
+MTR_reactionary;Реакционная фракция;;;;;;x;;;;;;;
+KYR_communist;Коммунистическая партия;;;;;;x;;;;;;;
+KYR_conservative;Консервативная партия;;;;;;x;;;;;;;
+KYR_fascist;Фашистская партия;;;;;;x;;;;;;;
+KYR_liberal;Либеральная партия;;;;;;x;;;;;;;
+KYR_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+KYR_socialist;Лейбористская партия;;;;;;x;;;;;;;
+KYR_reactionary;Реакционная партия;;;;;;x;;;;;;;
+UZB_communist;Коммунистическая партия;;;;;;x;;;;;;;
+UZB_conservative;Консервативная партия;;;;;;x;;;;;;;
+UZB_fascist;Фашистская партия;;;;;;x;;;;;;;
+UZB_liberal;Либеральная партия;;;;;;x;;;;;;;
+UZB_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+UZB_socialist;Лейбористская партия;;;;;;x;;;;;;;
+UZB_reactionary;Реакционная партия;;;;;;x;;;;;;;
+TAJ_communist;Коммунистическая партия;;;;;;x;;;;;;;
+TAJ_conservative;Консервативная партия;;;;;;x;;;;;;;
+TAJ_fascist;Фашистская партия;;;;;;x;;;;;;;
+TAJ_liberal;Либеральная партия;;;;;;x;;;;;;;
+TAJ_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+TAJ_socialist;Лейбористская партия;;;;;;x;;;;;;;
+TAJ_reactionary;Реакционная партия;;;;;;x;;;;;;;
+TRM_communist;Коммунистическая партия;;;;;;x;;;;;;;
+TRM_conservative;Консервативная партия;;;;;;x;;;;;;;
+TRM_fascist;Фашистская партия;;;;;;x;;;;;;;
+TRM_liberal;Либеральная партия;;;;;;x;;;;;;;
+TRM_liberal_2;Либеральная партия;;;;;;x;;;;;;;
+TRM_socialist;Лейбористская партия;;;;;;x;;;;;;;
+TRM_reactionary;Реакционная партия;;;;;;x;;;;;;;
+KAZ_communist;коммунист;;;;;;x;;;;;;;
+KAZ_conservative;Консерваторы;;;;;;x;;;;;;;
+KAZ_fascist;Фашисты;;;;;;x;;;;;;;
+KAZ_liberal;либералы;;;;;;x;;;;;;;
+KAZ_liberal_2;Либералы Радикалы;;;;;;x;;;;;;;
+KAZ_socialist;Труды;;;;;;x;;;;;;;
+KAZ_reactionary;Реакционеры;;;;;;x;;;;;;;

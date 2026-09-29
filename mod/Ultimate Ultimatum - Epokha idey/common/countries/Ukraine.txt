@@ -1,0 +1,400 @@
+color = { 212 179 47 }
+graphical_culture = Generic
+
+party = {
+	name = "UKR_conservative"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "UKR_liberal"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "UKR_reactionary"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "UKR_anarcho_liberal"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UKR_socialist"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "UKR_communist"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UKR_fascist"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Ostap Dashkevych" Kozaky "Stenka Razin" "Kondraty Bulavin" "Yemelyan Pugachev"
+	}
+	ironclad = {
+		Donets Sevastopol Kyiv Odessa Kharkiv 
+	}
+	manowar = {
+		Krym Zaporiz'ka Khersonshchyna Mykolaiv Dnipropetrovsk
+	}
+	cruiser = {
+		Kyi Schek Khoryv Bravlin Oleg  
+	}
+	frigate = {
+		Dniester Dnipro Desna Prypiat Prut 
+	}
+	monitor = {
+		Sofyivsky "Pechers’ka lavra" "Kam’ianets’-Podil’s’kyi" Khotyn Khortyts'a
+	}
+	clipper_transport = { 
+		
+
+	}
+	steam_transport = { 
+		
+
+	}
+	commerce_raider = {
+		Oksana Oleksandra Yulia Nadiya Mariya 
+	}
+}
+party = {
+	name = "UKR_nationalism"
+	start_date = 1820.1.1
+	end_date = 99999.1.1
+
+	ideology = nationalism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "UKR_agrarianism"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = agrarianism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_conservative_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_conservative_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "UKR_liberal_2"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "UKR_liberal_3"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_socialist_2"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "UKR_socialist_3"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = "UKR_communist_2"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_communist_3"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = "UKR_fascist_2"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "UKR_fascist_3"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_anarcho_liberal_2"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "UKR_anarcho_liberal_3"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = "UKR_reactionary_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = "UKR_reactionary_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_UKR_syndicalism"
+	start_date = 1890.1.1
+	end_date = 9999.1.1
+	ideology = syndicalism
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_UKR_militarism"
+	start_date = 1815.1.1
+	end_date = 9999.1.1
+	ideology = militarism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_UKR_ecologism"
+	start_date = 1960.1.1
+	end_date = 9999.1.1
+	ideology = ecologism
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "UU1600_UKR_corporatism"
+	start_date = 1880.1.1
+	end_date = 9999.1.1
+	ideology = corporatism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_UKR_cyber_autonomism"
+	start_date = 2000.1.1
+	end_date = 9999.1.1
+	ideology = cyber_autonomism
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}

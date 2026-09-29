@@ -1,0 +1,14 @@
+owner = SWI
+controller = SWI
+add_core = REH
+add_core = SWI
+trade_goods = coal
+
+
+1707.6.16 = { add_core = PRU }
+1806.8.6 = { remove_core = REH }
+1857.1.1 = {
+owner = SWI
+controller = SWI
+remove_core = PRU
+}
