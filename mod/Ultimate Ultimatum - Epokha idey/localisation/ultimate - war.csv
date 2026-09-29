@@ -1,0 +1,347 @@
+acquire_all_cores;Приобрести все ядра;;;;;;;;;;;;;x,,,,,,,,;x
+acquire_all_cores_short;Получить все ядра от $RECIPIENT$;;;;;;;;;;;;;x,,,,,,,,;x
+acquire_all_cores_setup;Получить все основные провинции у $RECIPIENT$;;;;;;;;;;;;;x,,,,,,,,;x
+acquire_all_cores_desc;Захватить все вражеские §Yгосударства§W, где у нас есть §Yосновные провинции§W;;;;;;;;;;;;;x,,,,,,,,;x
+acquire_core_state;Приобрести ядро;Prendre territoire cle;Kernprovinzregion erobern;;Adquirir nucleo;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_core_state_desc;Приобретите вражеское §Yгосударство§W, где у нас есть §Yосновные провинции§W;Prendre un §YEtat§W ennemi ou nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;Adquirir un §Yestado§W enemigo donde tenemos §Yprovincias nucleo§W;;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;
+acquire_core_state_short;Приобретите $STATE$; Prendre le territoire cle de $STATE$;Kernprovinzregion $STATE$ erobern;;Adquirir $STATE$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_core_state_setup;Получить ядро $STATE$ от $RECIPIENT$;Prendre territoire cle $STATE$ a $RECIPIENT$;Kernprovinzregion $STATE$ von $RECIPIENT$ erobern.;;Adquirir el nucleo de $STATE$ de manos de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_state;Приобретение состояния;Prendre un etat;Region erobern;;Adquirir estado;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_state_desc;Приобретите вражеское §Yгосударство§W;Prendre un §YEtat§W ennemi;Erobern Sie einen feindlichen §YStaat§W.;;Adquirir un §Yestado§W enemigo;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+acquire_state_short;Приобретите $STATE$; Prendre l'Etat de $STATE$;$STATE$ erobern;;Adquirir $STATE$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_state_setup;Получить $STATE$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$;$STATE$ von $RECIPIENT$ erobern.;;Adquirir $STATE$ de manos de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+acquire_substate_region;Приобрести субгосударственный регион;Acquerir une region comme Sous-Etat;Beschafft eine Unterstaatsregion;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+acquire_substate_region_desc;Получить регион у вражеского §Yсубгосударства§W;Acquerir une region d'un §YSous-Etat§W ennemi;Beschafft eine Region des Feindes §Ysubstate§W;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+acquire_substate_region_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erobern;;Adquirir $STATE$;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+acquire_substate_region_setup;Получить $STATE$ от $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erobern.;;Adquirir $STATE$ de manos de $RECIPIENT$;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+add_to_sphere;Добавить в сферу;ajouter a la sphere;In Einflusssphare aufnehmen;;Anadir a esfera;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+add_to_sphere_desc;Добавьте страну в нашу §YСферу влияния§W;Ajouter un pays a notre §Ysphere d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;Anadir un pais a nuestra §Yesfera de influencia§W;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+add_to_sphere_short;Добавить $RECIPIENT$ в сферу влияния;ajouter $RECIPIENT$ a la sphere d'influence;$RECIPIENT$ in Einflusssphare aufnehmen;;Anadir a $RECIPIENT$ a la esfera de influencia;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+add_to_sphere_setup;Добавить $RECIPIENT$ в сферу влияния;ajouter $RECIPIENT$ a la sphere d'influence;$RECIPIENT$ in Einflusssphare aufnehmen;;Anadir a $RECIPIENT$ a la esfera de influencia;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+CB_ALLOWED_ADD_TO_SPHERE;Добавить в сферу;Ajouter a la sphere;Zu Sphare hinzufugen;;Anadir a la esfera;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_ANNEX;Разрешить аннексию;Autoriser l'annexion;Annektierung erlauben;;Permitir anexion;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_CONCESSION;Признать поражение;Conceder la defaite;Niederlage eingestehen;;Admitir derrota;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_DISARMAMENT;Принудительное разоружение;Desarmement force;Erzwungene Abrustung;;Desarme obligado;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+CB_ALLOWED_GUNBOAT;Принудительное погашение долга;Forcer le remboursement de la dette;Schuldentilgung erzwingen;;Forzar pago de deuda;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+CB_ALLOWED_INSTALL_DEMOCRATIC_GOV_TYPE;Обеспечить демократическое правительство;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+CB_ALLOWED_MAKE_PUPPET;Сделать куклу;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;;
+CB_ALLOWED_PRESTIGE;Снижение престижа;Diminution du prestige;Prestige-Reduzierung;;Reduccion de prestigio;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_RELEASE_PUPPET;Освобождение Марионетки;Liberation d'un Etat fantoche;Entlassung von Marionettenstaat;;Liberacion de titere;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_REPARATIONS;Военные репарации;Reparations de guerre;Kriegsreparationen;;Reparaciones de guerra;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+CB_ALLOWED_STATES;Отделение территории;Secession de territoire;Gebietsabspaltung;;Secesion de territorio;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+CB_ALLOWED_STATUS_QUO;Возврат к статус-кво;Retour au statu quo;Ruckkehr zum Status Quo;;Volver al 'Statu Quo'.;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_TRANSFER_PROVINCES;Передача провинций;Transfert des provinces;Ubertragung von Provinzen;;Transferencia de provincias;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+annex_core_country;Восстановить порядок;Retablir l'ordre;Stellen Sie die Ordnung wieder her;;Restablecer el orden;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+annex_core_country_short;Приложение $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+annex_core_country_setup;Приложение $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+annex_core_country_desc;Присоединить иностранную §Yстрану§W, все провинции которой являются вашими основными.;Annexez un §Ypays§W etranger dont toutes les provinces sont vos territoires cles.;Annektieren Sie alle Provinzen eines auslandischen §YLandes§W, die zu Ihren Kernprovinzen gehoren.;;Anexiona un §Ypais§W extranjero cuyas provincias son todas nucleos tuyos.;;;;;;;;;x;;,,,,,,,;;;;;;;;;;;;;
+CB_ASSERT_HEGEMONY;Утверждать гегемонию\n;Asseoir son hegemonie\n;Vorherrschaft behaupten\n;;Afirmar hegemonia\n;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+become_independent;Стань независимым;Devenir independant;Werdet unabhangig;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+become_independent_desc;Провозгласите независимость от своего сюзерена силой оружия.;;Erklart mit Waffengewalt Eure Unabhangigkeit von Eurem Herrscher;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+become_independent_setup;$ACTOR$ освобождается от $RECIPIENT$ и становится независимым.;$ACTOR$ est libere de $RECIPIENT$ et devient independant.;$ACTOR$ wird von $RECIPIENT$ befreit und wird unabhangig. ;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+become_independent_short;$ACTOR$ освобожден от $RECIPIENT$;$ACTOR$ est libere de $RECIPIENT$;$ACTOR$ wird von $RECIPIENT$ befreit;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+civil_war;Гражданская война;Guerre civile;Burgerkrieg;;Guerra Civil;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+civil_war_desc;Ваша страна находится в состоянии гражданской войны.;Votre nation est en guerre civile;Ihre Nation befindet sich in einem Burgerkrieg.;;Tu nacion esta en estado de guerra civil;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+civil_war_short;Объединить нацию;Unifier la nation;Einen Sie die Nation!;;Unir la nacion;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Гражданская война;$ORDER$ guerre civile $FIRST$;$ORDER$$FIRST$er Burgerkrieg;;$ORDER$ Guerra Civil $FIRST$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Гражданская война;$ORDER$ guerre civile $FIRST$;$ORDER$$FIRST$er Burgerkrieg;;$ORDER$ Guerra Civil $FIRST$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$Война Северной Агрессии;$ORDER$ guerre d’agression nordiste;$ORDER$Krieg des Nordlichen Angriffs;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$Война повстанцев;$ORDER$ guerre de rebellion;$ORDER$Rebellionskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+civil_war_setup;Положим конец войне, вновь объединив нашу нацию под общим знаменем.;Mettez fin a la guerre en reunifiant notre nation sous une meme banniere.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;Poner fin a la guerra reunificando de nuevo nuestra nacion bajo un estandarte comun.;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+CB_COLONY_CLAIMS;Обеспечить соблюдение колониальных требований;;Koloniale Anspruche druchsetzen;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;
+colonial_competition;Обеспечить соблюдение колониальных требований;;Koloniale Anspruche druchsetzen;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;
+colonial_competition_desc;Приобретите §Yколониальный регион§!;;Erhalte §YKoloniale Region§!;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;
+colonial_competition_short;Приобретение колонии $REGION$;;Erhalte die Kolonie $REGION$;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;
+colonial_competition_setup;Приобретение колонии $REGION$;;Erhalte die Kolonie $REGION$;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;
+conquest;Завоевание;Conquete;Eroberung;;Conquista;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+conquest_desc;Присоединить к себе §Yстрану§W с одним государством или §Yнецивилизованную нацию§W;Annexer un §Ypays§W a un Etat ou une §Ynation non civilisee§W;Annektieren Sie ein Einzelstaat-§YLand§W oder eine §Yunzivilisierte Nation§W;;Anexionar un §Ypais§W o una §Ynacion sin civilizar§W de un solo estado;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+conquest_setup;Приложение $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexion de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+conquest_short;Приложение $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexion de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+crisis_free_peoples;Свободные люди;Liberer la population;Freies Volk;;Liberar pueblo;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+crisis_free_peoples_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+crisis_free_peoples_setup;Верните $STATE$ $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+cut_down_to_size;Сократить до нужного размера;Reduire;Weltgeltung reduzieren;;Reducir su tamano;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+cut_down_to_size_desc;Заставить другую §Yстрану§W разоружиться и выплатить нам репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;Obligar a otro §Ypais§W a desarmarse y que nos indemnice;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+cut_down_to_size_short;Сократить $RECIPIENT$ до размера;Reduire $RECIPIENT$;Weltgeltung von $RECIPIENT$ reduzieren;;Reducir el tamano de $RECIPIENT$ ;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+cut_down_to_size_setup;Сократить $RECIPIENT$ до размера;Reduire $RECIPIENT$;Reduzieren Sie die Weltgeltung von $RECIPIENT$.;;Reducir el tamano de $RECIPIENT$ ;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+cut_down_to_size_boxer;Подавить восстание боксеров;Mettre fin a la revolte des Boxers;Schlage den Boxeraufstand nieder;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+cut_down_to_size_boxer_desc;Заставить другую §Yстрану§W разоружиться и выплатить нам репарации;Forcrer un autre §Ypays§W a desarmer et a nous payer des reparations;Zwinge ein anderes §YLand§W, abzurusten und Reparationen an uns zu zahlen;;;;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;
+cut_down_to_size_boxer_setup;Заставить Китай заплатить за преступления мятежников-боксеров.;;Zwinge China, fur die Verbrechen der Boxer-Rebellen zu bussen.;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;;;
+cut_down_to_size_boxer_short;Заставить Китай заплатить за преступления Боксера.;;Zwinge China, fur die Verbrechen der Boxer zu bussen.;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;;;
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$ПЕРВАЯ$-$ВТОРАЯ$ Война;Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$er Krieg;Baza;Guerra $ORDER$$FIRST$-$SECOND$;Base:;Alap:;Zбkladna:;;;;;;x,,,,,,,,;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$Война $ПЕРВОЙ$ Агрессии;$ORDER$$FIRST$ guerre d'aggression;$ORDER$$FIRST$er Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$Guerra de $FIRST$ agresion;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ hбborъ;$ORDER$$FIRST$-$SECOND$ vбlka;;;;;;x,,,,,,,,;x
+demand_concession_casus_belli;Уступка спроса;Demande de concession;Zugestandnisse verlangen;;Exigir concesion;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+demand_concession_casus_belli_desc;Заставить §Юнецивилизованную страну§W отделиться от своей территории и образовать колониальную концессию.;Obligez un §Ypays non civilise§W a faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonie abzuspalten.;;Obliga a un §Ypais incivilizado§W a escindir territorio para formar una concesion colonial.;;;;;;;;;x;;,,,,,,,;;;;;;;;;;;;;
+demand_concession_casus_belli_setup;Потребуйте, чтобы $RECIPIENT$ отделился от территории и образовал колониальную концессию.;Demandez a ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonie abspaltet.;;Exigir que $RECIPIENT$ escinda territorio para formar una concesion colonial.;;;;;;;;;x;;,,,,,,,;;;;;;;;;;;;;
+demand_concession_casus_belli_short;Требование $STATE$;Demande $STATE$;Fordern Sie $STATE$;;Exigir $STATE$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+CB_DESTROY_FORTS;Уничтожить укрепления;;Zerstort Festungen;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+po_destroy_forts;Уничтожьте все укрепления в $STATE$.;;Zerstort alle Forts in $STATE$.;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+CB_DESTROY_NAVAL_BASES;Уничтожить военно-морские базы;;Zerstort Marinestutzpunkte;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+po_destroy_naval_bases;Уничтожить военно-морскую базу в $STATE$.;;Zersort den Marinestutzpunkt in $STATE$ .;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+po_disarmament;Запрещено набирать армии и терять §Y$PERCENTAGE$%§b своих сил в течение §Y$YEARS$§b лет.;N'a plus le droit de lever des armees et perd §Y$PERCENTAGE$%§b de ses forces pendant §Y$YEARS$§b ans;Verbot, Armeen auszuheben, und Verlust von §Y$PERCENTAGE$%§b ihrer Truppen fur §Y$YEARS$§b Jahre.;;Se le prohibe reclutar ejercitos y pierde el §Y$PERCENTAGE$%§b de sus fuerzas durante §Y$YEARS$§b anos.;;;;;;;;;x;;;;,,,,,,;;;;;;;;;;;
+po_disarmament2;Запрещено набирать армии и терять §Y$PERCENTAGE$%§W своих сил в течение §Y$YEARS$§W лет.;N'a plus le droit de lever des armees et perd §Y$PERCENTAGE$%§W de ses forces pendant §Y$YEARS$§W ans;Verbot des Aushebens von Armeen und Verlust von §Y$PERCENTAGE$%§W ihrer Truppen uber §Y$YEARS$§W Jahre.;;Prohibido el reclutamiento de ejercitos y perdida del §Y$PERCENTAGE$%§W de sus fuerzas durante §Y$YEARS$§W anos;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+dismantle_cb;Разрушить нацию;Grande Guerre;Gesamtkrieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,,,,;x
+dismantle_cb_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,,,,;x
+dismantle_cb_add_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add_new;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add_new_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,,,,;x
+dismantle_cb_add_new_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_cb_add_new_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+dismantle_forts_desc;Демонтируйте укрепления, военно-морские базы и аэропорты.;;Reisst Forts und Marinestutzpunkte ab.;;;;;;;;x;;;;,,,,,,,;;;;;;;;;;;;;;
+dismantle_forts;Демонтировать укрепления;;Reisst Forts ab;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+dismantle_forts_short;Демонтировать конструкции в $STATE$;;Reisst Bauten in $STATE$ ab;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+dismantle_forts_setup;Демонтировать форты, военно-морские базы и аэропорты в $STATE$;;Reisst Forts und Marinestutzpunkte in $STATE$ ab;;;;;;;;x;;;;,,,,,,,;;;;;;;;;;;;;;
+establish_protectorate_casus_belli;Установить протекторат;Etablir un protectorat;Protektorat grunden;;Establecer protectorado;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+establish_protectorate_casus_belli_desc;Аннексировать §Юнецивилизованную страну§W, заставив ее стать нашим протекторатом.;Annexez un §Ypays non civilise§W en l'obligeant a devenir l'un de nos protectorats.;Annektieren Sie ein §Yunzivilisiertes Land§W, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;Anexiona un §Ypais incivilizado§W, obligandolo a convertirse en protectorado nuestro.;;;;;;;;;x;;,,,,,;;;;;;;;;;;;;
+establish_protectorate_casus_belli_setup;Аннексировать $RECIPIENT$, установив над ним протекторат.;Annexez $RECIPIENT$ en etablissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Grundung eines Protektorats.;;Anexionar $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+establish_protectorate_casus_belli_short;Приложение $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+free_peoples;Свободные люди;Liberer la population;Freies Volk;;Liberar pueblo;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+free_peoples_desc;Освободить §Yстрану§W от ее угнетателей;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;Liberar a un §Ypais§W de sus opresores;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+free_peoples_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+free_peoples_setup;Верните $STATE$ $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+great_war_acquire_core;Приобрести ядро;Prendre territoire cle;Kernprovinz erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_acquire_core_desc;Приобретите вражеское §Yгосударство§W, где у нас есть §Yосновные провинции§W;Prendre un §YEtat§W ennemi ou nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;;;;;x,,,,,,,;x
+great_war_acquire_core_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_acquire_core_setup;Получить ядро $STATE$ от $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_liberate;Освободить;Peuple libre;Freies Volk;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_liberate_desc;Освободить §Yстрану§W от ее угнетателей;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;;;;;x,,,,,,,,;x
+great_war_liberate_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_liberate_setup;Верните $STATE$ $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_penalty_cb;Капитуляция в Великой войне;Capitulation dans une Grande Guerre;Grosskriegskapitulation;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+great_war_penalty_cb_desc;Заставить другую §Yстрану§! разоружиться и выплатить нам репарации.;Contraindre un autre §Ypays§! a desarmer et a nous payer des reparations.;Zwingt die andere §YNation§! zur Entwaffnung und der Zahlung von Kriegsreperationen an uns.;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+great_war_penalty_cb_setup;Разоружите $RECIPIENT$ и позвольте им заплатить за репарации.;Desarmer $RECIPIENT$ et le faire payer des reparations.;Entwaffnet $RECIPIENT$ and zwingt sie zur Zahlung von Kriegsreperationen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+great_war_penalty_cb_short;Капитуляция в Великой войне;Capitulation dans une Grande Guerre;Grosskriegskapitulation;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+great_war_place_in_the_sun;Место на солнце;Une place au soleil;Ein Platz an der Sonne;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_place_in_the_sun_desc;Приобретение вражеского §Yколониального государства§W;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;;;;;x,,,,,,,,;x
+great_war_place_in_the_sun_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_place_in_the_sun_setup;Приобрести колонию $STATE$ у $RECIPIENT$;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_release_puppet;Выпустить марионетку;Liberer un Etat fantoche;Marionettenstaat entlassen;;;;;;;;;;;x,,,,,,,,;x
+great_war_release_puppet_short;$THIRD$ выпущен;$THIRD$ est libere;$THIRD$ wurde entlassen;;;;;;;;;;;x,,,,,,,,;x
+great_war_release_puppet_setup;Освободите $THIRD$ от $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;;;;;x,,,,,,,,;x
+great_war_release_puppet_desc;Освободить §Yстрану§W от ее суверенного государства;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;;;;;x,,,,,,,,;x
+great_war_take_from_sphere;Взять из сферы влияния;Prendre a la sphere d'influence;Aus Einflusssphare entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_take_from_sphere_desc;Удалить страну из чьей-либо §YСферы влияния§W и добавить ее в свою собственную;Supprimer un pays de la §Ysphere d'influence§W de quelqu'un et l'ajouter a la notre;Entfernen Sie ein Land aus einer anderen §YEinflusssphare§W und fugen Sie es Ihrer eigenen hinzu.;;;;;;;;;;;x,,,,,,,,;x
+great_war_take_from_sphere_short;Возьмите $THIRD$ из сферы влияния;Prendre $THIRD$ a la sphere d'influence;$THIRD$ aus Einflusssphare entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+great_war_take_from_sphere_setup;Возьмите $THIRD$ из сферы влияния $RECIPIENT$;Prendre $THIRD$ a la sphere d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+gunboat;Погасить долги;Rembourser les dettes;Schulden tilgen;;Pagar deudas;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+gunboat_desc;Заставить их возобновить выплату нам своих долгов.;Les forcer a reprendre le remboursement des dettes contractees envers nous.;Sie zwingen, ihre Schuldenruckzahlungen weiterzufuhren.;;Obligarlos a reanudar el pago de sus deudas con nosotros.;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;
+gunboat_setup;Заставим их выплатить нам свои долги.;Nous les forceront a honorer les dettes contractees envers nous.;Werden sie zwingen, uns ihre Schulden zuruckzuzahlen.;;Los obligara a hacer frente a sus deudas con nosotros.;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;
+gunboat_short;Погасить долги;Rembourser les dettes;Schulden tilgen;;Pagar deudas;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+po_gunboat;Погасить долги.;Rembourser les dettes;Schulden tilgen.;;Pagar deudas.;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;
+humiliate;Унизить;Humilier;Erniedrigen;;Humillar;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+humiliate_desc;Покажите нашу военную мощь, унизив вражескую §Yстрану§W, тем самым повысив свой §Yпрестиж§W и понизив их;Afficher notre puissance militaire en humiliant un §Ypays§W ennemi et en augmentant notre §Yprestige§W tout en reduisant le leur;Zeigen Sie unsere Militarmacht durch Erniedrigung eines feindlichen §YLandes§W, wodurch Sie unser §YPrestige§W steigern und ihres verringern.;;Demostrar nuestro poder militar humillando a un §Ypais§W enemigo, para aumentar nuestro §Yprestigio§W y reducir el suyo;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;
+humiliate_short;Унизить $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;Humillar a $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+humiliate_setup;Унизить $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;Humillar a $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_communist_gov_cb;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+install_communist_gov_cb_desc;Установить коммунистическое правительство.;Installer le gouvernement communiste.;Setzt die kommunistische Regierung ein.;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+install_communist_gov_cb_setup;Установить коммунистическое правительство. Если это будет достигнуто, страна автоматически будет добавлена в нашу сферу.;Installer le gouvernement communiste. En cas de reussite, le pays sera automatiquement ajoute a notre sphere d'influence.;Setzt die kommunistische Regierung ein. Sobald dies erreicht wurde, wird das Land automatisch unserer Sphare zugefugt. ;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;
+install_communist_gov_cb_short;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+po_install_communist_gov_type;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;;
+install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_democratic_gov_cb;Укрепляйте демократию;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+install_democratic_gov_cb_desc;Насильно отстранить правительство и заменить его демократией.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+install_democratic_gov_cb_setup;Установить демократическое правительство. Если это будет достигнуто, страна будет автоматически добавлена в нашу сферу;;;;;;x,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+install_democratic_gov_cb_short;Укрепляйте демократию;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+lebensraum_cb;Жизненное пространство;;;;;;x,,,,,,,,;x
+lebensraum_cb_desc;Полностью аннексировать страну, чтобы увеличить жизненное пространство нашего населения;;;;;;x,,,,,,,,;x
+lebensraum_cb_setup;Аннексировать целую нацию. Если это будет достигнуто, жизненное пространство нашего населения значительно увеличится;;;;;;x,,,,,,,;x
+lebensraum_cb_short;Жизненное пространство;;;;;;x,,,,,,,,;x
+liberate_country_desc;Освободить §Всю страну§W от ее угнетателей;;Befreit ein §Yganzes Land§W von seinen Unterdruckern;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+liberate_country;Освободить страну;;Befreit das Land;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;;;;
+liberate_country_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+liberate_country_setup;Возврат $STATE$ в $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+make_puppet;Сделать куклу;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+make_puppet_desc;Стань марионеткой;Devenir un satellite;Werdet eine Marionette;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+make_puppet_setup;$RECIPIENT$ становится марионеткой $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+make_puppet_short;$RECIPIENT$ становится марионеткой $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+mars_colony_dispute;Спор о марсианской колонии;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+mars_colony_dispute_desc;Потребуйте, чтобы эта страна удалила всех колонистов с Марса.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+mars_colony_dispute_setup;Потребуйте, чтобы эта страна удалила всех колонистов с Марса.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+mars_colony_dispute_short;Марсианский спор;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+moon_colony_dispute;Спор о лунной колонии;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+moon_colony_dispute_desc;Потребуйте, чтобы эта страна удалила всех колонистов с Луны.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+moon_colony_dispute_setup;Потребуйте, чтобы эта страна удалила всех колонистов с Луны.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+moon_colony_dispute_short;Лунный спор;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+NORMAL_MARS_WAR_NAME;$ORDER$Война $FIRST$ Марсианской Гегемонии;;;;;;x,,,,,,,,;x
+AGRESSION_MARS_WAR_NAME;$ORDER$Война $FIRST$ Марсианской Гегемонии;;;;;;x,,,,,,,,;x
+NORMAL_MOON_WAR_NAME;$ORDER$Война $FIRST$ Лунной Гегемонии;;;;;;x,,,,,,,,;x
+AGRESSION_MOON_WAR_NAME;$ORDER$Война $FIRST$ Лунной Гегемонии;;;;;;x,,,,,,,,;x
+napoleon_cb;Восстановить династию Бурбонов и разрушить Наполеоновскую империю;;;;;;x,,,,,,,,;x
+napoleon_cb_short;Восстановить династию Бурбонов и разрушить Наполеоновскую империю;;;;;;x,,,,,,,,;x
+napoleon_cb_setup;Французская революция — это чудовище, которому необходимо дать отпор. Бурбоны должны быть восстановлены на своем законном месте правителей Франции, прежде чем революция распространится на наши собственные земли!;;;;;;x,,,,,,,,;x
+napoleon_cb_desc;Восстановить династию Бурбонов и разрушить Наполеоновскую империю;;;;;;x,,,,,,,,;x
+nocasusbelli;Нет оправдания войне;Aucun motif de guerre;Keine Kriegsrechtfertigung;;Guerra sin justificacion;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+place_in_the_sun;Место на солнце;Une place au soleil;Ein Platz an der Sonne;;Un lugar bajo el sol;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+place_in_the_sun_desc;Приобретение вражеского §Yколониального государства§W;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;Adquirir un §Yestado colonial§W enemigo;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+place_in_the_sun_short;Приобретите $STATE$; Prendre l'Etat de $STATE$;Kolonie $STATE$ erobern;;Adquirir $STATE$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+place_in_the_sun_setup;Приобрести колонию $STATE$ у $RECIPIENT$;Prendre colonie $STATE$ a $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erobern.;;Adquirir la colonia de $STATE$ de manos de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+protect_minor;Защитить несовершеннолетнего;Proteger concession mineure;Kleinere Staaten schutzen;;Proteger menor;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+protect_minor_desc;Выберите §государство§W в списке справа;Selectionner un §YEtat§W dans la liste de droite.;Wahlen Sie in der Liste rechts einen §YStaat§W aus.;;Seleccionar un §estado§W de la lista de la derecha;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+protect_minor_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+protect_minor_setup;Заставить $RECIPIENT$ вернуть $STATE$ $THIRD$;Obliger $RECIPIENT$ a rendre $STATE$ a $THIRD$;Zwingen Sie $RECIPIENT$, $STATE$ an $THIRD$ zuruck zu geben.;;Obligar a $RECIPIENT$ a devolver $STATE$ a $THIRD$;;;;;;;;;x;;;;,,,,,,,;;;;;;;;;;;
+po_reduce_prestige;Престиж уменьшается на §R$VALUE$§b;Le prestige est reduit de : §R$VALUE$§b;Prestige um §R$VALUE$§b reduziert;;Se pierden §R$VALUE$§b puntos de prestigio.;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+po_reduce_prestige2;§YPrestige§W уменьшается на §R$VALUE$§W;Le §Yprestige§W est reduit de : §R$VALUE$§W;§YPrestige§W wird um §R$VALUE$§W reduziert.;;§YPrestige§W se ve reducido en §R$VALUE$§W;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+release_puppet;Выпустить марионетку;Liberer un Etat fantoche;Marionettenstaat entlassen;;Desvincular titere;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+release_puppet_short;$THIRD$ выпущен;$THIRD$ est libere;$THIRD$ wurde entlassen;;$THIRD$ ha quedado desvinculada;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+release_puppet_setup;Освободите $THIRD$ от $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$.;Entlassen Sie $THIRD$ aus $RECIPIENT$;;Desvincular $THIRD$ de $RECIPIENT$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+release_puppet_desc;Освободить §Yстрану§W от ее суверенного государства;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;Desvincula a un §Ypais§W de su nacion soberana;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+po_reparations;Необходимо заплатить §Y$PERCENTAGE$%§b налогового дохода за §Y$YEARS$§b лет;Doit payer §Y$PERCENTAGE$%§b de taxes pendant §Y$YEARS$§b ans.;Muss §Y$PERCENTAGE$%§b des Steuereinkommens fur §Y$YEARS$§b Jahre zahlen.;;Debe pagar el §Y$PERCENTAGE$%§b de sus ingresos por impuestos durante §Y$YEARS$§b anos.;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+po_reparations2;Необходимо заплатить §Y$PERCENTAGE$%§W налогового дохода за §Y$YEARS$§W лет;Doit payer §Y$PERCENTAGE$%§W de taxes pendant §Y$YEARS$§W ans.;Zahlung von §Y$PERCENTAGE$%§W der Steuereinnahmen fur §Y$YEARS$§W Jahre.;;Debe pagar el §Y$PERCENTAGE$%§W de sus impuestos durante §Y$YEARS$§W anos;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+rude_boy;Сдерживание;Confinement;Beherrschung;;Contencion;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+rude_boy_desc;Заставить другую §Yстрану§W, которая отбросила все претензии на цивилизованное поведение в сфере международных отношений, значительно умерить свои амбиции.;Obligez un autre §Ypays§W, qui s'est debarrasse de tout faux-semblant de conduite civilisee au royaume des affaires internationales, a limiter considerablement ses ambitions.;Zwingen Sie ein anderes §YLand§W, das bezuglich internationaler Beziehungen samtliche Vortauschungen zivilisierten Benehmens uber Bord geworfen hat, seine Ambitionen drastisch zu reduzieren.;;Obliga a otro §Ypais§W, que ha renunciado a toda pretension de conducta civilizada en el campo de los asuntos internacionales, a reducir de forma drastica sus ambiciones.;;;;;;;;;x;;;;;;;;;;;;;;;
+rude_boy_setup;Сдерживать $RECIPIENT$, сокращая его территорию, престиж и армию.;Confinez $RECIPIENT$ en reduisant son territoire, son prestige et son armee.;Halten Sie $RECIPIENT$ in Schach, indem Sie ihr Territorium, Prestige und Militar reduzieren.;;Contencion de $RECIPIENT$ por reduccion de su territorio, su prestigio y su ejercito.;;;;;;;;;x;;,,,;;;;;;;;;;;;;
+rude_boy_short;Содержат $RECIPIENT$;Contenir $RECIPIENT$;Halten Sie $RECIPIENT$ in Schach.;;Contencion de $RECIPIENT$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+slavery_cb;Освободить рабов;;;;;;x,,,,,,,,;x
+slavery_cb_desc;Заставить правительство отменить работорговлю и практику рабства в целом.;;;;;;x,,,,,,,,;x
+slavery_cb_setup;Освободить рабов. Если это будет достигнуто, то будут освобождены все рабы в целевой стране.;;;;;;x,,,,,,,,;x
+slavery_cb_short;Освободить рабов;;;;;;x,,,,,,,,;x
+status_quo;Статус-кво;;;;;;;;;;;;;x,,,,,,,,;x
+status_quo_desc;Попытка вмешаться в войну, пренебрегая любой из сторон в достижении своих §Yвоенных целей§W;Tenter de participer a une guerre en negligeant les differents camps pour atteindre les §Yobjectifs de guerre§W;Versuchen Sie, in einen Krieg zu intervenieren und beiden Seiten die Erreichung ihrer §YKriegsziele§W zu verwehren.;;Intentar intervenir en una guerra, evitando que ninguno de los bandos cumplan con sus §Yobjetivos belicos§W;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;
+status_quo_setup;Все, о чем мы просим, это чтобы нас оставили в покое.;Nous demandons juste a ce qu'on nous laisse tranquilles.;Wir wollen nur in Ruhe gelassen werden.;;Lo unico que pedimos es que nos dejen en paz;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;;
+status_quo_short;Статус-кво;Statu quo;Status Quo;;Mantener el statu quo;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+take_from_sphere;Взять из сферы влияния;Enlever a la sphere d'influence;Aus Einflusssphare entfernen;;Sacar de la esfera ;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+take_from_sphere_desc;Удалить страну из чьей-либо §YСферы влияния§W и добавить ее в свою собственную;Supprimer un pays de la §Ysphere d'influence§W de quelqu'un et l'ajouter a la notre;Entfernen Sie ein Land aus einer anderen §YEinflusssphare§W und fugen Sie es Ihrer eigenen hinzu.;;Retirar un pais de la §Yesfera de influencia§W de alguien y anadirlo a la nuestra;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+take_from_sphere_short;Возьмите $THIRD$ из сферы влияния; Enlever $THIRD$ a la sphere d'influence;$THIRD$ aus Einflusssphare entfernen;;Sacar a $THIRD$ de la esfera de influencia;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+take_from_sphere_setup;Возьмите $THIRD$ из сферы влияния $RECIPIENT$;Enlever $THIRD$ a la sphere d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;Sacar a $THIRD$ de la esfera de influencia de $RECIPIENT$;;;;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+unification_annex_casus_belli;Война за объединение;Guerre d'unification;Vereinigungskrieg;;Guerra de unificacion;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_annex_casus_belli_desc;Освободить основную территорию нашего §YКультурного Союза§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Liberar territorio fundamental de nuestra §Yunion cultural§W;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_annex_casus_belli_setup;Освободить основную территорию нашего §YКультурного Союза§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Liberar territorio fundamental de nuestra §Yunion cultural§W;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_annex_casus_belli_short;Аннексия;Annexion;Annektierung;;Anexion;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_casus_belli;Война за объединение;Guerre d'unification;Vereinigungskrieg;;Guerra de unificacion;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_casus_belli_desc;Освободить основную территорию нашего §YКультурного Союза§W;Liberer un territoire cle de notre §Yunion culturelle§W;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Libera territorio fundamental de nuestra §Yunion cultural§W;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_casus_belli_setup;Освободить основную территорию нашего §YКультурного Союза§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Liberar territorio fundamental de nuestra §Yunion cultural§W;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_casus_belli_short; Освободить $STATE$;Liberer $STATE$ ;Befreien Sie $STATE$;;Liberar $STATE$ ;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_humiliate_cb;Утверждать гегемонию;Imposer l'hegemonie;Vorherrschaft durchsetzen;;Imponer hegemonia;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_humiliate_cb_desc;Заставьте другую Великую Державу уступить вам лидерство над вашим общим культурным союзом. Все его влияние на страны в этом регионе будет потеряно.;Force une autre Grande Puissance a vous conceder la primaute dans votre union culturelle commune. Toute son influence sur les pays de la zone sera perdue.;Zwingen Sie eine andere Grossmacht, Ihre Fuhrung Ihrer gemeinsamen Kulturunion zu akzeptieren. Der Einfluss der anderen Macht uber Lander in dieser Region geht dadurch verloren.;;Obliga a otra gran potencia a aceptar tu liderazgo sobre una union cultural comun. Toda su influencia sobre los paises de la zona se pierde.;;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;
+unification_humiliate_cb_setup;Заставьте другую великую державу уступить вам лидерство в вашем общем культурном союзе.;Force une autre Grande Puissance a vous conceder la primaute dans votre union culturelle commune.;Zwingen Sie eine andere Grossmacht, Ihre Fuhrung Ihrer gemeinsamen Kulturunion zu akzeptieren.;;Obliga a otra gran potencia a aceptar tu liderazgo sobre una union cultural comun.;;;;;;;;;x,,,,,,,;;;;;;;;;;;;;;;
+unification_humiliate_cb_short;Признать гегемонию;Admettre l'hegemonie;Vorherrschaft anerkennen;;Aceptar hegemonia;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_UNIFICATION_HUMILIATE_NAME;$FIRST$-$SECOND$ Война Братьев;$FIRST$-$SECOND$ guerre fraternelle ;$ORDER$$FIRST$-$SECOND$er Bruderkrieg;;La Guerra Fraticida $FIRST$-$SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_UNIFICATION_HUMILIATE_NAME;$FIRST$-$SECOND$ Война Братьев;$FIRST$-$SECOND$ guerre fraternelle ;$ORDER$$FIRST$-$SECOND$er Bruderkrieg;;La Guerra Fraticida $FIRST$-$SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+unification_release_puppet_cb_setup;Освободите $THIRD$ от $RECIPIENT$ и добавьте их в свою сферу влияния;;Befreit $THIRD$ von $RECIPIENT$ und fugt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+unification_release_puppet_cb_desc;Освободите наших культурных собратьев из-под контроля иностранцев и включите их в свою сферу влияния.;;Befreit unsere kulturelle Sippschaft aus der Kontrolle der Fremden und fugt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+unification_release_puppet_cb;Свободный Культурный Род;;Befreit kulturelle Sippschaft;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+unification_release_puppet_cb_short;$THIRD$ выпущен;;$THIRD$ wurde befreit;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+uninstall_communist_gov_cb;Удалить коммунизм;Revoquer le Communisme;Kommunismus absetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+uninstall_communist_gov_cb_desc;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+uninstall_communist_gov_cb_setup;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+uninstall_communist_gov_cb_short;Удалить коммунизм.;Revoquer le Communisme.;Kommunismus absetzen;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+po_uninstall_communist_gov_type;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$Война $SECOND$ Подчинения;$ORDER$ guerre de soumission $SECOND$;$ORDER$Krieg zur $SECOND$en Unterwerfung;;$ORDER$ Guerra de sumision $SECOND$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Опиумная война;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$Война $SECOND$ Порабощения;$ORDER$ guerre de subjugation $SECOND$;$ORDER$Krieg zur $SECOND$en Unterjochung;;$ORDER$ Guerra de subyugacion $SECOND$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_ALL_CORES_NAME;$ORDER$Война за $FIRST$ освобождение;;;;;;;;;;;;;x,,,,,,,,;x
+AGRESSION_WAR_ALL_CORES_NAME;$ORDER$Война за $FIRST$ освобождение;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_BOXER_NAME;$ORDER$Боксерское восстание;$ORDER$ rebellion des Boxers;$ORDER$Boxer Aufstand;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_BOXER_NAME;Война боксеров;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Колониальное завоевание $STATE$;$ORDER$$FIRST$ conquete coloniale de $STATE$;$ORDER$$FIRST$e Kolonialeroberung von $STATE$;;$ORDER$ Conquista colonial $FIRST$ de $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+AGRESSION_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Колониальная война за $STATE$;$ORDER$$FIRST$ guerre coloniale pour $STATE$;$ORDER$$FIRST$er Kolonialkrieg um $STATE$;;$ORDER$ Guerra colonial $FIRST$ por $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_CONCESSION_NAME;$ORDER$ Война концессии $STATE$;$ORDER$ Guerre de la Concession de $STATE$;$ORDER$ Konzessionskrieg gegen $STATE$;;$ORDER$ Guerra de la Concesion de $STATE$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_WAR_CONCESSION_NAME;$ORDER$ Война концессии $STATE$;$ORDER$ Guerre de la Concession de $STATE$;$ORDER$ Konzessionskrieg gegen $STATE$;;$ORDER$ Guerra de la Concesion de $STATE$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Завоевание $SECOND$ Войны;$ORDER$$FIRST$ conquete de la $SECOND_COUNTRY$ guerre;$ORDER$Eroberung von $SECOND$em Land;;$ORDER$ Guerra de Conquista $SECOND$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_CONQUEST_NAME;$ORDER$Война $FIRST$ агрессии против $SECOND_COUNTRY$;$ORDER$ guerre d'aggression $FIRST$ sur $SECOND_COUNTRY$;$ORDER$$FIRST$er Aggressionskrieg gegen $SECOND$e Gebiete;;$ORDER$ Guerra de Agresion $FIRST$ contra $SECOND_COUNTRY$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST$ Война за уничтожение $SECOND$ Империи;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Grosser Krieg;Baza;Base:;Base:;Alap:;Zбkladna:;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+AGRESSION_WAR_DISMANTLE_NAME;$ORDER$ Война $FIRST$ Агрессии;$ORDER$ Offensive Militaire $FIRST$;$ORDER$ $FIRST$ Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;Guerra $ORDER$$FIRST$-$SECOND$;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ hбborъ;$ORDER$$FIRST$-$SECOND$ vбlka;;;;;;;x;;;;;;;;;;;;;;,,,,,,,,
+NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ Война за свободу $COUNTRY_ADJ$;$ORDER$$FIRST$ guerre de liberation $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberacion $COUNTRY_ADJ$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ Война за поддержку $COUNTRY$;$ORDER$$FIRST$ guerre de soutien a $COUNTRY$;$ORDER$$FIRST$er Krieg zur Absicherung von $COUNTRY$;;$ORDER$ Guerra $FIRST$ de apoyo a $COUNTRY$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ вмешательство в $SECOND_COUNTRY$;$ORDER$$FIRST$ intervention en $SECOND_COUNTRY$;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Опиумная война;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Война Кондитерских Изделий;$ORDER$ guerre de la patisserie;$ORDER$Kuchenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_GUNBOAT_NAME;Дипломатия канонерок;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ Война чести;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ Война, чтобы унизить $SECOND$;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ Война за независимость;$ORDER$$FIRST$ guerre d'independance;$ORDER$$FIRST$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ Война за независимость;$ORDER$$FIRST$ guerre d'independance;$ORDER$$FIRST$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ Война за свободу $COUNTRY_ADJ$;$ORDER$$FIRST$ guerre de liberation $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberacion $COUNTRY_ADJ$;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ Война за освобождение $COUNTRY_ADJ$;;$ORDER$$FIRST$-$COUNTRY_ADJ$er Befreiungskrieg;;;;;;;;x;;;,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ Война;Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$er Krieg;Baza;Guerra $ORDER$$FIRST$-$SECOND$;Base:;Alap:;Zбkladna:;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+AGRESSION_WAR_NAME;$ORDER$Война $FIRST$ Агрессии;$ORDER$$FIRST$ guerre d'aggression;$ORDER$$FIRST$er Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$Guerra de $FIRST$ agresion;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ hбborъ;$ORDER$$FIRST$-$SECOND$ vбlka;;;;;;x;;;;,,,,,,,,;;;;;;;;;;;
+NORMAL_WAR_NAME_COMMUNISM;$ORDER$$FIRST$-$SECOND$ Революционной войны;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$FIRST$-$SECOND$ Революционной войны;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$ Контрреволюция;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$ Контрреволюция;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Революция чернорубашечников;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ Революция чернорубашечников;;;;;;;;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_PROTECTORATE_NAME;$ORDER$ Приобретение $FIRST$ $SECOND_COUNTRY$;$ORDER$ $FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$$FIRST$e Ubernahme von $SECOND_COUNTRY$;;$ORDER$ Adquisicion de $SECOND_COUNTRY$ $FIRST$ ;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$ Приобретение $FIRST$ $SECOND_COUNTRY$;$ORDER$ $FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$$FIRST$e Ubernahme von $SECOND_COUNTRY$;;$ORDER$ Adquisicion de $SECOND_COUNTRY$ $FIRST$ ;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME;$ORDER$Война за $FIRST$ контроль над $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le controle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ uber $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_PUPPET_NAME;$ORDER$Война за $FIRST$ контроль над $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le controle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ uber $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,;x
+NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Восстановление порядка во $SECOND$ провинциях;$ORDER$$FIRST$ retablissement de l'ordre dans les provinces de $SECOND$;$ORDER$$FIRST$e Wiederherstellung der Ordnung in den $SECOND$en Provinzen;;$ORDER$ Restauracion $FIRST$ del orden en las provincias $SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Восстановление порядка во $SECOND$ провинциях;$ORDER$$FIRST$ retablissement de l'ordre dans les provinces de $SECOND$;$ORDER$$FIRST$e Wiederherstellung der Ordnung in den $SECOND$en Provinzen;;$ORDER$ Restauracion $FIRST$ del orden en las provincias $SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ Война $SECOND$ Сдерживание;$ORDER$$FIRST$ guerre de confinement $SECOND$;$ORDER$$FIRST$er Krieg zur $SECOND$en Beherrschung;;$ORDER$ Guerra $FIRST$ de contencion $SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ Война $SECOND$ Сдерживание;$ORDER$$FIRST$ guerre de confinement $SECOND$;$ORDER$$FIRST$er Krieg zur $SECOND$en Beherrschung;;$ORDER$ Guerra $FIRST$ de contencion $SECOND$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Освобождение $STATE$;$ORDER$$FIRST$ liberation de $STATE$;$ORDER$$FIRST$e Befreiung von $STATE$;;$ORDER$ Liberacion $FIRST$ de $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$Американское вторжение в Мексику;$ORDER$ guerre americaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$мексикано-американская война;$ORDER$ guerre mexicano-americaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Агрессия для $STATE$;$ORDER$$FIRST$ aggression pour $STATE$;$ORDER$$FIRST$e Aggression gegen $STATE$;;$ORDER$ Agresion $FIRST$ por $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$ Завоевание $STATE$;$ORDER$$FIRST$ conquete de $STATE$;$ORDER$$FIRST$e Eroberung von $STATE$;;$ORDER$ Conquista $FIRST$ de $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$Американское вторжение в Мексику;$ORDER$ guerre americaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$мексикано-американская война;$ORDER$ guerre mexicano-americaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_TAKE_NAME;$ORDER$$FIRST$ Война $STATE$;$ORDER$$FIRST$ guerre pour $STATE$;$ORDER$$FIRST$er Krieg um $STATE$;;$ORDER$ Guerra $FIRST$ de $STATE$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$ Война;$ORDER$ guerre de $COUNTRY$;$ORDER$$COUNTRY$-Feldzug;;$ORDER$ Guerra de $COUNTRY$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ Война за $COUNTRY$;$ORDER$ guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$er Krieg um $COUNTRY$;;$ORDER$ Guerra $FIRST$-$SECOND$ sobre $COUNTRY$;;;;;;;;;x;,,,,,,,,;;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Освобождение $SECOND_COUNTRY$;$ORDER$ $FIRST$ liberation de $SECOND_COUNTRY$;$ORDER$$FIRST$e Befreiung von $SECOND_COUNTRY$;;$ORDER$ Liberacion $FIRST$ de $SECOND_COUNTRY$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Освобождение $SECOND_COUNTRY$;$ORDER$ $FIRST$ liberation de $SECOND_COUNTRY$;$ORDER$$FIRST$e Befreiung von $SECOND_COUNTRY$;;$ORDER$ Liberacion $FIRST$ de $SECOND_COUNTRY$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Освобождение $STATE$;$ORDER$$FIRST$ liberation de $STATE$;$ORDER$$FIRST$e Befreiung von $STATE$;;$ORDER$ Liberacion $FIRST$ de $STATE$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Франко-прусская война;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Франко-прусская война;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;
+AGRESSION_WAR_UNIFICATION_NAME;$ORDER$ $FIRST$ Освобождение $STATE$;$ORDER$$FIRST$ liberation de $STATE$;$ORDER$$FIRST$e Befreiung von $STATE$;;$ORDER$ Liberacion $FIRST$ de $STATE$;;;;;;;;;x;;,,,,,,,,;;;;;;;;;;;;;
+ww1_central_powers_cb;Первая мировая война - Центральные державы;;;;;;x,,,,,,,,;x
+ww1_central_powers_cb_desc;Предъявить требования к странам Антанты.;;;;;;x,,,,,,,,;x
+ww1_entente_cb;Первая мировая война - Антанта;;;;;;x,,,,,,,,;x
+ww1_entente_cb_desc;Предъявить требования Центральным державам.;;;;;;x,,,,,,,,;x
+ww1_entente_cb_short;Первая мировая война - Союзники;;;;;;x,,,,,,,,;x
+ww2_allies_cb;Вторая мировая война - Союзники;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_allies_cb_setup;Заставляет страны Оси безоговорочно капитулировать.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_allies_cb_desc;Если союзные державы победят, они распространят демократию по всему миру.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_allies_cb_short;Вторая мировая война - Союзники;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_axis_cb;Вторая мировая война - Ось;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_axis_cb_setup;Заставляет союзников безоговорочно капитулировать.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_axis_cb_desc;Если страны Оси победят, они будут править миром железной рукой.;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;
+ww2_axis_cb_short;Вторая мировая война - Ось;;;;;;x,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;

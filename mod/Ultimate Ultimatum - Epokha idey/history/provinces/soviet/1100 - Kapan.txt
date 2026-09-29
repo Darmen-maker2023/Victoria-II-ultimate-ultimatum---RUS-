@@ -1,0 +1,20 @@
+owner = PER
+controller = PER
+1800.1.1 = {
+owner = RUS
+controller = RUS
+add_core = RUS
+		}
+add_core = ARM
+add_core = AZB
+trade_goods = iron
+life_rating = 35
+
+1992.1.1 = {
+		owner = ARM
+		controller = ARM
+		colonial = 0
+		}
+
+
+

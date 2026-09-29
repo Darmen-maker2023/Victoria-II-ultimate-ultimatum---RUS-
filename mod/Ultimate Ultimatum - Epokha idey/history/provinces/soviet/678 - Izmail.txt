@@ -1,0 +1,48 @@
+owner = CRI
+controller = CRI
+1800.1.1 = {
+owner = RUS
+controller = RUS
+add_core = RUS
+	colonial = 0
+		}
+add_core = MOL
+add_core = ROM
+trade_goods = fish
+life_rating = 35
+1861.1.1 = {
+	controller = ROM
+	owner = ROM
+	colonial = 0
+}
+
+1910.1.1 = {
+	controller = RUS
+	owner = RUS
+	colonial = 0
+}
+
+1918.4.9 = {
+	controller = ROM
+	owner = ROM
+	add_core = ROM
+	colonial = 0
+}
+
+#End of WW2
+1945.5.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 0
+		}
+
+
+
+#Soviet Collapse
+1992.5.1 = {
+	owner = UKR
+	controller = UKR
+	colonial = 0
+		}
+
+

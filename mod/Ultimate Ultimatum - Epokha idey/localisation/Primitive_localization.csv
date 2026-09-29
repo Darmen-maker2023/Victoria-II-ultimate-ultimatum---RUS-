@@ -1,0 +1,72 @@
+ASH;Ашанти;Ashanti;Aschanti;;Asantia;;;;;;;;;;x
+ASH_ADJ;Ашанти;Ashanti;Aschanti;;;;;;;;;;;;x
+ASH_conservative;Королевская фракция;Faction royale;KA¶nigsfraktion;;;;;;;;;;;;x
+ASH_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+ASH_reactionary;Фракция Империи;Faction d'empire;Reich Fraktion;;;;;;;;;;;;x
+ASH_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+ASH_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x
+ASH_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+ASH_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x
+ASH_proletarian_dictatorship;Гана;Ghana;Ghana;;Ghana;;;;;;;;;x;
+ASH_proletarian_dictatorship_ADJ;ганский;Ghanaian;Ghanaisch;;GhanA©s;;;;;;;;;x;
+ASH_fascist_dictatorship;Гана;Ghana;Ghana;;Ghana;;;;;;;;;x;
+ASH_fascist_dictatorship_ADJ;ганский;Ghanaian;Ghanaisch;;GhanA©s;;;;;;;;;x;
+ASH_bourgeois_dictatorship;Гана;Ghana;Ghana;;Ghana;;;;;;;;;x;
+ASH_bourgeois_dictatorship_ADJ;ганский;Ghanaian;Ghanaisch;;GhanA©s;;;;;;;;;x;
+ASH_presidential_dictatorship;Гана;Ghana;Ghana;;Ghana;;;;;;;;;x;
+ASH_presidential_dictatorship_ADJ;ганский;Ghanaian;Ghanaisch;;GhanA©s;;;;;;;;;x;
+ASH_democracy;Гана;Ghana;Ghana;;Ghana;;;;;;;;;x;
+ASH_democracy_ADJ;ганский;Ghanaian;Ghanaisch;;GhanA©s;;;;;;;;;x;
+BEN;Бенин;BA©nin;Benin;;BenA­n;;;;;;;;;;x
+BEN_ADJ;бенинский;BA©ninois;Benin;;;;;;;;;;;;x
+BEN_conservative;Фракция Оба;Faction Obo;Oba Fraktion;;;;;;;;;;;;x
+BEN_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+BEN_reactionary;Военная фракция;Faction militaire;MilitA¤rische Fraktion;;;;;;;;;;;;x
+BEN_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+BEN_socialist;Народная фракция;Faction populaire;Volk Fraktion;;;;;;;;;;;;x
+BEN_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+BEN_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x
+DAH;Дагомея;Dahomey;Dahomey;;Dahomey;;;;;;;;;;x
+DAH_ADJ;дагомейский;DahomA©enne;Dahomische;;;;;;;;;;;;x
+DAH_conservative;Фракция Ахосу;Faction Ahosu;Ahosu Fraktion;;;;;;;;;;;;x
+DAH_liberal;Либеральная фракция;Faction LibA©ral;Liberale Fraktion;;;;;;;;;;;;x
+DAH_reactionary;Фракция Империи;Faction d'empire;Reich Fraktion;;;;;;;;;;;;x
+DAH_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+DAH_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x
+DAH_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+DAH_fascist;Великая Дагомейская фракция;Faction Dahomey Grande;GroAџe Dahomey Fraktion;;;;;;;;;;;;x
+KON;Конго;Kongo;Kongo;;Congo;;;;;;;;;;x
+KON_ADJ;конголезский;Kongolaise;Kongolesische;;;;;;;;;;;;x
+KON_conservative;Фракция МвенеКонго;Faction MweneKongo;MweneKongo Fraktion;;;;;;;;;;;;x
+KON_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+KON_reactionary;Религиозная фракция;Religieux Faction;ReligiA¶se Fraktion;;;;;;;;;;;;x
+KON_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+KON_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x
+KON_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+KON_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x
+LOA;Лоанго;Loango;Loango;;Loango;;;;;;;;;;x
+LOA_ADJ;Лоангойский;Loangoaise;Loangoische;;;;;;;;;;;;x
+LOA_conservative;Фракция Ма ЛуГЈГЈгу;Faction Ma LwAЈAЈgu;Ma LwAЈAЈgu Fraktion;;;;;;;;;;;;x
+LOA_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+LOA_reactionary;Традиции Фракция;Faction des traditions;Traditionen Fraktion;;;;;;;;;;;;x
+LOA_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+LOA_socialist;Социалистическая фракция;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x
+LOA_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+OYO;Ойо;Oyo;Oyo;;Oyo;;;;;;;;;;x
+OYO_ADJ;Ойо;Oyo;Oyo;;;;;;;;;;;;x
+OYO_conservative;Фракция Алаафина;Faction Alaafin;Alaafin Fraktion;;;;;;;;;;;;x
+OYO_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+OYO_reactionary;Военная фракция;Faction militaire;MilitA¤rische Fraktion;;;;;;;;;;;;x
+OYO_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+OYO_socialist;Народная фракция;Faction populaire;Volk Fraktion;;;;;;;;;;;;x
+OYO_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+OYO_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x
+WRI;Варри;Warri;Warri;;Warri;;;;;;;;;;x
+WRI_ADJ;Варри;Warri;Warri;;;;;;;;;;;;x
+WRI_conservative;Фракция Олу;Faction Olu;Olu Fraktion;;;;;;;;;;;;x
+WRI_liberal;Фракция реформ;Faction de rA©forme;Verbesserung Fraktion;;;;;;;;;;;;x
+WRI_reactionary;Военная фракция;Faction militaire;MilitA¤rische Fraktion;;;;;;;;;;;;x
+WRI_anarcho_liberal;Радикальная фракция;Faction radicale;Die radikale Fraktion;;;;;;;;;;;;x
+WRI_socialist;Народная фракция;Faction populaire;Volk Fraktion;;;;;;;;;;;;x
+WRI_communist;Фракция коммунистов;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x
+WRI_fascist;Фашистская фракция;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x

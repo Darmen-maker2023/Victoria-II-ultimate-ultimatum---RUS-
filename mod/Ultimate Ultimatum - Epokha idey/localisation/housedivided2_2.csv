@@ -1,0 +1,33 @@
+RALLY_POINT_NAVY_MERGE_INFO;Включить или отключить слияние флотов в пункте назначения.\n(Здесь корабли будут объединяться с самым большим отрядом.);Active ou desactive la fusion des flottes arrivant a destination.\n(Les navires s'integrent a la plus grande flotte s'y trouvant deja);Aktiviert oder deaktiviert das Vereinigen von Schiffen am Zielpunkt.\n(Schiffe werden sich hier mit der grossten Einheit vereinigen.);;;;;;;;;;;x
+RALLY_POINT_NAVY_PROVINCE_MERGE_INFO;По прибытии сюда все военно-морские подразделения сольются с крупнейшим подразделением.;Toutes les unites navales fusionneront avec la plus grande a leur arrivee ici.;Alle Schiffe werden hier mit der grossten Einheit vereinigt.;;;;;;;;;;;x
+BUDGET_INTERNALLY_SOLD_STOCKPILE;Запасы проданы строительным проектам: §Y$VAL$§!;Stock vendu pour les projets de construction : §Y$VAL$§!;An Bauprojekte verkaufter Vorrat: §Y$VAL$§!;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_TOOLTIP;Все построенные поблизости корабли направятся к §Y$PROV$§!;Tous les navires construits a proximite se dirigeront vers §Y$PROV$§!;Alle in der Nahe gebauten Schiffe werden nach §Y$PROV$§! aufbrechen.;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP; и постараемся объединиться с самым крупным подразделением, когда прибудем сюда.; et tenteront de fusionner avec la plus grande unite a leur arrivee.;und werden versuchen sich dort mit der grossten Einheit zu vereinigen.;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_1;§Y$UNIT$§! будет поделено между §G$NUM$§! кораблями:;§Y$UNIT$§! sera repartie entre §G$NUM$§! flotte(s):;§Y$UNIT$§! wird auf §G$NUM$§! Flotte(n) aufgeteilt:;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_2; - §Y$NAVY$§! ($NUM$ вес); - §Y$NAVY$§! (Capacite d'embarquement : $NUM$ unites); - §Y$NAVY$§! (Ladevermogen: $NUM$ Brigaden);;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_3;§RОставшаяся армия общим весом ($NUM$) не будет загружена.§!;§RLe reste de l'armee ($NUM$ unites) ne sera pas embarque.§!;§RDie verbleibenden Truppenteile ($NUM$ Brigaden) werden nicht verladen.§!;;;;;;;;;;;x
+UW_NOT_POSSIBLE_TO_ATTACH;Здесь нет дружественных подразделений, к которым можно было бы присоединиться.;Il n'y a pas d'unites amies auxquelles on peut se joindre.;Hier gibt es keine befreundete Einheiten, denen Sie sich anschliessen konnen.;;;;;;;;;;;x
+UW_UNITS_ATTACHED;Прилагаются следующие блоки.;Les unites suivantes se sont jointes.;Die folgenden Einheiten haben sich angeschlossen.;;;;;;;;;;;x
+UW_ATTACH_TO;Прикрепить, чтобы всегда следовать за $NAME$.;Se joindre a l'unite suivante : $NAME$.;Folgender Einheit anschliessen: $NAME$.;;;;;;;;;;;x
+UW_DETACH_FROM;Отключиться от подписки $NAME$.;Se detacher de l'unite suivante : $NAME$.;Von folgender Einheit losen: $NAME$.;;;;;;;;;;;x
+IW_SUPPLY_COST;Вам необходимо §Y$VAL$§W¤ каждый день для оплаты поставок этого устройства.;Vous avez besoin chaque jour de §Y$VAL$§W ¤ pour la maintenance de cette unite.;Sie benotigen jeden Tag §Y$VAL$§W¤ um den Unterhalt dieser Einheit zu finanzieren.;;;;;;;;;;;x
+HAS_NOT_CULTURE_CORE;$CUL$ НЕ является основной культурой $WHERE$.\n;$CUL$ n'est PAS une culture de base de $WHERE$.\n;$CUL$ ist KEINE Kernkultur von $WHERE$.\n;;;;;;;;;;;x
+HAS_CULTURE_CORE;$CUL$ — это основная культура $WHERE$.\n;$CUL$ est une culture de base de $WHERE$.\n;$CUL$ ist eine Kernkultur von $WHERE$.\n;;;;;;;;;;;x
+PROMOTION_EFFECT_FROM_ADMIN;Влияние эффективности администрирования на скорость продвижения: §Y$PERCENTAGE$§!;Influence de l'efficacite administrative sur la vitesse de promotion : §Y$PERCENTAGE$§!;Einfluss der Verwaltungseffizienz auf die Beforderungsgeschwindigkeit: §Y$PERCENTAGE$§!;;;;;;;;;;;x
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;Занятость в местных мастерских: $PERC$;Niveau de l'emploi dans les usines locales : $PERC$;Beschaftigungsgrad in den lokalen Fabriken: $PERC$;;;;;;;;;;;x
+REVOLTALLIANCE_LOG;Революция! Наш союз распался!;Une revolution ! Notre alliance est rompue!;Eine Revolution! Unser Bundnis ist gekundigt!;;;;;;;;;;;x
+tut_5b_12b;Чтобы продолжить, нажмите на вкладку «Решения».;Cliquez sur l'onglet Decisions pour continuer;Drucken Sie auf den Entscheidungs Reiter um fortzufahren.;;;;;;;;;;;x
+tut_5b_14b;Чтобы продолжить, нажмите на вкладку «Движения».;Cliquez sur l'onglet Mouvements pour continuer;Drucken Sie auf den Bewegungs Reiter um fortzufahren.;;;;;;;;;;;x
+Workforce;Рабочая сила;Main-d'oeuvre;Arbeitskrafte;;;;;;;;;;;x
+Ideology;Идеология;Ideologie;Ideologie;;;;;;;;;;;x
+SELL;ПРОДАВАТЬ;VENDRE;VERKAUFE;;;;;;;;;;;x
+BUY;КУПИТЬ;ACHETER;KAUFE;;;;;;;;;;;x
+Start Research;Начать исследование;Commencer la recherche;Beginne Forschung;;;;;;;;;;;x
+Maneuver;Маневр;Manњuvre;Manover;;;;;;;;;;;x
+LEDGER;ЛЕДЖЕР;STATISTIQUES;Statistiken;;;;;;;;;;;x
+OK;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+TOPBAR_POPULATION;Наше взрослое мужское население $CURR$. Наше взрослое мужское население изменилось на $CHANGE$ за последние §Y$DAYS$§! дней.;Notre population masculine adulte s'eleve a $CURR$.\nNotre population masculine a evolue de $CHANGE$ adultes ces §Y$DAYS$§! derniers jours.;Unsere erwachsene mannliche Bevolkerung betragt $CURR$. Unsere erwachsene mannliche Bevolkerung hat sich um $CHANGE$ in den letzten §y$DAYS$§! Tagen geandert.;;;;;;;;;;;x
+DIG_IN_TOOLTIP_1;Текущий уровень погружения: $LEV$/$MAX$.;Niveau de retranchement actuel : $LEV$/$MAX$.;Aktueller Verschanzungsbonus: $LEV$/$MAX$.;;;;;;;;;;;x
+DIG_IN_TOOLTIP_2;Для повышения уровня погружения на §G+$VAL$§! потребуется §Y$DAYS$§! дней.;Il faut §Y$DAYS$§! jours pour augmenter le niveau de retranchement de §G+$VAL$§! .;Es dauert §Y$DAYS$§! Tage um den Verschanzungsbonus um §G+$VAL$§! zu erhohen.;;;;;;;;;;;x
+in_bankrupcy;В банкротстве;En faillite;In Insolvenz;;;;;;;;;;;x
+in_bankrupcy_desc;Мы банкроты!;Nous sommes en faillite !;Wir sind zahlungsunfahig!;;;;;;;;;;;x

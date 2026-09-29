@@ -1,0 +1,835 @@
+MIL_FROM_TROOPS;Солдаты и армия;Soldats et Armee;Soldaten & Armee;;;;;;;;x;;;
+MIL_FROM_CAP_SHIPS;Крупные корабли;Navires;Grosskampfschiff;;;;;;;;x;;;
+MIL_FROM_LEADERS;Лидеры;Dirigeants;Anfuhrer;;;;;;;;x;;;
+OCCUPATION_SCORE; Занятие:;Occupation : ;Besetzung:;;;;;;;;x;;;
+BLOCKADE_SCORE; Блокада:;Blocus : ;Blockade:;;;;;;;;x;;;
+OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Заняты в мастерских (§Y$PERC$§!%);§Y$COUNT$§ Employes en usines (§Y$PERC$§! %);§Y$COUNT$§! in (§Y$PERC$§!%) Fabriken eingestellt;;;;;;;;x;;;
+TRADE_SUPPLY_NEED_A;$VAL$ для ежедневного снабжения армии.\n;$VAL$ a fournir a l'armee chaque jour.\n;$VAL$ zur taglichen Versorgung der Armee.\n;;;;;;;;x;;;
+TRADE_SUPPLY_NEED_N;$VAL$ для ежедневного снабжения флота.\n;$VAL$ a fournir a la marine chaque jour.\n;$VAL$ zur taglichen Versorgung der Marine.\n;;;;;;;;x;;;
+DIPLOMACY_CANNOT_SET_PRIO_WAR;Мы не можем влиять на эту страну, пока ведем с ней войну.;Nous ne pouvons pas influencer cette nation tant que nous sommes en guerre contre elle.;Wir konnen diese Nation nicht beeinflussen, wahrend wir einen Krieg gegen sie fuhren.;;;;;;;;x;;;
+DIPLOMACY_INFLUENCE_NOT_WORTH;Мы уже влияем на эту страну по максимуму, и нет никакой другой страны, которая бы на нее влияла. Очки пока не тратятся.;Nous influencons deja ce pays au maximum et aucun autre pays ne l'influence. Aucun point n'est depense pour le moment.;Wir haben den Einfluss auf dieses Land bereits maximiert und kein anderes Land beeinflusst es. Es wurden keine Punkte ausgegeben.;;;;;;;;x;;;
+COLONY_ABORT_HEADER;Когда наша колонизация будет прервана.;Lorsque notre colonisation a ete abandonnee;Sobald unsere Kolonisierung abgebrochen wurde.;;;;;;;;x;;;
+COLONY_ABORT_1;Колонизация отменена!;Abandon de la colonisation !;Kolonisierung Abgebrochen!;;;;;;;;x;;;
+COLONY_ABORT_2;$MONARCHTITLE$, наша колония в;$MONARCHTITLE$, notre colonie en;$MONARCHTITLE$, unsere Kolonie in;;;;;;;;x;;;
+COLONY_ABORT_3;§Y$TARGET$§б.;§Y$TARGET$§b.;§Y$TARGET$§b.;;;;;;;;x;;;
+COLONY_ABORT_4;был прерван!;a ete abandonnee !;wurde vorzeitig abgebrochen!;;;;;;;;x;;;
+COLONY_ABORT_5;Мы больше не можем колонизировать этот регион.;Nous ne pouvons plus coloniser cette region.;Wir konnen diese Region nicht langer kolonisieren.;;;;;;;;x;;;
+COLONY_ABORT_6;*;*;*;*;*;*;*;;;;;;;x
+COLONY_ABORT_BTN1;ХОРОШО;D'accord;OK;*;Aceptar;*;*;;;;;;;x
+COLONY_ABORT_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+COLONY_ABORT_BTN3;Перейти к;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+COLONY_ABORT_MAP;Колония отменена!;Colonie abandonnee !;Kolonie abgebrochen!;;;;;;;;x;;;
+COLONY_ABORT_SETUP;Когда колонизация прерывается.;Quand la colonisation est abandonnee.;Wenn die Kolonisierung abgebrochen wird.;;;;;;;;x;;;
+COLONY_ABORT_LOG;Колонизация $TARGET$ была прервана.;la colonisation de $TARGET$ a ete abandonnee.;Kolonisierung von $TARGET$ wurde abgebrochen.;;;;;;;;x;;;
+DIPRELCH_VALID_CB;Действительный Casus Belli;Casus Belli valide;Gultiger Kriegsgrund;;;;;;;;x;;;
+BRIGADES_COMPARE_GREATER;Коэффициент сравнения бригад двух стран составляет не менее §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est d'au moins §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt mindestens §Y$VAL$§!;;;;;;;;x;;;
+BRIGADES_COMPARE_SMALLER;Коэффициент сравнения бригад двух стран меньше §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est inferieur a §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt weniger als §Y$VAL$§!;;;;;;;;x;;;
+CONFIRM_CREATE_STATE_DESC2;(Все локальные эффекты будут удалены.);(Tous les effets locaux seront supprimes.);(Alle lokalen Effekte werden entfernt.);;;;;;;;x;;;
+UNIT_ENABLE_REBEL_HUNT;Охота на мятежников;Chasse aux rebelles;Jagt Rebellen;Cazar rebeldes;;;;;;;;;;x
+UNIT_DISABLE_REBEL_HUNT;(охота на мятежников);(chasse des rebelles);(Rebellen jagen);(cazando rebeldes);;;;;;;;;;x
+UNIT_REBEL_HUNT_WILL_HUNT;§Армия готова к охоте на повстанцев.§!;§GL'armee est prete pour la chasse aux rebelles.§!;§GDie Armee ist bereit, Rebellen zu jagen.§!;;;;;;;;;;;x
+UNIT_REBEL_HUNT_IS_BUSY;§RArmy в настоящее время занята и не будет охотиться на повстанцев прямо сейчас.§!;§RL'armee est occupee et ne pourra pas chasser les rebelles tout de suite.§!;§RDie Armee ist derzeit beschaftigt und wird momentan keine Rebellen jagen.§!;;;;;;;;;;;x
+UNIT_REBEL_HUNT_LOW_MORALE;§У армии слишком низкий моральный дух, и они не будут сейчас охотиться на повстанцев.§!;§RL'armee a un moral trop faible et ne peut pas chasser les rebelles maintenant.§!;§RDie Moral der Armee ist zu gering und sie wird momentan keine Rebellen jagen.§!;;;;;;;;;;;x
+UNIT_REBEL_HUNT_NO_VALID;§RОбнаружены вражеские мятежники, но наша армия не будет атаковать их, потому что они слишком сильны для нас или не смогли найти безопасный путь, чтобы добраться туда.§!;§RDes rebelles ont ete detectes mais notre armee ne les attaquera pas parce qu'ils sont trop fort pour nous ou qu'on ne peut pas trouver un passage sur pour aller vers eux.§!;§RFeindliche Rebellen wurden aufgespurt, aber unsere Armee weigert sich, sie anzugreifen, da sie viel zu stark fur uns sind oder unsere Truppen keinen sicheren Weg zu ihnen finden konnten.§!;;;;;;;;;;;x
+NOT_RELEASE_AT_WAR;§R(Невозможно освободить нации, находящиеся в состоянии войны.)§W;§R(Il n'est pas possible de liberer des nations en temps de guerre.)§W;§R(Es ist nicht moglich, wahrend eines Krieges Nationen zu entlassen.)§W;;;;;;;;x;;;
+COLONY_SUCCESS_5;§Y$PRESTIGE$§! престиж приобретен.;§Y$PRESTIGE$§! de prestige gagne.;§Y$PRESTIGE$§! Prestige gewonnen.;;;;;;;;;;;x
+COLONY_SUCCESS_6;(Базовое значение §Y$BASE$§! x §Y$PROV$§! провинций.);(Valeur de base §Y$BASE$§! x §Y$PROV$§! provinces.);(Grundwert §Y$BASE$§! x §Y$PROV$§! Provinzen.);;;;;;;;;;;x
+COUNTRY_PUPPETS_LIST; Вассалы:;Satellites : ;Marionetten:;;;;;;;;;;;x
+POLL_ESTIMATED_ELECTION;На выборах мы оцениваем следующий результат.;En cas d'election, nous nous attendons au resultat suivant.;In einer Wahl erwarten wir die folgenden Ergebnisse.;;;;;;;;x;;;
+MODIFIER_MOVEMENT_COST;Стоимость перемещения войск;Cout du mouvement de troupe;Kosten der Truppenbewegung;;;;;;;;x;;;
+SPEED_IMPACT_ON_CB;Скорость генерации изменяется на §Y$VAL$§W.;La vitesse de generation change de §Y$VAL$§W.;Die Geschwindigkeit der Generationen hat sich um §Y$VAL$§W geandert.;;;;;;;;x;;;
+TERR_COMB_WIDTH_DEC;Ширина боя на этой местности уменьшена на §Y$VAL$§W%.;L'ampleur du combat est reduite de §Y$VAL$§W % sur ce terrain.;Die Angriffsweite fur dieses Terrain ist um §Y$VAL$§W% reduziert.;;;;;;;;x;;;
+MODIFIER_BOOST_STRONGEST_PARTY;Сила сильнейшего состояния;Force du plus fort parti;Starke der starksten Partei;;;;;;;;x;;;
+PEACEDEMANDDESC;$COUNTRY$ требует мира на следующих условиях:;$COUNTRY$ demande la paix selon les termes suivants :;$COUNTRY$ verlangt Frieden unter den folgenden Bedingungen:;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_SETUP;Когда наш процесс оправдания войны больше недействителен.;Quand notre justification de guerre n'est plus valide.;Sobald unser Prozess der Kriegsrechtfertigung nicht langer gultig ist.;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_1;Оправдание войны;Casus Belli;Kriegsrechtfertigung;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_2;Наша попытка оправдать войну с помощью;Notre tentative de justifier la guerre par le;Unser Versuch, den Krieg zu rechtfertigen mittels;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_3;§Y$CASUS$§! Казус белли;Casus Belli §Y$CASUS$§!;§Y$CASUS$§! Casus Belli;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_4;против;contre;gegen;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_5;$TARGET$;$TARGET$;$TARGET$;;$TARGET$;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_6;больше недействительно!;n'est plus valide !;ist nicht langer gultig!;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_LOG;Наш процесс оправдания войны против $TARGET$ больше недействителен.;La justification de notre guerre contre $TARGET$ n'est plus valide.;Unser Prozess der Kriegsrechtfertigung gegenuber $TARGET$ ist nicht langer gultig.;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN3;Перейти;Voir;Gehe zu;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_MAP;*;*;*;*;*;*;*;;;;;;;x
+NO_ALLOWED_COUNTRIES;(Нет соответствующей страны).;(Pas de pays applicable).;(Es gibt kein geeignetes Land).;;;;;;;;;;;x
+NO_ALLOWED_STATES;(Нет соответствующих штатов).;(Pas d'Etat applicable).;(Es gibt keine geeigneten Staaten).;;;;;;;;;;;x
+HAS_LESS_STATE_THAN; Имеет ряд штатов <;Nombre d'Etats <;besitzt eine Staatsanzahl von <;;;;;;;;;;;x
+HAS_STATES_GREATER_EQ; Имеет количество штатов >=;Nombre d'Etats >= ;besitzt eine Staatsanzahl von >=;;;;;;;;;;;x
+HAVE_MORE_SUBSTATES_THEN; Имеют больше подсостояний, чем;Nombre de sous-etats superieur a ;Besitze mehr Unterstaaten als;;;;;;;;;;;x
+HAVE_LESS_SUBSTATES_THEN; Имеют меньше подсостояний, чем;Nombre de sous-etats inferieur a ;Besitze weniger Unterstaaten als;;;;;;;;;;;x
+HAVE_MORE_VASSALS_THAN; Иметь больше вассалов, чем;Nous avons plus de satellites que ;Besitze mehr Marionetten als;;;;;;;;;;;x
+HAS_UNION_TAG;имеет культурный союз;a la culture syndicale;besitzt kulturelle Unionen;;;;;;;;;;;x
+HAS_NO_UNION_TAG;НЕТ культурного союза;n'a pas de culture syndicale;besitzt KEINE kulturellen Unionen;;;;;;;;;;;x
+HAS_CULTURE_UNION;Имеет культурный союз;A la culture syndicale;Besitzt kulturelle Unionen;;;;;;;;;;;x
+HAS_NOT_CULTURE_UNION;НЕ имеет культурного союза;N'a pas de culture syndicale;Besitzt KEINE kulturellen Unionen;;;;;;;;;;;x
+IS_STATE_CAPITAL;является столицей штата;est la capitale de l'Etat;ist Landeshauptstadt;;;;;;;;;;;x
+IS_NOT_STATE_CAPITAL;НЕ является столицей штата;n'est pas la capitale de l'Etat;ist KEINE Landeshauptstadt;;;;;;;;;;;x
+SUBSIDIZE_ALL_TOOLTIP;Субсидировать все семинары в списке.;Subventionner toutes les usines de la liste.;Alle Fabrikanlagen von dieser Liste werden bezuschusst.;;;;;;;;;;;x
+UNSUBSIDIZE_ALL_TOOLTIP;Отменить субсидии для всех мастерских в списке.;Annuler les subventions pour toutes les usines de la liste.;Bezuschussung aller Fabrikanlagen von dieser Liste abbrechen.;;;;;;;;;;;x
+OPEN_ALL_TOOLTIP;Открыть все семинары в списке.;Ouvrir toutes les usines de la liste.;Alle Fabrikanlagen von dieser Liste offnen.;;;;;;;;;;;x
+CLOSE_ALL_TOOLTIP;Закрыть все семинары в списке.;Fermer toutes les usines de la liste.;Alle Fabrikanlagen von dieser Liste schliessen.;;;;;;;;;;;x
+ON_ENACT_UNCIV_REFORM;Когда вступил в силу:;Lorsqu'elle a ete promulguee :;Sobald beschlossen:;;;;;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;Строительство §Y$BLD$§! будет проходить в: §Y$PROVS$§!;§Y$BLD$§! constructions sont prevues en §Y$PROVS$§!;§Y$BLD$§! Bau wird in: §Y$PROVS$§! beginnen;;;;;;;;;;;x
+TRIGGER_BUILD_IN_CAPITAL_DESC;§RСтроительство пока не разрешено.§!;§RLa construction n'est pas autorisee pour le moment.§!;§RBau ist derzeit nicht gestattet.§!;;;;;;;;;;;x
+DIPLOMACY_CB_INFO;Оправдание войны;Casus Belli;Kriegsrechtfertigung;;;;;;;;;;;x
+COLONIZE_MAX_SLOTS;За колонизацию провинций могут бороться не более §Y$NUM$§! стран.;Pas plus de §Y$NUM$§! pays peuvent etre en concurrencer pour la colonisation de la province.;Es konnen nicht mehr als §Y$NUM$§! Lander um die Kolonisierung einer Provinz kampfen.;;;;;;;;;;;x
+RIGHT_CLICK_TO_REMOVE_NF;§YЩелкните правой кнопкой мыши§!, чтобы удалить текущий фокус.;§YClic droit§! pour supprimer la cause nationale actuelle;§YRechte Maustaste klicken§!, um den gegenwartigen Fokus zu entfernen. ;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_TITLE;Удалить национальный фокус колонизации;Supprimer la cause nationale de colonisation;Den nationalen Fokus der Kolonisierung entfernen ;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_DESC;Ваш прогресс колонизации будет потерян. Хотите убрать национальный фокус?;La progression de votre colonisation va etre perdue. Voulez-vous supprimer la cause nationale ?;Euer Kolonisierungs-Prozess wird verloren gehen. Mochtet Ihr den nationalen Fokus entfernen?;;;;;;;;;;;x
+CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;;x
+po_install_communist_gov_type;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;x;
+install_communist_gov_cb;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x
+install_communist_gov_cb_desc;Установить коммунистическое правительство.;Installer le gouvernement communiste.;Setzt die kommunistische Regierung ein.;;;;;;;;;;;x
+install_communist_gov_cb_setup;Установить коммунистическое правительство. Если это будет достигнуто, страна автоматически будет добавлена в нашу сферу.;Installer le gouvernement communiste. En cas de reussite, le pays sera automatiquement ajoute a notre sphere d'influence.;Setzt die kommunistische Regierung ein. Sobald dies erreicht wurde, wird das Land automatisch unserer Sphare zugefugt. ;;;;;;;;;;;x
+install_communist_gov_cb_short;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x
+CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;;x
+po_uninstall_communist_gov_type;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;x;
+uninstall_communist_gov_cb;Удалить коммунизм;Revoquer le Communisme;Kommunismus absetzen;;;;;;;;;;;x
+uninstall_communist_gov_cb_desc;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x
+uninstall_communist_gov_cb_setup;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x
+uninstall_communist_gov_cb_short;Удалить коммунизм.;Revoquer le Communisme.;Kommunismus absetzen;;;;;;;;;;;x
+NF_OVERWRITE_HEADER;Чтобы установить новый национальный фокус §Y$NF$§!, необходимо удалить еще один.;Pour adopter la nouvelle cause nationale §Y$NF$§! vous devez en supprimer une autre.;Um den neuen nationalen Fokus auf §Y$NF$§! setzen zu konnen, musst Ihr einen anderen entfernen. ;;;;;;;;;;;x
+NF_OVERWRITE_ENTRY;§Y$NF$§!\nв §G$STATE$§!;§Y$NF$§!\nen §G$STATE$§!;§Y$NF$§!\nin §G$STATE$§!;;;;;;;;;;;x
+PRESTIGE_MORALE_BONUS;Бонус к моральному духу: §Y$VAL$§!;Bonus du moral : §Y$VAL$§!;Moral-Bonus: §Y$VAL$§!;;;;;;;;;;;x
+PRESTIGE_MAX_ORG_BONUS;Бонус за организацию: §Y$VAL$§!;Bonus pour l''organisation : §Y$VAL$§!;Organizationsbonus: §Y$VAL$§!;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_TITLE;Штраф за престиж.;Penalite de prestige.;Prestige-Strafe.;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_DESC;Наша страна понесет потерю престижа в размере §R$VAL$§!, если мы отстраним нынешнего лидера §Y$NAME$§! от этого подразделения во время войны.\nВы все еще хотите это сделать?;Notre pays perdra §R$VAL$§! de prestige si nous retirons le commandant actuel §Y$NAME$§! de cette unite en temps la guerre.\nVoulez-vous vraiment le faire ?;Unser Land wird einen Prestige-Verlust von §R$VAL$§! erleiden, wenn wir den derzeitigen Fuhrer §Y$NAME$§! dieser Einheit wahrend des Krieges entfernen.\nMochtet Ihr dennoch fortfahren?;;;;;;;;;;;x
+REORG_PANEL_BALANCE_UNITS;Баланс;Equilibre;Guthaben;;;;;;;;;;;x
+INVEST_PROJECT_NOT_ENOUGH_MONEY;§RУ нас недостаточно средств для этого.§!;§RNous n'avons pas assez de fonds pour ca.§!;§RWir haben keine ausreichenden Mittel, um dies zu tun.§!;;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX;§RCtrl + Щелкните левой кнопкой мыши§!, чтобы инвестировать максимальную сумму в этот проект. (§Y$AMOUNT$§!¤);§RCtrl + Clic gauche§! pour investir le montant maximum dans ce projet (§Y$AMOUNT$§! ¤);§RCtrl + Linke Maustaste klicken§!, um die maximale Summe in dieses Projekt zu investieren. (§Y$AMOUNT$§!¤);;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX_ALL;§RShift + Щелкните левой кнопкой мыши§!, чтобы инвестировать максимальную сумму во все проекты. (§Y$AMOUNT$§!¤);§RMaj + Clic gauche§! pour investir le montant maximum dans tous les projets (§Y$AMOUNT$§! ¤);§RShift + Linke Maustaste klicken§!, um die maximale Summe in alle Projekte zu investieren. (§Y$AMOUNT$§!¤);;;;;;;;;;;x
+INVEST_PROJECT_CONFIRM;Инвестировать;Investissement;Investieren;;;;;;;;;;;x
+INVEST_PROJECT_MAX;Макс;Maximum;Max.;;;;;;;;;;;x
+INVEST_PROJECT_TITLE;"Инвестируйте в проект: ""§Y$PROJ$§!"" в §Y$LOC$§!";"Investir dans le projet : """"§Y$PROJ$§!"""" a §Y$LOC$§!";"In dieses Projekt investieren: ""§Y$PROJ$§!"" bei §Y$LOC$§!";;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_YOUR_BUDGET;Ваш текущий бюджет.;Votre budget actuel.;Euer derzeitiges Budget.;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_PROJECT_BUDGET;Бюджет проекта составляет §Y$BUD$§! из необходимой суммы §Y$TOT$§!.\nВы решили инвестировать §Y$INV$§! в этот проект.;Le budget du projet est §Y$BUD$§! sur les §Y$TOT$§! necessaires.\nVous decidez d'investir  §Y$INV$§! dans ce projet.;Projektbudget betragt §Y$BUD$§! von §Y$TOT$§! benotigt.\nIhr entscheidet euch dazu, §Y$INV$§! in dieses Projekt zu investieren.;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_APPLY;Примените свои инвестиции.;Appliquer votre investissement.;Eure Investierung abschliessen.;;;;;;;;;;;x
+MIL_MULTI_CONSTRUCTION_TOOLTIP;§YЩелкните левой кнопкой мыши + SHIFT§!, чтобы построить все.;§YClic gauche + Maj§! pour tout construire.;§YLinksklick + SHIFT§!, um alles zu bauen.;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_SHORT;Отменить все;Tout annuler;Alles abbrechen;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL;Отменить все конструкции;Annuler toutes les constructions;Alle Errichtungen abbrechen;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_TITLE;Отменить все построения.;Annuler toutes les constructions.;Alle Errichtungen abbrechen.;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;Вы уверены, что хотите отменить все военные строительства?;Etes-vous certain de vouloir annuler toutes nos constructions militaires ?;Seid Ihr Euch sicher, dass Ihr alle militarischen Errichtungen abbrechen mochtet?;;;;;;;;;;;x
+SORT_BY_PRESTIGE;Сортировать по престижу;Tri par prestige;Nach Prestige sortieren;;;;;;;;;;;x
+SORT_BY_NAME;Сортировать по имени;Tri par nom;Nach Namen sortieren;;;;;;;;;;;x
+SORT_BY_SELECTED;Сортировать по выбранному;Tri par selections;Nach Auswahl sortieren;;;;;;;;;;;x
+ATTACKUSREBEL_SETUP;Когда одно из наших наземных подразделений подвергается нападению со стороны повстанцев;Quand une de nos unites terrestres subit une attaque des rebelles;Sobald eine unserer Landereinheiten von den Rebellen angegriffen wird;;;;;;;;;;x;
+ATTACKUSREBEL_HEADER;Наш начальник штаба сообщает, что;Notre chef d'etat-major rapporte que;Unser Stabschef berichtet:;;Nuestro jefe de estado mayor informa de que;;;;;;;;;x
+ATTACKUSREBEL_1;Наши силы подверглись нападению!;Nos forces sont attaquees !;Unsere Truppen werden angegriffen!;;ЎEstan atacando a nuestras fuerzas!;;;;;;;;;x
+ATTACKUSREBEL_2;$MONARCHTITLE$, на нас напали в;$MONARCHTITLE$, nous avons ete attaques dans la province de;$MONARCHTITLE$, wir werden in;;$MONARCHTITLE$, hemos sido atacados en;;;;;;;;;x
+ATTACKUSREBEL_3;\$PROV\$.;$PROV$.;$PROV$ angegriffen.;;$PROV$.;;;;;;;;;x
+ATTACKUSREBEL_4;Враждебные силы из $ATTACKER$ вступили с нами в бой;Les forces ennemies de $ATTACKER$ ont engage le combat contre nous.;Feindliche Truppen von $ATTACKER$ greifen uns an.;;Fuerzas hostiles de $ATTACKER$ han entablado combate con nosotros con;;;;;;;;;x
+ATTACKUSREBEL_5;*;*;*;;*;;;;;;;;;x
+ATTACKUSREBEL_6;*;*;*;;*;;;;;;;;;x
+ATTACKUSREBEL_LOG;На нас напали в $PROV$.;Nous avons ete attaques dans la province de $PROV$.;Wir wurden in $PROV$ angegriffen.;;Hemos sido atacados en $PROV$.;;;;;;;;;x
+ATTACKUSREBEL_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ATTACKUSREBEL_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x;x
+ATTACKUSREBEL_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+ATTACKUSREBEL_MAP;Под атакой!;Nous sommes attaques !;Wird angegriffen;;ЎNos atacan!;;;;;;;;;x
+ATTACKTHEMREBEL_SETUP;Когда один из наших сухопутных отрядов атакует мятеж.;Quand une de nos unites terrestres attaque la rebellion;Sobald eine unserer Landereinheiten die Rebellen angreift.;;;;;;;;;;;x
+ATTACKTHEMREBEL_HEADER;Наш начальник штаба сообщает, что;Notre chef d'etat-major rapporte que;Unser Stabschef berichtet:;;Nuestro jefe de estado mayor informa de que;;;;;;;;;x
+ATTACKTHEMREBEL_1;Мы вступили в бой с Врагом!;nous avons attaque l'ennemi !;Aufeinandertreffen mit dem Feind!;;ЎHemos entablado combate con el enemigo!;;;;;;;;;x
+ATTACKTHEMREBEL_2;$MONARCHTITLE$, у нас есть сообщения о том, что битва началась в;$MONARCHTITLE$, nous vous informons que la bataille a commence dans la province de;Uns wird gemeldet, dass eine Schlacht in;;$MONARCHTITLE$, nos informan que ha comenzado la batalla en;;;;;;;;;x
+ATTACKTHEMREBEL_3;$PROV$.;$PROV$.;$PROV$ begonnen hat.;;$PROV$.;;;;;;;;;x
+ATTACKTHEMREBEL_4; Мы атакуем силы $DEFENDER$ и пытаемся сбить их оборону. Мы вступили в бой с;Nous sommes les forces d'attaque de $DEFENDER$ et nous tentons de deloger leurs defenses. Nous avons engage le combat avec ;Wir greifen Truppen aus $DEFENDER$ an und versuchen, sie aus ihren Stellungen zu werfen. Wir befinden uns im Kampf mit;;Atacamos a la fuerza $DEFENDER$, en un intento de desbaratar sus defensas. Hemos entablado ;;;;;;;;;x
+ATTACKTHEMREBEL_5;*;$ATTUNIT$\n;*;;combate con: $ATTUNIT$\n;;;;;;;;;x
+ATTACKTHEMREBEL_6;*;*;*;;atacando a: $DEFUNIT$;;;;;;;;;x
+ATTACKTHEMREBEL_LOG;Мы атаковали врага в $PROV$.;Nous avons attaque l'ennemi dans la province de $PROV$.;Wir haben den Feind in $PROV$ angegriffen.;;Hemos atacado al enemigo en $PROV$.;;;;;;;;;x
+ATTACKTHEMREBEL_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ATTACKTHEMREBEL_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ATTACKTHEMREBEL_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+ATTACKTHEMREBEL_MAP;Атака началась;*;*;;*;;;;;;;;;x
+SIEGEUSREBEL_SETUP;Когда восстание начнет оккупировать нашу провинцию;Quand les rebelles occupent notre province;Sobald die Rebellen damit beginnen, unsere Provinzen einzunehmen.;;;;;;;;;;;x
+SIEGEUSREBEL_HEADER;$MESSENGER$;$MESSENGER$;$MESSENGER$;;$MESSENGER$;;;;;;;;;x
+SIEGEUSREBEL_1;Наша провинция начинает оккупироваться;L'occupation de notre province commence;Unsere Provinz befindet sich unter Belagerung;;Estan empezando a ocupar nuestra provincia;;;;;;;;;x
+SIEGEUSREBEL_2;$MONARCHTITLE$,;$MONARCHTITLE$,;$MONARCHTITLE$;;$MONARCHTITLE$,;;;;;;;;;x
+SIEGEUSREBEL_3;$PROV$;$PROV$;$PROV$;;han empezado a ocupar;;;;;;;;;x
+SIEGEUSREBEL_4;начинает быть оккупирован. Не бойтесь! Силы;est occupee. Ne craignez rien ! Les forces de;wird gerade vom Feind belagert. Doch furchtet nichts!\nDie Truppen von;;$PROV$. ЎNo hay nada que temer! Las fuerzas de;;;;;;;;;x
+SIEGEUSREBEL_5;$ATTACKER$;$ATTACKER$;$ATTACKER$;;$ATTACKER$;;;;;;;;;x
+SIEGEUSREBEL_6;скоро будут изгнаны мощью наших армий.;seront bientot repoussees par nos puissantes armees.;werden schon bald von der Macht unserer Armeen vertrieben werden.;;pronto seran expulsadas por el poder de nuestros ejercitos.;;;;;;;;;x
+SIEGEUSREBEL_LOG;$PROV$ начинает оккупироваться.;$PROV$ est occupee.;$PROV$ wird gerade vom Feind belagert.;;Han empezado a ocupar $PROV$.;;;;;;;;;x
+SIEGEUSREBEL_BTN1;ХОРОШО;D'accord;OK;;OK;;;;;;;;;x
+SIEGEUSREBEL_BTN2;ХОРОШО;D'accord;OK;;OK;;;;;;;;;x
+SIEGEUSREBEL_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+SIEGEUSREBEL_MAP;*;*;*;;*;;;;;;;;;x
+SIEGETHEMREBEL_SETUP;Когда мы начнем оккупировать провинцию, контролируемую мятежниками.;Quand nous occupons une province ennemie;Sobald wir beginnen, eine von den Rebellen kontrollierte Provinz zu besetzen.;;Cuando empezamos a ocupar una de las provincias de nuestro enemigo;;;;;;;;;x
+SIEGETHEMREBEL_HEADER;$MESSENGER$;$MESSENGER$;$MESSENGER$;;$MESSENGER$;;;;;;;;;x
+SIEGETHEMREBEL_1;Их провинция начинает оккупироваться;Leur province est occupee;Ihre Provinz wird belagert werden;;Se ha empezado a ocupar su provincia;;;;;;;;;x
+SIEGETHEMREBEL_2;$MONARCHTITLE$, мы начали занимать;$MONARCHTITLE$, nous occupons;$MONARCHTITLE$, wir haben die Belagerung von folgender Provinz begonnen: ;;$MONARCHTITLE$, hemos iniciado la ocupacion de;;;;;;;;;x
+SIEGETHEMREBEL_3;$PROV$.;$PROV$.;$PROV$.;$PROV$.;$PROV$.;$PROV$.;$PROV$ kцnnyыszerrel bevehetх erхdjйt.;$PROV$.;;;;;;x
+SIEGETHEMREBEL_4;Пройдет совсем немного времени, прежде чем наши силы вырвут его из лап;Nos forces auront bientot debarrasse cette province de;Es wird nicht lange dauern, bis unsere Truppen sie;;Nuestras fuerzas no tardaran en arrancarla de las garras de;;;;;;;;;x
+SIEGETHEMREBEL_5;$DEFENDER$.;$DEFENDER$.;$DEFENDER$ entrissen haben.;;$DEFENDER$.;;;;;;;;;x
+SIEGETHEMREBEL_6;Они будут с нетерпением ждать нашего просвещенного правительства.;Sa population attend impatiemment d'etre guidee par notre gouvernement.;Sie werden sich auf unsere aufgeklarte Regierung freuen.;;Esperan con anhelo nuestro gobierno.;;;;;;;;;x
+SIEGETHEMREBEL_LOG;Мы начали занимать $PROV$.;Nous occupons $PROV$.;Wir haben mit der Belagerung von $PROV$ begonnen.;;Hemos empezado a ocupar $PROV$.;;;;;;;;;x
+SIEGETHEMREBEL_BTN1;ХОРОШО;D'accord;OK;;OK;;;;;;;;;x
+SIEGETHEMREBEL_BTN2;ХОРОШО;D'accord;OK;;OK;;;;;;;;;x
+SIEGETHEMREBEL_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+SIEGETHEMREBEL_MAP;*;*;*;;*;;;;;;;;;x
+REMOVE_RANDOM_ECO_REFORMS_EFFECT;Удалить §R$VAL$§! экономические реформы.\n;Suppression de §R$VAL$§! reformes economiques.\n;§R$VAL$§! okonomische Reformen entfernen.\n;;;;;;;;;;;x
+REMOVE_RANDOM_MIL_REFORMS_EFFECT;Удалить §R$VAL$§! военные реформы.\n;Suppression de §R$VAL$§! reformes militaires.\n;§R$VAL$§! militarische Reformen entfernen.\n;;;;;;;;;;;x
+PRODUCTION_FACTORY_PURE_INCOME;Чистый доход за последний день: $VALUE$;Revenu net du jour dernier : $VALUE$;Reines Einkommen des letzten Tages: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_MARKET_SPENDINGS;Расходы рынка: $VALUE$;Depenses sur les marches : $VALUE$;Ausgaben auf dem Markt: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_POP_PAYCHECKS;Зарплаты рабочих и капиталистов: $VALUE$;Remunerations des travailleurs et du capital : $VALUE$;Gehaltsscheck von Arbeitern und Kapitalisten: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_TOTAL_BALANCE;Остаток за последний день: $VALUE$;Solde du jour dernier : $VALUE$;Kontostand des Vortags: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_TODAY_PROFIT;Прибыль за последний день: $VALUE$;Profit du jour dernier: $VALUE$;Rentabilitat des Vortags: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_PROFITABILITY;Средняя прибыльность (последние $DAYS$ дней): $VALUE$;Profit moyen (derniers $DAYS$ jours) : $VALUE$;Durschnittl. Rentabilitat (der letzten $DAYS$ Tage): $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_CURRENT_BUDGET;Текущий бюджет мануфактуры: $VALUE$;Budget actuel des usines : $VALUE$;Derzeitiges Fabrikanlagen-Budget: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_INVESTMENT;Из инвестиций: $VALUE$;Des investissements : $VALUE$;Aus Investitionen: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_SUBSIDIES;Из инвестиций: $VALUE$;Des investissements : $VALUE$;Aus Investitionen: $VALUE$;;;;;;;;;;;x
+INFLUENCE_OVERFLOW_TOOLTIP;Мы тратим §Y$VALUE$§! очков влияния каждый день, чтобы уменьшить влияние других стран.;Nous utilisons chaque jour §Y$VALUE$§! points d'influence pour reduire l'influence des pays etrangers.;Wir verbrauchen jeden Tag §Y$VALUE$§! Einfluss-Punkte, um den Einfluss anderer Lander zu reduzieren. ;;;;;;;;;;;x
+TRADE_FLOW_PRODUCED;§YПродюсер:§W;§YProduit par :§W;§YProduziert von:§W;;;;;;;;;;;x
+TRADE_FLOW_USED;§Yиспользуется:§W;§YUtilise par :§W;§YBenutzt von:§W;;;;;;;;;;;x
+TRADE_FLOW_MAY_BE_USED;§YМожет использоваться для:§W;§YPeut etre utilise par :§W;§YKann genutzt werden fur:§W;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_PRODUCED;§YВсего произведено:§W;§YProduction totale :§W;§YInsgesamt produziert:§W;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_USED;§YВсего использовано:§W;§YUtilisation totale :§W;§YGesamter Verbrauch:§W;;;;;;;;;;;x
+TRADE_FLOW_RGO_NAME;РГО;EAM;RGOs;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO;Наши $POP$ - это $ACTION$ $AMOUNT$ $RESOURCE$ каждый день.;Nos $POP$ $ACTION$ $AMOUNT$ $RESOURCE$ par jour.;Unsere $POP$ betragen $ACTION$ $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_MINING;добыча;extraient;Bergbau;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_FARMING;сельское хозяйство;produisent;Landwirtschaft;;;;;;;;;;;x
+TRADE_FLOW_DESC_ARTISAN;Наши мастера производят $AMOUNT$ $RESURCE$ каждый день.;Nos artisans produisent $AMOUNT$ de $RESOURCE$ chaque jour.;Unsere Handwerker produzieren $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x
+TRADE_FLOW_DESC_FACTORY;Наш $Мануфактура$ в $STATE$ производит $AMOUNT$ $RESURCE$ каждый день.;Notre $Manufactory$ en $STATE$ produit $AMOUNT$ de $RESOURCE$ par jour.;Unsere $Manufactory$ in $STATE$ produziert $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_ARTISAN;Мастера используют $AMOUNT$ $RESOURCE$ для производства $OUTPUT$.;Les artisans utilisent $AMOUNT$ de $RESOURCE$ pour une producion de $OUTPUT$.;Handwerker verwenden $AMOUNT$ $RESOURCE$, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_RGO;$POP$ используют $AMOUNT$ $RESOURCE$ для производства $OUTPUT$.;Les $POP$ utilisent $AMOUNT$ de $RESOURCE$ pour une producion de $OUTPUT$.;$POP$ verwenden $AMOUNT$ $RESOURCE$, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_FACTORY;Наше $Производство$ в $ШТАТЕ$ использует $AMOUNT$ $RESURCE$ для покрытия расходов на вводимые ресурсы и/или техническое обслуживание.;Notre $Manufactory$ en $STATE$ utilise $AMOUNT$ de $RESOURCE$ comme matiere premiere et/ou pour son entretien.;Unsere $Manufactory$ in $STATE$ verwendet $AMOUNT$ $RESOURCE$ als Eingangs- und/ oder Instandhaltungsvoraussetzungen.;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_POPS;Наши $POP$ используют $AMOUNT$ $RESOURCE$ как часть своих ежедневных потребностей.;Nos $POP$ utilisent $AMOUNT$ de $RESOURCE$ au titre de leurs besoins quotidiens.;Unsere $POP$ verwenden $AMOUNT$ $RESOURCE$ als Teil ihres taglichen Bedarfs.;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_MILITARY;Наши армии ежедневно используют $AMOUNT$ $RESOURCE$ в качестве расходного материала.;Nos armees utilisent $AMOUNT$ de $RESOURCE$ pour leur ravitaillement quotidien.;Unsere Armee benotigt $AMOUNT$ $RESOURCE$ fur ihren taglichen Vorratsverbrauch.;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ может быть использован нашими армиями в качестве ежедневного расходного материала.;$INPUT$ peuvent etre utilises quotidiennement par nos armees pour leur ravitaillement.;$INPUT$ kann von unseren Armeen fur ihren taglichen Vorratsverbrauch verwendet werden.;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_DESC;$INPUT$ может использоваться $PRODUCER$ для создания $OUTPUT$.;$INPUT$ peuvent etre utilises par les $PRODUCER$ pour une production de $OUTPUT$.;$INPUT$ kann durch $PRODUCER$ verwendet werden, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x
+TRADE_FLOW_MILITARY_SUPPLY;Военное потребление;Consommation militaire;Militarischer Verbrauch;;;;;;;;;;;x
+TRADE_FLOW_CURRENT_PRICE;Текущая цена:;Prix courant :;Derzeitiger Preis:;;;;;;;;;;;x
+TRADE_FLOW_DETAILS;Подробности;Detail;Details;;;;;;;;;;;x
+TRADE_FLOW_PART_OF_WORLD_PROD;§Y$PERC$%§W мирового производства.;§Y$PERC$ %§W de la production mondiale.;§Y$PERC$%§W der Weltproduktion.;;;;;;;;;;;x
+EMIGRATION_AT_PROVINCE_TOOLTIP;(§R$TOTALEMI$§!) §YЭмиграции в:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YИммиграции из:§!\n$IMMLIST$;(§R$TOTALEMI$§!) §YEmigration vers §!\n$EMILIST$\n(§G$TOTALIMM$§!) §YImmigration de §!\n$IMMLIST$;(§R$TOTALEMI$§!) §YAuswanderer nach:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YEinwanderer von:§!\n$IMMLIST$;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND1_TOOLTIP;Провинция принадлежит: §Y$COUNTRY$§!;La Province appartient a : §Y$COUNTRY$§!;Provinz gehort zu: §Y$COUNTRY$§!;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND2_TOOLTIP;Миграции между странами не отмечено.;Aucune migration relevee entre pays;Es konnte keine Abwanderung zwischen Landern festgestellt werden.;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND3_TOOLTIP;(Выберите провинцию, чтобы увидеть подробности);(Selectionner une province pour voir les details);(Fur weitere Details, wahle eine Provinz);;;;;;;;;;;x
+PROVINCE_VIEW_BUILD_ALL_TOOLTIP;(Нажмите + CTRL, чтобы построить во всех провинциях штата);(Clic + Ctrl pour construire dans toutes les provinces de l'Etat);(Klick + CTRL, um in allen Provinzen des Staates zu bauen);;;;;;;;;;;x
+EMIGRATION_ENTRY_TOOLTIP;§R$NUM$§! к §Y$PROV$§!;§R$NUM$§! vers §Y$PROV$§!;§R$NUM$§! nach §Y$PROV$§!;;;;;;;;;;;x
+IMMIGRATION_ENTRY_TOOLTIP;§G$NUM$§! от §Y$PROV$§!;§G$NUM$§! de §Y$PROV$§!;§G$NUM$§! von §Y$PROV$§!;;;;;;;;;;;x
+CB_GENERATION_SPEED_BONUS_ON_COLONY_COMPETITION;Соревнование с §Y$COUNTRY$§! за колонизацию §Y$REGION$§!, бонус скорости §Y$BONUS$§!.;Competition avec §Y$COUNTRY$§! pour coloniser §Y$REGION$§!, bonus de vitesse de §Y$BONUS$§!.;Tretet gegen §Y$COUNTRY$§! an, um §Y$REGION$§! Zu kolonisieren, Geschwindigkeitsbonus §Y$BONUS$§!.;;;;;;;;;;;x
+CB_GENERATION_BONUS_TOOLTIP;Бонус за скорость генерации CB §Y$BONUS$§! между конкурирующими странами: §Y$COUNTRIES$§!;Bonus de vitesse de generation des CB de §Y$BONUS$§! entre les pays concurrents : §Y$COUNTRIES$§!;Der CB Generationen-Geschwindigkeitsbonus §Y$BONUS$§! bei einem Kampf zwischen: §Y$COUNTRIES$§!;;;;;;;;;;;x
+CB_GENERATION_BONUS_TROOPS_PRESENCE_TOOLTIP;(§Y$BONUS$§! за присутствие войск противника);(§Y$BONUS$§! du fait de la presence de troupes ennemies);(§Y$BONUS$§! fur die Anwesenheit gegnerischer Truppen);;;;;;;;;;;x
+CB_GENERATION_BONUS_OPPONENT_TROOPS_PRESENCE;(§Y$BONUS$§! за §Y$FOR$§! против §Y$AGAINST$§! за присутствие их войск);(§Y$BONUS$§! pour §Y$FOR$§! contre §Y$AGAINST$§! du fait de la presence de leurs troupes);(§Y$BONUS$§! fur §Y$FOR$§! gegen §Y$AGAINST$§! fur die Gegenwart ihrer Truppen);;;;;;;;;;;x
+MODIFIER_CB_GENERATION_SPEED_MODIFIER;Скорость получения Casus Belli;Vitesse d'obtention des Casus Belli;Casus Belli Beschaffungsgeschwindigkeit;;;;;;;;;;;x
+NOT_CONSTRUCTING_CASUS_BELLI_AGAINST; Не приобретая оправдания войны против;Pas d'obtention de Casus Belli contre ;Keine Kriegsrechtfertigung beschafft gegen:;;;;;;;;;;;x
+MODIFIER_MOBILIZATION_IMPACT;Мобилизационный эффект;Impact de la mobilisation;Mobilisationsauswirkung;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC;Мобилизационное воздействие §Y$IMPACT$§! из военной политики §Y$POLICY$§! ограничивает количество мобилизованных подразделений до §Y$UNITS$§!.;L'impact sur la mobilisation de §Y$IMPACT$§! de la politique de guerre §Y$POLICY$§! limite le nombre d'unites mobilisees a §Y$UNITS$§!.;Mobilisationsauswirkung §Y$IMPACT$§! der §Y$POLICY$§! Kriegsregelung, schrankt die Menge der mobilisierten Einheiten auf §Y$UNITS$§! ein.;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC2;(Текущее количество сформированных полков: §Y$CURR$§!, умноженное на §Y$IMPACT$§!);(Nombre actuel de regiments leves §Y$CURR$§! par §Y$IMPACT$§!);(Gegenwartige Anzahl aufgestellter Regimente §Y$CURR$§! by §Y$IMPACT$§!);;;;;;;;;;;x
+CONSTRUCTING_CASUS_BELLI_AGAINST; Получение оправдания войны против;Obtention d'un casus belli contre ;Beschaffung einer Kriegsrechtfertigung gegen:;;;;;;;;;;;x
+TRIGGER_CB_CREATION_NOT_DISCOVERED;Не оправдывать войну;Pas de production de CB;Kriegsrechtfertigungen werden nicht produziert;;;;;;;;;;;x
+TRIGGER_CB_CREATION_DISCOVERED;Пытаются оправдать войну;Tentative de produire un CB;Versuchen, eine Kriegsrechtfertigung zu entwickeln;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_LESS;Прогресс оправдания войны: §Y$PERCENTAGE$§W;Progression de CB : §Y$PERCENTAGE$§W;Fortschritt der Kriegsrechtfertigung: §Y$PERCENTAGE$§W;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_ATLEAST;Прогресс оправдания войны ниже: §Y$PERCENTAGE$§W;Progression de CB en dessous de §Y$PERCENTAGE$§W;Fortschritt der Kriegsrechtfertigung unter: §Y$PERCENTAGE$§W;;;;;;;;;;;x
+TRIGGER_IS_CONSTRUCTING_CB;Получение оправдания войны для: §Y$TYPE$§W;Obtention de CB pour §Y$TYPE$§W;Beschaffung einer Kriegsrechtfertigung fur: §Y$TYPE$§W;;;;;;;;;;;x
+TRIGGER_IS_NOT_CONSTRUCTING_CB;Не получение оправдания войны для: §Y$TYPE$§W;Pas d'obtention de CB pour §Y$TYPE$§W;Keine Beschaffung einer Kriegsrechtfertigung fur: §Y$TYPE$§W;;;;;;;;;;;x
+NEED_RELATION_LESS;Отношения слишком высокие, нам нужно быть ниже §Y$LIMIT$§W, но в настоящее время мы на уровне §Y$VAL$§W;Les relations sont trop bonnes, nous avons besoin d'etre en-dessous de §Y$LIMIT$§W mais sommes a §Y$VAL$§W;Die Beziehungen sind zu gut,  wir mussen unter §Y$LIMIT$§W kommen, sind jedoch bei §Y$VAL$§W;;;;;;;;;;;x
+ALREADY_MAKING_CB;Мы уже готовим оправдание для войны с §Y$TARGET$§W;Nous sommes deja en train de preparer un CB contre §Y$TARGET$§W;Wir bereiten gerade eine Rechtfertigung fur einen Krieg mit §Y$TARGET$§W vor;;;;;;;;;;;x
+MAKE_CB_BUTTON;Оправдать войну;Justifier la guerre;Krieg rechtfertigen;;;;;;;;;;;x
+MAKE_CB_DESC;Предъявить оправдание войне с ними;Produire un CB pour une guerre contre eux;Entwickelt eine Rechtfertigung fur einen Krieg mit ihnen;;;;;;;;;;;x
+MAKE_CBTITLE;Оправдать войну;Justifier la guerre;Rechtfertigt den Krieg;;;;;;;;;;;x
+MAPMODE_11;Выход РГО;Production Agricole et Miniere;RGO Ausgang;;;;;;;;;;;x
+MAPMODE_12;Плотность населения;Densite de population;Bevolkerungsdichte;;;;;;;;;;;x
+MAPMODE_13;Национальность;Nationalite;Nationalitat;;;;;;;;;;;x
+MAPMODE_14;Сфера влияния;Sphere d'influence;Einflussbereich;;;;;;;;;;;x
+MAPMODE_15;Лимит поставок;Limite de ravitaillement;Vorratslimit;;;;;;;;;;;x
+MAPMODE_16;Лояльность к имуществу;Loyaute partisane;Parteiloyalitat;;;;;;;;;;;x
+MAPMODE_17;Рейтинг;Rang;Rangliste;;;;;;;;;;;x
+MAPMODE_18;Миграции;Migrations;Abwanderung;;;;;;;;;;;x
+MAPMODE_20;Отношения;Relations;Beziehungen;;;;;;;;;;;x
+WORLD_RANKING;Мировой рейтинг:;Rang mondial :;Weltrangliste:;;;;;;;;;;;x
+WORLD_RANKING_SECONDARY_POWER;§Y$COUNTRY$§W — вторичная держава.;§Y$COUNTRY$§W est une puissance secondaire.;§Y$COUNTRY$§W ist eine zweirangige Macht.;;;;;;;;;;;x
+POPULATION_DENSITY_AT_PROVINCE;Общая численность населения в §Y$PROV$§W:;Population totale en §Y$PROV$§W :;Gesamtbevolkerung in §Y$PROV$§W:;;;;;;;;;;;x
+NATIONALITY_MAJORITY_AT_PROVINCE;Национальное большинство в §Y$PROV$§W составляют:;La majorite nationale en §Y$PROV$§W est :;Die nationale Mehrheit in §Y$PROV$§W haben:;;;;;;;;;;;x
+SPHERE_OF_INFL_GREAT_POWER;§Y$COUNTRY$§W — великая держава.;§Y$COUNTRY$§W est une grande puissance.;§Y$COUNTRY$§W ist eine grosse Macht.;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§W находится в сфере §Y$COUNTRY2$§W.;§Y$COUNTRY1$§W est dans la sphere de §Y$COUNTRY2$§W.;§Y$COUNTRY1$§W befindet sich im Wirkungsbereich von §Y$COUNTRY2$§W.;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_INFL_BY;На §Y$COUNTRY$§W влияют:;§Y$COUNTRY$§W est influence par : ;§Y$COUNTRY$§W wird beeinflusst von:;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;Лояльность к §Y$PARTY$§W в §Y$PROV$§W будет $OPERATOR$ §Y$VALUE$§W.;La loyaute au §Y$PARTY$§W en §Y$PROV$§W sera de $OPERATOR$ §Y$VALUE$§W.;Die Loyalitat gegenuber §Y$PARTY$§W in §Y$PROV$§W wird $OPERATOR$ §Y$VALUE$§W sein.;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_ADD;увеличилось на;augmente de;erhoht um;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_REM;уменьшилось на;diminue de;gesunken um;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_MUL;умноженное на;multiplie par;multipliziert um;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_SET;установлен на;fixe a;gesetzt auf;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_HEADER;Лояльность поместья в §Y$PROV$§W:;Loyaute du parti en §Y$PROV$§W :;Parteiloyalitat in §Y$PROV$§W:;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_NEUTRAL;Нейтральный;Neutre;Neutral;;;;;;;;;;;x
+PARTY_POPULARITY;Популярность недвижимости;Popularite du parti;Partei-Beliebtheit;;;;;;;;;;;x
+PRICE_HISTORY_TIME_RANGE;Последние $MONTHS$ месяцев;Derniers $MONTHS$ mois;Letzte $MONTHS$ Monate;;;;;;;;;;;x
+party_loyalty_focus;Лояльность к имуществу;Loyaute du parti;Parteiloyalitat;;;;;;;;;;;x
+fascist_focus; Сословная лояльность по отношению к §Yфашисту§!;Loyaute envers le parti §Yfasciste§! ;Parteiloyalitat gegenuber §Yfascist§! ;;;;;;;;;;;x
+reactionary_focus; Лояльность сословия по отношению к §Yреакционерам§!;Loyaute envers le parti §Yreactionnaire§! ;Parteiloyalitat gegenuber §Yreactionary§! ;;;;;;;;;;;x
+conservative_focus;Лояльность сословия к §Yконсерваторам§!;Loyaute envers le parti §Yconservateur§! ;Parteiloyalitat gegenuber §Yconservative§! ;;;;;;;;;;;x
+socialist_focus; Сословная лояльность по отношению к §Yсоциалисту§!;Loyaute envers le parti §Ysocialiste§! ;Parteiloyalitat gegenuber §Ysocialist§! ;;;;;;;;;;;x
+communist_focus; Сословная лояльность по отношению к §Yкоммунисту§!;Loyaute envers le parti §Ycommuniste§! ;Parteiloyalitat gegenuber §Ycommunist§! ;;;;;;;;;;;x
+liberal_focus; Лояльность сословия к §Yлибералу§!;Loyaute envers le parti §Yliberal§! ;Parteiloyalitat gegenuber §Yliberal§! ;;;;;;;;;;;x
+anarcho_liberal_focus; Сословная лояльность по отношению к §Янархо-либералу§!;Loyaute envers le parti §Ylibertaire§! ;Parteiloyalitat gegenuber §Yanarcho-liberal§! ;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_DESC;Ежедневное изменение лояльности: §Y$VAL$§W.;Loyaute evoluant de §Y$VAL$§W par jour.;Tagliche Anderung der Loyalitat um: §Y$VAL$§W.;;;;;;;;;;;x
+PARTY_WITH_IDEOLOGY_NOT_EXIST;Активного сословия с идеологией §Y$IDEOLOGY$§W нет.;Il n'y a pas de parti actif avec l'ideologie §Y$IDEOLOGY$§W;Es gibt keine aktive Partei mit einer §Y$IDEOLOGY$§W Weltanschauung.;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_EFFECT;От национального фокуса ежедневно меняйте $VAL$ в сторону $PARTY$.;Par l'effet de la cause nationale, evolution quotidienne de $VAL$ envers $PARTY$.;Seitens des nationalen Fokus, tagliche Anderung $VAL$ in Richtung $PARTY$.;;;;;;;;;;;x
+SUBSTATE_OF_NOCOLOR;Подсостояние;Sous-Etat de;Unterstaat von;;;;;;;;;;;x
+SUBSTATE;Субсостояние;Sous-Etat;Unterstaat ;;;;;;;;;;;x
+SUBSTATE_JOIN_WAR_DESC;является субгосударством §Y$COUNTRY$§W и всегда будет присоединяться к его войнам.;est un sous-etat de §Y$COUNTRY$§W et se joidra toujours a ses guerres.;ist ein Unterstaat von §Y$COUNTRY$§W und wird immer an dessen Kriegen teilnehmen. ;;;;;;;;;;;x
+IS_NOT_SUBSTATE_OF; НЕ является подсостоянием;N'est pas un Sous-Etat de ;Ist KEIN Unterstaat von;;;;;;;;;;;x
+IS_SUBSTATE_OF; Является подсостоянием;Est un Sous-Etat de ;Ist ein Unterstaat von;;;;;;;;;;;x
+IS_NOT_SUBSTATE;НЕ является субгосударством;N'est pas un Sous-Etat;Ist KEIN Unterstaat  ;;;;;;;;;;;x
+IS_SUBSTATE;Является субсостоянием;Est un Sous-Etat;Ist ein Unterstaat;;;;;;;;;;;x
+ANY_SUBSTATE;Любое подсостояние;Un Sous-Etat de;Irgendeinen Unterstaat von;;;;;;;;;;;x
+acquire_substate_region;Приобрести субгосударственный регион;Acquerir une region comme Sous-Etat;Beschafft eine Unterstaatsregion;;;;;;;;;;;x
+acquire_substate_region_desc;Получить регион у вражеского §Yсубгосударства§W;Acquerir une region d'un §YSous-Etat§W ennemi;Beschafft eine Region des Feindes §Ysubstate§W;;;;;;;;;;;x
+acquire_substate_region_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erobern;;Adquirir $STATE$;;;;;;;;;x
+acquire_substate_region_setup;Получить $STATE$ от $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erobern.;;Adquirir $STATE$ de manos de $RECIPIENT$;;;;;;;;;x
+become_independent;Стань независимым;Devenir independant;Werdet unabhangig;;;;;;;;;;;x
+become_independent_short;$ACTOR$ освобожден от $RECIPIENT$;$ACTOR$ est libere de $RECIPIENT$;$ACTOR$ wird von $RECIPIENT$ befreit;;;;;;;;;;;x
+become_independent_setup;$ACTOR$ освобождается от $RECIPIENT$ и становится независимым.;$ACTOR$ est libere de $RECIPIENT$ et devient independant.;$ACTOR$ wird von $RECIPIENT$ befreit und wird unabhangig. ;;;;;;;;;;;x
+#become_independent_desc;Станьте независимыми.;Devenir independant.;Werdet unabhangig.;;;;;;;;;;;x
+make_puppet;Сделать вассалом;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
+make_puppet_short;$RECIPIENT$ становится вассалом $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
+make_puppet_setup;$RECIPIENT$ становится вассалом $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
+make_puppet_desc;Стать вассалом;Devenir un satellite;Werdet eine Marionette;;;;;;;;;;;x
+RALLY_POINT_INFO;Если вы включите §Yточку сбора§! в этой провинции, то все ближайшие отряды направятся сюда после завершения набора.\n(Подробнее см. в режиме карты набора.);Si vous activez le §Ypoint de ralliement§! dans cette province, toutes les unites proches s'y rendront des qu'elles seront recrutees.\n(Voir la carte de recrutement pour plus de details);Falls Ihr den §Sammelpunkt§! In dieser Provinz aktiviert, werden sich alle Einheiten aus der Umgebung hierher bewegen, sobald die Rekrutierung abgeschlossen ist.\n(Weitere Details findest du im Rekrutierungs-Kartenmodus.);;;;;;;;;;;x
+RALLY_POINT_ENABLE_INFO;Включить или отключить эту провинцию как пункт сбора.;Activer ou desactiver le point de ralliement de cette province.;Aktiviert oder Deaktiviert diese Provinz als Versammlungspunkt.;;;;;;;;;;;x
+RALLY_POINT_MERGE_INFO;Включить или отключить объединение подразделений в пункте назначения.\n(Армии будут объединяться до достижения локального лимита снабжения.);Activer ou desactiver la fusion des unites a destination.\n(Les armees fusionneront jusqu'a la limite de ravitaillement locale);Aktiviert oder Deaktiviert Einheiten, die an dieser Stelle zusammengefuhrt werden.\n(Armeen kommen bis zum lokalen Vorratslimit zusammen.);;;;;;;;;;;x
+RALLY_POINT_PROVINCE_INFO;$PROV$ — это §Yточка сбора§!;$PROV$ est un §Ypoint de ralliement§!;$PROV$ ist ein §YSammelpunkt§!;;;;;;;;;;;x
+RALLY_POINT_PROVINCE_MERGE_INFO;Все набранные отряды будут объединены до §Y$LIMIT$§! по прибытии сюда.;Toutes les unites recrutees fusionneront jusqu'a §Y$LIMIT$§! quand elles arriveront ici.;Alle rekrutierten Einheiten werden bis zu einer Menge von §Y$LIMIT$§! zusammengefuhrt, sobald sie ankommen.;;;;;;;;;;;x
+CB_ALLOWED_MAKE_PUPPET;Сделать вассалом;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;x;
+DIPLOMACY_NEGOTIATE_SUBSTATE;Нам не разрешено вести переговоры с §YСубгосударствами§W;Nous ne sommes pas autorises a negocier avec les §Ysous-etats§W;Uns ist es nicht gestattet, mit §YUnterstaaten§W zu verhandeln;;;;;;;;;;;x
+DIPLOMACY_NEGOTIATE_WE_SUBSTATE;Нам не разрешено вести переговоры со странами, если мы являемся §Yсубгосударством§W;Nous ne sommes pas autorises a negocier avec les autres pays si nous sommes un §Ysous-etat§W;Falls wir ein §YUnterstaat§W sind, ist es uns nicht gestattet, mit Landern zu verhandeln.;;;;;;;;;;;x
+DECL_WAR_NO_SUBSTATE;Нам не разрешено объявлять войну §Yсубгосударствам§W;Nous ne sommes pas autorises a declarer a la guerre aux §Ysous-etats§W;Wir durfen §YUnterstaaten§W nicht den Krieg erklaren.;;;;;;;;;;;x
+DIPLO_WE_SUBSTATE;Мы являемся их субгосударством.;Nous sommes un de leurs sous-etats.;Wir sind ihr Unterstaat;;;;;;;;;;;x
+DIPLO_THEY_SUBSTATE;Они являются субгосударством нашей нации.;Ils sont sous-etat de notre nation;Sie sind ein Unterstaat unserer Nation;;;;;;;;;;;x
+SELECT_CB_CREATION_TYPE;Выберите тип обоснования, который мы хотим изготовить;Selectionner le type de CB que vous voulez fabriquer;Wahlt die Art der Rechtfertigung, die wir anfertigen wollen;;;;;;;;;;;x
+CB_CREATION_DETAIL;Сфабрикуйте оправдание для объявления войны с целью войны §Y$TYPE$§!. Это займет примерно §Y$DAYS$§! дней.\nЕсли нас обнаружат рано, максимальное количество позора, которое мы можем получить, составит §R$BADBOY$§!.;Fabriquer une justification pour declarer la guerre avec le Casus Belli §Y$TYPE$§!. Cela prendra environ §Y$DAYS$§! jours.\nSi nous sommes decouverts, la penalite d'infamie maximum que nous pourrions avoir serait de §R$BADBOY$§!.;Fertigt eine Rechtfertigung an, um einen Krieg mit §Y$TYPE$§! Kriegszielen erklaren zu konnen. Dies wird ungefahr §Y$DAYS$§! Tage dauern.\nFalls wir fruhzeitig entlarvt werden, betragt die maximale Menge an Schande, die wir erhalten konnen, §R$BADBOY$§!.;;;;;;;;;;;x
+CB_MANUFACTURE_TECH;Эффективность оправдания войны;Efficacite de la justification de guerre;Effizienz der Kriegsrechtfertigung;;;;;;;;;;;x
+CB_CREATE_TECH;Эффективность оправдания войны: $VAL$;Efficacite de la justification de guerre : $VAL$;Effizienz der Kriegsrechtfertigung: $VAL$;;;;;;;;;;;x
+SUPPRESSION_TECH_DESC;Эффективность подавления: $VAL$;Efficacite de la repression : $VAL$;Unterdruckungseffizienz: $VAL$;;;;;;;;;;;x
+CB_CREATION_TIME_DAYS;Потребуется примерно §Y$DAYS$§! дней, чтобы оправдать эту войну;Cela prendra environ §Y$DAYS$§! jours pour justifier cette guerre;Es wird ungefahr §Y$DAYS$§! brauchen, den Krieg zu rechtfertigen;;;;;;;;;;;x
+CB_NOT_ON_PUPPETS;Мы не можем оправдать войну против §Yвассалов§W и §Yсубгосударств§W.;Nous ne pouvons pas justifier une guerre contre des §Ysatellites§W ou des §Ysous-etats§W.;Wir konnen keinen Krieg gegen §YMarionetten§W and §YUnterstaaten§W fuhren.;;;;;;;;;;;x
+CB_NOT_ON_SPHERES;Мы не можем оправдать войну против страны, которая находится в нашей сфере.;Nous ne pouvons justifier une guerre contre un pays appartenant a notre sphere.;Wir konnen keinen Krieg gegen ein Land rechtfertigen, das sich in unserem Wirkungsbereich befindet.;;;;;;;;;;;x
+NO_WAR_JUSTIFICATION;У нас нет веских оснований для объявления им войны.;Il nous manque une justification valide pour leur declarer la guerre.;Wir besitzen keine gultige Kriegsrechtfertigung, um einen Krieg erklaren zu konnen.;;;;;;;;;;;x
+NOT_HOSTILE_BUILD;Не враждебный;Pas hostile;Nicht feindselig;;;;;;;;;;;x
+ACW_NAME;Разделенный дом;Une Maison Divisee;Ein geteiltes Haus;;;;;;;;;;;x
+ACW_DESC;Гражданская война бушует в Северной Америке, поскольку Конферентные Штаты пытаются отделиться от Союза. Исход неопределен, но это уже обещает быть новым типом войны, поскольку обе стороны имеют доступ к железным дорогам, телеграфу и многозарядным винтовкам. Тем временем в Европе Великобритания экспериментирует с первым военным кораблем с паровым двигателем в железном корпусе, комбинация, которая обещает произвести революцию в войне на море. Во всем мире промышленная революция набирает обороты, поскольку все больше и больше стран начинают индустриализацию. Времена меняются.;La Guerre Civile fait rage en Amerique du Nord alors que les Etats Confederes tentent de faire secession de l'Union. Le denouement est incertain, mais avec l'acces qu'ont les deux camps aux chemins de fer, aux telegraphes et aux fusils a repetition, ce sera une guerre d'un nouveau type. Pendant ce temps, en Europe, la Grande-Bretagne est en train d’experimenter le premier navire de guerre avec coque en acier et propulsion a vapeur, combinaison qui promet de revolutionner le cours de la guerre navale. Dans le monde entier, la revolution industrielle gagne du terrain et de plus en plus de pays commencent a s'industrialiser. Les temps changent...;Der Sezessionskrieg tobt in Nordamerika, da die konfoderierten Staaten versuchen, sich von der Union abzuspalten. Der Ausgang ist ungewiss, doch es verspricht schon jetzt eine neue Art des Krieges zu werden, da beide Seiten Zugriff auf Eisenbahn, Telegram;x
+EVTNAME90000;Угроза $CB_TARGET_NAME_ADJ$;La menace de $CB_TARGET_NAME_ADJ$;Die $CB_TARGET_NAME_ADJ$ Bedrohung;;;;;;;;;;;x
+EVTDESC90000;Как всем известно, $CB_TARGET_NAME$ хочет нас достать. Это всего лишь вопрос времени, когда они начнут неспровоцированную атаку, поэтому вполне разумно, что мы предпримем шаги для упреждающей защиты. По счастливой случайности, отчет с подробным описанием их гнусных схем недавно «просочился» в прессу, и общественность сплотилась на нашей стороне.;Comme tout le monde le sait, $CB_TARGET_NAME$ veut nous avoir. Ce n'est qu'une question de temps avant qu'ils lancent une attaque injustifiee, de sorte que la seule attitude raisonnable serait que nous prenions les devants par une attaque preventive. Par chance, un rapport detaillant leurs noirs desseins a recemment ete lache dans la presse, et l'opinion publique a rallie notre cause.;"Jeder weiss, dass $CB_TARGET_NAME$ uns fertig machen will. Es ist nur eine Frage der Zeit, bis sie einen unprovozierten Angriff starten. Deshalb ist es nur vernunftig, dass wir ebenfalls Schritte unternehmen, um uns praventiv zu schutzen. Wie es das Gluck so will, ist ein Dokument uber deren schandlichen Plane erst kurzlich uber die Presse ""durchgesickert"" und die offentliche Meinung ist zu unseren Gunsten.";;;;;;;;;;;x
+EVTOPTA90000;Они идут прямо на нас!;Ils arrivent bien pour sur nous !;Bald sind sie da!;;;;;;;;;;;x
+EVTNAME90001;Миссия в $CB_TARGET_NAME$;Mission en $CB_TARGET_NAME$;Mission fur $CB_TARGET_NAME$;;;;;;;;;;;x
+EVTDESC90001;В довольно неловкой ситуации несколько наших солдат в форме $CB_TARGET_NAME$ были пойманы при попытке пробраться через границу. Хотя слухи о том, что их задачей было инсценировать пограничный инцидент, чтобы оправдать наше вторжение, совершенно беспочвенны, было бы разумно не подливать масла в огонь прямо сейчас.;Suite a une bourde plutot embarrassante, plusieurs de nos soldats ont ete pris alors qu'ils tentaient de se faufiler a travers la frontiere, revetus des uniformes de $CB_TARGET_NAME$. Bien que les rumeurs, selon lesquelles leur tache etait de mettre en scene un incident de frontiere pour justifier notre propre invasion, soient denuees de tout fondement, il serait sage de ne pas jeter de l'huile sur le feu en ce moment.;Bei einem peinlichen Fehlschlag wurden einige unserer Soldaten mit der Uniform von $CB_TARGET_NAME$ bei dem Versuch uber die Grenze zu schleichen gefangen genommen. Obwohl die Geruchte uber eine inszenierten Grenzvorfall fur eine Rechtfertigung zur Invasion komplett unbegrundet sind, ware es im Moment klug fur nicht noch mehr Zundstoff zu sorgen.;;;;;;;;;;;x
+EVTOPTA90001;О чем ты говоришь?;De quoi parlez-vous ?;Wovon redet Ihr da?;;;;;;;;;;;x
+EVTNAME90002;Тирания $CB_TARGET_NAME$;La tyrannie de $CB_TARGET_NAME$;Die Tyrannei von $CB_TARGET_NAME$;;;;;;;;;;;x
+EVTDESC90002;Слишком долго люди страдали под пагубным влиянием $CB_TARGET_NAME$. Для блага всех вовлеченных мы должны раскрыть миру доказательства неэффективного управления $CB_TARGET_NAME$ и взять членов их Сферы под наше крыло для их же блага.;Depuis trop longtemps la population a subi la mauvaise influence de $CB_TARGET_NAME$. Pour le bien de tous, nous devons mettre au jour la mauvaise gestion de $CB_TARGET_NAME$ et conduire les membres de leur sphere d'influence sous notre aile protectrice, pour leur propre bien.;Zu lange schon mussten die Leute unter dem unheilvollen Einfluss von $CB_TARGET_NAME$ leiden. Zum Wohle aller Beteiligten, mussen wir die Beweise von $CB_TARGET_NAME$s Misswirtschaft der Welt kundtun und die Mitglieder deren Einflussbereichs zu ihren Gunsten unter unsere Fittiche nehmen.;;;;;;;;;;;x
+EVTOPTA90002;Мы их спасем!;Nous allons les sauver !;Wir werden sie retten!;;;;;;;;;;;x
+EVTNAME90003;Тирания $CB_TARGET_NAME$;La tyrannie de $CB_TARGET_NAME$;Die Tyrannei von $CB_TARGET_NAME$;;;;;;;;;;;x
+EVTDESC90003;Несмотря на наличие множества невыдуманных доказательств того, что $CB_TARGET_NAME$ замышляет что-то недоброе, похоже, нет никакой общественной или международной поддержки в деле спасения бедных меньших стран из сферы их влияния.;Malgre de nombreuses preuves absolument pas trafiquees contre $CB_TARGET_NAME$, il ne semble pas y avoir de soutien populaire ou international en faveur de notre projet de sortir les pauvres nations rabaissees appartenant a leur sphere d'influence.;Trotz vieler nicht ausgedachter Beweise, dass $CB_TARGET_NAME$ nichts Gutes im Schilde fuhrt, scheint es keine offentliche und internationale Unterstutzung zu geben, die armen, geringeren Nationen aus deren Einflussbereich zu retten. ;;;;;;;;;;;x
+EVTOPTA90003;Дураки!;Imbeciles !;Dummkopfe!;;;;;;;;;;;x
+EVTNAME90004;Защита $CB_TARGET_NAME_ADJ$;Protection des $CB_TARGET_NAME_ADJ$;Die $CB_TARGET_NAME_ADJ$ verteidigen;;;;;;;;;;;x
+EVTDESC90004;Без защиты такой Великой Силы, как мы, с $CB_TARGET_NAME$ может случиться что угодно. Чтобы защитить их, их нужно добавить в нашу Сферу Влияния, несмотря на любые краткосрочные возражения, которые они могут иметь. В конце концов, если бы они хоть немного осознали, они бы тоже были Великими Силами.;Sans la protection d'une grande puissance telle la notre, tout peut arriver a $CB_TARGET_NAME$. Afin d'etre proteges, il faut qu'ils rejoignent notre sphere d'influence en depit de toutes les objections a courte vue qu'ils peuvent avoir. Apres tout, si elles faisaient sens, eux aussi seraient une grande puissance.;Ohne den Schutz einer Grossmacht wie uns, konnte $CB_TARGET_NAME$ alles Mogliche wiederfahren. Um sie zu beschutzen, mussen sie unserem Einflussbereich hinzugefugt werden, unabhangig von moglichen kurzfristigen Einwanden, die sie haben konnten. Immerhin fehlt ihnen das richtige Gespur fur die Daseinsberechtigung als Grossmacht.;;;;;;;;;;;x
+EVTOPTA90004;Мы здесь, чтобы вам помочь.;Nous sommes la pour vous aider.;Wir sind hier, um euch zu helfen.;;;;;;;;;;;x
+EVTNAME90005;Фиаско $CB_TARGET_NAME_ADJ$;Le fiasco $CB_TARGET_NAME_ADJ$;Das $CB_TARGET_NAME_ADJ$ Fiasko;;;;;;;;;;;x
+EVTDESC90005;Хотя мы хотим помочь $CB_TARGET_NAME$ только добавив их в нашу сферу влияния, они очень разволновались по этому поводу. Хотя это и неприлично для всех участников, их поведение скорее настроило международное мнение против того, чтобы насильно просить их присоединиться к нам в нашем процветании. Хотя мы хотим помочь $CB_TARGET_NAME$ только добавив их в нашу сферу влияния, они очень разволновались по этому поводу. Хотя это и неприлично для всех участников, их поведение скорее настроило международное мнение против того, чтобы насильно просить их присоединиться к нам в нашем процветании.;Bien que nous voulions seulement aider $CB_TARGET_NAME$ en les integrant a notre sphere d'influence, cela les a fait reflechir. Leur comportement a fini par tourner l'opinion internationale contre notre proposition de les faire participer a notre prosperite.;Obwohl wir $CB_TARGET_NAME$ nur helfen wollen, indem wir sie unserem Einflussbereich zuordnen, haben sie sich sehr daruber aufgeregt. Sehr zum Unverstandnis aller Involvierten, hat ihr Verhalten internationale Meinungen gegen unsere nachdruckliche Bitte a;;;;;;;;;;;x
+EVTOPTA90005;Хороший выбор.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x
+EVTNAME90006;Конец $CB_TARGET_NAME_ADJ$ империализму;Fin de l'imperialisme $CB_TARGET_NAME_ADJ$;Ein Ende dem Imperialismus von $CB_TARGET_NAME_ADJ$ ;;;;;;;;;;;x
+EVTDESC90006;Почему $CB_TARGET_NAME$ должны получить все главные колониальные земли? Это просто несправедливо, вот что это такое! Они, вероятно, даже не эксплуатируют должным образом - не обучают коренное население! Что-то нужно сделать, мы заслужили свое место под солнцем!;Pourquoi $CB_TARGET_NAME$ devrait avoir la primeur sur toutes les terres coloniales ? C'est plus qu'injuste, voila tout ! Ils ne sont probablement meme pas capables d'exploiter -d'eduquer- convenablement la population autochtone ! Quelque chose doit etre fait, nous meritons notre place au soleil !;Warum sollte $CB_TARGET_NAME$ all die guten Kolonien bekommen? Das ist hochgradig ungerecht und sonst nichts! Vermutlich schaffen sie es nicht einmal, die einheimische Bevolkerung richtig auszubeuten.. zu unterrichten. Es muss etwas getan werden. Wir verdienen einen Platz an der Sonne.;;;;;;;;;;;x
+EVTOPTA90006;Хороший выбор.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x
+EVTNAME90007;Колониальный откат;Recul colonial;Kolonialer Ruckschlag;;;;;;;;;;;x
+EVTDESC90007;Несмотря на скромный характер наших справедливых требований, похоже, нет никакой международной поддержки для перестройки колониального баланса между нами и $CB_TARGET_NAME$. Хотя это и неудача, мы не сомневаемся, что однажды мы будем обладать империей, над которой никогда не заходит солнце.;En depit de la nature modeste de nos justes demandes, il ne semble pas y avoir de consensus international pour reajuster l'equilibre colonial entre $CB_TARGET_NAME$ et nous. Malgre cet echec, nous ne doutons pas de posseder un jour un empire sur lequel le soleil ne se couchera jamais.;Trotz der moderaten Natur unserer Forderungen scheint es keine internationale Unterstutzung zu geben, um die koloniale Balance zwischen uns und $CB_TARGET_NAME$ wieder herzustellen. Obwohl dies ein Ruckschlag ist, haben wir keine Zweifel daran, dass wir dies eines Tages korrigieren werden auf das in unserem Reich die Sonne niemals untergeht.;;;;;;;;;;;x
+EVTOPTA90007;Хороший выбор.;Bon plan;Eine gute Entscheidung.;;;;;;;;;;;x
+EVTNAME90008;Пришло время действовать!;Il est temps d'agir !;Es ist Zeit, zu handeln!;;;;;;;;;;;x
+EVTDESC90008;$CB_TARGET_NAME$ становится слишком большим для своих сапог, как все могут согласиться. Слишком долго они расхаживали по мировой сцене, думая, что могут делать то, что захотят. К счастью, наконец-то остальной мир согласен, и наше население твердо поддерживает нас: $CB_TARGET_NAME$ нужно сбить спесь или две.;$CB_TARGET_NAME$ devient trop gros pour ses bottes, tout le monde en convient. Pendant trop longtemps, ils se sont pavanes sur de la scene mondiale, pensant qu'ils pouvaient faire ce qu'ils voulaient. Heureusement, le reste du monde est au moins d'accord avec nous, et notre population est fermement derriere nous : $CB_TARGET_NAME$ doit etre retrograde d'un rang ou deux.;$CB_TARGET_NAME$ wird zu gross fur deren Schuhgrosse, wie alle zustimmen konnen. Schon viel zu lang sind sie uber die Weltbuhne stolziert und dachten, dass sie alles tun und lassen konnen, wie es ihnen gefallt. Glucklicherweise stimmt uns der Rest der Welt endlich zu und unsere gesamte Bevolkerung steht klar hinter uns : $CB_TARGET_NAME$ muss um ein oder zwei Stufen runtergeholt werden.;;;;;;;;;;;x
+EVTOPTA90008;Хороший выбор.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x
+EVTNAME90009;Заблудшие глупцы!;Ce sont des egares !;Fehlgeleitete Dummkopfe!;;;;;;;;;;;x
+EVTDESC90009;В то время как высокомерие $CB_TARGET_NAME$ очевидно для нас, другие, по-видимому, не видят этого. Их так называемый «суверенитет», по-видимому, позволяет им иметь собственную армию и делать то, что они хотят, не считаясь с нами. Даже подразумевалось, что мы высокомерные!;Alors que l'orgueil de $CB_TARGET_NAME$ est evident pour nous, il semble que les autres ne le voient pas. Leur soi-disant souverainete leur permet apparemment d'avoir leur propre armee et de faire ce qu'ils veulent sans en referer a nous. On a meme laisse entendre que nous serions arrogants !;"Obwohl der Grossenwahn von $CB_TARGET_NAME$  absolut offensichtlich fur uns ist, teilen andere scheinbar unseren Blickwinkel nicht. Ihre sogenannte ""Souveranitat"" erlaubt es ihnen anscheinend, ihre eigene Armee zu haben und zu machen, was sie wollen, ohne ";;;;;;;;;;;x
+EVTOPTA90009;Хороший выбор.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x
+VOTER_ISSUES;Проблемы избирателей;Questions electorales;Wahlerprobleme;;;;;;;;;;;x
+OL_VIEW_NATFOCUS;Переключает §YНациональный фокус§W вид;Active la vue §YCause nationale§W;Schaltet die Ansicht zu §YNationalem Fokus§W um;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_HEADER;Национальный фокус;Cause nationale;Nationaler Fokus;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_TOOLTIP;Национальный фокус (§Y$FOCUS$§!) в §Y$STATE$§!;Cause nationale (§Y$FOCUS$§!) en §Y$STATE$§!;Nationaler Fokus (§Y$FOCUS$§!) in §Y$STATE$§!;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS;Переключает вид §YRally Points§W;Active la vue §YPoints de ralliement§W;Schaltet die Ansicht zu §YSammelpunkten§W um;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_HEADER;Точки сбора;Points de ralliement;Sammelpunkte;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_TOOLTIP;Все находящиеся поблизости завербованные отряды направятся к §Y$PROV$§!;Toutes les unites regroupees a proximite vont marcher sur §Y$PROV$§!;Alle in der Nahe rekrutierten Einheiten werden sich Richtung §Y$PROV$§! begeben;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP; и постараюсь объединиться до §Y$LIMIT$§!, когда прибуду сюда.; et vont tenter de fusionner a concurrence de §Y$LIMIT$§! quand elles y arriveront.;und werden zu einer Menge von §Y$LIMIT$§! zusammengefuhrt, sobald sie ankommen.;;;;;;;;;;;x
+OL_VIEW_MERGE_ON;§G(Объединить ВКЛ)§!;§G(Fusion Act.)§!;§G(Zusammenfuhren ANSCHALTEN)§!;;;;;;;;;;;x
+OL_VIEW_MERGE_OFF;§Y(Объединение ВЫКЛ)§!;§Y(Fusion Des.)§!;§Y(Zusammenfuhren AUSSCHALTEN)§!;;;;;;;;;;;x
+OUR_CB_DETECTED_SETUP;Когда наш процесс оправдания войны обнаружен;Quand notre tentative de justification de guerre est detectee;Sobald unser Prozess der Kriegsrechtfertigung aufgedeckt wird;;;;;;;;;;;x
+OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x
+OUR_CB_DETECTED_1;Оправдание войны;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x
+OUR_CB_DETECTED_2;Наша попытка оправдать войну с помощью;Notre tentative de justifier la guerre par;Unser Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x
+OUR_CB_DETECTED_3;§Y$CASUS$§! Казус белли;le Casus Belli §Y$CASUS$§!;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x
+OUR_CB_DETECTED_4;против;contre;gegen;;;;;;;;;;;x
+OUR_CB_DETECTED_5;$TARGET$;$TARGET$;$TARGET$;;$TARGET$;;;;;;;;;x
+OUR_CB_DETECTED_6;был обнаружен! Это стоит нам §R$BADBOY$§! позор;a ete detectee ! Cela nous coute §R$BADBOY$§! d'infamie.;wurde entlarvt. Dies kostet uns  §R$BADBOY$§! Schande;;;;;;;;;;;x
+OUR_CB_DETECTED_LOG;Наш процесс оправдания войны против $TARGET$ был обнаружен.;Notre tentative de justification de guerre contre $TARGET$ a ete detectee.;Unser Prozess der Kriegsrechtfertigung gegen $TARGET$ wurde entlarvt.;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+OUR_CB_DETECTED_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+OUR_CB_DETECTED_BTN3;Перейти;Voir;Gehe zu;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x
+OUR_CB_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x
+CB_TOWARDS_US_DETECTED_SETUP;Обнаружен процесс оправдания войны против нас;Une tentative de justification de guerre contre nous est detectee;Ein Prozess der Kriegsrechtfertigung gegen uns wurde entlarvt.;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x
+CB_TOWARDS_US_DETECTED_1;Оправдание войны;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_2;Попытка оправдать войну с помощью;Une tentative de justifier une guerre par le;Ein Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_3;§Y$CASUS$§! Казус белли;Casus Belli §Y$CASUS$§;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_4;против нас;contre nous par;gegen uns, durch;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_5;$COUNTRY$;$COUNTRY$;$COUNTRY$;;$COUNTRY$;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_6;был обнаружен!;a ete detectee !;wurde entlarvt! ;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_LOG;Обнаружен процесс оправдания войны против нас со стороны $COUNTRY$;Une tentative de justifier une guerre contre nous par $COUNTRY$ a ete detectee;Ein Prozess der Kriegsrechtfertigung von $COUNTRY$ gegen uns wurde entlarvt.;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN3;Перейти;Voir;Gehe zu;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x
+CB_TOWARDS_US_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x
+OTHERS_CB_DETECTED_SETUP;Обнаружен процесс оправдания войны против кого-либо;A war justification process against someone is detected;Ein Prozess der Kriegsrechtfertigung gegen jemanden wurde entlarvt.;;;;;;;;;;;x
+OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x
+OTHERS_CB_DETECTED_1;Оправдание войны;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x
+OTHERS_CB_DETECTED_2;Попытка оправдать войну с помощью;Une tentative de justifier une guerre par le;Ein Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x
+OTHERS_CB_DETECTED_3;§Y$CASUS$§! Казус белли;Casus Belli §Y$CASUS$§;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x
+OTHERS_CB_DETECTED_4;против $TARGET$ по;contre $TARGET$ par;gegen $TARGET$, durch;;;;;;;;;;;x
+OTHERS_CB_DETECTED_5;$COUNTRY$;$COUNTRY$;$COUNTRY$;;$COUNTRY$;;;;;;;;;x
+OTHERS_CB_DETECTED_6;был обнаружен!;a ete detectee !;wurde entlarvt! ;;;;;;;;;;;x
+OTHERS_CB_DETECTED_LOG;Обнаружен процесс оправдания войны против $TARGET$ со стороны $COUNTRY$;Une tentative de justifier une guerre contre $TARGET$ par $COUNTRY$ a ete detectee;Ein Prozess der Kriegsrechtfertigung von $COUNTRY$ gegen $TARGET$ wurde entlarvt;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+OTHERS_CB_DETECTED_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x
+OTHERS_CB_DETECTED_BTN3;Перейти;Voir;Gehe zu;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x
+OTHERS_CB_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x
+CB_gen_plus;Скорость генерации CB увеличилась;Augmentation de la vitesse de generation des CB;CB Generationengeschwindigkeit erhoht ;;;;;;;;;;;x
+CB_gen_minus;Скорость генерации CB снизилась;Diminution de la vitesse de generation des CB;CB Generationengeschwindigkeit reduziert;;;;;;;;;;;x
+CB_gen_plus_desc;Оправдание войн можно осуществить быстрее;Justifier des guerres peut se faire plus rapidement;Die Rechtfertigung eines Krieges kann schneller erledigt werden;;;;;;;;;;;x
+CB_gen_minus_desc;Оправдание войн теперь занимает больше времени;Justifier des guerres prend maintenant plus de temps;Die Rechtfertigung eines Krieges dauert nun langer;;;;;;;;;;;x
+BUILDING_AT_MAX_TERRAIN;Уровень $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);Niveau $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);Level $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);;;;;;;;;;;x
+PRODUCTION_INVEST;Иностранные инвестиции;Invest. a l'etranger;Auslandische Investition;;;;;;;;;;;x
+PRODUCTION_TAB_INVEST;Показывает обзор инвестиций в зарубежных странах;Montrer l'apercu des investissements a l'etranger;Zeigt eine Ubersicht der Investitionen im Ausland;;;;;;;;;;;x
+FLAG_SUBMENU_INTERESTING;Установить страну как интересную.;Definir le pays comme interessant.;Markiert das Land als interessant.;;;;;;;;;;;x
+FLAG_SUBMENU_NOTINTERESTING;Установить страну как §Yне§! интересно.;Definir le pays comme §Ypas§! interessant.;Markiert das Land als §Ynicht§! interessant.;;;;;;;;;;;x
+MESSAGE_TYPE_INTERESTING;Интересный;Interessant;Interessant;;;;;;;;;;;x
+MESSAGE_TYPE_NOT_INTERESTING;Другой;Autre;Anderes;;;;;;;;;;;x
+MESSAGE_SEARCH;Поиск:;Chercher;Suchen:;;;;;;;;;;;x
+MESSAGE_BUTTON_SEARCH;Поиск;Chercher;Suche ;;;;;;;;;;;x
+MESSAGE_BUTTON_CLEAR;Прозрачный;Effacer;Loschen;;;;;;;;;;;x
+MESSAGE_SEARCH_TOOLTIP;Введите ключевые слова, разделенные §Yпробелом§!, чтобы отфильтровать список.;Entrez les mot-clefs separes par §YEspace§! pour filtrer la liste.;Trennt Schlusselworter mithilfe der §YLeertaste§!, um die Liste zu filtern. ;;;;;;;;;;;x
+SIDEMENU_menubar_msg_settings;Нажмите, чтобы открыть настройки фильтра сообщений.;Clic gauche pour selectionner les filtres de messages;Klicken, um die Einstellungen des Nachrichtenfilters zu offnen.;;;;;;;;;;;x
+RULE_BUILD_FACTORY_INVEST;Построить иностранную мануфактуру;Construire une usine a l'etranger;Eine auslandische Fabrikanlage bauen;;;;;;;;;;;x
+RULE_EXPAND_FACTORY_INVEST;Расширить зарубежное производство;Agrandir une usine a l'etranger;Eine auslandische Fabrikanlage ausbauen;;;;;;;;;;;x
+RULE_OPEN_FACTORY_INVEST;Открыть иностранную мануфактуру;Ouvrir une usine a l'etranger;Eine auslandische Fabrikanlage eroffnen;;;;;;;;;;;x
+RULE_BUILD_RAILWAY_INVEST;Инвесторы могут строить зарубежные железные дороги;Les investisseurs peuvent construire des chemins de fer a l'etranger;Investoren konnen eine auslandische Eisenbahnlinie bauen;;;;;;;;;;;x
+RULE_CAN_INVEST_IN_POP_PROJECTS;Инвестируйте в поп-проекты;Investir dans des projets;In Pop-Projekte investieren;;;;;;;;;;;x
+RULE_POP_BUILD_FACTORY_INVEST;Инвесторы могут построить иностранное производство;Des investisseurs peuvent construire une usine a l'etranger;Investoren konnen eine auslandische Fabrikanlage bauen;;;;;;;;;;;x
+RULE_POP_EXPAND_FACTORY_INVEST;Инвесторы могут расширить зарубежное производство;Des investisseurs peuvent agrandir une usine a l'etranger;Investoren konnen eine auslandische Fabrikanlage erweitern;;;;;;;;;;;x
+RULE_POP_OPEN_FACTORY_INVEST;Инвесторы могут открыть иностранное производство;Des investisseurs peuvent ouvrir une usine a l'etranger;Investoren konnen eine auslandische Fabrikanlage eroffnen;;;;;;;;;;;x
+PRODUCTION_OUR_INVEST;Наши инвестиции: $AMOUNT$ ¤ ($PERCENTAGE$ %);Notre investissement : $AMOUNT$ ¤ ($PERCENTAGE$ %);Unsere Investition: $AMOUNT$¤ ($PERCENTAGE$%);;;;;;;;;;;x
+MSG_FILTER_HEADER;Настройки фильтра сообщений;Filtres de messages;Nachrichtenfilter-Einstellungen;;;;;;;;;;;x
+MSG_FILTER_TITLE;Нас интересует:;Sommes interesses par;Wir interessieren uns fur:;;;;;;;;;;;x
+MSG_FILTER_DESELECT;Отменить выбор всех;Tout deselectionner;Alle Markierungen aufheben;;;;;;;;;;;x
+MSG_FILTER_BEST_GUESS;Лучшая догадка;Les plus utiles;Einschatzung;;;;;;;;;;;x
+MSG_FILTER_ENEMIES;Враги;Ennemis;Feinde;;;;;;;;;;;x
+MSG_FILTER_ALLIES;Союзники;Allies;Verbundete;;;;;;;;;;;x
+MSG_FILTER_NEIGHBOURS;Соседи;Voisins;Nachbarn;;;;;;;;;;;x
+MSG_FILTER_SPHERE;Сфера;Sphere;Wirkungsbereich;;;;;;;;;;;x
+PRODUCTION_BROWSE_INVEST;Другой;Autres;Anderes;;;;;;;;;;;x
+DIPLOMACY_OPINION_INVESTMENT;§Y$GP_ADJ$§W инвестиции: §Y$VALUE$§!¤;Investissement §Y$GP_ADJ$§W : §Y$VALUE$§! ¤;§Y$GP_ADJ$§W Investition: §Y$VALUE$§!¤;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_HEADER;В окне настроек фильтра сообщений вы можете выбрать страны, которые вас интересуют. Все сообщения и оповещения будут отображаться только для этих важных стран.;Dans les parametres de filtre des messages, vous pouvez selectionner les pays qui vous interessent. Tous les messages et alertes ne seront montres que pour ces pays importants.;Im Nachrichtenfilter-Fenster konnt Ihr Lander auswahlen, fur die Ihr Euch interessiert. Alle Nachrichten und Warnungen werden nur fur diese wichtigen Lander angezeigt.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DELAYED;§YЩелчок левой кнопкой мыши§! заменяет текущий выбор.\n§YЩелчок правой кнопкой мыши§! добавляет к текущему выбору.\n§YЩелчок левой кнопкой мыши + SHIFT§! переключает фильтр.;§YClic gauche§! remplace la selection actuelle.\n§YClic droit§! ajoute a la selection actuelle.\n§YClic gauche + Maj§! alterne le filtre.;§YLinksklick§! Ersetzt die aktuelle Auswahl.\n§YRechtsklick§! Erganzt die aktuelle Auswahl.\n§YLinksklick + SHIFT§! Schaltet den Filter um.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DESELECT;Отмените выбор всех стран из списка.;Deselectionner tous les pays de la liste.;Wahlt alle Lander von dieser Liste ab.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_BESTGUESS;Выберите страны, используя метод наилучшего угадывания.;Selectionner les pays en utilisant la methode du choix optimal.;Wahlt Lander nach Einschatzung aus.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ENEMIES;Выберите страны, которые являются вашими врагами.;Selectionner les pays ennemis.;Wahlt Lander, die Eure Feinde sind.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ALLIES;Выберите страны, которые являются вашими союзниками.;Selectionner les pays allies.;Wahlt Lander, die Eure Verbundeten sind.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_NEIGHBOURS;Выберите страны, которые являются вашими соседями.;Selectionner les pays voisins.;Wahlt Lander, die Eure Nachbarn sind.;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_SPHERE;Выберите страны, которые находятся в вашей сфере влияния. (если вы великая держава);Selectionner les pays de votre sphere d'influence (si vous etes une grande puissance);Wahlt Lander, die sich in Eurem Wirkungsbereich befinden (wenn Ihr eine Grossmacht seid);;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_CONTINENT;Выберите страны, которым принадлежит какая-либо провинция на континенте.;Selectionner les pays possedant des provinces sur le continent.;Wahlt Lander, die eine Provinz auf dem Kontinent besitzen.;;;;;;;;;;;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Мы не имеем права делать это в чужой стране.;Nous n'avons pas le droit de faire cela dans un pays etranger;Wir haben nicht das Recht, dies in einem anderen Land zu tun;;;;;;;;;;;x
+INVESTMENT_PENALTY_FACTOR;Другие национальные инвесторы;Autres investisseurs nationaux;Andere auslandische Investoren;;;;;;;;;;;x
+SPHERE_SHARE_NOT_IN_SPHERE;Не в той сфере, где можно свободно продавать на мировом рынке;Pas dans une sphere d'influence, donc libre de vendre sur le marche mondial;Nicht in einem Einflussgebiet, das auf dem Weltmarkt verkaufen darf;;;;;;;;;;;x
+SPHERE_SHARE_UNCIV;Нецивилизованная нация, сделает §Y$PERCENTAGE$%§! всех ресурсов, доступных на рынке лидеров;Nation non civilisee, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marches dominants;Unzivilisierte Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anfuhrers bereitgestellt;;;;;;;;;;;x
+SPHERE_SHARE_2NDRANK;Страна второго ранга, сделает §Y$PERCENTAGE$%§! всех ресурсов, доступных на рынке лидеров (База: §Y$BASE_PERCENTAGE$%§!);Nation de second rang, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marches dominants (Base : §Y$BASE_PERCENTAGE$ %§!);Zweitrangige Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anfuhrers bereitgestellt (Basis: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;x
+SPHERE_SHARE_CIV;Цивилизованная нация, сделает §Y$PERCENTAGE$%§! всех ресурсов, доступных на рынке лидеров (База: §Y$BASE_PERCENTAGE$%§!);Nation civilisee, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marches dominants (Base : §Y$BASE_PERCENTAGE$ %§!);Zivilisierte Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anfuhrers bereitgestellt (Basis: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;x
+RULE_ALLOW_FOREIGN_INVESTMENT;Разрешить иностранные инвестиции;Autoriser les investissements etrangers;Erlaubt auslandische Investitionen;;;;;;;;;;;x
+POLITICS_DECISIONS_TAB;Решения;Decisions;Entscheidungen;;;;;;;;;;;x
+POLITICS_MOVEMENTS_TAB;Движения;Mouvements;Bewegungen;;;;;;;;;;;x
+EVTNAME90100;Тоска по свободной прессе;En faveur de la liberte de la presse;Sehnsucht nach Pressefreiheit;;;;;;;;;;;x
+EVTNAME90102;Тоска по публичным встречам;En faveur de la liberte de reunion;Sehnsucht nach Versammlungsfreiheit;;;;;;;;;;;x
+EVTNAME90104;Тоска по профсоюзам;En faveur des syndicats;Sehnsucht nach Handelsgewerkschaften;;;;;;;;;;;x
+EVTDESC90100;Народ жаждет свободной прессы, и когда наши соседи принимают эту реформу, их стремление становится еще сильнее.;Le peuple est en faveur de la liberte de la presse. Nos voisins ayant adopte cette reforme, son desir est d'autant plus fort.;Die Bevolkerung sehnt sich nach Pressefreiheit, und je mehr unserer Nachbarn diese Reform annehmen, umso starker wird dieses Verlangen.;;;;;;;;;;;x
+EVTOPTA90100;Возможно, мы сможем что-нибудь придумать.;Peut-etre pourra-t-on en tirer quelque chose !;Vielleicht konnen wir uns einigen;;;;;;;;;;;x
+EVTOPTB90100;Никогда!;Jamais !;Niemals!;;;;;;;;;;;x
+EVTDESC90102; Народ жаждет права на публичные собрания, и по мере того, как наши соседи принимают эту реформу, его стремление становится еще сильнее.;Le peuple est en faveur de la liberte de reunion. Nos voisins ayant adopte cette reforme, son desir est d'autant plus fort. ;Die Bevolkerung sehnt sich nach Versammlungsfreiheit, und je mehr unserer Nachbarn diese Reform annehmen, umso starker wird dieses Verlangen.;;;;;;;;;;;x
+EVTDESC90104; Народ жаждет профсоюзов, и когда наши соседи принимают эту реформу, их жажда становится еще сильнее.;Le peuple est en faveur des syndicats. Nos voisins ayant adopte cette reforme, son desir est d'autant plus fort. ;Die Bevolkerung sehnt sich nach Handelsgewerkschaften, und je mehr unserer Nachbarn diese Reform annehmen, umso starker wird dieses Verlangen.;;;;;;;;;;;x
+EVTNAME90101;Невыполненные обещания;Promesses non tenues;Gebrochene Versprechen;;;;;;;;;;;x
+EVTDESC90101;Несмотря на наше обещание реформировать прессу, ничего не изменилось, и люди несколько расстроены.;En depit de notre promesse de reformer la presse, rien n'a change et les gens sont quelque peu decus.;Trotz unseres Versprechens, die Presse zu reformieren, hat sich nichts verandert und die Bevolkerung ist ein wenig aufgebracht.;;;;;;;;;;;x
+EVTOPTA90101;Как удручает;Comme c'est deprimant;Wie niederschmetternd;;;;;;;;;;;x
+EVTDESC90103;Несмотря на наше обещание разрешить публичные собрания, ничего не изменилось, и люди несколько расстроены.;En depit de notre promesse de permettre la liberte de reunion, rien n'a change et les gens sont quelque peu decus.;Trotz unseres Versprechens, Versammlungsfreiheit zu erlauben, hat sich nichts verandert und die Bevolkerung ist ein wenig aufgebracht.;;;;;;;;;;;x
+EVTOPTA90103;Я ненавижу толпу.;Je deteste les foules;Ich hasse Menschenmengen;;;;;;;;;;;x
+EVTDESC90105;Несмотря на наше обещание разрешить деятельность профсоюзов, ничего не изменилось, и люди несколько расстроены.;En depit de notre promesse de permettre l'existence des syndicats, rien n'a change et les gens sont quelque peu decus;Trotz unseres Versprechens, Handelsgewerkschaften zu erlauben, hat sich nichts verandert und die Bevolkerung ist ein wenig aufgebracht.;;;;;;;;;;;x
+EVTOPTA90105;Лучше умереть, чем покраснеть!;Mieux vaut morts que rouges !;Besser tot als rot!;;;;;;;;;;;x
+MOVEMENT_RADICALISM_BASE;База: §R$VAL$§%§!;Base: §R$VAL$§ %§!;Basis: §R$VAL$§%§!;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ACCUMULATED;Подавление: §R$VAL$§%§!;Repression : §R$VAL$§ %§!;Unterdruckung: §R$VAL$§%§!;;;;;;;;;;;x
+MOVEMENT_RADICALISM_GRANTED_REFORMS;Предоставленные реформы: §G$VAL$§%§!;Reformes accordees : §G$VAL$§ %§!;Gewahrte Reformen: §G$VAL$§%§!;;;;;;;;;;;x
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;$CULTURE$: $VAL$;$CULTURE$: $VAL$;;;;;;;;;;;x
+ALREADY_SUPPRESSED;Движение не радикальное и не может быть подавлено.;Ce mouvement n'est pas radical et ne peut etre reprime;Die Bewegung ist nicht radikal und kann nicht unterdruckt werden;;;;;;;;;;;x
+EVTNAME90900;Срединное царство;L'empire du Milieu;Das Konigreich der Mitte;;;;;;;;;;;x
+EVTDESC90900;Сейчас мы достаточно развиты, чтобы европейские варвары считали нас «цивилизованными», и поэтому они должны уважать наше право на централизацию и отвергать иностранное влияние по всему Китаю.;Nous sommes suffisamment avances pour que les barbares europeens nous considerent comme civilises. Ainsi, ils doivent respecter notre droit a centraliser et a rejeter les influences etrangeres a travers la Chine.;"Wir sind nun ausreichend fortgeschritten, damit die europaischen Barbaren uns als ""zivilisiert"" betrachten, nun mussen sie daher unser Recht auf Zentralisierung und die Ablehnung des auslandischen Einflusses in China anerkennen.";;;;;;;;;;;x
+EVTOPTA90900;Мы снова едины;Nous sommes a nouveau unis;Wir sind wieder vereint;;;;;;;;;;;x
+EVTDESC90901;Новый статус династии Цин заставил их потребовать от нас подчинения их власти, принятие которого будет означать конец нашему независимому существованию.;Le nouveau statuts des Qing les a conduit a nous demander de nous soumettre a leur autorite. Accepter sonnera le glas de notre independance.;Der neue Status der Qing hat sie dazu verleitet von uns zu verlangen, sich ihrer Autoritat zu unterwerfen. Wenn wir annehmen, bedeutet dies das Ende unserer unabhangigen Existenz.;;;;;;;;;;;x
+EVTOPTA90901;Мы снова едины;Nous sommes a nouveau unis;Wir sind wieder vereint;;;;;;;;;;;x
+EVTOPTA90910;Фургоны на Запад!;Wagons a l'ouest !;Wagen gen Westen!;;;;;;;;;;;x
+SUPPRESSION_POINTS;Точки подавления;Points de repression;Unterdruckungspunkte;;;;;;;;;;;x
+school_reforms;Школьная система;Systeme d'education;Schulsystem;;;;;;;;;;;x
+no_schools;Нет школьной системы;Systeme inexistant;Kein Schulsystem;;;;;;;;;;;x
+low_schools;Система базового образования;Systeme de base;Einfaches Schulsystem;;;;;;;;;;;x
+acceptable_schools;Приемлемая школьная система;Systeme acceptable;Akzeptables Schulsystem;;;;;;;;;;;x
+good_schools;Хорошая школьная система;Systeme de bon niveau;Gutes Schulsystem;;;;;;;;;;;x
+no_schools_l;Нет школьной системы;Systeme d'education inexistant;Kein Schulsystem;;;;;;;;;;;x
+low_schools_l;Система базового образования;Systeme d'education de base;Einfaches Schulsystem;;;;;;;;;;;x
+acceptable_schools_l;Приемлемая школьная система;Systeme d'education acceptable;Akzeptables Schulsystem;;;;;;;;;;;x
+good_schools_l;Хорошая школьная система;Systeme d'education de bon niveau;Gutes Schulsystem;;;;;;;;;;;x
+no_schools_desc;Нет государственных школ.;Pas d'ecoles publiques.;Keine offentlichen Schulen.;;;;;;;;;;;x
+low_schools_desc;Государственные школы встречаются редко.;Les ecoles publiques sont rares.;Offentliche Schulen sind nicht verbreitet.;;;;;;;;;;;x
+acceptable_schools_desc;Государственные школы широко распространены.;Les ecoles publiques sont frequentes.;Offentliche Schulen sind verbreitet.;;;;;;;;;;;x
+good_schools_desc;Государственных школ действительно много.;Il y a beaucoup d'ecoles publiques.;Es gibt wirklich viele offentliche Schulen.;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT;$COUNTRY_ADJ$ Движение за объединение;Mouvement d'unification $COUNTRY_ADJ$;$COUNTRY_ADJ$ Vereinigungs-Bewegung;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ Освободительное Движение;Mouvement de liberation de $COUNTRY$;$COUNTRY$ Befreiungs-Bewegung;;;;;;;;;;;x
+SUPRESSION_MONTHLY_GAIN;Ежемесячный прирост: §G$VAL$§!;Gain mensuel : §G$VAL$§!;Monatlicher Zuwach: §G$VAL$§!;;;;;;;;;;;x
+MODIFIER_EDUCATION_EFFICIENCY;Эффективность образования;Efficacite de l'education;Bildungseffizienz;;;;;;;;;;;x
+MODIFIER_SUPPRESSION_POINT_GAIN;Усиление точки подавления;Point de repression gagne;Gewinn an Unterdruckungspunkten;;;;;;;;;;;x
+NOT_SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения ниже, чем §Y$VAL$§W.\n;Mouvement social dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist niedriger als §Y$VAL$§W.\n;x
+SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения выше, чем §Y$VAL$§W.\n;Mouvement social dont la force est superieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist grosser als §Y$VAL$§W.\n;x
+NOT_POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения ниже, чем §Y$VAL$§W.\n;Mouvement politique dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist niedriger als §Y$VAL$§W.\n;x
+POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения выше, чем §Y$VAL$§W.\n;Mouvement politique dont la force est superieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist grosser als §Y$VAL$§W.\n;x
+SUPPRESS;Подавлять;Reprimer;Unterdrucken;;;;;;;;;;;x
+SUPPRESSION_DESC;Подавить это движение. Это будет стоить $VAL$ очков и сделает движение более радикальным (§R+$HIT$§!) в будущем.;Reprimer ce mouvement. Cela coutera $VAL$ points et rendra le mouvement plus radical (§R+$HIT$§!) dans le futur.;Unterdruckt diese Bewegungt. Dies kostet $VAL$ Punkte und erhoht die Chancen, dass diese Bewegung in Zukunft (§R+$HIT$§!)radikaler wird.;;;;;;;;;;;x
+CANT_SUPPRESS_DESC;Нам нужно больше очков, чтобы подавить это движение. У нас есть §R$VAL$§! очков подавления, а это требует §Y$NEED$§!.;Nous avons besoin de plus de points pour pouvoir reprimer ce mouvement. Nous avons §R$VAL$§! points de repression et il en faut §Y$NEED$§!.;Wir benotigen mehr Punkte um diese Bewegung unterdrucken zu konnen. Wir haben §R$VAL$§! Unterdruckungspunkte, benotigen jedoch  §Y$NEED$§!.;x
+REFORM_MOVEMENT_DESC;Движение, призывающее к принятию закона §Y$REFORM$§!;Mouvement appelant a l'avenement de §Y$REFORM$§!;Bewegung fur die Verabschiedung von §Y$REFORM$§!;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT_DESC;Движение, призывающее к формированию §Y$COUNTRY$§!;Mouvement appelant a la formation de §Y$COUNTRY$§!;Bewegung fur die Grundung von §Y$COUNTRY$§!;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT_DESC;Движение, призывающее к освобождению §Y$COUNTRY$§!;Mouvement appelant a la liberation de §Y$COUNTRY$§!;Bewegung fur die Befreiung von §Y$COUNTRY$§!;;;;;;;;;;;x
+SUPPRESSION_LABEL_DESC;Очки подавления измеряют способность вашего правительства подавлять народные движения.;Les points de repression mesurent le pouvoir pour le gouvernement de reprimer les mouvements populaires;Unterdruckungspunkte geben die Macht Eurer Regierung an, Volksbewegungen zu unterdrucken;;;;;;;;;;;x
+MOVEMENT_REFORM_SUPPORT;Существует популярное движение размером $VAL$, лоббирующее принятие этой реформы.;Il y a un mouvement populaire, d'une taille de $VAL$, qui milite pour l'adoption de cette reforme.;Es gibt eine Volksbewegung der Grosse $VAL$, die fur die Verabschiedung dieser Reform lobbiiert.;;;;;;;;;;;x
+movement_no_slavery;Движение аболиционистов;Mouvement abolitionniste;Anti-Sklaverei-Bewegung;;;;;;;;;;;x
+movement_yes_slavery;Лига сторонников рабства;Ligue pro-esclavagiste;Pro-Versklavungs-Liga;;;;;;;;;;;x
+movement_landed_voting;Движение за избирательное право;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x
+movement_wealth_weighted_voting;Движение за избирательное право;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x
+movement_wealth_voting;Движение за избирательное право;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x
+movement_universal_weighted_voting;Движение за избирательное право;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x
+movement_universal_voting;Движение за избирательное право;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x
+movement_party_appointed;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_appointed;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_state_equal_weight;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_population_equal_weight;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_first_past_the_post;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_jefferson_method;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_proportional_representation;Кампания за политическое представительство;Campagne pour la representation politique;Kampagne fur politische Vertretung;;;;;;;;;;;x
+movement_no_meeting;Кампания за отмену публичных собраний;Campagne pour l'abolissement de la liberte de reunion;Kampagne zur Abschaffung der Versammlungsfreiheit;;;;;;;;;;;x
+movement_yes_meeting;Кампания за публичные собрания;Campagne pour la liberte de reunion;Kampagne fur Versammlungsfreiheit;;;;;;;;;;;x
+movement_censored_press;Кампания за цензурированную прессу;Campagne pour la censure de la presse;Kampagne fur Pressezensur;;;;;;;;;;;x
+movement_free_press;Кампания за свободную прессу;Campagne pour la presse libre;Kampagne fur Pressefreiheit;;;;;;;;;;;x
+movement_state_controlled;Кампания за контролируемые государством профсоюзы;Campagne pour des syndicats controles par l'etat;Kampagne fur staatlich kontrollierte Gewerkschaften;;;;;;;;;;;x
+movement_non_socialist; Кампания за несоциалистические профсоюзы;Campagne pour des syndicats non-socialistes;Kampagne fur nicht-sozialistische Gewerkschaften;;;;;;;;;;;x
+movement_all_trade_unions;Кампания за свободные профсоюзы;Campagne pour la liberte syndicale;Kampagne fur Freihandelsgewerkschaften;;;;;;;;;;;x
+movement_harassment;Движение за права избирателей;Mouvement des droits des electeurs;Wahlerrechte-Bewegung;;;;;;;;;;;x
+movement_gerrymandering;Движение за права избирателей;Mouvement des droits des electeurs;Wahlerrechte-Bewegung;;;;;;;;;;;x
+movement_non_secret_ballots;Движение за права избирателей;Mouvement des droits des electeurs;Wahlerrechte-Bewegung;;;;;;;;;;;x
+movement_secret_ballots;Движение за права избирателей;Mouvement des droits des electeurs;Wahlerrechte-Bewegung;;;;;;;;;;;x
+movement_trinket_wage;Движение за минимальную заработную плату;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x
+movement_low_minimum_wage;Движение за минимальную заработную плату;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x
+movement_acceptable_minimum_wage;Движение за минимальную заработную плату;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x
+movement_good_minimum_wage;Движение за минимальную заработную плату;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x
+movement_fourteen_hours;Максимальное движение рабочих часов;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x
+movement_twelve_hours;Максимальное движение рабочих часов;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x
+movement_ten_hours;Максимальное движение рабочих часов;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x
+movement_eight_hours;Максимальное движение рабочих часов;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x
+movement_trinket_safety;Кампания за безопасные условия труда;Campagne pour la securite au travail;Kampagne fur sichere Arbeitsplatzbedingungen;;;;;;;;;;;x
+movement_low_safety;Кампания за безопасные условия труда;Campagne pour la securite au travail;Kampagne fur sichere Arbeitsplatzbedingungen;;;;;;;;;;;x
+movement_acceptable_safety;Кампания за безопасные условия труда;Campagne pour la securite au travail;Kampagne fur sichere Arbeitsplatzbedingungen;;;;;;;;;;;x
+movement_good_safety;Кампания за безопасные условия труда;Campagne pour la securite au travail;Kampagne fur sichere Arbeitsplatzbedingungen;;;;;;;;;;;x
+movement_trinket_subsidies;Кампания за субсидии по безработице;Campagne pour des allocations de chomage;Kampagne fur Arbeitslosenunterstutzung;;;;;;;;;;;x
+movement_low_subsidies;Кампания за субсидии по безработице;Campagne pour des allocations de chomage;Kampagne fur Arbeitslosenunterstutzung;;;;;;;;;;;x
+movement_acceptable_subsidies;Кампания за субсидии по безработице;Campagne pour des allocations de chomage;Kampagne fur Arbeitslosenunterstutzung;;;;;;;;;;;x
+movement_good_subsidies;Кампания за субсидии по безработице;Campagne pour des allocations de chomage;Kampagne fur Arbeitslosenunterstutzung;;;;;;;;;;;x
+movement_trinket_pensions;Кампания за обеспечение старости;Campagne pour l'aide aux personnes agees;Kampagne fur Sicherheit im Alter;;;;;;;;;;;x
+movement_low_pensions;Кампания за обеспечение старости;Campagne pour l'aide aux personnes agees;Kampagne fur Sicherheit im Alter;;;;;;;;;;;x
+movement_acceptable_pensions;Кампания за обеспечение старости;Campagne pour l'aide aux personnes agees;Kampagne fur Sicherheit im Alter;;;;;;;;;;;x
+movement_good_pensions;Кампания за обеспечение старости;Campagne pour l'aide aux personnes agees;Kampagne fur Sicherheit im Alter;;;;;;;;;;;x
+movement_trinket_health_care;Движение за всеобщее здравоохранение;Mouvement de couverture sante universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_low_health_care;Движение за всеобщее здравоохранение;Mouvement de couverture sante universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_acceptable_health_care;Движение за всеобщее здравоохранение;Mouvement de couverture sante universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_good_health_care;Движение за всеобщее здравоохранение;Mouvement de couverture sante universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_low_schools;Общее школьное движение;Mouvement pour l'ecole publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x
+movement_acceptable_schools;Общее школьное движение;Mouvement pour l'ecole publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x
+movement_good_schools;Общее школьное движение;Mouvement pour l'ecole publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x
+POLITICS_MOVEMENTS;Движения;Mouvements;Bewegungen;;;;;;;;;;;x
+POLITICS_ECONOMIC_REFORMS;Экономические реформы;Reformes economiques;Wirtschaftsreformen;;;;;;;;;;;x
+POLITICS_MILITARY_REFORMS;Военные реформы;Reformes militaires;Militarreformen;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$Война Северной Агрессии;$ORDER$ guerre d’agression nordiste;$ORDER$Krieg des Nordlichen Angriffs;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$Война повстанцев;$ORDER$ guerre de rebellion;$ORDER$Rebellionskrieg;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ вмешательство в $SECOND_COUNTRY$;$ORDER$$FIRST$ intervention en $SECOND_COUNTRY$;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Война Кондитерских Изделий;$ORDER$ guerre de la patisserie;$ORDER$Kuchenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$мексикано-американская война;$ORDER$ guerre mexicano-americaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$Американское вторжение в Мексику;$ORDER$ guerre americaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$мексикано-американская война;$ORDER$ guerre mexicano-americaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$Американское вторжение в Мексику;$ORDER$ guerre americaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Опиумная война;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Опиумная война;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
+NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ Война за независимость;$ORDER$$FIRST$ guerre d'independance;$ORDER$$FIRST$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$Война на Тихом океане;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Бурская война;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME;$ORDER$Война за $FIRST$ контроль над $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le controle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ uber $SECOND_COUNTRY$;;;;;;;;;;;x
+NORMAL_WAR_BOXER_NAME;$ORDER$Боксерское восстание;$ORDER$ rebellion des Boxers;$ORDER$Boxer Aufstand;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ Война за независимость;$ORDER$$SECOND$ guerre d'independence;$ORDER$$SECOND$ Unabhangigkeitskrieg;;;;;;;;;;;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ Война чести;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Франко-прусская война;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Франко-прусская война;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
+CAN_INVEST_IN_RAILROADS;Разрешено инвестировать в железные дороги;Autoriser a investir dans les chemins de fer;Investitionen in Eisenbahnen erlaubt;;;;;;;;;;;x
+land_reform;Земельная реформа;Reforme rurale;Landreform;;;;;;;;;;;x
+land_reform_l;Земельная реформа;Reforme agraire;Landreform;;;;;;;;;;;x
+no_land_reform;Никакой земельной реформы.;Pas de reforme agraire;Keine Landreform;;;;;;;;;;;x
+yes_land_reform;Земельная реформа;Reforme agraire;Landreform;;;;;;;;;;;x
+no_land_reform_desc;Никакой земельной реформы.;Pas de reforme agraire;Keine Landreform;;;;;;;;;;;x
+yes_land_reform_desc;Перераспределение прав на землю, приводящее к более эффективному ведению сельского хозяйства и добыче полезных ископаемых;La redistribution des terres entraine une meilleure efficacite de l'agriculture et des mines;Die Umverteilung von Landrechten resultiert in mehr Effizienz in Landwirtschaft und Bergbau;;;;;;;;;;;x
+admin_reform;Административная реформа;Reforme administrative;Verwaltungsreform;;;;;;;;;;;x
+admin_reform_l;Административная реформа;Reforme administrative;Verwaltungsreform;;;;;;;;;;;x
+no_admin_reform;Административная реформа не проводится;Pas de reforme administrative;Keine Verwaltungsreform;;;;;;;;;;;x
+yes_admin_reform;Административная реформа;Reforme administrative;Verwaltungsreform;;;;;;;;;;;x
+no_admin_reform_desc;Никакой административной реформы;Pas de reforme administrative;Keine Verwaltungsreform;;;;;;;;;;;x
+yes_admin_reform_desc;Наша администрация теперь современная и эффективная;Notre administration est maintenant moderne et efficace;Unsere Verwaltung ist nun modern und effizient;;;;;;;;;;;x
+finance_reform;Финансовая реформа;Reforme financiere;Finanzreform;;;;;;;;;;;x
+finance_reform_l;Финансовая реформа;Reforme financiere;Finanzreform;;;;;;;;;;;x
+no_finance_reform;Никакой финансовой реформы;Pas de reforme financiere;Keine Finanzreform;;;;;;;;;;;x
+yes_finance_reform;Провести финансовую реформу;Promulguer la reforme financiere;Finanzreform verabschieden;;;;;;;;;;;x
+finance_reform_two;Международный долг;Dette exterieure;Internationale Schulden;;;;;;;;;;;x
+no_finance_reform_desc;Нет финансов;Pas de financement;Keine Finanzen;;;;;;;;;;;x
+yes_finance_reform_desc;Финансовая реформа;Financer la reforme;Finanzreform;;;;;;;;;;;x
+finance_reform_two_desc;Теперь мы можем брать деньги в долг у других стран;Nous pouvons desormais emprunter de l'argent a d'autres nations;Wir konnen uns nun Geld von anderen Nationen leihen;;;;;;;;;;;x
+education_reform;Реформа образования;Reforme de l'education;Bildungsreform;;;;;;;;;;;x
+education_reform_l;Реформа образования;Reforme de l'education;Bildungsreform;;;;;;;;;;;x
+no_education_reform;Никакой реформы образования.;Pas de reforme de l'education;Keine Bildungsreform;;;;;;;;;;;x
+yes_education_reform;Реформированная система;Education reformee;Reformiertes System;;;;;;;;;;;x
+no_education_reform_desc;Нет реформы образования;Reforme de l'education;Keine Bildungsreform;;;;;;;;;;;x
+yes_education_reform_desc;Базовое организованное образование в нашей стране;Systeme d'education de base dans notre pays;Einfache organisierte Bildung in unserem Land;;;;;;;;;;;x
+transport_improv;Транспортная система;Systeme de transport;Transportsystem;;;;;;;;;;;x
+transport_improv_l;Транспортная система;Systeme de transport;Transportsystem;;;;;;;;;;;x
+no_transport_improv;Не улучшено;Pas ameliore;Nicht verbessert;;;;;;;;;;;x
+yes_transport_improv;Улучшено;Ameliore;Verbessert;;;;;;;;;;;x
+no_transport_improv_desc;Транспортная система примитивна.;Le systeme de transport est primitif;Das Transportsystem ist primitiv;;;;;;;;;;;x
+yes_transport_improv_desc;Транспортная система современная;Le systeme de transport est moderne;Das Transportsystem ist modern;;;;;;;;;;;x
+pre_indust;Ранняя индустриализация;Preindustrialisation;Fruhe Industrialisierung;;;;;;;;;;;x
+pre_indust_l;Ранняя индустриализация;Preindustrialisation;Fruhe Industrialisierung;;;;;;;;;;;x
+no_pre_indust;Придерживайтесь старых методов;S'en tenir aux vieilles methodes;Bleib bei Altbewahrtem;;;;;;;;;;;x
+yes_pre_indust;Промышленный прогресс;Progres industriel;Industrieller Fortschritt;;;;;;;;;;;x
+no_pre_indust_desc;Нам не нужна мастерская;Nous n'avons pas besoin d'industrie;Wir haben keinen Bedarf an Industrie;;;;;;;;;;;x
+yes_pre_indust_desc;Построить несколько базовых мастерских с помощью иностранных консультантов. Может ли это быть началом промышленной революции?;Construire quelques usines de base avec l'aide de conseillers etrangers : serait-ce le debut d'une revolution industrielle ?;Baue einige einfache Fabrikanlagen mit der Hilfe auslandischer Berater. Konnte dies der Beginn einer industriellen Revolution sein?;;;;;;;;;;;x
+industrial_construction;Промышленное строительство;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x
+industrial_construction_l;Промышленное строительство;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x
+no_industrial_construction;Нет промышленного строительства;Pas de construction industrielle;Keine Industrielle Konstruktion ;;;;;;;;;;;x
+yes_industrial_construction;Промышленное строительство;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x
+no_industrial_construction_desc;Нет продвинутых семинаров;Pas d'usines modernes;Keine fortschrittlichen Fabrikanlagen;;;;;;;;;;;x
+yes_industrial_construction_desc;Иностранные консультанты помогают нам в создании более продвинутых семинаров.;Des conseillers etrangers nous assistent dans la construction d'usines plus modernes;Auslandische Berater unterstutzen uns beim Bau von fortschrittlichen Fabrikanlagen;;;;;;;;;;;x
+foreign_training;Методы обучения;Methodes d’entrainement;Ausbildungsmethoden;;;;;;;;;;;x
+foreign_training_l;Методы обучения;Methodes d’entrainement;Ausbildungsmethoden;;;;;;;;;;;x
+no_foreign_training;Местные методы обучения;Methodes d’entrainement locales;Ortliche Ausbildungsmethoden;;;;;;;;;;;x
+yes_foreign_training;Зарубежные методы обучения;Methodes d’entrainement etrangeres;Auslandische Ausbildungsmethoden;;;;;;;;;;;x
+no_foreign_training_desc;Войска обучаются традиционным способом;Les troupes sont entrainees de maniere traditionnelle;Truppenausbildung auf traditionelle Weise;;;;;;;;;;;x
+yes_foreign_training_desc;Войска, обученные иностранными военными советниками или по иностранным методикам;Troupes entrainees par des conseillers militaires etrangesr;Truppenausbildung durch auslandische Militarberater oder Techniken;;;;;;;;;;;x
+foreign_weapons;Иностранное оружие;Armes etrangeres;Auslandische Waffen;;;;;;;;;;;x
+foreign_weapons_l;Иностранное оружие;Armes etrangeres;Auslandische Waffen;;;;;;;;;;;x
+no_foreign_weapons;Местное оружие;Armes locales;Ortliche Waffen;;;;;;;;;;;x
+yes_foreign_weapons;Импортное оружие;Armes importeess;Importierte Waffen;;;;;;;;;;;x
+no_foreign_weapons_desc;Традиционное оружие;Armes traditionnelles;Traditionelle Waffen;;;;;;;;;;;x
+yes_foreign_weapons_desc;Это мой БУМСТИК!;C'est ma BOMBE !;Das ist mein FEUERSTAB!;;;;;;;;;;;x
+military_constructions;Военные сооружения;Constructions militaires;Militarische Konstruktionen;;;;;;;;;;;x
+military_constructions_l;Военные сооружения;Constructions militaires;Militarische Konstruktionen;;;;;;;;;;;x
+no_military_constructions;Простые конструкции;Constructions simples;Einfache Konstruktionen;;;;;;;;;;;x
+yes_military_constructions;Продвинутые конструкции;Constructions evoluees;Fortschrittliche Konstruktionen;;;;;;;;;;;x
+no_military_constructions_desc;Никаких укреплений;Pas de fortification;Keine Befestigungsanlagen;;;;;;;;;;;x
+yes_military_constructions_desc;Эффективные укрепления;Fortifications efficaces;Effektive Befestigungsanlagen;;;;;;;;;;;x
+foreign_officers;Подготовка офицеров;Entrainement d'officier;Offiziersausbildung;;;;;;;;;;;x
+foreign_officers_l;Подготовка офицеров;Entrainement d'officier;Offiziersausbildung;;;;;;;;;;;x
+no_foreign_officers;Подготовка местных офицеров;Entrainement d'officier local;Ausbildung durch ortliche Offiziere;;;;;;;;;;;x
+yes_foreign_officers;Подготовка иностранных офицеров;Entrainement d'officier etranger;Ausbildung durch auslandische Offiziere;;;;;;;;;;;x
+no_foreign_officers_desc;Местные офицеры возглавляют наши войска;Des officiers locaux menent nos troupes;Ortliche Offiziere befehligen unsere Truppen;;;;;;;;;;;x
+yes_foreign_officers_desc;Наши войска теперь лучшие в мире;Nos troupes sont maintenant les meilleures du monde;Unsere Truppen sind nun die besten der Welt;;;;;;;;;;;x
+army_schools;Армейская подготовка;Entrainement militaire;Armeeausbildung;;;;;;;;;;;x
+army_schools_l;Армейская подготовка;Entrainement militaire;Armeeausbildung;;;;;;;;;;;x
+no_army_schools;Для этого случая;Ad hoc;Ad hoc;;;;;;;;;;;x
+yes_army_schools;Армейские школы;Ecoles militaires;Armeeschulen;;;;;;;;;;;x
+no_army_schools_desc;Мы учимся на поле боя;Nous apprenons sur le champs de bataille;Wir lernen auf dem Schlachtfeld;;;;;;;;;;;x
+yes_army_schools_desc;Офицеры проходят хорошую подготовку, прежде чем вести людей в бой.;Les officiers sont bien entraines avant de mener les hommes a la bataille;Offiziere werden gut ausgebildet bevor sie Manner in den Kampf fuhren;;;;;;;;;;;x
+foreign_naval_officers;Морские офицеры;Officiers de marine;Marineoffiziere;;;;;;;;;;;x
+foreign_naval_officers_l;Морские офицеры;Officiers de marine;Marineoffiziere;;;;;;;;;;;x
+no_foreign_naval_officers;Местные морские офицеры;Officiers de marine locaux;Ortliche Marineoffiziere;;;;;;;;;;;x
+yes_foreign_naval_officers;Иностранные морские офицеры;Officiers de marine etrangers;Auslandische Marineoffiziere;;;;;;;;;;;x
+no_foreign_naval_officers_desc;Нашими кораблями командуют местные офицеры;Des officiers locaux commandent nos navires;Ortliche Offiziere befehligen unsere Schiffe;;;;;;;;;;;x
+yes_foreign_naval_officers_desc;Иностранные офицеры консультируют наших капитанов;Des officiers etrangers commandent nos navires;Auslandische Offiziere beraten unsere Kapitane;;;;;;;;;;;x
+naval_schools;Военно-морская подготовка;Entrainement naval;Marineausbildung;;;;;;;;;;;x
+naval_schools_l;Военно-морская подготовка;Entrainement naval;Marineausbildung;;;;;;;;;;;x
+no_naval_schools;Для этого случая;Ad hoc;Ad hoc;;;;;;;;;;;x
+yes_naval_schools;Военно-морские училища;Ecoles navales;Marineschulen;;;;;;;;;;;x
+no_naval_schools_desc;Учись, делая;Apprendre en agissant;Lernen durch Praxis;;;;;;;;;;;x
+yes_naval_schools_desc;Сначала изучите теорию;Apprenre d'abord la theorie;Erstes Lernen in der Theorie;;;;;;;;;;;x
+foreign_navies;Иностранные военно-морские части;Unites navales etrangeres;Auslandische Marineeinheiten;;;;;;;;;;;x
+foreign_navies_l;Иностранные военно-морские части;Unites navales etrangeres;Auslandische Marineeinheiten;;;;;;;;;;;x
+no_foreign_navies;Корабли местного производства;Navires construits localement;Vor Ort produzierte Schiffe;;;;;;;;;;;x
+yes_foreign_navies;Импортные корабли;Navires importes;Importierte Schiffe;;;;;;;;;;;x
+no_foreign_navies_desc;Корабли местного производства;Navires construits localement;Vor Ort hergestellte Schiffe;;;;;;;;;;;x
+yes_foreign_navies_desc;Мы импортировали прочные конструкции кораблей с Запада.;Nous avons importe d'occident les plans de puissants navires;Wir haben Bauplane fur starke Schiffe aus dem Westen importiert;;;;;;;;;;;x
+cut_down_to_size_boxer;Подавить восстание боксеров;Mettre fin a la revolte des Boxers;Schlage den Boxeraufstand nieder;;;;;;;;;;;x
+cut_down_to_size_boxer_desc;Заставить другую §Yстрану§W разоружиться и выплатить нам репарации;Forcrer un autre §Ypays§W a desarmer et a nous payer des reparations;Zwinge ein anderes §YLand§W, abzurusten und Reparationen an uns zu zahlen;;;;;;;;;;;x
+NUMBER_OF_REBELS_READY;§YПовстанческие бригады готовы присоединиться к восстанию§!;§YBrigades rebelles pretes a se joindre a un soulevement§!;§YRebellenbrigaden kurz vor Beitritt zu einer Auflehnung§!;;;;;;;;;;;x
+NUMBER_OF_REBELS_ACTIVE;§YПовстанческие бригады активно участвуют в мятеже§!;§YBrigades rebelles actives dans la revolte§!;§YRebellenbrigaden in Aufstanden aktiv§!;;;;;;;;;;;x
+TECH_YEAR_MODIFIER;Модификатор стоимости из известных лет: $VAL$;Modificateur du cout pour les annees connues : $VAL$;Kostenmodifikator durch bekannte Jahre: $VAL$;;;;;;;;;;;x
+ECONOMICREFORM_SETUP;При проведении экономической реформы;En adoptant une reforme economique;Beim Verabschieden einer Wirtschaftsreform;;;;;;;;;;;x
+ECONOMICREFORM_HEADER;Политические новости в $COUNTRY$;Nouvelles politiques en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x
+ECONOMICREFORM_1;Экономические реформы в $COUNTRY$;Reformes economiques en $COUNTRY$;Wirtschaftsreformen $COUNTRY$;;;;;;;;;;;x
+ECONOMICREFORM_2;$MONARCHTITLE$, мы сейчас приняли;$MONARCHTITLE$, nous avons adopte;$MONARCHTITLE$, wir haben nun verabschiedet:;;;;;;;;;;;x
+ECONOMICREFORM_3;$ISSUE$;$ISSUE$;$ISSUE$;;$ISSUE$;;;;;;;;;x
+ECONOMICREFORM_4;в;en;in;;;;;;;;;;;x
+ECONOMICREFORM_5;$CATEGORY$;$CATEGORY$;$CATEGORY$;;;;;;;;;;;x
+ECONOMICREFORM_6;*;*;*;;*;;;;;;;;;x
+ECONOMICREFORM_LOG;Мы приняли $ISSUE$ в $CATEGORY$.;Nous avons adopte $ISSUE$ en $CATEGORY$.;Wir haben $ISSUE$ in $CATEGORY$ verabschiedet.;;;;;;;;;;;x
+ECONOMICREFORM_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ECONOMICREFORM_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ECONOMICREFORM_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+ECONOMICREFORM_MAP;*;*;*;;*;;;;;;;;;x
+ECONOMICREFORM_BAD_SETUP;При отмене экономической реформы;Annulation d'une reforme economique;Beim Entfernen einer Wirtschaftsreform;;;;;;;;;;;x
+ECONOMICREFORM_BAD_HEADER;Политические новости в $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x
+ECONOMICREFORM_BAD_1;Экономические реформы отменены в $COUNTRY$;Reformes economiques revoquees in $COUNTRY$;Wirtschaftsreformen widerrufen in $COUNTRY$;;;;;;;;;;;x
+ECONOMICREFORM_BAD_2;$MONARCHTITLE$, мы отменили льготы в;$MONARCHTITLE$, nous avons renonce aux benefices de;$MONARCHTITLE$, wir haben nun Vorteile widerrufen in;;;;;;;;;;;x
+ECONOMICREFORM_BAD_3;$CATEGORY$;$CATEGORY$;$CATEGORY$;;$CATEGORY$;;;;;;;;;x
+ECONOMICREFORM_BAD_4;от $OLD$ до $ISSUE$.;de $OLD$ pour $ISSUE$.;von $OLD$ auf $ISSUE$.;;;;;;;;;;;x
+ECONOMICREFORM_BAD_5;*;*;*;;*;;;;;;;;;x
+ECONOMICREFORM_BAD_6;*;*;*;;*;;;;;;;;;x
+ECONOMICREFORM_BAD_LOG;Мы отозвали $OLD$ в $CATEGORY$ в $ISSUE$.;Nous avons annule $OLD$ en $CATEGORY$ pour $ISSUE$.;Wir haben $OLD$ in $CATEGORY$ auf $ISSUE$ widerrufen.;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+ECONOMICREFORM_BAD_MAP;*;*;*;;*;;;;;;;;;x
+MILITARYREFORM_SETUP;При проведении военной реформы;En adoptant une reforme militaire;Beim Verabschieden einer Militarreform;;;;;;;;;;;x
+MILITARYREFORM_HEADER;Политические новости в $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x
+MILITARYREFORM_1;Военные реформы в $COUNTRY$;Reformes militaires en $COUNTRY$;Militarreformen in $COUNTRY$;;;;;;;;;;;x
+MILITARYREFORM_2;$MONARCHTITLE$, мы сейчас приняли;$MONARCHTITLE$, nous avons adopte;$MONARCHTITLE$, wir haben nun verabschiedet:;;;;;;;;;;;x
+MILITARYREFORM_3;$ISSUE$;$ISSUE$;$ISSUE$;;$ISSUE$;;;;;;;;;x
+MILITARYREFORM_4;в;en;in;;;;;;;;;;;x
+MILITARYREFORM_5;$CATEGORY$;$CATEGORY$;$CATEGORY$;;;;;;;;;;;x
+MILITARYREFORM_6;*;*;*;;*;;;;;;;;;x
+MILITARYREFORM_LOG;Мы приняли $ISSUE$ в $CATEGORY$.;Nous avons adopte $ISSUE$ en $CATEGORY$.;Wir haben $ISSUE$ in $CATEGORY$ verabschiedet.;;;;;;;;;;;x
+MILITARYREFORM_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+MILITARYREFORM_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+MILITARYREFORM_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+MILITARYREFORM_MAP;*;*;*;;*;;;;;;;;;x
+MILITARYREFORM_BAD_SETUP;При отмене военной реформы;Annulation d'une reforme militaire;Beim Widerruf einer Militarreform;;;;;;;;;;;x
+MILITARYREFORM_BAD_HEADER;Политические новости в $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x
+MILITARYREFORM_BAD_1;Военные реформы отменены в $COUNTRY$;Reformes militaires annulees en $COUNTRY$;Militarreformen in $COUNTRY$ widerrufen;;;;;;;;;;;x
+MILITARYREFORM_BAD_2;$MONARCHTITLE$, мы отменили льготы в;$MONARCHTITLE$, nous avons renonce aux benefices de;$MONARCHTITLE$, wir haben nun Vorteile widerrufen in;;;;;;;;;;;x
+MILITARYREFORM_BAD_3;$CATEGORY$;$CATEGORY$;$CATEGORY$;;$CATEGORY$;;;;;;;;;x
+MILITARYREFORM_BAD_4;от $OLD$ до $ISSUE$.;de $OLD$ pour $ISSUE$.;von $OLD$ auf $ISSUE$.;;;;;;;;;;;x
+MILITARYREFORM_BAD_5;*;*;*;;*;;;;;;;;;x
+MILITARYREFORM_BAD_6;*;*;*;;*;;;;;;;;;x
+MILITARYREFORM_BAD_LOG;Мы отозвали $OLD$ в $CATEGORY$ в $ISSUE$.;Nous avons supprime $OLD$ en $CATEGORY$ pour $ISSUE$.;Wir haben $OLD$ in $CATEGORY$ auf $ISSUE$ widerrufen.;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+MILITARYREFORM_BAD_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
+MILITARYREFORM_BAD_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
+MILITARYREFORM_BAD_MAP;*;*;*;;*;;;;;;;;;x
+MODIFIER_CIVILIZATION_PROGRESS;Прогресс цивилизации;Progres de la civilisation;Zivilisationsfortschritt;;;;;;;;;;;x
+SUPPRESSION_TECH;Эффективность подавления;Efficacite de la repression;Effektivitat der Unterdruckung;;;;;;;;;;;x
+REFORM_RESEARCH_COST;Стоимость исследования: §Y$COST$§!;RCout de recherche: §Y$COST$§!;Forschungskosten: §Y$COST$§!;;;;;;;;;;;x
+POLITICS_CIVILIZE;вестернизовать;Occidentalisation;Verwestlichen;;;;;;;;;;;x
+CIVILIZE_DESC;Полностью принять западные идеи. Это даст нам доступ к технологическим достижениям нашего лидера сферы;Embrasser entierement les idees occidentales : cela nous donnera acces aux technologies avancees du pays dominant de notre sphere.;Nehmt die westlichen Ideen vollstandig an. Dies wird uns Zugang zu den technologischen Fortschritten des Anfuhrers unseres Wirkungsbereichs gewahren;;;;;;;;;;;x
+CIVILIZE_NO_MASTER_DESC;Полностью принять западные идеи. Это даст нам доступ к технологическим достижениям со всего мира;Embrasser entierement les idees occidentales : cela nous donnera acces aux technologies avancees du monde entier.;Nehmt die westlichen Ideen vollstandig an. Dies wird uns Zugang zu den technologischen Fortschritten aus aller Welt verschaffen;;;;;;;;;;;x
+INFLUENCE_RELATION;Отношения;Relations;Beziehungen;;;;;;;;;;;x
+NO_CIV_PROGRESS;Мы не продвинулись в направлении вестернизации. Нам нужно провести военные или экономические реформы.;Nous n'avons fait aucun progres vers l'occidentalisation. Nous avons besoin d'adopter des reformes militaires ou economiques.;Wir haben keine Fortschritte in der Verwestlichung gemacht. Wir mussen militarische oder wirtschaftliche Reformen verabschieden;;;;;;;;;;;x
+RESEARCH_POINTS_LABEL;Исследовательские пункты:;Points de recherche :;Forschungspunkte:;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC;Стоимость экономической реформы;Cout de la reforme economique;Kosten fur Wirtschaftsreform;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY;Стоимость военной реформы;Cout de la reforme militaire;Kosten fur Militarreform;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_ECONOMIC;Стоимость экономической реформы;Cout de la reforme economique;Kosten fur Wirtschaftsreform;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_MILITARY;Стоимость военной реформы;Cout de la reforme militaire;Kosten fur Militarreform;;;;;;;;;;;x
+MODIFIER_LAND_UNIT_START_EXPERIENCE;Опыт старта на земле;Experience militaire de depart;Anfangserfahrung der Landeinheiten;;;;;;;;;;;x
+MODIFIER_NAVAL_UNIT_START_EXPERIENCE;Опыт военно-морского старта;Experience navale de depart;Anfangserfahrung der Marineeinheiten;;;;;;;;;;;x
+MODIFIER_ADMINISTRATIVE_EFFICIENCY;Административная эффективность;Efficacite administrative;Verwaltungseffizienz;;;;;;;;;;;x
+ARMY_TECHNOLOGY_LEVELS;Армейская техника: $VAL$/$MAX$;Tech. mil.: $VAL$/$MAX$;Armeetechnologie: $VAL$/$MAX$;;;;;;;;;;;x
+NAVY_TECHNOLOGY_LEVELS;Военно-морские технологии: $VAL$/$MAX$;Tech. nav.: $VAL$/$MAX$;Marinetechnologie: $VAL$/$MAX$;;;;;;;;;;;x
+MODIFIER_TARIFF_EFFICIENCY;Эффективность тарифа;Efficacite des taxes;Tarifeffizienz;;;;;;;;;;;x
+MODIFIER_MAX_LOAN_AMOUNT;Максимальная сумма кредита;Montant maximal de pret;Maximaler Darlehensbetrag;;;;;;;;;;;x
+PROD_YOUR_CURRENT_BUDGET;Ваш текущий бюджет:;Votre budget actuel :;Euer derzeitiges Budget:;;;;;;;;;;;x
+PROD_YOUR_INVESTMENT;Ваши инвестиции:;Votre investissement :;Eure Investition:;;;;;;;;;;;x
+MODIFIER_LAND_ATTACK;Атака наземного подразделения;Unite d'attaque terrestre;Landeinheit Angriff;;;;;;;;;;;x
+MODIFIER_NAVAL_ATTACK;Атака военно-морского подразделения;Unite d'attaque navale;Marineeinheit Angriff;;;;;;;;;;;x
+MODIFIER_LAND_DEFENSE;Оборона наземных подразделений;Unite de defense terrestre;Landeinheit Verteidigung;;;;;;;;;;;x
+MODIFIER_NAVAL_DEFENSE;Оборона военно-морского подразделения;Unite de defense navale;Marineeinheit Verteidigung;;;;;;;;;;;x
+free_press_promised;Обещана свободная пресса;Presse libre promise;Pressefreiheit versprochen;;;;;;;;;;;x
+yes_meeting_promised;Обещано право на публичные собрания;Droit aux reunions publiques promis;Versammlungsfreiheit versprochen;;;;;;;;;;;x
+trade_unions_promised;Профсоюзы обещали;Syndicats promis;Handelsgewerkschaften versprochen;;;;;;;;;;;x
+free_press_promised_desc;Мы сказали людям, что у них будет свободная пресса, и они ожидают, что мы скоро выполним свое слово.;Nous avons dit aux gens qu'ils auraient droit a une presse libre, ils s'attendent a ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Pressefreiheit erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x
+yes_meeting_promised_desc;Мы сказали людям, что у них будет право на публичные собрания, и они будут ожидать, что мы вскоре выполним свое слово.;Nous avons dit aux gens qu'ils auraient le droit de tenir des reunions publiques, ils s'attendent a ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Versammlungsfreiheit erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x
+trade_unions_promised_desc;Мы сказали людям, что у них будут профсоюзы, и они будут ожидать, что мы скоро выполним свое слово.;Nous avons dit aux gens qu'ils auraient des syndicats, ils s'attendent a ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Handelsgewerkschaften erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x
+recent_safari;Недавнее сафари;Safari recent;Kurzliche Safari;;;;;;;;;;;x
+recent_safari2;Слишком много сафари;Trop de safaris;Zu viele Safaris;;;;;;;;;;;x
+recent_safari_desc;Недавно мы были на сафари.;Nous avons fait recemment un safari;Wir hatten kurzlich erst eine Safari;;;;;;;;;;;x
+recent_safari2_desc;В последнее время было проведено слишком много сафари.;Tout comptes faits, il y a eu trop de safaris recemment;Insgesamt gab es in letzter Zeit zu viele Safaris;;;;;;;;;;;x
+unciv_reactionary_rebels_title;Реакционер;Reactionnaire;Reaktionar;;;;;;;;;;;x
+unciv_reactionary_rebels_name;\$COUNTRY\$ Реакционеры;Reactionnaires de $COUNTRY$;$COUNTRY$ Reaktionare;;;;;;;;;;x;
+unciv_reactionary_rebels_desc;Реакционные мятежники стремятся жить по традициям своих предков и отвергают любую идею копирования манер европейцев.;Les rebelles reactionnaires ont longtemps vecu a la maniere de leurs ancetres et ont rejete l'idee meme d'imiter les manieres europeennes.;Reaktionare Rebellen streben danach, auf die Art ihrer Vorfahren zu leben und lehnen jegliche Gedanken daran ab, die Verhaltensweisen der Europaer zu kopieren.;;;;;;;;;;;x
+unciv_reactionary_rebels_army;$COUNTRY_ADJ$ Армия;Armee $COUNTRY_ADJ$;$COUNTRY_ADJ$ Armee;;;;;;;;;;;x
+SET_ECONOMIC_REFORM_EFFECT;Экономическая реформа выбрана: §Y$NAME$§W.\n;Reforme economique selectionnee : §Y$NAME$§W.\n;gewahlte Wirtschaftsreform: §Y$NAME$§W.\n;;;;;;;;;;;x
+SET_MILITARY_REFORM_EFFECT;Выбрана военная реформа: §Y$NAME$§W.\n;MReforme militaire selectionnee : §Y$NAME$§W.\n;gewahlte Militarreform: §Y$NAME$§W.\n;;;;;;;;;;;x
+NATIONALIZE_INDUSTRY_EFFECT;Провести национализацию;Proceder a la nationalisation;Nationalisierung durchfuhren;;;;;;;;;;;x
+DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;Частично централизованная нация;Nation partiellement centralise;Teilweise zentralisierte Nation;;;;;;;;;;;x
+DIPLOMACY_PRIMITIVENATION_STATUS;Нецентрализованная нация;Nation Non Centralisee;Non-Centralized Nation;;;;;;;;;;;x
+UNCIV_CANT_RESEARCH;Вестернизируйте, чтобы иметь возможность исследовать;L'occidentalisation est necessaire pour la recherche;Verwestlichen, um Forschen zu konnen;;;;;;;;;;;x
+TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W люди основных/принятых культур дают нам §Y$FOCUS$§W точки фокусировки;§Y$NUM$§W de personnes de cultures primitives ou acceptees donnent §Y$FOCUS$§W point(s) de cause nationale;§Y$NUM$§W Menschen aus primaren/akzeptierten Kulturen geben uns §Y$FOCUS$§W Fokuspunkte;;;;;;;;;;;x
+meiji_restoration_boost;Реформация Мэйдзи.;Reforme Meiji.;Meiji Reformation.;;;;;;;;;;;x
+meiji_restoration_boost_desc;Прогресс во имя Императора!;Le progres au nom de l'Empereur;Fortschritt im Namen des Herrschers!;;;;;;;;;;;x
+OTHER_PORT;Это военно-морская база, к которой у нас нет доступа.;C'est une base navale a laquelle nous n'avons pas acces;Dies ist ein Marinestutzpunkt, zu dem wir keinen Zugang haben;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC_UH;Поддержка верхней палаты;Soutien de l'Assemblee;Unterstutzung des Oberhauses;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY_UH;Поддержка верхней палаты;Soutien de l'Assemblee;Unterstutzung des Oberhauses;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§! Радикализм: $AMOUNT$;§Y$MOVEMENT$§! du radicalisme : $AMOUNT$;§Y$MOVEMENT$§! Radikalismus: $AMOUNT$;;;;;;;;;;;x
+MILITARY_REFORM_COST_DESC; Модификатор стоимости военных реформ:;Cout du modificateur pour les reformes militaires : ;Kostenmodifikator fur militarische Reformen:;;;;;;;;;;;x
+ECONOMIC_REFORM_COST_DESC; Модификатор стоимости экономических реформ:;Cout du modificateur pour les reformes economiques : ;Kostenmodifikator fur wirtschaftliche Reformen:;;;;;;;;;;;x
+MAPMODE_19;Уровень цивилизации;Niveau de civilisation;Zivilisationsstufe;;;;;;;;;;;x
+CHI_absolute_monarchy;Империя Цин;Empire Chinois;Das Chinesische Reich;;;;;;;;;;;x
+EVTOPTB23212;Продолжайте смотреть на небо!;Continuez de regarder au ciel !;Schau weiter in den Himmel!;;;;;;;;;;;x
+LOSE_CIVILIZED_EFFECT;Мы будем известны как §YНецивилизованная Нация§W\n;Nous allons etre consideres comme §Ynation non-civilisee§W\n;Man soll uns kennen als §YUnzivilisierte Nation§W\n;;;;;;;;;;;x
+french_growth_nerf;Сокращение численности населения Франции:;Declin de la population francaise ;Ruckgang der Franzosischen Bevolkerung:;;;;;;;;;;;x
+french_growth_nerf_desc;Темпы нашего роста замедлились:;Notre croissance ralentit;Unsere Wachstumsrate ist verlangsamt:;;;;;;;;;;;x
+EVTNAME37226;Сокращение численности населения;Diminution de la population;Bevolkerungsruckgang;;;;;;;;;;;x
+EVTDESC37226;После очень долгого периода, когда Франция была самой густонаселенной страной в Европе, у нее был чрезвычайно низкий уровень рождаемости на протяжении большей части 19-го и 20-го веков по причинам, которые до сих пор не поняты. К концу викторианской эпохи они оказались затменными Россией, Германией, Великобританией и Италией по общей численности населения.;Apres une tres longue periode ou la France a ete la nation la plus peuplee d'Europe, elle a eu un taux de natalite tres bas pendant la plus grande partie des XIXeme et XXeme siecles -pour des raisons toujours incomprises. A la fin de l'ere victorienne, la France va etre depassee par la Russie, l'Allemagne, le Royaume-Uni et l'Italie en termes de population.;Nach einer langen Zeit, als bevolkerungsreichste Nation Europas, hatte Frankreich im 19. und 20. Jahrhundert uber einen langeren Zeitraum eine sehr geringe Geburtenrate. Die Grunde dafur sind bis heute nicht geklart. Am Ende des viktorianischen Zeitalters wurden sie in Puncto Bevolkerung von Russland, Deutschland, dem Vereinigten Konigreich und Italien in den Schatten gestellt.;;;;;;;;;;;x
+EVTOPTA37226;Это настоящий удар!;Quel choc !;Dies ist ein echter Ruckschlag!;;;;;;;;;;;x
+nationalize_title;Захватите средства производства!;Saisie des moyens de production !;Beschlagnahmt die Produktionsmittel!;;;;;;;;;;;x
+nationalize_desc;Больше не будут чужие собаки жиреть на поте нашего народа! Пришло время конфисковать все имущество, принадлежащее иностранцам, и передать его на попечение государства.;Les chiens etrangers ne s'engraisseront plus grace a la sueur de notre peuple ! Le temps est venu de saisir tous les biens detenus par l'exterieur, pour qu'is soient controles par l'etat.;Nie wieder werden die auslandischen Hunde fetter werden, auf Kosten unseres Volkes! Es ist an der Zeit, das Anlagevermogen aller Aussenstehenden zu beschlagnahmen, und in die Obhut des Staates zu ubergeben.;;;;;;;;;;;x
+EVTNAME90950; Активы арестованы!;Biens saisis !;Anlagevermogen beschlagnahmt!;;;;;;;;;;;x
+EVTDESC90950;Неблагодарное правительство $FROMCOUNTRY$ оценило наши инвестиции и объявило их своими!;Le gouvernement ingrat de $FROMCOUNTRY$ a saisi nos investissements et les a revendiques comme siens !;Die undankbare Regierung von $FROMCOUNTRY$ hat unsere Investitionen beschlagnahmt und beansprucht sie fur sich selbst!;;;;;;;;;;;x
+EVTOPTA90950; Этому не бывать!;Ca ne durera pas !;Damit wird man nicht durchkommen!;;;;;;;;;;;x
+EVTOPTB90950;Пусть они будут;Laissons faire;Lasst sie in Ruhe;;;;;;;;;;;x
+MOVEMENT_RADICALISM;Движение Радикализм;Mouvement radical;Radikalismus der Bewegung;;;;;;;;;;;x
+MOVEMENT_RADICALISM_DESC;Это описывает, насколько люди движения доверяют политическому процессу в вашей стране, чтобы получить то, что они хотят. Движение с высокой ценностью (§Y100§!) превратится в восстание мятежников, если его не подавить;Ceci decrit dans quelle mesure les gens de ce mouvement font confiance au processus politique pour obtenir ce qu'ils veulent dans votre pays. Un mouvement avec une valeur elevee (§Y100§!) se transformera en rebellion s'il n'est pas reprime.;Dies beschreibt wie viel Vertrauen die Anhanger einer Bewegung und der Erfullung ihrer Forderungen dem politischen Prozess in eurem Land entgegen bringen. Eine Bewegung mit einem hohen Wert (§Y100§!) wird in einen Rebellenaufstand enden, sofern sie nicht unterdruckt werden.;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS;Количество сторонников;Nombre de partisans;Anzahl der Anhanger;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS_DESC;Чем больше движение, тем сложнее его подавить. Если вы проводите реформу с меньшей поддержкой, все движения с большей поддержкой станут более радикальными;Plus le mouvement est grand, plus il est difficile a reprimer. Si vous adoptez une reforme avec moins de soutien, tous les mouvements en ayant plus deviendront plus radicaux;Je grosser die Bewegung, desto schwieriger ist es, sie zu unterdrucken. Wenn Ihr Reformen mit weniger Unterstutzung verabschiedet, werden alle Bewegungen mit mehr Unterstutzung radikaler;;;;;;;;;;;x
+PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Невозможно закрыть иностранное производство\n;Vous ne pouvez pas fermer une usine etrangere\n;Eine auslandische Fabrikanlage kann nicht geschlossen werden\n;;;;;;;;;;;x
+CAN_NATIONALIZE;Иметь иностранных инвесторов;Avoir des investisseurs etrangers;Besitzt Investoren aus dem Ausland;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;Не в сфере влияния;Pas dans une sphere d'influence;Nicht in einem Einflussbereich;;;;;;;;;;;x
+ACTIVATE_TECH_EFFECT;Активировать технологию: §Y$NAME$§!;Activer la technologie §Y$NAME$§!;Technologie aktivieren: §Y$NAME$§!;;;;;;;;;;;x
+TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;Технология высокого уровня доступна только централизованным нациям. Вестернизируясь на вкладке §Yполитика§!, вы можете получить базовую технологию и начать проводить исследования самостоятельно.;Les hauts niveaux de technologies ne sont accessibles qu'aux nations civilisees. En occidentalisant dans l'§Yonglet politique§!, vous pouvez obtenir la technologie de base et commencer a faire des recherches par vous-meme.;Hochtechnologie ist nur fur zivilisierte Nationen verfugbar. Indem Ihr im §Ypolitics tab§! verwestlicht, konnt Ihr Grundtechnologien erwerben und stattdessen selber beginnen zu forschen.;;;;;;;;;;;x
+RELATION_BETWEEN;Текущее отношение между $COUNTRY1$ и $COUNTRY2$: $RELATION$;Relation actuelle entre $COUNTRY1$ et $COUNTRY2$ : $RELATION$;Derzeitige Beziehungen zwischen $COUNTRY1$ und $COUNTRY2$: $RELATION$;;;;;;;;;;;x
+ADD_RELATIVE_INCOME_EFFECT;Казначейство: $VALUE$¤;Tresor :  $VALUE$ ¤;Schatzkammer: $VALUE$¤;;;;;;;;;;;x
+CORRUPTION_LESS_THAN; Коррупция меньше, чем;Corruption inferieure a ;Korruption unter;;;;;;;;;;;x
+CORRUPTION_MORE_THAN; Коррупция более чем;Corruption superieure a ;Korruption uber;;;;;;;;;;;x
+MOVEMENT_RADICALISM_FROM_SIZE; Поддержка населения: $VAL$;Soutien populaire : $VAL$ ;Unterstutzung der Bevolkerung: $VAL$;;;;;;;;;;;x
+dar_al_funun;Дар аль-Фунун.;Le Dar al funun.;Der Dar al funun.;;;;;;;;;;;x
+dar_al_funun_desc;Первый современный университет в Персии.;La premiere universite moderne de Perse.;Die erste moderne Universitat in Persien.;;;;;;;;;;;x
+BOL_2305;Потос?Потоси;Atacama;Atacama;;;;;;;;;;;x
+BOL_2314;Потоси;Potosi;Potosi;;;;;;;;;;;x
+serfdom_not_abolished;Крепостное право не отменено:;Le servage n'est pas aboli :;Leibeigenenschaft nicht abgeschafft:;;;;;;;;;;;x
+XIN;Синьцзян;Xinjiang;Xinjiang;;;;;;;;;;;x
+YNN;Юньнань;Yunnan;Yunnan;;;;;;;;;;;x
+GXI;Гуанси;Guangxi;Guangxi;;;;;;;;;;;x
+MCK;Маньчжоу-го;Mandchourie;Manchuria;;;;;;;;;;;x
+LEADERSHIP;Лидерство;Preeminence;Herrschaft;;;;;;;;;;;x
+XBI;Цинхай;Qinghai;Qinghai;;;;;;;;;;;x
+EVTNAME23213;Горы Безумия;Les Monts de la Folie;Die Berge des Wahnsinns;;;;;;;;;x;;
+EVTDESC23213;Наша экспедиция на Южный полюс пробудила нечто ужасное. В руинах огромного инопланетного города они обнаружили вещи, не идентифицируемые ни как растения, ни как животные. Вещи, которые правили Землей в далеком прошлом. Вещи, которые возвращаются и полны невыразимого голода.;Notre expedition au Pole Sud a reveille quelque chose d'horrible. Dans les ruines d'une gigantesque ville extra-terrestre, on a decouvert des choses qu'on ne sait definir comme vegetales ou animales… Des choses qui regnaient sur la Terre dans des temps immemoriaux - des choses qui reviennent et sont douees d'un insatiable appetit, c'est indescriptible.;Unsere Expedition zum Sudpol hat etwas Furchtbares aufgeweckt. In den Ruinen einer riesigen, unbekannten Stadt hat sie Dinge entdeckt, die weder pflanzlichen noch tierischen Ursprungs sind. Dinge, die die Erde in der weiten Vergangenheit beherrscht haben.;;;;;;;;;x;;
+EVTOPTA23213;Ну, это нехорошо...;Ca, c'est pas bon du tout...;Das hort sich gar nicht gut an …;;;;;;;;;x;;

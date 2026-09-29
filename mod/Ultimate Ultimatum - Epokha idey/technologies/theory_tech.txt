@@ -1,0 +1,887 @@
+#theory1
+post_renaissance_tech = {
+	area = jacobean_era
+	year = 1603
+	cost = 3600
+	
+	increase_research = 0.025
+	education_efficiency = 0.025
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1610
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.1
+		}
+	}
+}
+
+birth_of_science_tech = {
+	area = jacobean_era
+	year = 1629
+	cost = 4000
+	increase_research = 0.05
+	education_efficiency = 0.025
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1640
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.3
+		}
+	}
+}
+
+scientific_revolution_tech = {
+	area = jacobean_era
+	year = 1659
+	cost = 5000
+	
+	increase_research = 0.075
+	education_efficiency = 0.025
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1670
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.5
+		}
+	}
+}
+
+early_agricultural_reforms_tech = {
+	area = jacobean_era
+	year = 1699
+	cost = 5200
+	increase_research = 0.025
+	farm_rgo_eff = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			OR = {
+				big_producer = grain
+				big_producer = cotton
+				big_producer = cattle
+				big_producer = tea
+				big_producer = coffee
+				big_producer = silk
+				big_producer = tobacco
+				big_producer = fruit
+			}
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1770
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.5
+		}
+	}
+}
+agricultural_revolution_tech = {
+	area = jacobean_era
+	year = 1749
+	cost = 5600
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			OR = {
+				big_producer = grain
+				big_producer = cotton
+				big_producer = cattle
+				big_producer = tea
+				big_producer = coffee
+				big_producer = silk
+				big_producer = tobacco
+				big_producer = fruit
+			}
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1760
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.5
+		}
+	}
+	
+}
+dawn_of_industrial_revolution_tech = {
+	area = jacobean_era
+	year = 1769
+	cost = 5800
+	increase_research = 0.05
+	factory_throughput = 0.02
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			industrial_score = 1
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1780
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.5
+		}
+	}
+}
+first_industrial_revolution_tech = {
+	area = jacobean_era
+	year = 1799
+	cost = 6100
+	increase_research = 0.10
+	factory_throughput = 0.05 
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			industrial_score = 1
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			year = 1790
+		}
+		modifier = {
+			factor = 1.2
+			prestige = 0.5
+		}
+	}
+}
+
+#theory2
+late_medieval_warfare = {
+	area = caroline_era
+	year = 1603
+	cost = 3600
+	irregular = {
+		default_organisation = 1
+		supply_consumption = 0.05
+	}
+	cavalry = {
+		default_organisation = 1
+		supply_consumption = 0.05
+	}
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+	}
+}
+
+early_military_revolution = {
+	area = caroline_era
+	year = 1639
+	cost = 4000
+	activate_unit = cuirassier
+	cuirassier = {
+		supply_consumption = 3
+	}
+	irregular = {
+		default_organisation = 1
+		supply_consumption = 0.05
+	}
+	cavalry = {
+		default_organisation = 1
+		supply_consumption = 0.05
+	}
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+}
+
+flintlock_muskets = {
+	area = caroline_era
+	year = 1649
+	cost = 5000
+	irregular = {
+		default_organisation = 1
+		supply_consumption = 0.10
+	}
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+}
+
+military_revolution = {
+	area = caroline_era
+	year = 1699
+	cost = 5400
+	activate_unit = hussar
+	hussar = {
+		supply_consumption = 1.5
+	}
+	irregular = {
+		default_organisation = 2
+		supply_consumption = 0.05
+	}
+	cavalry = {
+		default_organisation = 2
+		supply_consumption = 0.05
+	}	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+}
+
+era_of_mass_armies = {
+	area = caroline_era
+	year = 1719
+	cost = 5600
+	mobilisation_size = 0.01
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+}
+
+early_modern_warfare = {
+	area = caroline_era
+	year = 1779
+	cost = 5800
+	activate_unit = dragoon
+	irregular = {
+		default_organisation = 2
+		supply_consumption = 0.05
+		defence = 0.75
+	}
+	cavalry = {
+		default_organisation = 2
+		supply_consumption = 0.05
+	}		
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+}
+napoleonic_warfare = {
+	area = caroline_era
+	year = 1804
+	cost = 6200
+	activate_unit = infantry
+	hussar = {
+		supply_consumption = -1.5
+	}
+	cuirassier = {
+		supply_consumption = -3
+	}
+	irregular = {
+		default_organisation = 2
+		supply_consumption = 0.05
+		defence = 0.75
+	}
+	cavalry = {
+		default_organisation = 2
+		supply_consumption = 0.05
+	}	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+			}
+
+}
+
+
+#theory3
+late_renaissance = {
+	area = georgian_era
+	year = 1603
+	cost = 3600
+	prestige = 0.001
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+	}
+}
+
+mannerism = {
+	area = georgian_era
+	year = 1609
+	cost = 4000
+	prestige = 0.001
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+}
+
+early_baroque = {
+	area = georgian_era
+	year = 1619
+	cost = 5000
+	prestige = 0.001
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+}
+
+high_baroque = {
+	area = georgian_era
+	year = 1639
+	cost = 5200
+	prestige = 0.001
+		ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+
+}
+
+rococo = {
+	area = georgian_era
+	year = 1724
+	cost = 5600
+	prestige = 0.001
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+}
+
+neoclassicism = {
+	area = georgian_era
+	year = 1759
+	cost = 5800
+	prestige = 0.001
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+}
+early_romanticistic_culture = {
+	area = georgian_era
+	year = 1795
+	cost = 6100
+
+	prestige = 0.001
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+			}
+}
+
+#theory4
+late_reformation = {
+	area = edwardian_era
+	year = 1603
+	cost = 3600
+	education_efficiency = 0.025	
+ 
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+counter_reformation = {
+	area = edwardian_era
+	year = 1604
+	cost = 4000
+	education_efficiency = 0.025	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+inquisitions_tech = {
+	area = edwardian_era
+	year = 1629
+	cost = 4800
+	education_efficiency = 0.025	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+jesuit_movements_tech = {
+	area = edwardian_era
+	year = 1654
+	cost = 5200
+	education_efficiency = 0.05	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+the_great_awakening = {
+	area = edwardian_era
+	year = 1729
+	cost = 5600
+	education_efficiency = 0.025	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+downfall_of_the_old_church = {
+	area = edwardian_era
+	year = 1759
+	cost = 5800
+	education_efficiency = 0.025	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+anti_clericalism = {
+	area = edwardian_era
+	year = 1799
+	cost = 6200
+	education_efficiency = 0.025	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+#theory5
+late_renaissance_philosophies = {
+	area = elizabethan_era
+	year = 1603
+	cost = 3600
+	increase_research = 0.15
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+age_of_rationalism = {
+	area = elizabethan_era
+	year = 1619
+	cost = 4000
+	increase_research = 0.15
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+early_modern_philosphies = {
+	area = elizabethan_era
+	year = 1685
+	cost = 5400
+	increase_research = 0.15
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+enlightenment = {
+	area = elizabethan_era
+	year = 1749
+	cost = 5600
+	increase_research = 0.15
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+counter_enligthenment = {
+	area = elizabethan_era
+	year = 1779
+	cost = 5900
+	increase_research = 0.15
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+}
+
+revolutionary_ideas = {
+	area = elizabethan_era
+	year = 1799
+	cost = 6100
+	increase_research = 0.15
+	
+ 	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+
+}
+early_romanticism = {
+	area = elizabethan_era
+	year = 1814
+	cost = 6400
+	increase_research = 0.15
+	
+ 	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+			}
+  
+		
+}

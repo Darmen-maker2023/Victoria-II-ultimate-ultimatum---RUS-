@@ -1,0 +1,402 @@
+color = { 117  170  219 }
+graphical_culture = SouthAmericanGC
+
+party = {
+	name = "LAP_anarcho_liberal"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "LAP_conservative"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "LAP_liberal"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "LAP_reactionary"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "LAP_socialist"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "LAP_communist"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "LAP_fascist"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+unit_names = {
+	dreadnought = {
+		"ARA Alvear" "ARA Argentina" "ARA General Rosas" "ARA Moreno" "ARA Paz" "ARA Presidente Avellaneda" "ARA Rio de la Plata" "ARA Rivadavia" "ARA San Martin" "ARA Urquiza" 
+		"ARA Yrigoyen"
+	}
+	ironclad = {
+		"ARA Almirante Brown" "ARA Bouchard" "ARA Campichuelo" "ARA Cepeda" "ARA De las Heras" "ARA Federacion" "ARA Huamita " "ARA Independencia" "ARA Juiter" "ARA Lavalle"
+		"ARA Libertad" "ARA Marte" "ARA Mercurio" "ARA Neptuno" "ARA Pavon" "ARA Pluton" "ARA Salado" "ARA Salta" "ARA Suipacha" "ARA Thomas"
+	}
+	manowar = {
+		"ARA America" "ARA Aquiles" "ARA Argentina" "ARA Argonauta" "ARA Furor" "ARA Libertador" "ARA Navegante" "ARA Perla Negra" "ARA Rio de la Plata"
+		"ARA Salvador" "ARA San Bernardo" "ARA San Claudio" "ARA San Honorato" "ARA Santa Ana" "ARA Santa Maria" "ARA Santiago" "ARA Terror" "ARA Victoriosa"
+	}
+	cruiser = {
+		"ARA Almirante Brown" "ARA Alvarez Jonte" "ARA Belgrano" "ARA Buenos Aires" "ARA Castelli" "ARA Chichlana" "ARA Garibaldi" "ARA Gomez" "ARA Liniers" "ARA Matheu"
+		"ARA Mitre" "ARA Nueve de Julio" "ARA Paso" "ARA Patagonia" "ARA Patria" "ARA Roca" "ARA San Martin" "ARA Sarratea" "ARA Veinticinco de Mayo"
+	}
+	frigate = {
+		"ARA Azopardo" "ARA Cervantes" "ARA Espora" "ARA Garay" "ARA Hercules" "ARA Heroina" "ARA La Argentina" "ARA La Libertad" "ARA Murillo" "ARA Parker"
+		"ARA Piedra Buena" "ARA Presidente Sarmiento" "ARA Republica" "ARA Robinson" "ARA Rondeau" "ARA Rosales" "ARA Saavedra" "ARA Spiro"
+	}
+	monitor = {
+		"ARA El Plata" "ARA Formosa" "ARA Gran Chaco" "ARA La Pampa" "ARA Lago Argentino" "ARA Los Andes" "ARA Mesopotamia" "ARA Posadas" "ARA Rawson" "ARA Resistencia"
+		"ARA San Fernando del Valle" "ARA San Miguel" "ARA San Salvador" "ARA Santa Rosa" "ARA Sirena" "ARA Somuncuri" "ARA Tetis" "ARA Tristan" "ARA Viedma" "ARA Vulcano"
+	}
+	clipper_transport = { 
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		"ARA Bermejo" "ARA Catamarca" "ARA Constitucion" "ARA Cordoba" "ARA Corrientes" "ARA Jujuy" "ARA La Plata" "ARA La Rioja" "ARA Mendoza"
+		"ARA Misiones" "ARA Parana" "ARA Pilcomayo" "ARA Rosario" "ARA San Juan" "ARA San Luis" "ARA Santa Cruz" "ARA Sol Argentino" "ARA Uruguay"
+	}
+}
+party = {
+	name = "LAP_nationalism"
+	start_date = 1820.1.1
+	end_date = 99999.1.1
+
+	ideology = nationalism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "LAP_agrarianism"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = agrarianism
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_conservative_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_conservative_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "LAP_liberal_2"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "LAP_liberal_3"
+	start_date = 1776.1.1
+	end_date = 99999.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_socialist_2"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "LAP_socialist_3"
+	start_date = 1860.1.1
+	end_date = 99999.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = "LAP_communist_2"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_communist_3"
+	start_date = 1870.1.1
+	end_date = 99999.1.1
+
+	ideology = communist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = jingoism
+}
+party = {
+	name = "LAP_fascist_2"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+party = {
+	name = "LAP_fascist_3"
+	start_date = 1905.1.1
+	end_date = 99999.1.1
+
+	ideology = fascist
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_anarcho_liberal_2"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+party = {
+	name = "LAP_anarcho_liberal_3"
+	start_date = 1848.1.1
+	end_date = 99999.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+party = {
+	name = "LAP_reactionary_2"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+party = {
+	name = "LAP_reactionary_3"
+	start_date = 1600.1.1
+	end_date = 99999.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_LAP_syndicalism"
+	start_date = 1890.1.1
+	end_date = 9999.1.1
+	ideology = syndicalism
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_LAP_militarism"
+	start_date = 1815.1.1
+	end_date = 9999.1.1
+	ideology = militarism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "UU1600_LAP_ecologism"
+	start_date = 1960.1.1
+	end_date = 9999.1.1
+	ideology = ecologism
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "UU1600_LAP_corporatism"
+	start_date = 1880.1.1
+	end_date = 9999.1.1
+	ideology = corporatism
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "UU1600_LAP_cyber_autonomism"
+	start_date = 2000.1.1
+	end_date = 9999.1.1
+	ideology = cyber_autonomism
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}

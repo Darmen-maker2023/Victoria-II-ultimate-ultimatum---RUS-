@@ -1,0 +1,36 @@
+political_decisions = {
+	uu_claim_colonial_reserve_150 = {
+		potential = {
+			ai = no
+			NOT = { has_country_flag = uu_colonial_reserve_150_claimed }
+		}
+		allow = {
+			year = 1600
+			NOT = { battleship_column_doctrine = 1 }
+		}
+		effect = {
+			activate_technology = battleship_column_doctrine
+			set_country_flag = uu_colonial_reserve_150_claimed
+		}
+		ai_will_do = { factor = 0 }
+	}
+
+	uu_cnk_pacific_expedition = {
+		potential = {
+			tag = CNK
+			ai = no
+			NOT = { has_country_flag = uu_cnk_pacific_expedition_claimed }
+		}
+		allow = {
+			year = 1604
+			money = 1000
+			NOT = { post_nelsonian_thought = 1 }
+		}
+		effect = {
+			money = -1000
+			activate_technology = post_nelsonian_thought
+			set_country_flag = uu_cnk_pacific_expedition_claimed
+		}
+		ai_will_do = { factor = 0 }
+	}
+}

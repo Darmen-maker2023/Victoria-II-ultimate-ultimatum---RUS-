@@ -1,0 +1,151 @@
+GREAT_WARS_ENABLED_DESC;Открываются великие войны.;Les Grandes Guerres sont decouvertes.;Grosse Kriege sind bekannt;;;;;;;;;;;x
+GREAT_WARS_DISABLED_DESC;Великие войны еще не открыты.;Les Grandes Guerres ne sont pas encore decouvertes.;Grosse Kriege sind unbekannt;;;;;;;;;;;x
+GREAT_WARS_ENABLE_DESC;Войны могут получить статус Великих войн!;Des guerres peuvent obtenir le statut de Grandes Guerres;Kriege konnen sich zu einem Grossen Krieg entwickeln;;;;;;;;;;;x
+GREAT_WAR_NAME;$ORDER$Великая война;La $ORDER$ Grande Guerre;Der $ORDER$Grosser Krieg;;;;;;;;;;;x
+GW_DISCOVERED_SETUP;Когда будут обнаружены Великие войны.;Quand les Grandes Guerres sont decouvertes.;Wenn Grosse Kriege moglich sind;;;;;;;;;;;x
+GW_DISCOVERED_HEADER;Открыты Великие войны!;Decouverte des Grandes Guerres !;Grosse Kriege sind nun moglich;;;;;;;;;;;x
+GW_DISCOVERED_1;Открыты Великие войны!;Decouverte des Grandes Guerres !;Grosse Kriege sind nun moglich!;;;;;;;;;;;x
+GW_DISCOVERED_2;Отныне каждая война, включающая в себя;Desormais, toute guerre impliquant;Von nun an, wird jeder Krieg, bei dem;;;;;;;;;;;x
+GW_DISCOVERED_3;по крайней мере две великие страны;au moins deux grandes Nations;mindestens 2 Grossmachte;;;;;;;;;;;x
+GW_DISCOVERED_4;с каждой стороны, получит статус;de chaque cote, obtient le statut de;sich auf jeder Seite befinden, den Status eines;;;;;;;;;;;x
+GW_DISCOVERED_5;§YВеликая война§!.;§YGrande Guerre§!.;§YGrossen Krieges§ haben!.;;;;;;;;;;;x
+GW_DISCOVERED_6;*;*;*;;;;;;;;;;;x
+GW_DISCOVERED_BTN1;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+GW_DISCOVERED_BTN2;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+GW_DISCOVERED_BTN3;Перейти к;Voir;Gehe zu;;;;;;;;;;;x
+GW_DISCOVERED_LOG;Великие войны обнаружены;Decouverte des Grandes Guerres;Grosse Kriege sind nun bekannt;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_SETUP;Когда наша война приобретет статус Великой войны.;Quand notre guerre obtient le statut de Grande Guerre.;Wenn unser Krieg den Status eines Grossen Krieges erreicht.;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_HEADER;Великая война!;Grande Guerre !;Grosser Krieg!;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_1;$WAR$;$WAR$;$WAR$;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_2;становится;devient;entwickelt sich zu;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_3;§YВеликая война§!.;§YGrande Guerre§!.;§Yeinem Grossen Krieg§!.;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_4;*;*;*;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_5;*;*;*;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_6;*;*;*;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_BTN1;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_BTN2;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_BTN3;Перейти к;Voir;Gehe zu;;;;;;;;;;;x
+WAR_GAIN_GW_STATUS_LOG;$WAR$ становится §YВеликой войной§!;$WAR$ devient une §YGrande Guerre§!.;$WAR$ entwickelt sich zu §Yeinem Grossen Krieg§!;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_SETUP;Когда наша война потеряла статус Великой войны.;Quand notre guerre perd le statut de Grande Guerre.;Wenn unser Krieg den Status eines Grossen Krieges verliert;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_HEADER;Больше не будет Великой войны!;Ce n'est plus une Grande Guerre !;Kein Grosser Krieg mehr!;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_1;$WAR$;$WAR$;$WAR$;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_2;больше нет;n'est plus;is kein;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_3;Великая война.;une Grande Guerre.;Grosser Krieg mehr;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_4;*;*;*;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_5;*;*;*;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_6;*;*;*;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_BTN1;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_BTN2;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_BTN3;Перейти к;Voir;Gehe zu;;;;;;;;;;;x
+WAR_LOST_GW_STATUS_LOG;$WAR$ больше не §YВеликая война§!;$WAR$ n'est plus une §YGrande Guerre§!.;$WAR$ ist kein §YGrosser Krieg mehr§!;;;;;;;;;;;x
+GW_INTERVENE_MIN_RELATIONS;Наши отношения с §Y$TARGET$§! должны быть не ниже §G$MIN$§!. В настоящее время это §Y$VAL$§!.;Nos relations avec §Y$TARGET$§! doivent etre d'au moins §G$MIN$§!. Actuellement elles sont de §Y$VAL$§!.;Unsere Beziehungen mit §Y$TARGET$§! muss zumindest §G$MIN$§! betragen. Gegenwartig liegt sie bei §Y$VAL$§!.;;;;;;;;;;;x
+GW_INTERVENE_MAX_EXHAUSTION;Наше военное истощение не может быть больше, чем §G$MAX$§!. В настоящее время оно составляет §Y$VAL$§!.;Notre lassitude de guerre ne doit pas etre superieure a §G$MAX$§. Actuellement elle est de §Y$VAL$§!.;Unsere Kriegsermudung darf nicht hoher als §G$MAX$§! sein. Gegenwartig liegt diese bei §Y$VAL$§!.;;;;;;;;;;;x
+great_war_penalty_cb;Капитуляция в Великой войне;Capitulation dans une Grande Guerre;Grosskriegskapitulation;;;;;;;;;;;x
+great_war_penalty_cb_desc;Заставить другую §Yстрану§! разоружиться и выплатить нам репарации.;Contraindre un autre §Ypays§! a desarmer et a nous payer des reparations.;Zwingt die andere §YNation§! zur Entwaffnung und der Zahlung von Kriegsreperationen an uns.;;;;;;;;;;;x
+great_war_penalty_cb_setup;Разоружите $RECIPIENT$ и позвольте им заплатить за репарации.;Desarmer $RECIPIENT$ et le faire payer des reparations.;Entwaffnet $RECIPIENT$ and zwingt sie zur Zahlung von Kriegsreperationen;;;;;;;;;;;x
+great_war_penalty_cb_short;Капитуляция в Великой войне;Capitulation dans une Grande Guerre;Grosskriegskapitulation;;;;;;;;;;;x
+GREAT_WAR_OBLIGATORY_CB_DESC;Обязательный повод для начала Великой войны против всех врагов:;Casus Belli de Grand Guerre obligatoire contre tous les ennemis :;Obligatorishcer Grosser Krieg Casus Belli gegenuber allen Feinden;;;;;;;;;;;x
+GREAT_WAR_CB_JUSTIFY_COST_DESC;Стоимость бесчестия вычтена до §G$PERC$%§! от первоначальной стоимости из-за статуса §YВеликой войны§!.;Cout en Infamie reduit a §G$PERC$ %§! du cout d'origine grace au statut de §YGrande Guerre§!.;Infamie-Kosten sind aufgrund des §YGrossen Krieges§! auf §G$PERC$%§! der Normalkosten runtergesetzt.;;;;;;;;;;;x
+GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;В Великой войне с §Y$TARGET$§!;En Grande Guerre contre §Y$TARGET$§!;In einem Grossen Krieg mit §Y$TARGET$§!;;;;;;;;;;;x
+fascist_focus_short;§YФашист§! лояльность;Loyaute §Yfasciste§!;§YFaschistische§! Loyalitat;;;;;;;;;;;x
+reactionary_focus_short;§YРеакционер§! лояльность;Loyaute §Yreactionnaire§!;§YReaktionare§! Loyalitat;;;;;;;;;;;x
+conservative_focus_short;§YКонсервативный§! лояльность;Loyaute §Yconservatrice§!;§YKonservative§! Loyalitat;;;;;;;;;;;x
+socialist_focus_short;§YСоциалистическая§! лояльность;Loyaute §Ysocialiste§!;§YSozialistische§! Loyalitat;;;;;;;;;;;x
+communist_focus_short;§YКоммунисты§! лояльность;Loyaute §Ycommuniste§!;§YKommunistische§! Loyalitat;;;;;;;;;;;x
+liberal_focus_short;§YЛиберал§! лояльность;Loyaute §Yliberale§!;§YLiberale§! Loyalitat;;;;;;;;;;;x
+anarcho_liberal_focus_short;§YAрхо-либерал§! лояльность;Loyaute §Yanarcho-liberale§!;§YAnarcho-liberale§! Loyalitat;;;;;;;;;;;x
+automation_focus_short;Автомастерская;Industrie automobile;Automobil Industrie;;;;;;;;;;;x
+electrical_focus_short;Электротехническая мастерская;Industrie electrique;Elektro Industrie;;;;;;;;;;;x
+chemical_focus_short;Химическая мастерская;Industrie chimique;Chemische Industrie;;;;;;;;;;;x
+shipping_focus_short;Мастерская по доставке;Industrie du transport maritime;Schiffsbau Industrie;;;;;;;;;;;x
+textile_focus_short;Текстильная мастерская;Industrie textile;Textil Industrie;;;;;;;;;;;x
+wood_focus_short;Мастерская по обработке дерева;Industrie du bois;Holzverarbeitungs Industrie;;;;;;;;;;;x
+basic_industry_focus_short;Базовый семинар;Industrie de base;Schwerindustrie;;;;;;;;;;;x
+armaments_focus_short;Мастерская вооружения;Industrie d'armement;Rustungs Industrie;;;;;;;;;;;x
+consumer_focus_short;Потребительские товары;Biens de consommation;Konsumguter Industrie;;;;;;;;;;;x
+WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;Если мы выполним эту военную цель, мы получим престиж $PRES$.;Si nous atteignons ce but de guerre, nous gagnerons $PRES$ points de prestige.;Beim erreichen von diesem Kriegsziel, erhalten wir $PRES$ Prestige.;;;;;;;;;;;x
+WAR_GOAL_FAILURE_PRESTIGE_CHANGE;Если мы не достигнем этой военной цели, мы потеряем престиж $PRES$.;Si nous n'atteignons pas ce but de guerre, nous perdrons $PRES$ points de prestige.;Bei einem Fehlschlag von diesem Kriegsziel, verlieren wir $PRES$ Prestige.;;;;;;;;;;;x
+POP_INTERNAL_MIGRATION;§Y$NUM$§! человек намерены переехать в другие провинции страны.;§Y$NUM$§! personnes ont l'intention de migrer vers d'autres provinces du pays.;§Y$NUM$§! Personen haben die Tendenz in eine andere Nationale Provinz zu migireren.;;;;;;;;;;;x
+POP_EXTERNAL_MIGRATION;§Y$NUM$§! человек намерены переехать в другую страну.;§Y$NUM$§! personnes ont l'intention de migrer vers un autre pays.;§Y$NUM$§! Personen haben die Tendenz in eine andere Nation zu emigrieren.;;;;;;;;;;;x
+POP_COLONIAL_MIGRATION;§Y$NUM$§! человек намерены переехать в колонии.;§Y$NUM$§! personnes ont l'intention de migrer vers les colonies.;§Y$NUM$§! Personen haben die Tendenz in eine unserer Kolonien zu migrieren.;;;;;;;;;;;x
+INVESTED_IN_US_SETUP;Когда страна инвестирует в нас;Quand un pays investit chez nous;Wenn eine andere Nation in unserer investiert;;;;;;;;;;;x
+INVESTED_IN_US_HEADER;Иностранные инвестиции;Investissement etranger;Auslandische Investitionen;;;;;;;;;;;x
+INVESTED_IN_US_1;$ICOUNTRY$ инвестировала в нас!;$ICOUNTRY$ a investi chez nous !;$ICOUNTRY$ hat bei uns investiert!;;;;;;;;;;;x
+INVESTED_IN_US_2;$INVESTED_IN_US_MESSAGE$;$INVESTED_IN_US_MESSAGE$;$INVESTED_IN_US_MESSAGE$;;;;;;;;;;;x
+INVESTED_IN_US_3;*;*;*;;;;;;;;;;;x
+INVESTED_IN_US_4;*;*;*;;;;;;;;;;;x
+INVESTED_IN_US_5;*;*;*;;;;;;;;;;;x
+INVESTED_IN_US_6;*;*;*;;;;;;;;;;;x
+INVESTED_IN_US_BTN1;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+INVESTED_IN_US_BTN2;ХОРОШО;D'accord;OK;;;;;;;;;;;x
+INVESTED_IN_US_BTN3;Перейти к;Voir;Gehe zu;;;;;;;;;;;x
+INVESTED_IN_US_LOG;§Y$ICOUNTRY$§! инвестировал в нас: $INVESTED_IN_US_MESSAGE$;§Y$ICOUNTRY$§! investit chez nous : $INVESTED_IN_US_MESSAGE$;§Y$ICOUNTRY$§! hat bei uns investierd : $INVESTED_IN_US_MESSAGE$;;;;;;;;;;;x
+INVESTED_IN_US_BUILD;$INAME$ построен в $ILOCATION$ для $IAMOUNT$¤;$INAME$ a construit pour $IAMOUNT$ ¤ en $ILOCATION$;$INAME$ hat in $ILOCATION$ fur $IAMOUNT$¤;;;;;;;;;;;x
+INVESTED_IN_US_OPEN;$INAME$ открыт в $ILOCATION$ на $IAMOUNT$¤;$INAME$ a ouvert pour $IAMOUNT$ ¤ en $ILOCATION$;$INAME$ eroffnete in $ILOCATION$ fur $IAMOUNT$¤;;;;;;;;;;;x
+INVESTED_IN_US_UPGRADE;Обновлено $INAME$ в $ILOCATION$ на $IAMOUNT$¤;$INAME$ a fait des ameliorations pour $IAMOUNT$ ¤ en $ILOCATION$;Rustet auf $INAME$ in $ILOCATION$ fur $IAMOUNT$¤;;;;;;;;;;;x
+INVESTED_IN_US_UNKNOWN;Вложил в нас $IAMOUNT$¤.;A investi  $IAMOUNT$ ¤ chez nous.;Investiert $IAMOUNT$¤ bei uns.;;;;;;;;;;;x
+MODIFY_RELATION_EFFECT;Связь §Y$SOURCE$§! с §Y$TARGET$§! изменилась на значение $VALUE$.;La relation de §Y$SOURCE$§! avec §Y$TARGET$§! evolue de $VALUE$.;§Y$SOURCE$§!'s Beziehungen mit §Y$TARGET$§! hat sich um $VALUE$ geandert.;;;;;;;;;;;x
+PRODUCTION_EXPAND_FACTORY_SHORTCUT_TOOLTIP;§GCtrl+щелчок§! обновляет все мастерские этого типа, которые близки к пределу численности сотрудников (§Y$NUMSPECIALFACTORIES$§!).\n§GShift+щелчок§! обновляет все мастерские, которые близки к пределу численности сотрудников (§Y$NUMFACTORIES$§!).;§GCtrl+Clic§! ameliore toutes les usines de ce type\n§GMaj+Clic§! ameliore toutes les usines;§GStrg+Mausklick§! wertet alle Fabrikanlagen dieses Typs auf\n§GShift+Mausklick§! wertet alle Fabrikanlagen auf;;;;;;;;;;;x
+EVTNAME19355;Великие войны;Grandes guerres;Grosse Kriege;;;;;;;;;;;x
+EVTDESC19355;Растущая национальная гордость в странах по всему миру достигла точки, когда люди не примут ничего меньше полной победы, когда сталкиваются Великие державы. Отныне любой конфликт, в котором участвуют как минимум две Великие державы с каждой стороны, будет считаться Великой войной!;L'emergence de la fierte nationale dans les pays du monde entier a atteint un point tel que les gens ne peuvent admettre rien de moins qu'une victoire totale lorsque s'affrontent les grandes puissances. A partir de maintenant, tout conflit avec au moins deux grandes puissances de chaque cote sera considere comme une grande guerre !;Wachsender Nationialstolz der Bevolkerung in allen Landern auf der Welt hat einen Punkt, wo bei Grossen Auseinandersetzungen unter den Grossmachten nicht weniger als ein grosser Sieg akzeptiert werden kann. Von nun an wird jeder Konflikt mit mindestens zwei Grossmachten auf jeder Seite als Grosser Krieg betrachtet werden!;;;;;;;;;;;x
+EVTOPTA19355;Да поможет нам всем Бог.;Dieu vienne en aide a nous tous;Gott, hilf uns allen;;;;;;;;;;;x
+AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ Война за независимость;$ORDER$$FIRST$ guerre d'independance;$ORDER$$FIRST$ Unabhangigkeitskrieg;;;;;;;;;;;x
+BYE;Белоруссия;Bielorussie;Weissrussland;;Belarus;;;;;;;;;x
+BYE_ADJ;Белорусский;bielorusse;Weissrussisch;;Byelorussian;;;;;;;;;x
+UBD;Соединённые Балтийские провинции;Provinces baltiques unies;Vereinite Baltische Staaten;;United Baltic Provinces;;;;;;;;;x
+UBD_ADJ;Балтийский;baltique;Baltisch;;Baltic;;;;;;;;;x
+UBD_conservative;Консерваторы;Conservateurs;Konservative;;;;;;;;;;;x
+UBD_liberal;либералы;Liberaux;Liberale;;;;;;;;;;;x
+UBD_reactionary;Реакционеры;Reactionnaires;Reaktionare;;;;;;;;;;;x
+UBD_anarcho_liberals;Анархо-либералы;Anarcho-liberaux;Anarcho-Liberale;;;;;;;;;;;x
+UBD_socialist;Социалисты;Socialistes;Sozialisten;;;;;;;;;;;x
+UBD_communist;Большевики;Bolcheviques;Bolschewiki;;;;;;;;;;;x
+UBD_fascist;Национал-социалистическое сословие;Parti national-socialiste;Faschisten;;;;;;;;;;;x
+BYE_conservative;Консерваторы;Conservateurs;Konservative;;;;;;;;;;;x
+BYE_liberal;либералы;Liberaux;Liberale;;;;;;;;;;;x
+BYE_reactionary;Реакционеры;Reactionnaires;Reaktionare;;;;;;;;;;;x
+BYE_anarcho_liberals;Анархо-либералы;Anarcho-liberaux;Anarcho-Liberale;;;;;;;;;;;x
+BYE_socialist;Белорусское Социалистическое Собрание;Assemblee bielorusse socialiste;Weissrussische Sozialistische Hramada;;;;;;;;;;;x
+BYE_communist;Большевики;Bolcheviques;Bolschewiki;;;;;;;;;;;x
+BYE_fascist;Национал-социалистическое сословие;Parti national-socialiste;Fasischten;;;;;;;;;;;x
+PLC;Польша-Литва;Pologne-Lituanie;Polen-Litauen;;Polonia-Lituania;;;;;;;;x;
+PLC_ADJ;Польско-литовский;Polono-lituanienne;Polnich-Litauische;;Polaco-Lituana;;;;;;;;;x
+PLC_conservative;ул. Народово-Демократическая;Parti national-democratique;Str. Narodowo-Demokratyczne;;Str. Narodowo-Demokratyczne;;;;;;;;;x
+PLC_liberal;Патриотическая партия;Parti patriotique;Stronnictwo Patriotyczne;;Stronnictwo Patriotyczne;;;;;;;;;x
+PLC_reactionary;Конфедерация Тарговицкая;Confederation de Targowica;Konfederacja Targowicka;;Konfederacja Targowicka;;;;;;;;;x
+PLC_anarcho_liberal;Радикальная партия;Parti radical;Stronnictwo Radykalny;;Stronnictwo Radykalny;;;;;;;;;x
+PLC_socialist;Социалистическая партия;Parti socialiste;Partia Socjalistyczna;;Partia Socjalistyczna;;;;;;;;;x
+PLC_communist;Партия Социал-Демократия;Parti social-democrate;Partia Socjaldemokracja;;Partia Socjaldemokracja;;;;;;;;;x
+PLC_fascist;Национальная партия;Parti national;Stronnictwo Narodowe;;Stronnictwo Narodowe;;;;;;;;;x
+ARA;Аравия;Arabie;Arabien;;Arabia;;;;;;;;;x
+ARA_ADJ;арабский;arabe;Arabisch;;Arab;;;;;;;;;x
+ARA_conservative;Консерваторы;Conservateurs;Konservative;;;;;;;;;;;x
+ARA_liberal;либералы;Liberaux;Liberale;;;;;;;;;;;x
+ARA_reactionary;Реакционеры;Reactionnaires;Reaktionare;;;;;;;;;;;x
+ARA_anarcho_liberals;Анархо-либералы;Anarcho-liberaux;Anarcho-Liberale;;;;;;;;;;;x
+ARA_socialist;Социалисты;Socialistes;Sozialisten;;;;;;;;;;;x
+ARA_communist;коммунисты;Communistes;Kommunisten;;;;;;;;;;;x
+ARA_fascist;Национал-социалистическое сословие;Parti national-socialiste;Faschisten;;;;;;;;;;;x
+GCO;Великая Колумбия;Grande Colombie;Grosskolumbien;;;;;;;;;;;x
+GCO_ADJ;Гран Колумбийский;grand-colombien;Grosskolumbisch;;;;;;;;;;;x
+form_gran_colombia_title;Форма Гран Колумбия;Formez la Grande Colombie;Grunde Grosskolumbien;;Forme Gran Colombia;;;;;;;;;x
+form_gran_colombia_desc;Великая Колумбия была политической федерацией, созданной в Южной Америке после успешного освобождения Симоном Боливаром территорий Колумбии, Венесуэлы и Эквадора от испанского правления. Федерация распалась в 1831 году. Мы в состоянии снова объединить народы Северных Анд, если провозгласим новую Великую Колумбию.;La Grande Colombie etait une federation politique etablie en Amerique du Sud dans le sillage de la liberation des territoires de la Colombie, du Venezuela et de l'Equateur de la domination espagnole, reussie par Simon Bolivar. La federation s'est disloque en 1831. Nous sommes en mesure de reunir a nouveau les peuples du nord des Andes, si nous proclamons une nouvelle Grande Colombie.;Grosskolumbien war eine politische Foderation in Sudamerika, die im Zuge der Spanischen Befreiung Sudamerikars durch Simon Bolivar die Gebiete von Kolumbien, Venezuela, Ecuador und Gebiete von Peru und Guyana umfasste. Die Foderation zerbrach im Jahre 1831. Wir sind nun in der Lage, die Nord-Andischen Volker unter dem Banner Grosskolumbiens wiederzuvereinen.;;;;;;;;;;;x
+GCO_conservative;Центральная партия;Parti centraliste;Partido Zentralist;;Partido Centralista;;;;;;;;;x
+GCO_conservative_2;Новая Центральная Партия;Nouveau parti centraliste;Nuevo Partido Zentralist;;Nuevo Partido Centralista;;;;;;;;;x
+GCO_liberal;Федералистская партия;Parti federaliste;Partido Foderalistische;;Partido Federalista;;;;;;;;;x
+GCO_liberal_2;Новая Федералистская Партия;Nouveau parti federaliste;Nuevo Partido Foderalistische;;Nuevo Partido Federalista;;;;;;;;;x
+GCO_liberal_3;Партия автономии;Parti autonomiste;Partido Autonomist;;Partido Autonomista;;;;;;;;;x
+GCO_anarcho_liberal;Радикальная партия;Parti radical;Partido Radical;;Partido Radical;;;;;;;;;x
+GCO_reactionary;Партия традиционалистов;Parti traditionaliste;Partido Traditionalist;;Partido Traditionalista;;;;;;;;;x
+GCO_socialist;Революционная социалистическая партия;Parti revolutionnaire socialiste;Partido Sozialistische Revolutionare;;Partido Revolucionario Socialista;;;;;;;;;x
+GCO_communist;Партидо коммунист;Parti communiste;Partido Communist;;Partido Comunista;;;;;;;;;x
+GCO_fascist;Фашистская партия;Parti fasciste;Partido Fascist;;Partido Fascista;;;;;;;;;x
+arab;арабский;arabe;Arabien;;;;;;;;;;;x
+form_arabia_title;Форма Аравия;Formez l'Arabie;Grunde Arabien;;;;;;;;;;;x
+form_arabia_desc;Братья, свобода пришла, мы выиграли битву за свою судьбу. Теперь арабский народ на пути к возрождению!;Freres, la liberte est la, nous avons gagne la bataille pour notre destin. Desormais, les peuples arabes sont sur la voie de la resurrection !;Bruder, die Freiheit ist gekommen. Wir habem im Kampf um unser Schicksal den Sieg davon getragen. Nun sind die Menschen Arabiens auf dem Weg der Wiederauferstehung!;;;;;;;;;;;x
+IS_EMPTY; не имеет владельца; n'a pas de proprietaire;ist unbeansprucht;;;;;;;;;;;x
+IS_NOT_EMPTY; имеет владельца; a un proprietaire;ist beansprucht;;;;;;;;;;;x
+EVTNAME111011928;Форма Аравия;Formez l'Arabie;Grunde Arabien;;;;;;;;;;;x
+EVTDESC111011928;Путем войны и дипломатии был создан арабский союз. Присоединимся ли мы к нему?;Grace aux armes et a la diplomatie, une union arabe a ete constituee. Devons-nous la rejoindre ?;Durch Krieg und Diplomatie wurde eine arabische Union gegrundet. Sollen wir ihr beitreten?;;;;;;;;;;;x
+EVTOPTA111011928;Конечно!;Bien sur !;Naturlich!;;;;;;;;;;;x
+EVTOPTB111011928;Никогда!;Jamais !;Niemals!;;;;;;;;;;;x
