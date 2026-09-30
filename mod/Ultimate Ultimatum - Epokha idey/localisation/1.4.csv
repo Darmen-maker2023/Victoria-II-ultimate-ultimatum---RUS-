@@ -1,14 +1,14 @@
 badboy;Позор;Infamie;Infamie;;Infamia;;;;;;;;;x
-EVTNAME60150;Конец женского избирательного права;Fin du suffrage feminin;Das Ende des Frauenwahlrechts;;;;;;;;;x ;;
-EVTDESC60150;В связи с недавним отказом от избирательной реформы представительницы слабого пола вновь лишились права голоса.;Avec l'annulation recente des reformes sur le droit de vote, la gent feminine est de nouveau privee de vote.;Mit dem kurzlich zuruckgerollten politischen Wahlrecht ist es dem schonerem Geschelcht nicht mehr erlaubt abzustimmen.;;;;;;;;;;x;
-EVTOPTA60150;Возвращайтесь на кухню!;Retournez a la cuisine !;Zuruck an den Herd!;;;;;;;;;x ;;
-EVTNAME31102;Полет из Константинополя;Fuir Istamboul;Flucht aus Constantinople;;;;;;;;;x ;;
-EVTDESC31102;Наша позиция в Константинополе больше не является безопасной. Мы должны переместить наше правительство в более безопасное место.;Nous ne sommes plus en securite a Istamboul, nous devrions deplacer notre gouvernement en un lieu plus sur.;Unsere Position in Constantinople ist nicht mehr sicher. We sollten unsere Regierung an einen sicheren Ort bringen.;;;;;;;;;;x;
-EVTOPTA31102;В конечном итоге нас выгнали из Европы...;Nous avons finalement ete chasses de l'Europe...; Wir wurden endgultig aus Europa vertrieben...;;;;;;;;;x ;;
+EVTNAME60150;Конец женского избирательного права;Fin du suffrage feminin;Das Ende des Frauenwahlrechts;;;;;;;;;;;x;
+EVTDESC60150;В связи с недавним отказом от избирательной реформы представительницы слабого пола вновь лишились права голоса.;Avec l'annulation recente des reformes sur le droit de vote, la gent feminine est de nouveau privee de vote.;Mit dem kurzlich zuruckgerollten politischen Wahlrecht ist es dem schonerem Geschelcht nicht mehr erlaubt abzustimmen.;;;;;;;;;;;x;
+EVTOPTA60150;Возвращайтесь на кухню!;Retournez a la cuisine !;Zuruck an den Herd!;;;;;;;;;;;x;
+EVTNAME31102;Полет из Константинополя;Fuir Istamboul;Flucht aus Constantinople;;;;;;;;;;;x;
+EVTDESC31102;Наша позиция в Константинополе больше не является безопасной. Мы должны переместить наше правительство в более безопасное место.;Nous ne sommes plus en securite a Istamboul, nous devrions deplacer notre gouvernement en un lieu plus sur.;Unsere Position in Constantinople ist nicht mehr sicher. We sollten unsere Regierung an einen sicheren Ort bringen.;;;;;;;;;;;x;
+EVTOPTA31102;В конечном итоге нас выгнали из Европы...;Nous avons finalement ete chasses de l'Europe...; Wir wurden endgultig aus Europa vertrieben...;;;;;;;;;;;x;
 OL_REBEL_OCCUPATIONS;Повстанческие оккупации;Occupations par les rebelles;Rebellenbesetzung;;;;;;;;;;;x
 OL_REBEL_OCCUPATIONS_TOOLTIP;Наша провинция §Y$PROVINCE$§W оккупирована мятежниками!;Notre province de §Y$PROVINCE$§W est occupee par les rebelles !;Unsere Provinz §Y$PROVINCE$§W wird von Rebellen besetzt!;;;;;;;;;;;x
 OL_VIEW_REBEL_OCCUPATIONS;Переключает §YRebel Occupations§W вид;Active la vue §YOccupations par les rebelles§W;Aktiviert die §YRebellenbesetzungs§W Ansicht;;;;;;;;;;;x
 POP_MIL_CHANGE_REBEL;Эта группа населения проживает в §Y$PROV$§W, которая находится под контролем §RRebels§W.\nИзменение ее воинственности невозможно оценить.;Cette population vit en §Y$PROV$§W, sous controle des §RRebels§W rebelles.\nPas d'estimation de la modification du militantisme;Diese Bevolkerungseinheit lebt in §Y$PROV$§W, welches unter der Kontrolle von §RRebellen§W ist.\nDie Militanzanderung kann nicht ermittelt werden.;;;;;;;;;;;x
 POP_CON_CHANGE_REBEL;Этот народ живет в §Y$PROV$§W, который находится под контролем §RRebels§W.\nИзменение его сознания невозможно оценить.;Cette population vit en §Y$PROV$§W, sous controle des §RRebels§W rebelles.\nPas d'estimation de la modification de la conscience nationale;Diese Bevolkerungseinheit lebt in §Y$PROV$§W, welches unter der Kontrolle von §RRebellen§W ist.\nDie Bewusstseinsanderung kann nicht ermittelt werden.;;;;;;;;;;;x
 PROJECT_STATE_NAME_DESC;Планируем строительство в §Y$PROV$§W.;Construction prevue en §Y$PROV$§W.;Bauprojekt in §Y$PROV$§W ist in Plannung.;;;;;;;;;;;x
-ANR;Андхра;x;;;;;;;;;;;;
+ANR;Андхра;;;;;;;;;;;;;x;

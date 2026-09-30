@@ -1,4 +1,4 @@
-name = "Ultimate Ultimatum: Знамёна идей v0.1.0-alpha.2"
+name = "Ultimate Ultimatum: Знамёна идей v0.1.0-alpha.3"
 path = "mod/Ultimate Ultimatum - Epokha idey"
 user_dir = "Ultimate Ultimatum - Epokha idey Historical"
 replace_path = "common"

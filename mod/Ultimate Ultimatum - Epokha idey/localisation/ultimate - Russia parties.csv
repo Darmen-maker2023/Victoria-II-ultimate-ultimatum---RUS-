@@ -1,34 +1,34 @@
-RUS_conservative_3;Православная держава;Orthodox State;Orthodoxes Reich;;Estado Ortodoxo;;;;;;;;;x;;;;;;;;;;;;late
-RUS_conservative_4;Союз русского народа;Union of Russian People;Union des russischen Volkes;;Unin del Pueblo Ruso;;;;;;;;;x;;;;;;;;;;;;late
-RUS_conservative_5;Монархическая партия;Monarchist Party;Monarchistische Partei;;Partido Monrquico;;;;;;;;;x;;;;;;;;;;;;late
-RUS_conservative_6;Консервативный клуб;Conservative Club;Konservativer Klub;;Club Conservador;;;;;;;;;x;;;;;;;;;;;;late
-RUS_liberal_3;Прогрессисты;Progressists;Fortschrittler;;Progresistas;;;;;;;;;x;;;;;;;;;;;;late
-RUS_liberal_4;Конституционная партия;Constitutional Party;Verfassungspartei;;Partido Constitucional;;;;;;;;;x;;;;;;;;;;;;late
-RUS_liberal_5;Партия мира и порядка;Party of Peace and Order;Partei von Frieden und Ordnung;;Partido de Paz y Orden;;;;;;;;;x;;;;;;;;;;;;late
-RUS_communist_3;Коммунистическая рабочая партия;Communist Workers Party;Kommunistische Arbeiterpartei;;Partido Obrero Comunista;;;;;;;;;x;;;;;;;;;;;;late
-RUS_communist_4;Красная гвардия;Red Guard;Rote Garde;;Guardia Roja;;;;;;;;;x;;;;;;;;;;;;late
-RUS_socialist_4;Трудовики;Trudoviki;Trudowiki;;Trudoviki;;;;;;;;;x;;;;;;;;;;;;late
-RUS_socialist_5;Партия народных социалистов;People's Socialist Party;Partei der Volkssozialisten;;Partido Socialista del Pueblo;;;;;;;;;x;;;;;;;;;;;;late
-RUS_socialist_6;Социал-демократическая рабочая партия;Social Democratic Workers Party;Sozialdemokratische Arbeiterpartei;;Partido Obrero Social-demcrata;;;;;;;;;x;;;;;;;;;;;;late
-RUS_anarcho_liberal_2;Вольные радикалы;Free Radicals;Freie Radikale;;Radicales Libres;;;;;;;;;x;;;;;;;;;;;;late
-RUS_anarcho_liberal_3;Союз автономистов;Union of Autonomists;Union der Autonomisten;;Unin de Autonomistas;;;;;;;;;x;;;;;;;;;;;;late
-RUS_anarcho_liberal_4;Земцы-свободолюбцы;Zemstvo Libertarians;Sewstwo-Liberale;;Libertarios Zemstvo;;;;;;;;;x;;;;;;;;;;;;late
-RUS_fascist_2;Русский фашистский союз;Russian Fascist Union;Russischer Faschistenbund;;Unin Fascista Rusa;;;;;;;;;x;;;;;;;;;;;;late
-RUS_fascist_3;Национальная трудовая партия;National Labour Party;Nationale Arbeiterpartei;;Partido Laboral Nacional;;;;;;;;;x;;;;;;;;;;;;late
-RUS_fascist_4;Всероссийский национальный союз;All-Russian National Union;Allrussischer Nationalbund;;Unin Nacional de Toda Rusia;;;;;;;;;x;;;;;;;;;;;;late
-RUS_nationalism;Национальная партия;National Party;Nationale Partei;;Partido Nacional;;;;;;;;;x;;;;;;;;;;;;late
-RUS_nationalism_2;Союз националистов;Union of Nationalists;Union der Nationalisten;;Union de Nacionalistas;;;;;;;;;x;;;;;;;;;;;;late
-RUS_agrarianism;Крестьянский союз;Peasant Union;Bauernbund;;Union Campesina;;;;;;;;;x;;;;;;;;;;;;late
-RUS_agrarianism_2;Аграрная лига;Agrarian League;Agrarliga;;Liga Agraria;;;;;;;;;x;;;;;;;;;;;;late
-RUS_technocratism;Партия технократов;Technocratic Party;Partei der Technokraten;;Partido Tecnocrata;;;;;;;;;x;;;;;;;;;;;;late
-RUS_conservative_7;Единая Россия;United Russia;Einiges Russland;;Rusia Unida;;;;;;;;;x;;;;;;;;;;;;late
-RUS_liberal_modern;Яблоко;Yabloko;Jabloko;;Yabloko;;;;;;;;;x;;;;;;;;;;;;late
-RUS_liberal_modern_2;Новые люди;New People;Neue Leute;;Nueva Gente;;;;;;;;;x;;;;;;;;;;;;late
-RUS_socialist_modern;Справедливая Россия;Fair Russia;Gerechtes Russland;;Rusia Justa;;;;;;;;;x;;;;;;;;;;;;late
-RUS_communist_modern;КПРФ;Communist Party of the Russian Federation;Kommunistische Partei der Russischen Foderation;;Partido Comunista de la Federacion Rusa;;;;;;;;;x;;;;;;;;;;;;late
-RUS_reactionary_modern;Монархическая партия;Monarchist Party;Monarchistische Partei;;Partido Monarquico;;;;;;;;;x;;;;;;;;;;;;late
-RUS_anarcho_liberal_modern;Либертарианская партия;Libertarian Party;Libertare Partei;;Partido Libertario;;;;;;;;;x;;;;;;;;;;;;late
-RUS_nationalism_modern;ЛДПР;Liberal Democratic Party of Russia;Liberaldemokratische Partei Russlands;;Partido Liberal Democratico de Rusia;;;;;;;;;x;;;;;;;;;;;;late
-RUS_nationalism_modern_2;Родина;Rodina;Rodina;;Rodina;;;;;;;;;x;;;;;;;;;;;;late
-RUS_agrarianism_modern;Аграрная партия России;Agrarian Party of Russia;Agrarpartei Russlands;;Partido Agrario de Rusia;;;;;;;;;x;;;;;;;;;;;;late
-RUS_technocratism_modern;Партия Роста;Party of Growth;Partei des Wachstums;;Partido del Crecimiento;;;;;;;;;x;;;;;;;;;;;;late
+RUS_conservative_3;Православная держава;Orthodox State;Orthodoxes Reich;;Estado Ortodoxo;;;;;;;;;x;
+RUS_conservative_4;Союз русского народа;Union of Russian People;Union des russischen Volkes;;Unin del Pueblo Ruso;;;;;;;;;x;
+RUS_conservative_5;Монархическая партия;Monarchist Party;Monarchistische Partei;;Partido Monrquico;;;;;;;;;x;
+RUS_conservative_6;Консервативный клуб;Conservative Club;Konservativer Klub;;Club Conservador;;;;;;;;;x;
+RUS_liberal_3;Прогрессисты;Progressists;Fortschrittler;;Progresistas;;;;;;;;;x;
+RUS_liberal_4;Конституционная партия;Constitutional Party;Verfassungspartei;;Partido Constitucional;;;;;;;;;x;
+RUS_liberal_5;Партия мира и порядка;Party of Peace and Order;Partei von Frieden und Ordnung;;Partido de Paz y Orden;;;;;;;;;x;
+RUS_communist_3;Коммунистическая рабочая партия;Communist Workers Party;Kommunistische Arbeiterpartei;;Partido Obrero Comunista;;;;;;;;;x;
+RUS_communist_4;Красная гвардия;Red Guard;Rote Garde;;Guardia Roja;;;;;;;;;x;
+RUS_socialist_4;Трудовики;Trudoviki;Trudowiki;;Trudoviki;;;;;;;;;x;
+RUS_socialist_5;Партия народных социалистов;People's Socialist Party;Partei der Volkssozialisten;;Partido Socialista del Pueblo;;;;;;;;;x;
+RUS_socialist_6;Социал-демократическая рабочая партия;Social Democratic Workers Party;Sozialdemokratische Arbeiterpartei;;Partido Obrero Social-demcrata;;;;;;;;;x;
+RUS_anarcho_liberal_2;Вольные радикалы;Free Radicals;Freie Radikale;;Radicales Libres;;;;;;;;;x;
+RUS_anarcho_liberal_3;Союз автономистов;Union of Autonomists;Union der Autonomisten;;Unin de Autonomistas;;;;;;;;;x;
+RUS_anarcho_liberal_4;Земцы-свободолюбцы;Zemstvo Libertarians;Sewstwo-Liberale;;Libertarios Zemstvo;;;;;;;;;x;
+RUS_fascist_2;Русский фашистский союз;Russian Fascist Union;Russischer Faschistenbund;;Unin Fascista Rusa;;;;;;;;;x;
+RUS_fascist_3;Национальная трудовая партия;National Labour Party;Nationale Arbeiterpartei;;Partido Laboral Nacional;;;;;;;;;x;
+RUS_fascist_4;Всероссийский национальный союз;All-Russian National Union;Allrussischer Nationalbund;;Unin Nacional de Toda Rusia;;;;;;;;;x;
+RUS_nationalism;Национальная партия;National Party;Nationale Partei;;Partido Nacional;;;;;;;;;x;
+RUS_nationalism_2;Союз националистов;Union of Nationalists;Union der Nationalisten;;Union de Nacionalistas;;;;;;;;;x;
+RUS_agrarianism;Крестьянский союз;Peasant Union;Bauernbund;;Union Campesina;;;;;;;;;x;
+RUS_agrarianism_2;Аграрная лига;Agrarian League;Agrarliga;;Liga Agraria;;;;;;;;;x;
+RUS_technocratism;Партия технократов;Technocratic Party;Partei der Technokraten;;Partido Tecnocrata;;;;;;;;;x;
+RUS_conservative_7;Единая Россия;United Russia;Einiges Russland;;Rusia Unida;;;;;;;;;x;
+RUS_liberal_modern;Яблоко;Yabloko;Jabloko;;Yabloko;;;;;;;;;x;
+RUS_liberal_modern_2;Новые люди;New People;Neue Leute;;Nueva Gente;;;;;;;;;x;
+RUS_socialist_modern;Справедливая Россия;Fair Russia;Gerechtes Russland;;Rusia Justa;;;;;;;;;x;
+RUS_communist_modern;КПРФ;Communist Party of the Russian Federation;Kommunistische Partei der Russischen Foderation;;Partido Comunista de la Federacion Rusa;;;;;;;;;x;
+RUS_reactionary_modern;Монархическая партия;Monarchist Party;Monarchistische Partei;;Partido Monarquico;;;;;;;;;x;
+RUS_anarcho_liberal_modern;Либертарианская партия;Libertarian Party;Libertare Partei;;Partido Libertario;;;;;;;;;x;
+RUS_nationalism_modern;ЛДПР;Liberal Democratic Party of Russia;Liberaldemokratische Partei Russlands;;Partido Liberal Democratico de Rusia;;;;;;;;;x;
+RUS_nationalism_modern_2;Родина;Rodina;Rodina;;Rodina;;;;;;;;;x;
+RUS_agrarianism_modern;Аграрная партия России;Agrarian Party of Russia;Agrarpartei Russlands;;Partido Agrario de Rusia;;;;;;;;;x;
+RUS_technocratism_modern;Партия Роста;Party of Growth;Partei des Wachstums;;Partido del Crecimiento;;;;;;;;;x;

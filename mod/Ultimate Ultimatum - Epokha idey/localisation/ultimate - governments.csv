@@ -1,48 +1,48 @@
-absolute_monarchy;Абсолютная монархия;Monarchie absolue;Absolute Monarchie;;Monarquia absoluta;;;;;;;;;x;;;;,,,,,
-absolute_monarchy_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;;;;,,,,,
-anarcho_liberal;Анархо-либерал;Liberal anarchiste;Anarcho-Liberal;;Anarcoliberal;;;;;;;;;x;;;;,,,,,
-anarcho_liberal_uh;Анархо-либералы хотят свернуть социальные реформы и никогда не поддержат дальнейшие реформы любого рода.;Les anarcho-liberaux veulent davantage de reformes politiques et le retrait des reformes sociales.;Anarcho-Liberale sind an zusatzlichen Politikreformen interessiert, setzen sich aber fur die Ausserkraftsetzung von Sozialreformen ein.;;Los anarcoliberales rechazan las reformas sociales, y nunca apoyaran mas reformas de ningun tipo.;;;;;;;;;x;,,;;;
-bourgeois_dictatorship;Буржуазная диктатура;Dictature bourgeoise;Burgerliche Diktatur;;Dictadura burguesa;;;;;;;;;x;;;;,,,,,
-bourgeois_dictatorship_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;;;;,,,,,
-communist;коммунист;Communistes;Kommunistisch;;Comunista;;;;;;;;;x;;;;,,,,,
-communist_uh;Коммунисты хотят провести социальные реформы, но хотят свернуть политические реформы.;Les communistes veulent davantage de reformes sociales et le retrait des reformes politiques.;Kommunisten sind an zusatzlichen Sozialreformen interessiert, setzen sich aber fur die Ausserkraftsetzung von Politikreformen ein.;;Los comunistas quieren promulgar reformas sociales, pero rechazan las reformas politicas.;;;;;;;;;x;,,;;;
-conservative;Консервативный;Conservateur;Konservativ;;Conservadora;;;;;;;;;x;;;;,,,,,
-conservative_uh;Консерваторы предпочитают статус-кво, но могут поддержать реформы в условиях высокой воинственности.;Les conservateurs preferent le statu quo, mais peuvent soutenir les reformes en cas d'extreme necessite.;Konservative bevorzugen den Status Quo, konnen aber in extremen Situationen Reformen unterstutzen.;;Los conservadores prefieren el statu quo, pero pueden apoyar reformas en condiciones de elevada militancia.;;;;;;;;;x;,;;;
-democracy;Демократия;Democratie;Demokratie;;Democracia;;;;;;;;;x;;;;,,,,,
-democracy_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;;;;,,,,,
-fascist;фашистский;Fasciste;Faschistisch;;Fascista;;;;;;;;;x;;;;,,,,,
-fascist_dictatorship;Фашистская диктатура;Dictature fasciste;Faschistische Diktatur;;Dictadura fascista;;;;;;;;;x;;;;,,,,,
-fascist_dictatorship_ruler;Фюрер;Fuhrer;Fuhrer;;Fuhrer;;;;;;;;;x;;;;,,,,,
+absolute_monarchy;Абсолютная монархия;Monarchie absolue;Absolute Monarchie;;Monarquia absoluta;;;;;;;;;x;
+absolute_monarchy_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;
+anarcho_liberal;Анархо-либерал;Liberal anarchiste;Anarcho-Liberal;;Anarcoliberal;;;;;;;;;x;
+anarcho_liberal_uh;Анархо-либералы хотят свернуть социальные реформы и никогда не поддержат дальнейшие реформы любого рода.;Les anarcho-liberaux veulent davantage de reformes politiques et le retrait des reformes sociales.;Anarcho-Liberale sind an zusatzlichen Politikreformen interessiert, setzen sich aber fur die Ausserkraftsetzung von Sozialreformen ein.;;Los anarcoliberales rechazan las reformas sociales, y nunca apoyaran mas reformas de ningun tipo.;;;;;;;;;x;
+bourgeois_dictatorship;Буржуазная диктатура;Dictature bourgeoise;Burgerliche Diktatur;;Dictadura burguesa;;;;;;;;;x;
+bourgeois_dictatorship_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;
+communist;коммунист;Communistes;Kommunistisch;;Comunista;;;;;;;;;x;
+communist_uh;Коммунисты хотят провести социальные реформы, но хотят свернуть политические реформы.;Les communistes veulent davantage de reformes sociales et le retrait des reformes politiques.;Kommunisten sind an zusatzlichen Sozialreformen interessiert, setzen sich aber fur die Ausserkraftsetzung von Politikreformen ein.;;Los comunistas quieren promulgar reformas sociales, pero rechazan las reformas politicas.;;;;;;;;;x;
+conservative;Консервативный;Conservateur;Konservativ;;Conservadora;;;;;;;;;x;
+conservative_uh;Консерваторы предпочитают статус-кво, но могут поддержать реформы в условиях высокой воинственности.;Les conservateurs preferent le statu quo, mais peuvent soutenir les reformes en cas d'extreme necessite.;Konservative bevorzugen den Status Quo, konnen aber in extremen Situationen Reformen unterstutzen.;;Los conservadores prefieren el statu quo, pero pueden apoyar reformas en condiciones de elevada militancia.;;;;;;;;;x;
+democracy;Демократия;Democratie;Demokratie;;Democracia;;;;;;;;;x;
+democracy_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;
+fascist;фашистский;Fasciste;Faschistisch;;Fascista;;;;;;;;;x;
+fascist_dictatorship;Фашистская диктатура;Dictature fasciste;Faschistische Diktatur;;Dictadura fascista;;;;;;;;;x;
+fascist_dictatorship_ruler;Фюрер;Fuhrer;Fuhrer;;Fuhrer;;;;;;;;;x;
 fascist_uh;Фашисты поддерживают расширение социальных реформ и отмену политических реформ, но будут выступать против любых реформ, пока правящая партия не является фашистской.;Les fascistes soutiennent la poursuite des reformes sociales et le retrait des reformes politiques a condition que le parti dirigeant partage leur ideologie.;Faschisten unterstutzen die Ausweitung von Sozialreformen und die Ausserkraftsetzung von Politikreformen - aber nur, wenn Ihre Regierungspartei faschistisch ist.;;Los fascistas abogan por la ampliacion de la reforma social, y la eliminacion de la reforma politica, pero se opondran a cualquier reforma mientras el partido gobernante no sea fascista.;;;;;;;;;x;;;;
-french_second_empire;Конституционная монархия;;;;;;x;;,,,,,;;;;;;;;;
-hms_government;Правительство Ее Величества;Gouvernement de Sa Majeste;Ihrer Majestat Regierung;;Gobierno de Su Majestad;;;;;;;;;x;,,,,,;;;
-hms_government_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;;;;,,,,,
-islamist;исламистский;x;;;;;;;;;,,,,,;;;;;;;
-islamist_uh;Целью исламистов является установление законов шариата, поэтому они всегда будут поддерживать проведение реакционных политических и социальных реформ.;x;;;;;;;;;,,,,,;;;;;;;
-liberal;либеральный;Liberal;Liberal;;Liberal;;;;;;;;;x;;;;,,,,,
-liberal_uh;Либералы хотят провести дальнейшие политические реформы, но также поддержат социальные реформы в условиях высокой воинственности.;Les liberaux veulent davantage de reformes politiques.;Liberale sind an zusatzlichen Politikreformen interessiert.;;Los liberales abogan por mas reformas politicas, pero apoyaran tambien reformas sociales bajo condiciones de elevada militancia.;;;;;;;;;x;,,,;;;
-napoleonic_empire;Наполеоновский абсолютизм;;;;;;;;;;;;;x,,,,,;x
-presidential_dictatorship;Президентская диктатура;Dictature presidentielle;Prasidiale Diktatur;;Dictadura presidencialista;;;;;;;;;x;;;;,,,,,
-presidential_dictatorship_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;;;;,,,,,
-proletarian_dictatorship;Коммунистическая диктатура;Dictature Communiste;Kommunistische Diktatur;;Dictadura Comunista;;;;;;;;;x;;;;,,,,,
-proletarian_dictatorship_ruler;Председатель;President;Vorsitzender;;Presidente del consejo;;;;;;;;;x;;;;,,,,,
-prussian_constitutionalism;Прусский конституционализм;Constitutionalisme prusse;Konstitutionelle Monarchie;;Constitucionalismo prusiano;;;;;;;;;x;;;;,,,,,
-prussian_constitutionalism_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;;;;,,,,,
-reactionary;Реакционер;Reactionnaires;Reaktionar;;Reaccionaria;;;;;;;;;x;;;;,,,,,
-reactionary_uh;Реакционеры всегда пытаются свернуть как политические, так и социальные реформы.;Les reactionnaires sont toujours contre les reformes.;Reaktionare versuchen stets, Reformen ruckgangig zu machen.;;Los reaccionarios siempre tratan de evitar las reformas, tanto politicas como sociales.;;;;;;;;;x;,,,;;;
-revolutionary_republic;Революционная Республика;;;;;;;;;;;;;x,,,,,;x
-socialist;Социалистический;Socialiste;Sozialistisch;;Socialista;;;;;;;;;x;;;;,,,,,
-socialist_republic;Социалистическая Республика;;;;;;x;;,,,,,;;;;;;;;;
-socialist_republic_ruler;Председатель;;;;;;x;;,,,,,;;;;;;;;;
-socialist_uh;Социалисты хотят увидеть проведение дальнейших социальных реформ, но могут поддержать политические реформы в условиях высокой воинственности.;Les socialistes veulent davantage de reformes sociales.;Sozialisten sind an zusatzlichen Sozialreformen interessiert.;;Los socialistas abogan por promulgar mas reformas sociales, pero pueden apoyar reformas politicas en condiciones de elevada militancia.;;;;;;;;;x;,,,;;;
-theocracy;Теократия;;;;;;;;;;;;;x,,,,,;x
-theocratic_dictatorship;Теократическая диктатура;x;;;;;;;;;,,,,,;;;;;;;
-theocratic_dictatorship_ruler;Ваше святейшество;x;;;;;;;;;,,,,,;;;;;;;
-nationalism;Национализм;Nationalisme;Nationalismus;;Nacionalismo;;;;;;;;;x;;;;,,,,,
-nationalism_uh;Патриотические силы требуют усиления армии и укрепления империи.;Les nationalistes veulent une armee plus forte et l expansion de l empire.;Nationalisten wuenschen eine staerkere Armee und die Staerkung des Reiches.;;Los nacionalistas abogan por un ejercito mas fuerte y por la expansion del imperio.;;;;;;;;;x;,,,;;;
-agrarianism;Аграризм;Agrarisme;Agrarianismus;;Agrarismo;;;;;;;;;x;;;;,,,,,
-agrarianism_uh;Крестьянские движения требуют земельной реформы и защиты крестьян.;Les agrariens veulent une reforme agraire et la protection des paysans.;Agrarier fordern eine Bodenreform und den Schutz der Bauern.;;Los agrarios abogan por una reforma agraria y por la proteccion de los campesinos.;;;;;;;;;x;,,,;;;
-technocratism;Технократизм;Technocratisme;Technokratie;;Tecnocracia;;;;;;;;;x;;;;,,,,,
-technocratism_uh;Технократы требуют правления экспертов, научно-технического прогресса и рациональной модернизации.;Les technocrates veulent un gouvernement d experts, le progres scientifique et une modernisation rationnelle.;Technokraten fordern eine Expertenregierung, wissenschaftlichen Fortschritt und eine rationale Modernisierung.;;Los tecnocratas abogan por un gobierno de expertos, el progreso cientifico y una modernizacion racional.;;;;;;;;;x;,,,;;;
-syndicalism;Синдикализм;Syndicalism;Syndikalismus;;Sindicalismo;;;;;;;;;x;;;;,,,,,
-syndicalism_uh;Синдикалисты требуют передачи заводов и земли рабочим союзам и поддерживают социальные реформы.;Syndicalists demand factories and land for the workers unions and support social reforms.;Syndikalisten fordern Fabriken und Land fur die Arbeitergewerkschaften und unterstutzen Sozialreformen.;;Los sindicalistas exigen fabricas y tierras para los sindicatos obreros y apoyan las reformas sociales.;;;;;;;;;x;,,;;;
+french_second_empire;Конституционная монархия;;;;;;;;;;;;;x;
+hms_government;Правительство Ее Величества;Gouvernement de Sa Majeste;Ihrer Majestat Regierung;;Gobierno de Su Majestad;;;;;;;;;x;
+hms_government_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;
+islamist;исламистский;;;;;;;;;;;;;x;
+islamist_uh;Целью исламистов является установление законов шариата, поэтому они всегда будут поддерживать проведение реакционных политических и социальных реформ.;;;;;;;;;;;;;x;
+liberal;либеральный;Liberal;Liberal;;Liberal;;;;;;;;;x;
+liberal_uh;Либералы хотят провести дальнейшие политические реформы, но также поддержат социальные реформы в условиях высокой воинственности.;Les liberaux veulent davantage de reformes politiques.;Liberale sind an zusatzlichen Politikreformen interessiert.;;Los liberales abogan por mas reformas politicas, pero apoyaran tambien reformas sociales bajo condiciones de elevada militancia.;;;;;;;;;x;
+napoleonic_empire;Наполеоновский абсолютизм;;;;;;;;;;;;;x;
+presidential_dictatorship;Президентская диктатура;Dictature presidentielle;Prasidiale Diktatur;;Dictadura presidencialista;;;;;;;;;x;
+presidential_dictatorship_ruler;Президент;President;Prasident;;Presidente;;;;;;;;;x;
+proletarian_dictatorship;Коммунистическая диктатура;Dictature Communiste;Kommunistische Diktatur;;Dictadura Comunista;;;;;;;;;x;
+proletarian_dictatorship_ruler;Председатель;President;Vorsitzender;;Presidente del consejo;;;;;;;;;x;
+prussian_constitutionalism;Прусский конституционализм;Constitutionalisme prusse;Konstitutionelle Monarchie;;Constitucionalismo prusiano;;;;;;;;;x;
+prussian_constitutionalism_ruler;Король;Roi;Konig;;Rey;;;;;;;;;x;
+reactionary;Реакционер;Reactionnaires;Reaktionar;;Reaccionaria;;;;;;;;;x;
+reactionary_uh;Реакционеры всегда пытаются свернуть как политические, так и социальные реформы.;Les reactionnaires sont toujours contre les reformes.;Reaktionare versuchen stets, Reformen ruckgangig zu machen.;;Los reaccionarios siempre tratan de evitar las reformas, tanto politicas como sociales.;;;;;;;;;x;
+revolutionary_republic;Революционная Республика;;;;;;;;;;;;;x;
+socialist;Социалистический;Socialiste;Sozialistisch;;Socialista;;;;;;;;;x;
+socialist_republic;Социалистическая Республика;;;;;;;;;;;;;x;
+socialist_republic_ruler;Председатель;;;;;;;;;;;;;x;
+socialist_uh;Социалисты хотят увидеть проведение дальнейших социальных реформ, но могут поддержать политические реформы в условиях высокой воинственности.;Les socialistes veulent davantage de reformes sociales.;Sozialisten sind an zusatzlichen Sozialreformen interessiert.;;Los socialistas abogan por promulgar mas reformas sociales, pero pueden apoyar reformas politicas en condiciones de elevada militancia.;;;;;;;;;x;
+theocracy;Теократия;;;;;;;;;;;;;x;
+theocratic_dictatorship;Теократическая диктатура;;;;;;;;;;;;;x;
+theocratic_dictatorship_ruler;Ваше святейшество;;;;;;;;;;;;;x;
+nationalism;Национализм;Nationalisme;Nationalismus;;Nacionalismo;;;;;;;;;x;
+nationalism_uh;Патриотические силы требуют усиления армии и укрепления империи.;Les nationalistes veulent une armee plus forte et l expansion de l empire.;Nationalisten wuenschen eine staerkere Armee und die Staerkung des Reiches.;;Los nacionalistas abogan por un ejercito mas fuerte y por la expansion del imperio.;;;;;;;;;x;
+agrarianism;Аграризм;Agrarisme;Agrarianismus;;Agrarismo;;;;;;;;;x;
+agrarianism_uh;Крестьянские движения требуют земельной реформы и защиты крестьян.;Les agrariens veulent une reforme agraire et la protection des paysans.;Agrarier fordern eine Bodenreform und den Schutz der Bauern.;;Los agrarios abogan por una reforma agraria y por la proteccion de los campesinos.;;;;;;;;;x;
+technocratism;Технократизм;Technocratisme;Technokratie;;Tecnocracia;;;;;;;;;x;
+technocratism_uh;Технократы требуют правления экспертов, научно-технического прогресса и рациональной модернизации.;Les technocrates veulent un gouvernement d experts, le progres scientifique et une modernisation rationnelle.;Technokraten fordern eine Expertenregierung, wissenschaftlichen Fortschritt und eine rationale Modernisierung.;;Los tecnocratas abogan por un gobierno de expertos, el progreso cientifico y una modernizacion racional.;;;;;;;;;x;
+syndicalism;Синдикализм;Syndicalism;Syndikalismus;;Sindicalismo;;;;;;;;;x;
+syndicalism_uh;Синдикалисты требуют передачи заводов и земли рабочим союзам и поддерживают социальные реформы.;Syndicalists demand factories and land for the workers unions and support social reforms.;Syndikalisten fordern Fabriken und Land fur die Arbeitergewerkschaften und unterstutzen Sozialreformen.;;Los sindicalistas exigen fabricas y tierras para los sindicatos obreros y apoyan las reformas sociales.;;;;;;;;;x;

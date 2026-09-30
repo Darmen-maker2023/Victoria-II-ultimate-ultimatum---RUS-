@@ -478,7 +478,7 @@ province_event = {
 		government = proletarian_dictatorship
 		has_country_flag = kgb_operating
 		NOT = { year = 1954 }
-		any_owned_province = { limit = { average_militancy = 1.5 } }
+		any_owned_province = { average_militancy = 1.5 }
 	}
 	
 	mean_time_to_happen =  { months = 1 }

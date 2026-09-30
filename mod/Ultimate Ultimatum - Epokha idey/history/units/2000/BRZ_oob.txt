@@ -853,7 +853,7 @@ army = {
 	}
 	regiment = {
 		name= "Regiment 1"
-		type = mechanized_infantry
+		type = infantry
 		home = 2446
 	}
 	regiment = {

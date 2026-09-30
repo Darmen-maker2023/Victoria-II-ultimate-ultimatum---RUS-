@@ -487,8 +487,7 @@ political_decisions = {
 					}
 						}
 					}
-				country_event = 200073
-			
+				# Removed call to unavailable country_event 200073.
 						}
 			
 			}

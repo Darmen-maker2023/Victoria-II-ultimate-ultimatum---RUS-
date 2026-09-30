@@ -1,0 +1,2072 @@
+{
+  "stats": {
+    "scripts_parsed": 6619,
+    "ignored_documents": [
+      "history/units/v2dd2.txt",
+      "interface/credits.txt"
+    ],
+    "localisation_files": 91,
+    "localisation_rows": 57600,
+    "localisation_keys": 41235,
+    "countries": 539,
+    "parties": 14707,
+    "party_records_including_unregistered_countries": 14783,
+    "ideologies": 16,
+    "technologies": 210,
+    "technology_folders": 6,
+    "technology_areas": 30,
+    "technologies_per_area": {
+      "aesthetics": 7,
+      "army_doctrine": 7,
+      "army_leadership": 7,
+      "caroline_era": 7,
+      "chemistry_and_electricity": 7,
+      "economic_thought_and_critique": 7,
+      "edwardian_era": 7,
+      "elizabethan_era": 7,
+      "financial_institutions": 7,
+      "georgian_era": 7,
+      "heavy_armament": 7,
+      "jacobean_era": 7,
+      "light_armament": 7,
+      "market_functionality": 7,
+      "mechanization": 7,
+      "metallurgy": 7,
+      "military_science": 7,
+      "monetary_system": 7,
+      "naval_doctrine": 7,
+      "naval_engineering": 7,
+      "naval_leadership": 7,
+      "naval_science": 7,
+      "philosophy": 7,
+      "political_thought": 7,
+      "psychology": 7,
+      "ship_construction": 7,
+      "social_thought": 7,
+      "tech_infrastructure": 7,
+      "tech_organization": 7,
+      "tech_power": 7
+    },
+    "events": 2019,
+    "decisions": 656,
+    "counts_by_kind": {
+      "missing_tag": 107,
+      "legacy_technology": 5,
+      "missing_modifier": 6,
+      "missing_oob": 168,
+      "unregistered_country_history": 1
+    },
+    "errors": 0
+  },
+  "findings": [
+    {
+      "kind": "missing_tag",
+      "path": "decisions/NATO.txt",
+      "line": 31,
+      "message": "tag: SPC",
+      "severity": "warning"
+    },
+    {
+      "kind": "legacy_technology",
+      "path": "decisions/Political.txt",
+      "line": 141,
+      "message": "enlightenment_thought",
+      "severity": "warning"
+    },
+    {
+      "kind": "legacy_technology",
+      "path": "decisions/Political.txt",
+      "line": 144,
+      "message": "private_banks",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - British Isles.txt",
+      "line": 5,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - British Isles.txt",
+      "line": 30,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - British Isles.txt",
+      "line": 49,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - British Isles.txt",
+      "line": 76,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - British Isles.txt",
+      "line": 98,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 21,
+      "message": "change_tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 45,
+      "message": "change_tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 218,
+      "message": "tag: FEP",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 815,
+      "message": "tag: NKR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 817,
+      "message": "tag: ABK",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 821,
+      "message": "tag: RSO",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Formable Countries.txt",
+      "line": 993,
+      "message": "tag: NAT",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 27,
+      "message": "remove_core: KDS",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 40,
+      "message": "remove_core: LBY",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 41,
+      "message": "remove_core: PHL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 42,
+      "message": "remove_core: IVC",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 44,
+      "message": "remove_core: SLE",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 45,
+      "message": "remove_core: GMB",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 50,
+      "message": "remove_core: TNZ",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 68,
+      "message": "remove_core: KDS",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 81,
+      "message": "remove_core: LBY",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 82,
+      "message": "remove_core: PHL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 83,
+      "message": "remove_core: IVC",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 85,
+      "message": "remove_core: SLE",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 86,
+      "message": "remove_core: GMB",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate - Play Historical Countries.txt",
+      "line": 91,
+      "message": "remove_core: TNZ",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "decisions/Ultimate.txt",
+      "line": 486,
+      "message": "tag: EGL",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Austria - Napoleonic Wars Treaty.txt",
+      "line": 56,
+      "message": "change_tag: DOW",
+      "severity": "warning"
+    },
+    {
+      "kind": "legacy_technology",
+      "path": "events/BAYFlavor.txt",
+      "line": 12,
+      "message": "classicism_n_early_romanticism",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/Form UCS.txt",
+      "line": 15,
+      "message": "has_country_modifier: ucs_done",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Napoleon End of All.txt",
+      "line": 57,
+      "message": "change_tag: FEP",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/PanNationalists.txt",
+      "line": 818,
+      "message": "has_country_modifier: leader_of_kalmar",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/PanNationalists.txt",
+      "line": 844,
+      "message": "has_country_modifier: kalmar_union",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/PanNationalists.txt",
+      "line": 854,
+      "message": "has_country_modifier: kalmar_union",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/PanNationalists.txt",
+      "line": 878,
+      "message": "has_country_modifier: leader_of_kalmar",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_modifier",
+      "path": "events/PanNationalists.txt",
+      "line": 958,
+      "message": "has_country_modifier: leader_of_kalmar",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Prussia - Napoleonic Wars Treaty.txt",
+      "line": 30,
+      "message": "is_core: DOW",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Prussia - Napoleonic Wars Treaty.txt",
+      "line": 32,
+      "message": "secede_province: DOW",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Russian Empire - Napoleonic Wars Treaty.txt",
+      "line": 31,
+      "message": "is_core: DOW",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Russian Empire - Napoleonic Wars Treaty.txt",
+      "line": 33,
+      "message": "secede_province: DOW",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Russian Empire - Napoleonic Wars Treaty.txt",
+      "line": 54,
+      "message": "change_tag: BUF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 193,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 194,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 195,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 196,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 197,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 198,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 199,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 200,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 201,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 202,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 203,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 204,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 205,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 206,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 207,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 208,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 209,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 210,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 211,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 212,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 213,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 214,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 215,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 216,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 217,
+      "message": "add_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 254,
+      "message": "release: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 302,
+      "message": "secede_province: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 303,
+      "message": "secede_province: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 304,
+      "message": "secede_province: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 305,
+      "message": "secede_province: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 319,
+      "message": "tag: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 338,
+      "message": "remove_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 372,
+      "message": "remove_core: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 454,
+      "message": "tag: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/SPAFlavour.txt",
+      "line": 479,
+      "message": "tag: SPF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Decolonisation.txt",
+      "line": 734,
+      "message": "add_core: GMB",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Decolonisation.txt",
+      "line": 1071,
+      "message": "add_core: MLW",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 727,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 1048,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 3357,
+      "message": "tag: BNG",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 4167,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 4194,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 4857,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 5148,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 5274,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 5717,
+      "message": "tag: GNA",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 5724,
+      "message": "secede_province: GNA",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 5781,
+      "message": "tag: BNG",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 6402,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 6617,
+      "message": "tag: GNA",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 7745,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 7912,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8019,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8336,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8380,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8408,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8464,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8491,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8589,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8748,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8853,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 8980,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 9276,
+      "message": "add_core: CHP",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 9280,
+      "message": "add_core: CHP",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 9294,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 9336,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 9406,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 10366,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/Ultimate - Pre-Industrial.txt",
+      "line": 11460,
+      "message": "tag: IBR",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/UltimateWW2.txt",
+      "line": 746,
+      "message": "release: TKM",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "events/United Kingdom - Napoleonic Wars Treaty.txt",
+      "line": 53,
+      "message": "change_tag: BUF",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/AIN - Ainu.txt",
+      "line": 105,
+      "message": "/1861/AIN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/AJU - Ajuran Sultanate.txt",
+      "line": 12,
+      "message": "AJU.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ALB - Albania.txt",
+      "line": 41,
+      "message": "/1861/ALB_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ALD - Aldjazair.txt",
+      "line": 26,
+      "message": "/1861/ALD_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "unregistered_country_history",
+      "path": "history/countries/ARB - Arabia.txt",
+      "line": 30,
+      "message": "ARB: history is not loaded by the country index",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ARM - Armenia.txt",
+      "line": 41,
+      "message": "/1861/ARM_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ARO - Aro.txt",
+      "line": 11,
+      "message": "ARO.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ASH - Ashanti.txt",
+      "line": 31,
+      "message": "ASH_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/AST - Australia.txt",
+      "line": 41,
+      "message": "/1861/AST_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/AWA - Awadh.txt",
+      "line": 26,
+      "message": "/1861/AWA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/AZB - Azerbaijan.txt",
+      "line": 96,
+      "message": "/1861/AZB_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BAB - Babylonia.txt",
+      "line": 68,
+      "message": "/1861/BAB_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BLZ - Belize.txt",
+      "line": 42,
+      "message": "/1861/BLZ_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNJ - Banjarmasin.txt",
+      "line": 25,
+      "message": "BNJ_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNJ - Banjarmasin.txt",
+      "line": 45,
+      "message": "/1861/BNJ_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNX - Benelux.txt",
+      "line": 47,
+      "message": "/1604/BNX_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNX - Benelux.txt",
+      "line": 263,
+      "message": "/1800/BNX_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNX - Benelux.txt",
+      "line": 630,
+      "message": "BNX_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BNX - Benelux.txt",
+      "line": 639,
+      "message": "/1861/BNX_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BOH - Bohemia.txt",
+      "line": 42,
+      "message": "/1861/BOH_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BOS - Bosnia.txt",
+      "line": 46,
+      "message": "/1861/BOS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BPR - Brandenburg-Prussia.txt",
+      "line": 12,
+      "message": "/1604/BPR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BSQ - Basque.txt",
+      "line": 42,
+      "message": "/1861/CAT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BUL - Bulgaria.txt",
+      "line": 41,
+      "message": "/1861/BUL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/BYZ - Byzantium.txt",
+      "line": 43,
+      "message": "/1861/BYZ_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CAL - Californian Republic.txt",
+      "line": 42,
+      "message": "/1861/CAL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CAN - Canada.txt",
+      "line": 47,
+      "message": "/1861/CAN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CAT - Catalonia.txt",
+      "line": 42,
+      "message": "/1861/CAT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CHE - Cherokee.txt",
+      "line": 42,
+      "message": "/1861/CHE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CHO - Choshu.txt",
+      "line": 114,
+      "message": "/1861/CHO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CIS - Cisalpine Republic.txt",
+      "line": 44,
+      "message": "/1861/CIS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/COL - Columbia.txt",
+      "line": 44,
+      "message": "/1861/COL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CRE - Crete.txt",
+      "line": 42,
+      "message": "/1861/CRE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CRI - Crimea.txt",
+      "line": 21,
+      "message": "/1861/CRI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CRN - Cornwall.txt",
+      "line": 93,
+      "message": "CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CRN - Cornwall.txt",
+      "line": 96,
+      "message": "/1861/CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CRO - Croatia.txt",
+      "line": 41,
+      "message": "/1861/CRO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CUB - Cuba.txt",
+      "line": 42,
+      "message": "/1861/CUB_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CYP - Cyprus.txt",
+      "line": 43,
+      "message": "/1861/CYP_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/CZH - Czechoslovakia.txt",
+      "line": 114,
+      "message": "/1861/CZH_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/DAH - Dahomey.txt",
+      "line": 31,
+      "message": "DAH_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/DND - Dendi.txt",
+      "line": 11,
+      "message": "DND_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/DSO - Dosso.txt",
+      "line": 57,
+      "message": "DSO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/DZG - Danzig.txt",
+      "line": 42,
+      "message": "/1861/DZG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ENG - United Kingdom.txt",
+      "line": 12,
+      "message": "/1604/ENG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/EST - Estonia.txt",
+      "line": 41,
+      "message": "/1861/EST_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ESX - Essex.txt",
+      "line": 101,
+      "message": "CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ESX - Essex.txt",
+      "line": 105,
+      "message": "/1861/CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/FAN - Fante Confederacy.txt",
+      "line": 14,
+      "message": "FAN.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/FIJ - Fiji.txt",
+      "line": 43,
+      "message": "/1861/HAW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/FIN - Finland.txt",
+      "line": 43,
+      "message": "/1861/FIN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/FLA - Flanders.txt",
+      "line": 42,
+      "message": "/1861/FLA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/GBU - Gabu.txt",
+      "line": 31,
+      "message": "GBU_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/GEO - Georgia.txt",
+      "line": 68,
+      "message": "/1861/GEO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/GER - Germany.txt",
+      "line": 64,
+      "message": "/1861/GER_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/GXI - Guangxi Clique.txt",
+      "line": 46,
+      "message": "/1861/GXI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/HAW - Hawaii.txt",
+      "line": 44,
+      "message": "/1861/HAW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/HND - India.txt",
+      "line": 30,
+      "message": "/1861/HND_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/HUN - Hungary.txt",
+      "line": 41,
+      "message": "/1861/HUN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ICL - Iceland.txt",
+      "line": 42,
+      "message": "/1861/ICL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ION - Ionian Islands.txt",
+      "line": 123,
+      "message": "/1861/ION_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/IRE - Ireland.txt",
+      "line": 42,
+      "message": "/1861/IRE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/IRQ - Iraq.txt",
+      "line": 71,
+      "message": "/1861/IRQ_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/ISR - Israel.txt",
+      "line": 43,
+      "message": "/1861/ISR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/JAN - Jan Mayen.txt",
+      "line": 43,
+      "message": "/1861/JAN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/JAP - Japan.txt",
+      "line": 311,
+      "message": "/1923/JAP_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/JAV - Java.txt",
+      "line": 20,
+      "message": "/1861/JAV_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KAG - Kaga.txt",
+      "line": 116,
+      "message": "/1861/KAG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KNG - Kong.txt",
+      "line": 47,
+      "message": "KNG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KNG - Kong.txt",
+      "line": 49,
+      "message": "/1861/KNG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KNI - Kingdom of Northern Italy.txt",
+      "line": 145,
+      "message": "/1910/ITA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KNR - Nri.txt",
+      "line": 11,
+      "message": "KNR.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KON - Kongo.txt",
+      "line": 57,
+      "message": "KON_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KON - Kongo.txt",
+      "line": 59,
+      "message": "/1861/KON_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KRA - Krakow.txt",
+      "line": 67,
+      "message": "/1861/KRA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/KRB - Kiribati.txt",
+      "line": 43,
+      "message": "/1861/KRB_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LAD - Ladakh.txt",
+      "line": 26,
+      "message": "/1861/LAD_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LAT - Latvia.txt",
+      "line": 42,
+      "message": "/1861/LAT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LIT - Lithuania.txt",
+      "line": 42,
+      "message": "/1861/LIT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LOM - Lombardia.txt",
+      "line": 42,
+      "message": "/1861/LOM_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LSK - Alaska.txt",
+      "line": 43,
+      "message": "/1861/LSK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/LUC - Lucca.txt",
+      "line": 115,
+      "message": "/1861/LUC_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MAN - Manhattan Commune.txt",
+      "line": 43,
+      "message": "/1861/MAN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MER - Mercia.txt",
+      "line": 100,
+      "message": "CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MER - Mercia.txt",
+      "line": 104,
+      "message": "/1861/CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MGG - Magdeburg.txt",
+      "line": 611,
+      "message": "MGG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MGG - Magdeburg.txt",
+      "line": 613,
+      "message": "/1861/MGG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MGL - Mongolia.txt",
+      "line": 50,
+      "message": "/1861/MGL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MGL - Mongolia.txt",
+      "line": 300,
+      "message": "/2023/UCS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MLK - Maluku.txt",
+      "line": 30,
+      "message": "MLK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MOD - Modena.txt",
+      "line": 115,
+      "message": "/1861/MOD_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MOL - Moldavia.txt",
+      "line": 113,
+      "message": "/1861/MOL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MOS - Mossi.txt",
+      "line": 11,
+      "message": "MOS.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MRI - Marshall Islands.txt",
+      "line": 43,
+      "message": "/1861/MRI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MTC - Metis Confederacy.txt",
+      "line": 42,
+      "message": "/1861/MTC_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MUG - Mughalistan.txt",
+      "line": 31,
+      "message": "/1861/MUG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/MUT - Mutapa.txt",
+      "line": 11,
+      "message": "MUT.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NAG - Nagpur.txt",
+      "line": 26,
+      "message": "/1861/NAG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NAL - Natalia.txt",
+      "line": 111,
+      "message": "/1861/NAL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NAP - Naples.txt",
+      "line": 115,
+      "message": "NAP__oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NAP - Naples.txt",
+      "line": 117,
+      "message": "/1861/NAP__oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NBN - New Brunswick.txt",
+      "line": 43,
+      "message": "/1861/CAN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NEN - New England.txt",
+      "line": 43,
+      "message": "/1861/NEN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NEW - Newfoundland.txt",
+      "line": 44,
+      "message": "/1861/NEW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NOR - Norway.txt",
+      "line": 43,
+      "message": "/1861/NOR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NRT - Northumbria.txt",
+      "line": 99,
+      "message": "CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NRT - Northumbria.txt",
+      "line": 103,
+      "message": "/1861/CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/NZL - New Zealand.txt",
+      "line": 42,
+      "message": "/1861/NZL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PAN - Panjab.txt",
+      "line": 26,
+      "message": "/1861/PAN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PAP - Papal States.txt",
+      "line": 119,
+      "message": "/1861/PAP_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PAR - Parma.txt",
+      "line": 114,
+      "message": "/1861/PAR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PHI - Philippines.txt",
+      "line": 112,
+      "message": "/1861/PHI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PNM - Panama.txt",
+      "line": 43,
+      "message": "/1861/PNM_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/POL - Poland.txt",
+      "line": 42,
+      "message": "/1861/POL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PRU - Prussia.txt",
+      "line": 12,
+      "message": "/1604/PRU_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PTK - Pontianak.txt",
+      "line": 25,
+      "message": "PTK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/PTK - Pontianak.txt",
+      "line": 45,
+      "message": "/1861/PTK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/QUE - Quebec.txt",
+      "line": 42,
+      "message": "/1861/QUE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/RHO - Southern Rhodesia.txt",
+      "line": 43,
+      "message": "/1861/RHO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/RUT - Ruthenia.txt",
+      "line": 45,
+      "message": "/1861/RUT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/RYU - Ryukyu.txt",
+      "line": 50,
+      "message": "RYU_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/RYU - Ryukyu.txt",
+      "line": 52,
+      "message": "/1861/RYU_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SAF - South Africa.txt",
+      "line": 47,
+      "message": "/1861/SAF_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SAR - Sardinia.txt",
+      "line": 116,
+      "message": "/1861/SAR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SAT - Satsuma.txt",
+      "line": 115,
+      "message": "/1861/SAT_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SAV - Savoy.txt",
+      "line": 115,
+      "message": "/1861/SAR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SCA - Scandinavia.txt",
+      "line": 45,
+      "message": "/1861/SCA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SCH - Schleswig.txt",
+      "line": 43,
+      "message": "/1861/SCH_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SCO - Scotland.txt",
+      "line": 48,
+      "message": "/1861/SCO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SEG - Segu.txt",
+      "line": 9,
+      "message": "SEG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SEN - Sendai.txt",
+      "line": 115,
+      "message": "/1861/SEN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SGF - South German Fed.txt",
+      "line": 43,
+      "message": "/1861/SGF_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SHI - Shimla.txt",
+      "line": 23,
+      "message": "/1861/SHI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SIC - Two Sicilies.txt",
+      "line": 120,
+      "message": "/1861/SIC_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SIE - Siebenburgen.txt",
+      "line": 43,
+      "message": "/1861/SIE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SIN - Sind.txt",
+      "line": 27,
+      "message": "/1861/SIN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SLO - Slovenia.txt",
+      "line": 42,
+      "message": "/1861/SLO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SLV - Slovakia.txt",
+      "line": 43,
+      "message": "/1861/SLV_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SLW - Sulawesi.txt",
+      "line": 25,
+      "message": "SLW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SLW - Sulawesi.txt",
+      "line": 45,
+      "message": "/1861/SLW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SSX - Sussex.txt",
+      "line": 98,
+      "message": "CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SSX - Sussex.txt",
+      "line": 102,
+      "message": "/1861/CRN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SVI - South Vietnam.txt",
+      "line": 26,
+      "message": "SVI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/SXI - Shanxi.txt",
+      "line": 25,
+      "message": "/1861/SXI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TBK - Timbuktu.txt",
+      "line": 26,
+      "message": "TBK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TBK - Timbuktu.txt",
+      "line": 47,
+      "message": "/1861/TBK_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TEX - Texas.txt",
+      "line": 94,
+      "message": "/1861/TEX_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TKG - Shogunate Japan.txt",
+      "line": 114,
+      "message": "/1861/TKG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TOO - Tooro.txt",
+      "line": 9,
+      "message": "TOO_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TOS - Tosa.txt",
+      "line": 116,
+      "message": "/1861/TOS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TRE - Trieste.txt",
+      "line": 42,
+      "message": "/1861/TRE_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TRI - Tripoli.txt",
+      "line": 28,
+      "message": "/1861/TRI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/TUS - Tuscany.txt",
+      "line": 115,
+      "message": "/1861/TUS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/UCA - United States of Central America.txt",
+      "line": 116,
+      "message": "/1861/UCA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/UCS - UCS.txt",
+      "line": 458,
+      "message": "/2023/UCS_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/UKR - Ukraine.txt",
+      "line": 45,
+      "message": "/1861/UKR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/VEN - Venice.txt",
+      "line": 107,
+      "message": "/1861/VEN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/VER - Verden.txt",
+      "line": 40,
+      "message": "VER_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WAL - Wallachia.txt",
+      "line": 115,
+      "message": "/1861/WAL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WIA - Wiang Chhan.txt",
+      "line": 21,
+      "message": "/1861/WIA_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WLL - Wallonia.txt",
+      "line": 43,
+      "message": "/1861/WLL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WOL - Wolof.txt",
+      "line": 10,
+      "message": "WOL_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WRI - Warri.txt",
+      "line": 51,
+      "message": "WAR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/WRI - Warri.txt",
+      "line": 53,
+      "message": "/1861/WAR_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/XBI - Xibei San Ma.txt",
+      "line": 43,
+      "message": "/1861/XBI_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/XIN - Xinjiang.txt",
+      "line": 51,
+      "message": "/1861/XIN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/YNN - Yunnan.txt",
+      "line": 43,
+      "message": "/1861/YNN_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/YUG - Yugoslavia.txt",
+      "line": 100,
+      "message": "/1861/YUG_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_oob",
+      "path": "history/countries/YZW - Yonezawa.txt",
+      "line": 116,
+      "message": "/1861/YZW_oob.txt",
+      "severity": "warning"
+    },
+    {
+      "kind": "missing_tag",
+      "path": "history/provinces/germany/703 - Krakow.txt",
+      "line": 10,
+      "message": "add_core: GLM",
+      "severity": "warning"
+    },
+    {
+      "kind": "legacy_technology",
+      "path": "inventions/navy_inventions.txt",
+      "line": 340,
+      "message": "clipper_design",
+      "severity": "warning"
+    },
+    {
+      "kind": "legacy_technology",
+      "path": "inventions/navy_inventions.txt",
+      "line": 344,
+      "message": "naval_design_bureaus",
+      "severity": "warning"
+    }
+  ]
+}

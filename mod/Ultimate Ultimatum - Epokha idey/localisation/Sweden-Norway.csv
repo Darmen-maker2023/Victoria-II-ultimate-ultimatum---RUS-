@@ -1,18 +1,18 @@
-SWN;Швеция-Норвегия;x;;;;;;;;;;;;
-SWN_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-SWN_absolute_monarchy;Швеция-Норвегия;x;;;;;;;;;;;;
-SWN_absolute_monarchy_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-SWN_hms_government;Швеция-Норвегия;x;;;;;;;;;;;;
-SWN_hms_government_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-SWN_democracy;Республика Швеция и Норвегия;x;;;;;;;;;;;;
-SWN_democracy_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-SWN_proletarian_dictatorship;Народная Республика Швеция-Норвегия;x;;;;;;;;;;;;
-SWN_proletarian_dictatorship_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-SWN_fascist_dictatorship;Великая Швеция-Норвегия;x;;;;;;;;;;;;
-SWN_fascist_dictatorship_ADJ;Шведско-норвежский;x;;;;;;;;;;;;
-EVTOPTA79094;Война с Данией закончилась, и теперь мы создаем союз с Норвегией.;x
-form_sweden-norway_title;Форма Швеция-Норвегия;x
-form_sweden-norway_desc;Время покажет, что создание союза Швеции и Норвегии будет очень выгодным.;x
+SWN;Швеция-Норвегия;;;;;;;;;;;;;x;
+SWN_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+SWN_absolute_monarchy;Швеция-Норвегия;;;;;;;;;;;;;x;
+SWN_absolute_monarchy_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+SWN_hms_government;Швеция-Норвегия;;;;;;;;;;;;;x;
+SWN_hms_government_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+SWN_democracy;Республика Швеция и Норвегия;;;;;;;;;;;;;x;
+SWN_democracy_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+SWN_proletarian_dictatorship;Народная Республика Швеция-Норвегия;;;;;;;;;;;;;x;
+SWN_proletarian_dictatorship_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+SWN_fascist_dictatorship;Великая Швеция-Норвегия;;;;;;;;;;;;;x;
+SWN_fascist_dictatorship_ADJ;Шведско-норвежский;;;;;;;;;;;;;x;
+EVTOPTA79094;Война с Данией закончилась, и теперь мы создаем союз с Норвегией.;;;;;;;;;;;;;x;
+form_sweden-norway_title;Форма Швеция-Норвегия;;;;;;;;;;;;;x;
+form_sweden-norway_desc;Время покажет, что создание союза Швеции и Норвегии будет очень выгодным.;;;;;;;;;;;;;x;
 SWN_conservative;Консервативная партия;Konservativa Partiet;Konservativa Partiet;;Konservativa Partiet;;;;;;;;;x
 SWN_liberal;Либеральная партия;Liberala Partiet;Liberala Partiet;;Liberala Partiet;;;;;;;;;x
 SWN_socialist;Социал-демократы;Socialdemokraterna;Socialdemokraterna;;Socialdemokraterna;;;;;;;;;x

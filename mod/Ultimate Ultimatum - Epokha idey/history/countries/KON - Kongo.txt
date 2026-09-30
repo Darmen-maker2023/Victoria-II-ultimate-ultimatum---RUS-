@@ -47,9 +47,6 @@ set_country_flag = existing_country
 
 
 # Technologies
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
 
 # Inventions
 
@@ -69,10 +66,6 @@ taxation_reform = tax_farmers
 diplomatic_reform = interactive
 
 # Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
 
 # Inventions
 

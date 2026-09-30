@@ -48,7 +48,7 @@ army = {
 	}
 	regiment = {
 		name= "Regiment nr1"
-		type = mechanized_infantry
+		type = infantry
 		home = 375
 	}
 }
@@ -58,11 +58,11 @@ navy = {
 	location = 376
 	ship = {
 		name= "SS Ourang Medan"
-		type = transportship
+		type = steam_transport
 	}
 	ship = {
 		name= "SS Stad Schiedam"
-		type = transportship
+		type = steam_transport
 	}
 	ship = {
 		name= "HNLMS Jacob van Heemskerck"
@@ -70,10 +70,10 @@ navy = {
 	}
 	ship = {
 		name= "HNLMS Van Galen"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "HNLMS Tjerk Hiddes"
-		type = destroyer
+		type = cruiser
 	}
 }

@@ -114,7 +114,6 @@ country_event = {
 			NOT = { 
 				OR = {
 					government = fascist_dictatorship 
-					government = fascist
 				}
 			}
 		}
@@ -183,7 +182,6 @@ country_event = {
 			NOT = { 
 				OR = {
 					government = fascist_dictatorship 
-					government = fascist
 				}
 			}
 		}
@@ -244,7 +242,6 @@ country_event = {
 			NOT = { 
 				OR = { 
 					government = fascist_dictatorship
-					government = fascist
 				}
 			}
 		}

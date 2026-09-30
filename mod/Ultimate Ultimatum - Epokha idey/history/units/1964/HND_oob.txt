@@ -101,7 +101,7 @@ navy = {
 	}
 	ship = {
 		name= "Chip nr1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Chip nr1"
@@ -117,7 +117,7 @@ navy = {
 	}
 	ship = {
 		name= "Chip nr1"
-		type = patrolboat
+		type = commerce_raider
 	}
 }
 navy = {
@@ -129,7 +129,7 @@ navy = {
 	}
 	ship = {
 		name= "Chip nr1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Chip nr1"
@@ -145,7 +145,7 @@ navy = {
 	}
 	ship = {
 		name= "Chip nr1"
-		type = patrolboat
+		type = commerce_raider
 	}
 }
 navy = {
@@ -153,7 +153,7 @@ navy = {
 	location = 1305
 	ship = {
 		name= "Chip nr1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Chip nr1"
@@ -173,7 +173,7 @@ navy = {
 	location = 1320
 	ship = {
 		name= "Chip nr1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Chip nr1"
@@ -193,7 +193,7 @@ navy = {
 	location = 1302
 	ship = {
 		name= "Chip nr1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Chip nr1"

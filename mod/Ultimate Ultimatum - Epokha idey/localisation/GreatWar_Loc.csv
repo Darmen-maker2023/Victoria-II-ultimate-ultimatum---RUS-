@@ -1,185 +1,185 @@
-NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST$ Война за уничтожение $SECOND$ Империи;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Grosser Krieg;Baza;Base:;Base:;Alap:;Zбkladna:;;;;;;;x;;;;;;;;;;;;;;,,,,,
-AGRESSION_WAR_DISMANTLE_NAME;$ORDER$ Война $ПЕРВОЙ$ Агрессии;$ORDER$ Offensive Militaire $FIRST$;$ORDER$ $FIRST$ Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;Guerra $ORDER$$FIRST$-$SECOND$;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ hбborъ;$ORDER$$FIRST$-$SECOND$ vбlka;;;;;;;x;;;;;;;;;;;;;;,,,,,
-punitive_effects;Национальное унижение;Humiliation Nationale;Nationale Erniedrigung;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-punitive_effects_desc;Наше унижение от рук победителей и карательные последствия репараций сказались на нашем народе. Мы будем практически неспособны вести войну, если кто-то первым не объявит нам войну.;;;;;;;;;;;;;x,,,,;x
-no_more_war;Больше никакой войны;Nous ne Voulons pas la Guerre;Wir Wunschen Nicht Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-no_more_war_desc;Наши люди устали от войны. Будет трудно заинтересовать их еще одной в ближайшее время, поэтому в то же время наши возможности вести войну будут весьма ограничены. §YПРИМЕЧАНИЕ: Это означает, что у вас очень мало CB, с которыми вы можете начать войну, пока действует этот модификатор!§W;;;;;;;;;;;;;x,,,,;x
-end_the_war;Окончание войны;La Guerre Doit Finir;Der Krieg Muss Beenden;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-end_the_war_desc;Наш враг повержен. Люди призывают нас прекратить войну, даже если мы не получим всего, что намеревались.;;;;;;;;;;;;;x,,,,;x
-international_pariah;Международный изгой;Paria International;Internationales Ausgestossen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-international_pariah_desc;Мы являемся изгоями в международном сообществе из-за нашей агрессивной политики.;;;;;;;;;;;;;x,,,,,;x
-great_war;Тотальная война;Guerre Totale;Grosser Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_desc;Мы находимся в состоянии тотальной войны с нашими врагами. Мы должны восстать как один, или рисковать разрушением всего нашего образа жизни.;;;;;;;;;;;;;x,,,,;x
-great_war2;Требования войны;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;x,,,,,;x
-great_war2_desc;Огромный дефицит снижает у нашего народа энтузиазм в отношении войны.;;;;;;;;;;;;;x,,,,,;x
-great_war3;Неужели все напрасно?;Est-il Tout Pour Rien?;Ist Alles Fur Nichts?;;;;;;;;;;;x,,,,,;x
-great_war3_desc;Если мы не положим конец войне в ближайшее время, дела у нас пойдут очень плохо.;;;;;;;;;;;;;x,,,,;x
-dismantle_cb;Разрушить нацию;Grande Guerre;Gesamtkrieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,;x
-dismantle_cb_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,;x
-dismantle_cb_add_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add_new;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add_new_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x,,,,,;x
-dismantle_cb_add_new_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-dismantle_cb_add_new_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_liberate;Освободить;Peuple libre;Freies Volk;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_liberate_desc;Освободить §Yстрану§W от ее угнетателей;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;;;;;x,,,,,;x
-great_war_liberate_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_liberate_setup;Верните $STATE$ $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_acquire_core;Приобрести ядро;Prendre territoire cle;Kernprovinz erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_acquire_core_desc;Приобретите вражеское §Yгосударство§W, где у нас есть §Yосновные провинции§W;Prendre un §YEtat§W ennemi ou nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;;;;;x,,,,;x
-great_war_acquire_core_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_acquire_core_setup;Получить ядро $STATE$ от $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_place_in_the_sun;Место на солнце;Une place au soleil;Ein Platz an der Sonne;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_place_in_the_sun_desc;Приобретение вражеского §Yколониального государства§W;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;;;;;x,,,,,;x
-great_war_place_in_the_sun_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_place_in_the_sun_setup;Приобрести колонию $STATE$ у $RECIPIENT$;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_release_puppet;Выпустить марионетку;Liberer un Etat fantoche;Marionettenstaat entlassen;;;;;;;;;;;x,,,,,;x
-great_war_release_puppet_short;$THIRD$ выпущен;$THIRD$ est libere;$THIRD$ wurde entlassen;;;;;;;;;;;x,,,,,;x
-great_war_release_puppet_setup;Освободите $THIRD$ от $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;;;;;x,,,,,;x
-great_war_release_puppet_desc;Освободить §Yстрану§W от ее суверенного государства;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;;;;;x,,,,,;x
-great_war_take_from_sphere;Взять из сферы влияния;Prendre a la sphere d'influence;Aus Einflusssphare entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_take_from_sphere_desc;Удалить страну из чьей-либо §YСферы влияния§W и добавить ее в свою собственную;Supprimer un pays de la §Ysphere d'influence§W de quelqu'un et l'ajouter a la notre;Entfernen Sie ein Land aus einer anderen §YEinflusssphare§W und fugen Sie es Ihrer eigenen hinzu.;;;;;;;;;;;x,,,,,;x
-great_war_take_from_sphere_short;Возьмите $ТРЕТИЙ$ из сферы влияния;Prendre $THIRD$ a la sphere d'influence;$THIRD$ aus Einflusssphare entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-great_war_take_from_sphere_setup;Возьмите $ТРЕТЬ$ из сферы влияния $ПОЛУЧАТЕЛЯ$;Prendre $THIRD$ a la sphere d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,,,
-EVTNAME95500;$CAPITAL$ конференция $YEAR$;;;;;;;;;;;;x,,,,,;x
-EVTDESC95500;Колониальные державы мира собрались в $CAPITAL$, чтобы обсудить регулирование колонизации и торговли в Африке. Результат стал известен как «Общий акт конференции $CAPITAL$», формализующий борьбу за африканский континент. После этого момента любая цивилизованная страна будет в значительной степени считаться оправданной в агрессии против нецивилизованных африканских стран.;;;;;;;;;;;;x,,,;x
-EVTNAME95501;Борьба за Африку;;;;;;;;;;;;x,,,,,;x
-EVTDESC95501;В $FROMCOUNTRY$ прошла конференция, в которой приняли участие все колониальные державы, чтобы обсудить регулирование колонизации и торговли в Африке. Было достигнуто общее соглашение, формализующее борьбу за африканский континент. После этого момента любая цивилизованная страна будет в значительной степени считаться оправданной в агрессии против нецивилизованных африканских наций.;;;;;;;;;;;;x,;x
-EVTNAME95505;Борьба за Африку;;;;;;;;;;;;x,,,,,;x
-EVTDESC95505;Влияние $COUNTRY_ADJ$ ощущается по всей Африке, и некоторые члены правительства предлагают нам настаивать на более прямом контроле над местными африканскими правительствами. Без защиты $COUNTRY_ADJ$ весьма вероятно, что эти люди попадут под влияние конкурирующей колониальной державы, и разве не является нашим моральным долгом расширить преимущества, которые может предложить истинная цивилизация?;;;;;;;;;;;;x,,;x
-EVTNAME95506;Борьба за Африку;;;;;;;;;;;;x,,,,,;x
-EVTDESC95506;Влияние $FROMCOUNTRY_ADJ$ ощущается повсюду в $COUNTRY$. Они приходят к нам, говоря, что принесут образование и цивилизацию. Мы знаем, чего они на самом деле хотят: все богатства $COUNTRY$ в их сундуках. Но что мы можем сделать? Теперь они хотят управлять нами более напрямую — для нашей «защиты» от других амбициозных иностранных держав. Если мы согласимся, наш образ жизни закончится. Если мы откажемся, они начнут войну с нами.;;;;;;;;;;;;x,,;x
-EVTNAME95507;$FROMCOUNTRY$ отказался;;;;;;;;;;;;x,,,,,;x
-EVTDESC95507;Люди $FROMCOUNTRY_ADJ$ приняли безрассудное решение: они отказались от нашего предложения о защите и зашли так далеко, что выслали наших представителей из страны. Есть даже сообщения о нескольких смертях. Похоже, у нас не осталось выбора, кроме как войти в $FROMCOUNTRY$ и заставить их увидеть правильный путь.;;;;;;;;;;;;x,,,,,;x
-EVTNAME96000;Война приближается;La Guerre c'est Ici;Der Krieg Kommt;;;;;;;;;;;x,,,,,;x
+NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST$ Война за уничтожение $SECOND$ Империи;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Grosser Krieg;Baza;Base:;Base:;Alap:;Zбkladna:;;;;;;x;
+AGRESSION_WAR_DISMANTLE_NAME;$ORDER$ Война $ПЕРВОЙ$ Агрессии;$ORDER$ Offensive Militaire $FIRST$;$ORDER$ $FIRST$ Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;Guerra $ORDER$$FIRST$-$SECOND$;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ hбborъ;$ORDER$$FIRST$-$SECOND$ vбlka;;;;;;x;
+punitive_effects;Национальное унижение;Humiliation Nationale;Nationale Erniedrigung;;;;;;;;;;;x;
+punitive_effects_desc;Наше унижение от рук победителей и карательные последствия репараций сказались на нашем народе. Мы будем практически неспособны вести войну, если кто-то первым не объявит нам войну.;;;;;;;;;;;;;x;
+no_more_war;Больше никакой войны;Nous ne Voulons pas la Guerre;Wir Wunschen Nicht Krieg;;;;;;;;;;;x;
+no_more_war_desc;Наши люди устали от войны. Будет трудно заинтересовать их еще одной в ближайшее время, поэтому в то же время наши возможности вести войну будут весьма ограничены. §YПРИМЕЧАНИЕ: Это означает, что у вас очень мало CB, с которыми вы можете начать войну, пока действует этот модификатор!§W;;;;;;;;;;;;;x;
+end_the_war;Окончание войны;La Guerre Doit Finir;Der Krieg Muss Beenden;;;;;;;;;;;x;
+end_the_war_desc;Наш враг повержен. Люди призывают нас прекратить войну, даже если мы не получим всего, что намеревались.;;;;;;;;;;;;;x;
+international_pariah;Международный изгой;Paria International;Internationales Ausgestossen;;;;;;;;;;;x;
+international_pariah_desc;Мы являемся изгоями в международном сообществе из-за нашей агрессивной политики.;;;;;;;;;;;;;x;
+great_war;Тотальная война;Guerre Totale;Grosser Krieg;;;;;;;;;;;x;
+great_war_desc;Мы находимся в состоянии тотальной войны с нашими врагами. Мы должны восстать как один, или рисковать разрушением всего нашего образа жизни.;;;;;;;;;;;;;x;
+great_war2;Требования войны;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;x;
+great_war2_desc;Огромный дефицит снижает у нашего народа энтузиазм в отношении войны.;;;;;;;;;;;;;x;
+great_war3;Неужели все напрасно?;Est-il Tout Pour Rien?;Ist Alles Fur Nichts?;;;;;;;;;;;x;
+great_war3_desc;Если мы не положим конец войне в ближайшее время, дела у нас пойдут очень плохо.;;;;;;;;;;;;;x;
+dismantle_cb;Разрушить нацию;Grande Guerre;Gesamtkrieg;;;;;;;;;;;x;
+dismantle_cb_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x;
+dismantle_cb_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+dismantle_cb_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+dismantle_cb_add;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;x;
+dismantle_cb_add_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x;
+dismantle_cb_add_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+dismantle_cb_add_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+dismantle_cb_add_new;Разрушить нацию;Grande Guerre;Grosser Krieg;;;;;;;;;;;x;
+dismantle_cb_add_new_desc;Заставить врага §Yвеликую державу§W разрушить свою империю и выплатить репарации;Obliger un autre §Ypays§W a se desarmer et a nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;;;;;x;
+dismantle_cb_add_new_short;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+dismantle_cb_add_new_setup;Заставить $RECIPIENT$ разрушить свою империю;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;x;
+great_war_install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;x;
+great_war_install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;x;
+great_war_install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;x;
+great_war_install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;x;
+great_war_install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;x;
+great_war_install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;x;
+great_war_install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;x;
+great_war_liberate;Освободить;Peuple libre;Freies Volk;;;;;;;;;;;x;
+great_war_liberate_desc;Освободить §Yстрану§W от ее угнетателей;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;;;;;x;
+great_war_liberate_short;$THIRD$ приобретает $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;x;
+great_war_liberate_setup;Верните $STATE$ $THIRD$ от $RECIPIENT$;Prendre $STATE$ a $RECIPIENT$ pour le rendre a $THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;;;;;;;;;;x;
+great_war_acquire_core;Приобрести ядро;Prendre territoire cle;Kernprovinz erwerben;;;;;;;;;;;x;
+great_war_acquire_core_desc;Приобретите вражеское §Yгосударство§W, где у нас есть §Yосновные провинции§W;Prendre un §YEtat§W ennemi ou nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;;;;;x;
+great_war_acquire_core_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;x;
+great_war_acquire_core_setup;Получить ядро $STATE$ от $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;x;
+great_war_place_in_the_sun;Место на солнце;Une place au soleil;Ein Platz an der Sonne;;;;;;;;;;;x;
+great_war_place_in_the_sun_desc;Приобретение вражеского §Yколониального государства§W;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;;;;;x;
+great_war_place_in_the_sun_short;Приобретите $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;x;
+great_war_place_in_the_sun_setup;Приобрести колонию $STATE$ у $RECIPIENT$;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;x;
+great_war_release_puppet;Выпустить марионетку;Liberer un Etat fantoche;Marionettenstaat entlassen;;;;;;;;;;;x;
+great_war_release_puppet_short;$THIRD$ выпущен;$THIRD$ est libere;$THIRD$ wurde entlassen;;;;;;;;;;;x;
+great_war_release_puppet_setup;Освободите $THIRD$ от $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;;;;;x;
+great_war_release_puppet_desc;Освободить §Yстрану§W от ее суверенного государства;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;;;;;x;
+great_war_take_from_sphere;Взять из сферы влияния;Prendre a la sphere d'influence;Aus Einflusssphare entfernen;;;;;;;;;;;x;
+great_war_take_from_sphere_desc;Удалить страну из чьей-либо §YСферы влияния§W и добавить ее в свою собственную;Supprimer un pays de la §Ysphere d'influence§W de quelqu'un et l'ajouter a la notre;Entfernen Sie ein Land aus einer anderen §YEinflusssphare§W und fugen Sie es Ihrer eigenen hinzu.;;;;;;;;;;;x;
+great_war_take_from_sphere_short;Возьмите $ТРЕТИЙ$ из сферы влияния;Prendre $THIRD$ a la sphere d'influence;$THIRD$ aus Einflusssphare entfernen;;;;;;;;;;;x;
+great_war_take_from_sphere_setup;Возьмите $ТРЕТЬ$ из сферы влияния $ПОЛУЧАТЕЛЯ$;Prendre $THIRD$ a la sphere d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;;;;;x;
+install_democracy;Установить демократию;Installez la democratie;Verursachen Sie Demokratie;;;;;;;;;;;x;
+install_democracy_desc;Установить §Yдружественную демократию§W в столице страны;Install a §Yfriendly democracy§W in the target country's capital;Install a §Yfriendly democracy§W in the target country's capital;;;;;;;;;;;x;
+install_democracy_short;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;x;
+install_democracy_setup;Установить дружественную демократию в $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;x;
+install_fascism;Установить фашизм;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;x;
+install_fascism_desc;Установить §Yдружественное фашистское правительство§W в столице страны;Install a §Yfriendly fascist government§W in the country's capital;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;;;;;x;
+install_fascism_short;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;x;
+install_fascism_setup;Установить фашистское правительство в $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;x;
+install_communism;Установить коммунизм;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;x;
+install_communism_desc;Установить §Yдружественное коммунистическое правительство§W в столице страны;Install a §Yfriendly communist government§W in the country's capital;Install a §Yfriendly communist government§W in the country's capital;;;;;;;;;;;x;
+install_communism_short;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;x;
+install_communism_setup;Установить коммунистическое правительство в $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;x;
+EVTNAME95500;$CAPITAL$ конференция $YEAR$;;;;;;;;;;;;;x;
+EVTDESC95500;Колониальные державы мира собрались в $CAPITAL$, чтобы обсудить регулирование колонизации и торговли в Африке. Результат стал известен как «Общий акт конференции $CAPITAL$», формализующий борьбу за африканский континент. После этого момента любая цивилизованная страна будет в значительной степени считаться оправданной в агрессии против нецивилизованных африканских стран.;;;;;;;;;;;;;x;
+EVTNAME95501;Борьба за Африку;;;;;;;;;;;;;x;
+EVTDESC95501;В $FROMCOUNTRY$ прошла конференция, в которой приняли участие все колониальные державы, чтобы обсудить регулирование колонизации и торговли в Африке. Было достигнуто общее соглашение, формализующее борьбу за африканский континент. После этого момента любая цивилизованная страна будет в значительной степени считаться оправданной в агрессии против нецивилизованных африканских наций.;;;;;;;;;;;;;x;
+EVTNAME95505;Борьба за Африку;;;;;;;;;;;;;x;
+EVTDESC95505;Влияние $COUNTRY_ADJ$ ощущается по всей Африке, и некоторые члены правительства предлагают нам настаивать на более прямом контроле над местными африканскими правительствами. Без защиты $COUNTRY_ADJ$ весьма вероятно, что эти люди попадут под влияние конкурирующей колониальной державы, и разве не является нашим моральным долгом расширить преимущества, которые может предложить истинная цивилизация?;;;;;;;;;;;;;x;
+EVTNAME95506;Борьба за Африку;;;;;;;;;;;;;x;
+EVTDESC95506;Влияние $FROMCOUNTRY_ADJ$ ощущается повсюду в $COUNTRY$. Они приходят к нам, говоря, что принесут образование и цивилизацию. Мы знаем, чего они на самом деле хотят: все богатства $COUNTRY$ в их сундуках. Но что мы можем сделать? Теперь они хотят управлять нами более напрямую — для нашей «защиты» от других амбициозных иностранных держав. Если мы согласимся, наш образ жизни закончится. Если мы откажемся, они начнут войну с нами.;;;;;;;;;;;;;x;
+EVTNAME95507;$FROMCOUNTRY$ отказался;;;;;;;;;;;;;x;
+EVTDESC95507;Люди $FROMCOUNTRY_ADJ$ приняли безрассудное решение: они отказались от нашего предложения о защите и зашли так далеко, что выслали наших представителей из страны. Есть даже сообщения о нескольких смертях. Похоже, у нас не осталось выбора, кроме как войти в $FROMCOUNTRY$ и заставить их увидеть правильный путь.;;;;;;;;;;;;;x;
+EVTNAME96000;Война приближается;La Guerre c'est Ici;Der Krieg Kommt;;;;;;;;;;;x;
 EVTDESC96000;$COUNTRY$ находится в состоянии тотальной войны с одной из великих держав мира. В современную эпоху, когда война способна убивать миллионы, на карту может быть поставлено само будущее нашей нации. Призыв был обращен к людям $COUNTRY_ADJ$: отложите в сторону ваши мелкие разногласия, вашу повседневную жизнь и ваши личные амбиции. $COUNTRY$ должна объединиться в этот час нашей нужды!;;;;;;;;;;;;"x"",,,";x
-EVTOPTA96000;Мы победим!;Nous serons victorieux!;Wir sind siegreich!;;;;;;;;;;;x,,,,,;x
-EVTNAME96010;Договор $КАПИТАЛ$;Le Traite de $CAPITAL$;Der Vertrag von $CAPITAL$;;;;;;;;;;;x,,,,,;x
-EVTDESC96010;Мы проиграли войну, и победители, словно стервятники, налетели на нас. Нас заставили сесть за стол переговоров, чтобы принять унизительные условия распада нашей империи, при этом многие из наших земель просто отдадут, и нам не позволят иметь никаких заморских владений вообще. Это момент, который будут помнить в $COUNTRY$ долгие годы.;;;;;;;;;;;;;x,,;x
-EVTNAME96004;Требования войны;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;x,,,,,;x
-EVTDESC96004;Постоянное состояние войны, в котором находится $COUNTRY$, сказалось на нашем народе. Нехватка основных товаров и неспособность быстро одержать победу истощили энтузиазм, с которым народ $COUNTRY_ADJ$ изначально приветствовал военные усилия. Если ситуация не изменится в ближайшее время, мы можем столкнуться с растущей усталостью и беспорядками в наших собственных границах.;;;;;;;;;;;;;x,,,,;x
-EVTOPTA96004;Мы победим в этой войне!;Nous gagnerons la guerre!;Wir gewinnen den Krieg!;;;;;;;;;;;x,,,,,;x
-EVTNAME96005;Неужели все напрасно?;Est-il Tout Pour Rien?;Ist Alles Fur Nichts?;;;;;;;;;;;x,,,,,;x
-EVTDESC96005;Растущие демонстрации в $CAPITAL$ демонстрируют преобладающее отношение людей $COUNTRY_ADJ$: выведите нас из войны, и поскорее. Слишком много людей погибло, слишком много жертв принесено, и все ради чего? Люди хотят вернуться к своей обычной жизни, без постоянного призрака войны, нависающего над их головами.;;;;;;;;;;;;;x,;x
-EVTOPTA96005;Не теряйте надежды!;Ne perdez pas l'espoir!;Verlieren Sie nicht Hoffnung!;;;;;;;;;;;x,,,,,;x
-EVTNAME96006;Полный крах;Effondrement Total;Gesamteinsturz;;;;;;;;;;;x,,,,,;x
-EVTDESC96006;Военные усилия идут не очень хорошо, мягко говоря. Советники говорят, что $COUNTRY$ должна просить мира, сделать все возможное, чтобы закончить эту войну, прежде чем произойдет что-то еще более ужасное. Люди на грани восстания. Мы должны действовать!;;;;;;;;;;;;;x,,,;x
-EVTOPTA96006;Катастрофа!;Desastre!;Unfall!;;;;;;;;;;;x,,,,,;x
-EVTOPTA96010;Мы приветствуем мир;La paix est bienvenue;Frieden ist willkommen;;;;;;;;;;;x,,,,,;x
-EVTNAME96013;Распад $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;x,,,,,;x
-EVTDESC96013;$FROMCOUNTRY$ вынуждена была признать поражение в своей войне, и нас пригласили за стол переговоров, чтобы обсудить возможный распад их империи. Это может означать, что мы увидим возвращение нам земель $COUNTRY_ADJ$, хотя если мы откажемся от своих претензий, это может означать спасение отношений с $FROMCOUNTRY$.;;;;;;;;;;;;;x,,,;x
-EVTOPTA96013;Мы будем присутствовать на переговорах;Nous joindrons les entretiens;Wir gehen zu den Gesprachen;;;;;;;;;;;x,,,,,;x
-EVTOPTB96013;Мы не будем присутствовать;Nous n'irons pas;Wir gehen nicht;;;;;;;;;;;x,,,,,;x
-EVTNAME96014;Распад $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;x,,,,,;x
-EVTDESC96014;$FROMCOUNTRY$ вынуждена была признать поражение в своей войне, и теперь начались переговоры о договоре, в ходе которых обсуждался распад их империи. Как враг $FROMCOUNTRY$, наше место за столом гарантировано. По крайней мере, любые земли $COUNTRY_ADJ$, которые в настоящее время находятся во владении $FROMCOUNTRY_ADJ$, должны быть возвращены.;;;;;;;;;;;;;x,,;x
-EVTOPTA96014;Мы просто хотим вернуть наши земли.;Nous voulons nos terres;Wir wunschen unsere Lander;;;;;;;;;;;x,,,,,;x
-EVTNAME96015;$COUNTRY_ADJ$ Свобода;Liberte $COUNTRY_ADJ$;$COUNTRY_ADJ$ Freiheit;;;;;;;;;;;x,,,,,;x
-EVTDESC96015;Поражение $FROMCOUNTRY$ в их войне заставило их сесть за стол переговоров, и одним из условий распада их империи является наше освобождение от их прямого правления. Это означало бы изгнание чиновников $FROMCOUNTRY_ADJ$ и потенциальное превращение их во врага. Мы могли бы поддерживать тесные связи с $FROMCOUNTRY$ даже с нашей свободой, хотя это означало бы отказ от шанса на свободу и добрую волю от врагов $FROMCOUNTRY$.;;;;;;;;;;;;;x,,,;x
-EVTOPTA96015;$COUNTRY$ будет свободна;$COUNTRY$ sera libre;$COUNTRY$ ist frei;;;;;;;;;;;x,,,,,;x
-EVTOPTB96015;$FROMCOUNTRY$ — наш союзник;$FROMCOUNTRY$ est notre allie;$FROMCOUNTRY$ ist unser Verbundetes;;;;;;;;;;;x,,,,,;x
-EVTNAME96016;Колонии $FROMCOUNTRY_ADJ$;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;x,,,,,;x
-EVTDESC96016;Одним из вопросов, обсуждаемых на переговорах по договору, является вопрос о том, что делать с колониальными владениями $FROMCOUNTRY$. Им нельзя позволять удерживать эти земли, но определить, как ими распорядиться, — непростая задача. На данный момент достигнуто соглашение, определяющее часть территории, а по всем остальным придется вести переговоры в следующем году.;;;;;;;;;;;;;x,,;x
-EVTOPTA96016;Мы возьмем то, что сможем.;Nous voulons autant que possible;Wir wunschen so viel wie moglich;;;;;;;;;;;x,,,,,;x
-EVTOPTB96016;Наш единственный интерес — ограничение власти $FROMCOUNTRY_ADJ$;Nous voulons seulement;Wir wunschen nur wenig;;;;;;;;;;;x,,,,,;x
-EVTOPTC96016;Нас не интересуют их колонии.;Nous ne voulons pas les colonies;Wir wunschen nicht die Kolonien;;;;;;;;;;;x,,,,,;x
-EVTDESC96017;Одним из вопросов, обсуждавшихся на переговорах по договору, было то, что делать с колониальными владениями $FROMCOUNTRY$. Мы не великая держава, и вполне возможно, что даже если мы попытаемся захватить некоторые из их колоний, то останемся ни с чем... но если мы не попытаемся, то останемся ни с чем наверняка. Даже в этом случае попытка может быть расценена как агрессия.;;;;;;;;;;;;;x,,;x
-EVTNAME96020;Война окончена;La Guerre c'est Finie;Der Krieg ist Fertig;;;;;;;;;;;x,,,,,;x
-EVTDESC96020;С окончанием войны люди $COUNTRY_ADJ$ вышли на улицы $CAPITAL$, чтобы отпраздновать. Ущерб от войны был тяжелым, но сегодня $COUNTRY$ просто счастлива жить в мире.;;;;;;;;;;;;;x,,,;x
-EVTOPTA96020;Да здравствует \$COUNTRY\$!;Vive $COUNTRY$!;Lieben lang $COUNTRY$!;;;;;;;;;;;x,,,,,;x
-EVTDESC96022;$FROMCOUNTRY$ был создан из эфира, но власть имущие определили, что по крайней мере часть их земель по праву принадлежит $COUNTRY$ и должна быть возвращена нам. Люди $COUNTRY_ADJ$ обрадовались этой новости.;;;;;;;;;;;;;x,,,,;x
-EVTNAME96025;Враг моего врага;Ennemi de mon Ennemi;Feind meines Feindes;;;;;;;;;;;x,,,,,;x
-EVTDESC96025;Теперь, когда мы находимся в состоянии тотальной войны, возникла идея, что $COUNTRY$ следует обратиться к врагам $FROMCOUNTRY$, чтобы узнать, есть ли те, кто присоединится к нам против них. Это может означать нечестивый союз с теми, кто в противном случае никогда не будет сражаться на нашей стороне, но, как гласит старая поговорка: «Враг моего врага — мой друг». Если мы хотим выиграть войну против $FROMCOUNTRY$, нам, возможно, придется принять это близко к сердцу.;;;;;;;;;;;;;x,,;x
-EVTOPTA96025;Сделай это;Oui;Ja;;;;;;;;;;;x,,,,,;x
-EVTOPTB96025;Нам не нужны дополнительные союзники.;Nous n'avons pas besoin de plus d'allies;Wir benotigen nicht mehr Verbundete;;;;;;;;;;;x,,,,,;x
-EVTNAME96030;Тень войны;L'ombre de la Guerre;Der Schatten des Krieges;;;;;;;;;;;x,,,,,;x
-EVTDESC96030;Дипломат из $FROMCOUNTRY$ обратился к нам с предложением: союз с ними, чтобы сражаться в войне против их врага... который, конечно, не является нашим другом. Хотя союз не обязательно обязывает нас, на самом деле остается вопрос, хочет ли $COUNTRY$ вообще вступать в войну. Если мы будем сражаться с $FROMCOUNTRY$, у нас есть шанс получить военные трофеи для себя. Это также означает, что мы можем пасть вместе с ними. Выбор за нами.;;;;;;;;;;;;;x,,;x
-EVTOPTA96030;Мы объединимся с $FROMCOUNTRY$;Nous convenons;Wir stimmen zu;;;;;;;;;;;x,,,,,;x
-EVTOPTB96030;Мы отказываемся;Nous refusons;Wir lehnen ab;;;;;;;;;;;x,,,,,;x
-EVTNAME96031;$FROMCOUNTRY$ согласился;$FROMCOUNTRY$ a Convenu;$FROMCOUNTRY$ hat Zugestimmt;;;;;;;;;;;x,,,,,;x
-EVTDESC96031;Мы получили сообщение от $FROMCOUNTRY$, что они согласились на союз. Будут ли они на самом деле придерживаться этого союза и присоединяться к нам в войне, еще предстоит увидеть.;;;;;;;;;;;;;x,,,,,;x
-EVTOPTA96031;Большой;Excellent;Ausgezeichnet;;;;;;;;;;;x,,,,,;x
-EVTNAME96065;Возмущение!;;;;;;;;;;;x,,,,,;x
-EVTDESC96065;Дипломатический инцидент с одним из наших врагов возмутил граждан $COUNTRY_ADJ$. Несколько недель назад посланник, назначенный в $CAPITAL$, был обвинен в краже государственных секретов. Оказалось, что правда была намного хуже, и расследование раскрыло заговор с целью дестабилизировать $COUNTRY$ и оставить ее незащищенной для вторжения. Это стало известно общественности, и теперь толпы в столице призывают к тотальной войне.;;;;;;;;;;;x,,;x
-EVTOPTA96065;Мы должны защищать интересы $COUNTRY_ADJ$ любой ценой.;;;;;;;;;;;x,,,,;x
-EVTOPTB96065;Мы не можем позволить себе такую войну.;;;;;;;;;;;x,,,,,;x
-EVTNAME96066;Убийство!;;;;;;;;;;;x,,,,,;x
-EVTDESC96066;Убийство видного гражданина $COUNTRY_ADJ$ диссидентом, после тщательного расследования, оказалось подстрекательством вражеской державы. Это лишь последний из серии инцидентов, направленных на дестабилизацию $COUNTRY$. Результаты расследования стали известны общественности, и огромные толпы, собравшиеся на улицах $CAPITAL$, теперь призывают к тотальной войне.;;;;;;;;;;;x,,;x
-EVTNAME96070;Колонии $COUNTRY_ADJ$;Les Colonies $COUNTRY_ADJ$;Das $COUNTRY_ADJ$ Kolonien;;;;;;;;;;;x,,,,,;x
-EVTDESC96070;Согласно мирному договору, наши колонии и заморские территории должны быть сданы. В настоящее время ведутся переговоры о том, каким странам они будут «приписаны». Похоже, наше унижение еще не завершено.;;;;;;;;;;;;;x,,,,;x
-EVTOPTA96070;Пришло время разделить нашу империю.;Nous n'avons aucun choix.;Wir haben keine Wahl.;;;;;;;;;;;x,,,,,;x
-EVTNAME96071;Передача колоний $FROMCOUNTRY_ADJ$;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;x,,,,,;x
-EVTDESC96071;Переговоры о том, какие страны получат контроль над оставшимися $FROMCOUNTRY_ADJ$ колониями и заморскими территориями, все еще продолжаются.;;;;;;;;;;;;;x,,,,,;x
-EVTOPTA96071;Мы примем контроль над колонией.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;x,,,,,;x
-EVTOPTB96071;Мы не хотим больше никаких колоний.;Nous refusons.;Wir lehnen ab.;;;;;;;;;;;x,,,,,;x
-EVTDESC96081;Нам предложили изолированную территорию $FROMCOUNTRY_ADJ$. Мы должны подумать, хотим ли мы ею управлять, поскольку доступ к ней может быть затруднен в соответствии с текущими границами. Но, с другой стороны, действительно ли мы хотим, чтобы $FROMCOUNTRY$ ее сохранила?;;;;;;;;;;;;;x,,;x
-EVTNAME96085;Новое правительство $COUNTRY_ADJ$;Le Nouveau Gouvernement $COUNTRY_ADJ$;Die Neue $COUNTRY_ADJ$ Regierung;;;;;;;;;;;x,,,,,;x
-EVTDESC96085;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное демократическое правительство, дружественное их нации. Как долго просуществует это правительство, неизвестно, но многие в $COUNTRY$ задаются вопросом, является ли «свобода», навязанная иностранной державой, действительно таковой.;;;;;;;;;;;;;x,,,;x
-EVTOPTA96085;Мы приветствуем новый режим.;Nous faisons bon accueil au nouveau regime.;Wir begrussen das neue Regime.;;;;;;;;;;;x,,,,,;x
-EVTDESC96086;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное фашистское правительство, дружественное их нации. Как долго это правительство просуществует, неизвестно, но многие в $COUNTRY$, похоже, уже полны решимости свергнуть его во имя свободы.;;;;;;;;;;;;;x,,,;x
-EVTDESC96087;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное коммунистическое правительство, дружественное их нации. Как долго это правительство просуществует, неизвестно, но многие в $COUNTRY$, похоже, уже полны решимости свергнуть его во имя свободы.;;;;;;;;;;;;;x,,,;x
-EVTNAME96090;Конец монархии $COUNTRY_ADJ$;;;;;;;;;;;;x,,,,,;x
-EVTDESC96090;С потерей $COUNTRY$ в недавней войне, монархия $COUNTRY_ADJ$ получила большую часть вины -- уже было несколько покушений и призывов в правительстве к отставке монархии. Общественные настроения перешли к идее превращения $COUNTRY$ в демократию... хотя некоторые опасаются, что это погрузит страну в еще больший хаос.;;;;;;;;;;;;x,,,;x
-EVTNAME96130;Цена позора;Le Prix de l'Infamie;Der Preis der Niedertracht;;;;;;;;;;;x,,,,,;x
-EVTDESC96130;В международном сообществе ропщут о воинственном поведении $COUNTRY$, и некоторые говорят о необходимости единого фронта для сдерживания агрессии $COUNTRY_ADJ$. Предпринимаются даже попытки настроить против нас наших собственных граждан. В будущем нам придется быть осторожными, чтобы не столкнуться ни с одним врагом, а с врагом великих мировых держав, объединившихся против нас.;;;;;;;;;;;;;x,,,;x
-EVTOPTA96130;Просто дайте им попробовать!;Laissez-les Venir!;Lassen Sie Kommen!;;;;;;;;;;;x,,,,,;x
-EVTNAME96131;Ослабление напряженности;Un Amoindrissement des Tensions;Eine Verminderung von Spannungen;;;;;;;;;;;x,,,,,;x
-EVTDESC96131;Великие державы мира заметили усилия $COUNTRY$ изменить наши агрессивные методы. Некоторые предпринимают попытки улучшить отношения, и их дипломаты выражают надежду, что $COUNTRY$ продолжит вести дела с другими странами цивилизованным образом.;;;;;;;;;;;;;x,,,,;x
-EVTOPTA96131;Спасибо за вотум доверия.;Merci pour le vote de confiance.;Dank fur die Vertrauensabstimmung.;;;;;;;;;;;x,,,,,;x
-EVTNAME96136;Ультиматум $FROMCOUNTRY_ADJ$;$FROMCOUNTRY_ADJ$ Ultimatum;Das $FROMCOUNTRY_ADJ$ Ultimatum;;;;;;;;;;;x,,,,,;x
-EVTDESC96136;Дипломаты $FROMCOUNTRY_ADJ$ обратились к нашей стране с ультиматумом: немедленно распустить $COUNTRY$, или великие державы мира будут вынуждены объединиться против нас. Их требования состоят в следующем:\n\n1. Возврат всех незаконно удерживаемых территорий, полученных путем завоевания.\n2. Освобождение всех претендентов, находящихся в настоящее время на наших землях.\n3. Передача всех колоний и заморских территорий другим великим державам.\n4. Соглашение $COUNTRY$ не объявлять войну никакой другой стране в течение не менее десяти лет.\n\nСамо собой разумеется, что эти требования крайне унизительны, и народ $COUNTRY_ADJ$ был бы справедливо расстроен, если бы мы согласились. Однако, если мы этого не сделаем, $COUNTRY$ столкнется с большой войной, с которой даже мы, возможно, не сможем справиться.;;;;;;;;;;;;;x,;x
-EVTOPTA96136;Никогда!;Nous refusons!;Wir lehnen ab!;;;;;;;;;;;x,,,,,;x
-EVTOPTB96136;У нас нет выбора, кроме как согласиться.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;x,,,,,;x
-EVTNAME96141;$FROMCOUNTRY$ присоединяется к войне;$FROMCOUNTRY$ Declare la Guerre;$FROMCOUNTRY$ Erklart Krieg;;;;;;;;;;;x,,,,,;x
-EVTDESC96141;Мы получили телеграмму от $FROMCOUNTRY$: они объявили нам войну и будут продолжать войну до тех пор, пока $COUNTRY$ не будет разоружён и не подчинится воле международного сообщества.;;;;;;;;;;;;;x,,,,;x
-EVTOPTA96141;Это мы еще посмотрим.;Je doute de lui.;Ich bezweifele es.;;;;;;;;;;;x,,,,,;x
-EVTNAME96150;$COUNTRY$ торжествует;$COUNTRY$ est Triomphante;$COUNTRY$ ist Triumphierend;;;;;;;;;;;x,,,,,;x
-EVTDESC96150;Мы доказали, что ни одна страна не может встать на пути $COUNTRY$. Мы будем делать то, что нам нравится, и никакие возражения со стороны так называемых великих держав мира не помешают нам достичь нашей судьбы. Сейчас мир, и если другие страны попытаются помешать нам достичь наших будущих целей, они могут попытаться.;;;;;;;;;;;;;x,,;x
-EVTOPTA96150;Отличный!;Excellent!;Ausgezeichnet!;;;;;;;;;;;x,,,,,;x
-EVTNAME96006_NEWS_TITLE;\$COUNTRY\$ близка к полному краху!;;;;;;;;;;;;;x,,,,,;x
+EVTOPTA96000;Мы победим!;Nous serons victorieux!;Wir sind siegreich!;;;;;;;;;;;x;
+EVTNAME96010;Договор $КАПИТАЛ$;Le Traite de $CAPITAL$;Der Vertrag von $CAPITAL$;;;;;;;;;;;x;
+EVTDESC96010;Мы проиграли войну, и победители, словно стервятники, налетели на нас. Нас заставили сесть за стол переговоров, чтобы принять унизительные условия распада нашей империи, при этом многие из наших земель просто отдадут, и нам не позволят иметь никаких заморских владений вообще. Это момент, который будут помнить в $COUNTRY$ долгие годы.;;;;;;;;;;;;;x;
+EVTNAME96004;Требования войны;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;x;
+EVTDESC96004;Постоянное состояние войны, в котором находится $COUNTRY$, сказалось на нашем народе. Нехватка основных товаров и неспособность быстро одержать победу истощили энтузиазм, с которым народ $COUNTRY_ADJ$ изначально приветствовал военные усилия. Если ситуация не изменится в ближайшее время, мы можем столкнуться с растущей усталостью и беспорядками в наших собственных границах.;;;;;;;;;;;;;x;
+EVTOPTA96004;Мы победим в этой войне!;Nous gagnerons la guerre!;Wir gewinnen den Krieg!;;;;;;;;;;;x;
+EVTNAME96005;Неужели все напрасно?;Est-il Tout Pour Rien?;Ist Alles Fur Nichts?;;;;;;;;;;;x;
+EVTDESC96005;Растущие демонстрации в $CAPITAL$ демонстрируют преобладающее отношение людей $COUNTRY_ADJ$: выведите нас из войны, и поскорее. Слишком много людей погибло, слишком много жертв принесено, и все ради чего? Люди хотят вернуться к своей обычной жизни, без постоянного призрака войны, нависающего над их головами.;;;;;;;;;;;;;x;
+EVTOPTA96005;Не теряйте надежды!;Ne perdez pas l'espoir!;Verlieren Sie nicht Hoffnung!;;;;;;;;;;;x;
+EVTNAME96006;Полный крах;Effondrement Total;Gesamteinsturz;;;;;;;;;;;x;
+EVTDESC96006;Военные усилия идут не очень хорошо, мягко говоря. Советники говорят, что $COUNTRY$ должна просить мира, сделать все возможное, чтобы закончить эту войну, прежде чем произойдет что-то еще более ужасное. Люди на грани восстания. Мы должны действовать!;;;;;;;;;;;;;x;
+EVTOPTA96006;Катастрофа!;Desastre!;Unfall!;;;;;;;;;;;x;
+EVTOPTA96010;Мы приветствуем мир;La paix est bienvenue;Frieden ist willkommen;;;;;;;;;;;x;
+EVTNAME96013;Распад $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;x;
+EVTDESC96013;$FROMCOUNTRY$ вынуждена была признать поражение в своей войне, и нас пригласили за стол переговоров, чтобы обсудить возможный распад их империи. Это может означать, что мы увидим возвращение нам земель $COUNTRY_ADJ$, хотя если мы откажемся от своих претензий, это может означать спасение отношений с $FROMCOUNTRY$.;;;;;;;;;;;;;x;
+EVTOPTA96013;Мы будем присутствовать на переговорах;Nous joindrons les entretiens;Wir gehen zu den Gesprachen;;;;;;;;;;;x;
+EVTOPTB96013;Мы не будем присутствовать;Nous n'irons pas;Wir gehen nicht;;;;;;;;;;;x;
+EVTNAME96014;Распад $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;x;
+EVTDESC96014;$FROMCOUNTRY$ вынуждена была признать поражение в своей войне, и теперь начались переговоры о договоре, в ходе которых обсуждался распад их империи. Как враг $FROMCOUNTRY$, наше место за столом гарантировано. По крайней мере, любые земли $COUNTRY_ADJ$, которые в настоящее время находятся во владении $FROMCOUNTRY_ADJ$, должны быть возвращены.;;;;;;;;;;;;;x;
+EVTOPTA96014;Мы просто хотим вернуть наши земли.;Nous voulons nos terres;Wir wunschen unsere Lander;;;;;;;;;;;x;
+EVTNAME96015;$COUNTRY_ADJ$ Свобода;Liberte $COUNTRY_ADJ$;$COUNTRY_ADJ$ Freiheit;;;;;;;;;;;x;
+EVTDESC96015;Поражение $FROMCOUNTRY$ в их войне заставило их сесть за стол переговоров, и одним из условий распада их империи является наше освобождение от их прямого правления. Это означало бы изгнание чиновников $FROMCOUNTRY_ADJ$ и потенциальное превращение их во врага. Мы могли бы поддерживать тесные связи с $FROMCOUNTRY$ даже с нашей свободой, хотя это означало бы отказ от шанса на свободу и добрую волю от врагов $FROMCOUNTRY$.;;;;;;;;;;;;;x;
+EVTOPTA96015;$COUNTRY$ будет свободна;$COUNTRY$ sera libre;$COUNTRY$ ist frei;;;;;;;;;;;x;
+EVTOPTB96015;$FROMCOUNTRY$ — наш союзник;$FROMCOUNTRY$ est notre allie;$FROMCOUNTRY$ ist unser Verbundetes;;;;;;;;;;;x;
+EVTNAME96016;Колонии $FROMCOUNTRY_ADJ$;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;x;
+EVTDESC96016;Одним из вопросов, обсуждаемых на переговорах по договору, является вопрос о том, что делать с колониальными владениями $FROMCOUNTRY$. Им нельзя позволять удерживать эти земли, но определить, как ими распорядиться, — непростая задача. На данный момент достигнуто соглашение, определяющее часть территории, а по всем остальным придется вести переговоры в следующем году.;;;;;;;;;;;;;x;
+EVTOPTA96016;Мы возьмем то, что сможем.;Nous voulons autant que possible;Wir wunschen so viel wie moglich;;;;;;;;;;;x;
+EVTOPTB96016;Наш единственный интерес — ограничение власти $FROMCOUNTRY_ADJ$;Nous voulons seulement;Wir wunschen nur wenig;;;;;;;;;;;x;
+EVTOPTC96016;Нас не интересуют их колонии.;Nous ne voulons pas les colonies;Wir wunschen nicht die Kolonien;;;;;;;;;;;x;
+EVTDESC96017;Одним из вопросов, обсуждавшихся на переговорах по договору, было то, что делать с колониальными владениями $FROMCOUNTRY$. Мы не великая держава, и вполне возможно, что даже если мы попытаемся захватить некоторые из их колоний, то останемся ни с чем... но если мы не попытаемся, то останемся ни с чем наверняка. Даже в этом случае попытка может быть расценена как агрессия.;;;;;;;;;;;;;x;
+EVTNAME96020;Война окончена;La Guerre c'est Finie;Der Krieg ist Fertig;;;;;;;;;;;x;
+EVTDESC96020;С окончанием войны люди $COUNTRY_ADJ$ вышли на улицы $CAPITAL$, чтобы отпраздновать. Ущерб от войны был тяжелым, но сегодня $COUNTRY$ просто счастлива жить в мире.;;;;;;;;;;;;;x;
+EVTOPTA96020;Да здравствует \$COUNTRY\$!;Vive $COUNTRY$!;Lieben lang $COUNTRY$!;;;;;;;;;;;x;
+EVTDESC96022;$FROMCOUNTRY$ был создан из эфира, но власть имущие определили, что по крайней мере часть их земель по праву принадлежит $COUNTRY$ и должна быть возвращена нам. Люди $COUNTRY_ADJ$ обрадовались этой новости.;;;;;;;;;;;;;x;
+EVTNAME96025;Враг моего врага;Ennemi de mon Ennemi;Feind meines Feindes;;;;;;;;;;;x;
+EVTDESC96025;Теперь, когда мы находимся в состоянии тотальной войны, возникла идея, что $COUNTRY$ следует обратиться к врагам $FROMCOUNTRY$, чтобы узнать, есть ли те, кто присоединится к нам против них. Это может означать нечестивый союз с теми, кто в противном случае никогда не будет сражаться на нашей стороне, но, как гласит старая поговорка: «Враг моего врага — мой друг». Если мы хотим выиграть войну против $FROMCOUNTRY$, нам, возможно, придется принять это близко к сердцу.;;;;;;;;;;;;;x;
+EVTOPTA96025;Сделай это;Oui;Ja;;;;;;;;;;;x;
+EVTOPTB96025;Нам не нужны дополнительные союзники.;Nous n'avons pas besoin de plus d'allies;Wir benotigen nicht mehr Verbundete;;;;;;;;;;;x;
+EVTNAME96030;Тень войны;L'ombre de la Guerre;Der Schatten des Krieges;;;;;;;;;;;x;
+EVTDESC96030;Дипломат из $FROMCOUNTRY$ обратился к нам с предложением: союз с ними, чтобы сражаться в войне против их врага... который, конечно, не является нашим другом. Хотя союз не обязательно обязывает нас, на самом деле остается вопрос, хочет ли $COUNTRY$ вообще вступать в войну. Если мы будем сражаться с $FROMCOUNTRY$, у нас есть шанс получить военные трофеи для себя. Это также означает, что мы можем пасть вместе с ними. Выбор за нами.;;;;;;;;;;;;;x;
+EVTOPTA96030;Мы объединимся с $FROMCOUNTRY$;Nous convenons;Wir stimmen zu;;;;;;;;;;;x;
+EVTOPTB96030;Мы отказываемся;Nous refusons;Wir lehnen ab;;;;;;;;;;;x;
+EVTNAME96031;$FROMCOUNTRY$ согласился;$FROMCOUNTRY$ a Convenu;$FROMCOUNTRY$ hat Zugestimmt;;;;;;;;;;;x;
+EVTDESC96031;Мы получили сообщение от $FROMCOUNTRY$, что они согласились на союз. Будут ли они на самом деле придерживаться этого союза и присоединяться к нам в войне, еще предстоит увидеть.;;;;;;;;;;;;;x;
+EVTOPTA96031;Большой;Excellent;Ausgezeichnet;;;;;;;;;;;x;
+EVTNAME96065;Возмущение!;;;;;;;;;;;;;x;
+EVTDESC96065;Дипломатический инцидент с одним из наших врагов возмутил граждан $COUNTRY_ADJ$. Несколько недель назад посланник, назначенный в $CAPITAL$, был обвинен в краже государственных секретов. Оказалось, что правда была намного хуже, и расследование раскрыло заговор с целью дестабилизировать $COUNTRY$ и оставить ее незащищенной для вторжения. Это стало известно общественности, и теперь толпы в столице призывают к тотальной войне.;;;;;;;;;;;;;x;
+EVTOPTA96065;Мы должны защищать интересы $COUNTRY_ADJ$ любой ценой.;;;;;;;;;;;;;x;
+EVTOPTB96065;Мы не можем позволить себе такую войну.;;;;;;;;;;;;;x;
+EVTNAME96066;Убийство!;;;;;;;;;;;;;x;
+EVTDESC96066;Убийство видного гражданина $COUNTRY_ADJ$ диссидентом, после тщательного расследования, оказалось подстрекательством вражеской державы. Это лишь последний из серии инцидентов, направленных на дестабилизацию $COUNTRY$. Результаты расследования стали известны общественности, и огромные толпы, собравшиеся на улицах $CAPITAL$, теперь призывают к тотальной войне.;;;;;;;;;;;;;x;
+EVTNAME96070;Колонии $COUNTRY_ADJ$;Les Colonies $COUNTRY_ADJ$;Das $COUNTRY_ADJ$ Kolonien;;;;;;;;;;;x;
+EVTDESC96070;Согласно мирному договору, наши колонии и заморские территории должны быть сданы. В настоящее время ведутся переговоры о том, каким странам они будут «приписаны». Похоже, наше унижение еще не завершено.;;;;;;;;;;;;;x;
+EVTOPTA96070;Пришло время разделить нашу империю.;Nous n'avons aucun choix.;Wir haben keine Wahl.;;;;;;;;;;;x;
+EVTNAME96071;Передача колоний $FROMCOUNTRY_ADJ$;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;x;
+EVTDESC96071;Переговоры о том, какие страны получат контроль над оставшимися $FROMCOUNTRY_ADJ$ колониями и заморскими территориями, все еще продолжаются.;;;;;;;;;;;;;x;
+EVTOPTA96071;Мы примем контроль над колонией.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;x;
+EVTOPTB96071;Мы не хотим больше никаких колоний.;Nous refusons.;Wir lehnen ab.;;;;;;;;;;;x;
+EVTDESC96081;Нам предложили изолированную территорию $FROMCOUNTRY_ADJ$. Мы должны подумать, хотим ли мы ею управлять, поскольку доступ к ней может быть затруднен в соответствии с текущими границами. Но, с другой стороны, действительно ли мы хотим, чтобы $FROMCOUNTRY$ ее сохранила?;;;;;;;;;;;;;x;
+EVTNAME96085;Новое правительство $COUNTRY_ADJ$;Le Nouveau Gouvernement $COUNTRY_ADJ$;Die Neue $COUNTRY_ADJ$ Regierung;;;;;;;;;;;x;
+EVTDESC96085;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное демократическое правительство, дружественное их нации. Как долго просуществует это правительство, неизвестно, но многие в $COUNTRY$ задаются вопросом, является ли «свобода», навязанная иностранной державой, действительно таковой.;;;;;;;;;;;;;x;
+EVTOPTA96085;Мы приветствуем новый режим.;Nous faisons bon accueil au nouveau regime.;Wir begrussen das neue Regime.;;;;;;;;;;;x;
+EVTDESC96086;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное фашистское правительство, дружественное их нации. Как долго это правительство просуществует, неизвестно, но многие в $COUNTRY$, похоже, уже полны решимости свергнуть его во имя свободы.;;;;;;;;;;;;;x;
+EVTDESC96087;Когда армии нашего бывшего врага покидают $CAPITAL$, они оставляют после себя недавно установленное коммунистическое правительство, дружественное их нации. Как долго это правительство просуществует, неизвестно, но многие в $COUNTRY$, похоже, уже полны решимости свергнуть его во имя свободы.;;;;;;;;;;;;;x;
+EVTNAME96090;Конец монархии $COUNTRY_ADJ$;;;;;;;;;;;;;x;
+EVTDESC96090;С потерей $COUNTRY$ в недавней войне, монархия $COUNTRY_ADJ$ получила большую часть вины -- уже было несколько покушений и призывов в правительстве к отставке монархии. Общественные настроения перешли к идее превращения $COUNTRY$ в демократию... хотя некоторые опасаются, что это погрузит страну в еще больший хаос.;;;;;;;;;;;;;x;
+EVTNAME96130;Цена позора;Le Prix de l'Infamie;Der Preis der Niedertracht;;;;;;;;;;;x;
+EVTDESC96130;В международном сообществе ропщут о воинственном поведении $COUNTRY$, и некоторые говорят о необходимости единого фронта для сдерживания агрессии $COUNTRY_ADJ$. Предпринимаются даже попытки настроить против нас наших собственных граждан. В будущем нам придется быть осторожными, чтобы не столкнуться ни с одним врагом, а с врагом великих мировых держав, объединившихся против нас.;;;;;;;;;;;;;x;
+EVTOPTA96130;Просто дайте им попробовать!;Laissez-les Venir!;Lassen Sie Kommen!;;;;;;;;;;;x;
+EVTNAME96131;Ослабление напряженности;Un Amoindrissement des Tensions;Eine Verminderung von Spannungen;;;;;;;;;;;x;
+EVTDESC96131;Великие державы мира заметили усилия $COUNTRY$ изменить наши агрессивные методы. Некоторые предпринимают попытки улучшить отношения, и их дипломаты выражают надежду, что $COUNTRY$ продолжит вести дела с другими странами цивилизованным образом.;;;;;;;;;;;;;x;
+EVTOPTA96131;Спасибо за вотум доверия.;Merci pour le vote de confiance.;Dank fur die Vertrauensabstimmung.;;;;;;;;;;;x;
+EVTNAME96136;Ультиматум $FROMCOUNTRY_ADJ$;$FROMCOUNTRY_ADJ$ Ultimatum;Das $FROMCOUNTRY_ADJ$ Ultimatum;;;;;;;;;;;x;
+EVTDESC96136;Дипломаты $FROMCOUNTRY_ADJ$ обратились к нашей стране с ультиматумом: немедленно распустить $COUNTRY$, или великие державы мира будут вынуждены объединиться против нас. Их требования состоят в следующем:\n\n1. Возврат всех незаконно удерживаемых территорий, полученных путем завоевания.\n2. Освобождение всех претендентов, находящихся в настоящее время на наших землях.\n3. Передача всех колоний и заморских территорий другим великим державам.\n4. Соглашение $COUNTRY$ не объявлять войну никакой другой стране в течение не менее десяти лет.\n\nСамо собой разумеется, что эти требования крайне унизительны, и народ $COUNTRY_ADJ$ был бы справедливо расстроен, если бы мы согласились. Однако, если мы этого не сделаем, $COUNTRY$ столкнется с большой войной, с которой даже мы, возможно, не сможем справиться.;;;;;;;;;;;;;x;
+EVTOPTA96136;Никогда!;Nous refusons!;Wir lehnen ab!;;;;;;;;;;;x;
+EVTOPTB96136;У нас нет выбора, кроме как согласиться.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;x;
+EVTNAME96141;$FROMCOUNTRY$ присоединяется к войне;$FROMCOUNTRY$ Declare la Guerre;$FROMCOUNTRY$ Erklart Krieg;;;;;;;;;;;x;
+EVTDESC96141;Мы получили телеграмму от $FROMCOUNTRY$: они объявили нам войну и будут продолжать войну до тех пор, пока $COUNTRY$ не будет разоружён и не подчинится воле международного сообщества.;;;;;;;;;;;;;x;
+EVTOPTA96141;Это мы еще посмотрим.;Je doute de lui.;Ich bezweifele es.;;;;;;;;;;;x;
+EVTNAME96150;$COUNTRY$ торжествует;$COUNTRY$ est Triomphante;$COUNTRY$ ist Triumphierend;;;;;;;;;;;x;
+EVTDESC96150;Мы доказали, что ни одна страна не может встать на пути $COUNTRY$. Мы будем делать то, что нам нравится, и никакие возражения со стороны так называемых великих держав мира не помешают нам достичь нашей судьбы. Сейчас мир, и если другие страны попытаются помешать нам достичь наших будущих целей, они могут попытаться.;;;;;;;;;;;;;x;
+EVTOPTA96150;Отличный!;Excellent!;Ausgezeichnet!;;;;;;;;;;;x;
+EVTNAME96006_NEWS_TITLE;\$COUNTRY\$ близка к полному краху!;;;;;;;;;;;;;x;
 EVTDESC96006_NEWS_LONG;Отчеты из $COUNTRY$ показывают, что их усилия в Великой войне идут не очень хорошо, если не сказать больше. Большая часть страны оккупирована противником, и население даже в свободных районах сильно страдает от огромной нехватки. Советники правительства $COUNTRY_ADJ$ призывают своих лидеров просить мира — сделать все возможное, чтобы положить конец этой войне, и положить конец ей сейчас. «Это черный день для $COUNTRY$», — сказал один чиновник. «Мы вышли за рамки чрезвычайного положения. Ситуация для нас просто безнадежна. Если наши союзники не придут нам на помощь в ближайшее время, мы погибнем».;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-EVTDESC96006_NEWS_MEDIUM;Отчеты из $COUNTRY$ указывают на то, что их усилия в Великой войне идут не очень хорошо, мягко говоря. Советники правительства $COUNTRY_ADJ$ призывают своих лидеров просить о мире — сделать все возможное, чтобы положить конец этой войне, и положить ей конец сейчас.;;;;;;;;;;;;;x,,,;x
-EVTDESC96006_NEWS_SHORT;Отчеты из $COUNTRY$ показывают, что их усилия в Великой войне идут не очень хорошо. Советники правительства $COUNTRY_ADJ$ призывают своих лидеров просить о мире.;;;;;;;;;;;;;x,,,,,;x
-EVTDESC96010_NEWS_LONG;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$ с заявлением о достижении соглашения с правительством $COUNTRY_ADJ$. «$COUNTRY$ будет распущена», — передал один чиновник. «Их грехи будут прощены, но взамен они откажутся от всех своих колониальных владений, освободят все суверенные государства в пределах своих границ и вернут любые иностранные земли, находящиеся под оккупацией $COUNTRY_ADJ$. Мы стремимся к тому, чтобы $COUNTRY$ никоим образом не смогла снова угрожать миру во всем мире».;;;;;;;;;;;;;x,;x
-EVTDESC96010_NEWS_MEDIUM;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$, объявив, что наконец-то достигнуто соглашение с правительством $COUNTRY_ADJ$, что привело к роспуску $COUNTRY$ и всех ее владений.;;;;;;;;;;;;;x,,,;x
-EVTDESC96010_NEWS_SHORT;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$ с заявлением о том, что с правительством $COUNTRY_ADJ$ наконец-то достигнут мирный договор.;;;;;;;;;;;;;x,,,,;x
-EVTNAME96085_NEWS_TITLE;$COUNTRY_ADJ$ Демократия;;;;;;;;;;;;;x,,,,,;x
-EVTDESC96085_NEWS_LONG;Поскольку в $COUNTRY$ уже идут выборы, стало ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь, по крайней мере, на время. Хотя не все в $COUNTRY$ в восторге от идеи навязывания им свободы вражеской страной, многие, тем не менее, в восторге. «Мне все равно, если демократия в $COUNTRY_ADJ$ наступит только потому, что $FROMCOUNTRY$ скажет нам это сделать», — восторженно заявил один гражданин. «Главное, что теперь я могу голосовать».;;;;;;;;;;;;;x,,;x
-EVTDESC96085_NEWS_MEDIUM;С учетом того, что в $COUNTRY$ уже идут выборы, стало ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь надолго — по крайней мере, на данный момент. Хотя не все в $COUNTRY$ в восторге от идеи навязывания им свободы, многие, тем не менее, в восторге.;;;;;;;;;;;;;x,,,;x
-EVTDESC96085_NEWS_SHORT;Пока в $COUNTRY$ уже идут выборы, становится ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь - по крайней мере на время.;;;;;;;;;;;;;x,,,,,";x
-EVTNAME96086_NEWS_TITLE;$COUNTRY_ADJ$ Фашизм;;;;;;;;;;;;;x,,,,,;x
+EVTDESC96006_NEWS_MEDIUM;Отчеты из $COUNTRY$ указывают на то, что их усилия в Великой войне идут не очень хорошо, мягко говоря. Советники правительства $COUNTRY_ADJ$ призывают своих лидеров просить о мире — сделать все возможное, чтобы положить конец этой войне, и положить ей конец сейчас.;;;;;;;;;;;;;x;
+EVTDESC96006_NEWS_SHORT;Отчеты из $COUNTRY$ показывают, что их усилия в Великой войне идут не очень хорошо. Советники правительства $COUNTRY_ADJ$ призывают своих лидеров просить о мире.;;;;;;;;;;;;;x;
+EVTDESC96010_NEWS_LONG;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$ с заявлением о достижении соглашения с правительством $COUNTRY_ADJ$. «$COUNTRY$ будет распущена», — передал один чиновник. «Их грехи будут прощены, но взамен они откажутся от всех своих колониальных владений, освободят все суверенные государства в пределах своих границ и вернут любые иностранные земли, находящиеся под оккупацией $COUNTRY_ADJ$. Мы стремимся к тому, чтобы $COUNTRY$ никоим образом не смогла снова угрожать миру во всем мире».;;;;;;;;;;;;;x;
+EVTDESC96010_NEWS_MEDIUM;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$, объявив, что наконец-то достигнуто соглашение с правительством $COUNTRY_ADJ$, что привело к роспуску $COUNTRY$ и всех ее владений.;;;;;;;;;;;;;x;
+EVTDESC96010_NEWS_SHORT;После долгих размышлений после окончания недавней войны делегаты покинули $CAPITAL$ с заявлением о том, что с правительством $COUNTRY_ADJ$ наконец-то достигнут мирный договор.;;;;;;;;;;;;;x;
+EVTNAME96085_NEWS_TITLE;$COUNTRY_ADJ$ Демократия;;;;;;;;;;;;;x;
+EVTDESC96085_NEWS_LONG;Поскольку в $COUNTRY$ уже идут выборы, стало ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь, по крайней мере, на время. Хотя не все в $COUNTRY$ в восторге от идеи навязывания им свободы вражеской страной, многие, тем не менее, в восторге. «Мне все равно, если демократия в $COUNTRY_ADJ$ наступит только потому, что $FROMCOUNTRY$ скажет нам это сделать», — восторженно заявил один гражданин. «Главное, что теперь я могу голосовать».;;;;;;;;;;;;;x;
+EVTDESC96085_NEWS_MEDIUM;С учетом того, что в $COUNTRY$ уже идут выборы, стало ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь надолго — по крайней мере, на данный момент. Хотя не все в $COUNTRY$ в восторге от идеи навязывания им свободы, многие, тем не менее, в восторге.;;;;;;;;;;;;;x;
+EVTDESC96085_NEWS_SHORT;Пока в $COUNTRY$ уже идут выборы, становится ясно, что поддерживаемое $FROMCOUNTRY$ демократическое правительство останется здесь - по крайней мере на время.;;;;;;;;;;;;;x;
+EVTNAME96086_NEWS_TITLE;$COUNTRY_ADJ$ Фашизм;;;;;;;;;;;;;x;
 EVTDESC96086_NEWS_LONG;С новым правительством, поддерживаемым $FROMCOUNTRY_ADJ$, уже собирающимся в $CAPITAL$, становится ясно, что фашизм в $COUNTRY$ останется — по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, покинули $COUNTRY$, но их присутствие все еще ощущается повсюду. Уже предпринимаются усилия по подавлению любого сопротивления со стороны граждан $COUNTRY_ADJ$, и флаги $FROMCOUNTRY_ADJ$ висят в каждом окне рядом с флагами $COUNTRY_ADJ$. «Они наши союзники», — сказал один человек. «Почему бы нам не почтить то, что они сделали для нас?»;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-EVTDESC96086_NEWS_MEDIUM;С новым правительством, поддерживаемым $FROMCOUNTRY_ADJ$, уже собирающимся в $CAPITAL$, становится ясно, что фашизм в $COUNTRY$ останется, по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, и покинули $COUNTRY$, но их присутствие все еще ощущается повсюду.;;;;;;;;;;;;;x,,;x
-EVTDESC96086_NEWS_SHORT;С учетом того, что новое правительство, поддерживаемое $FROMCOUNTRY_ADJ$, уже формируется в $CAPITAL$, становится ясно, что фашизм в $COUNTRY$ останется, по крайней мере, на данный момент.;;;;;;;;;;;;;x,,,;x
-EVTNAME96087_NEWS_TITLE;$COUNTRY_ADJ$ Коммунизм;;;;;;;;;;;;;x,,,,,;x
+EVTDESC96086_NEWS_MEDIUM;С новым правительством, поддерживаемым $FROMCOUNTRY_ADJ$, уже собирающимся в $CAPITAL$, становится ясно, что фашизм в $COUNTRY$ останется, по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, и покинули $COUNTRY$, но их присутствие все еще ощущается повсюду.;;;;;;;;;;;;;x;
+EVTDESC96086_NEWS_SHORT;С учетом того, что новое правительство, поддерживаемое $FROMCOUNTRY_ADJ$, уже формируется в $CAPITAL$, становится ясно, что фашизм в $COUNTRY$ останется, по крайней мере, на данный момент.;;;;;;;;;;;;;x;
+EVTNAME96087_NEWS_TITLE;$COUNTRY_ADJ$ Коммунизм;;;;;;;;;;;;;x;
 EVTDESC96087_NEWS_LONG;С новым, поддерживаемым $FROMCOUNTRY_ADJ$ политбюро, уже собирающимся в $CAPITAL$, становится ясно, что коммунизм в $COUNTRY$ останется — по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, покинули $COUNTRY$, но их присутствие все еще ощущается повсюду. Уже предпринимаются усилия по подавлению любого сопротивления со стороны граждан $COUNTRY_ADJ$, и флаги $FROMCOUNTRY_ADJ$ висят в каждом окне рядом с флагами $COUNTRY_ADJ$. «Они наши союзники», — сказал один человек. «Почему бы нам не почтить то, что они сделали для нас?»;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-EVTDESC96087_NEWS_MEDIUM;С новым, поддерживаемым $FROMCOUNTRY_ADJ$ политбюро, уже собирающимся в $CAPITAL$, становится ясно, что коммунизм в $COUNTRY$ останется — по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, и покинули $COUNTRY$, но их присутствие все еще ощущается повсюду.;;;;;;;;;;;;;x,,;x
-EVTDESC96087_NEWS_SHORT;С учетом того, что новое политбюро, поддерживаемое $FROMCOUNTRY_ADJ$, уже собирается в $CAPITAL$, становится ясно, что коммунизм в $COUNTRY$ останется, по крайней мере, на данный момент.;;;;;;;;;;;;;x,,,;x
+EVTDESC96087_NEWS_MEDIUM;С новым, поддерживаемым $FROMCOUNTRY_ADJ$ политбюро, уже собирающимся в $CAPITAL$, становится ясно, что коммунизм в $COUNTRY$ останется — по крайней мере, на данный момент. Солдаты $FROMCOUNTRY_ADJ$, возможно, и покинули $COUNTRY$, но их присутствие все еще ощущается повсюду.;;;;;;;;;;;;;x;
+EVTDESC96087_NEWS_SHORT;С учетом того, что новое политбюро, поддерживаемое $FROMCOUNTRY_ADJ$, уже собирается в $CAPITAL$, становится ясно, что коммунизм в $COUNTRY$ останется, по крайней мере, на данный момент.;;;;;;;;;;;;;x;

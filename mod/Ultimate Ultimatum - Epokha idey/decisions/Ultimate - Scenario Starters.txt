@@ -836,7 +836,7 @@ WW2scenariostarter = {
 
 		USA = {
 		nuclear_weapons = 2000
-		country_event = 500000 }
+		} # Linked event 500000 is absent from this build.
 
 			#Chernobyl
 			959 = {

@@ -34,4 +34,4 @@ pensions = no_pensions
 health_care = no_health_care
 school_reforms = no_schools
 
-1776.1.1 = { government = theocracy }
+# Keep the defined absolute_monarchy government; legacy theocracy is undefined.

@@ -98,99 +98,99 @@ navy = {
 	}
 		ship = {
 		name= "IJN Shokaku" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Rontor" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Imperius" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Lertide" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Shoeshone" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Kilthra" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Siam" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Pacific" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Nevus" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Shamefur" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Display" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Opium" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Hirohito" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Maximite" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Showjo" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Doctus" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Miritar" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Ninjare" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Shogun" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Emperor" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Boxi" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Invincible" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Ikugara Ashwa" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "IJN Tinshae" 
-		type = destroyer
+		type = cruiser
 	}
 		ship = {
 		name= "Torpedo Craft" 

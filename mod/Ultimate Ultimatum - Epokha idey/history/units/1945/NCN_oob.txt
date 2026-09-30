@@ -245,7 +245,7 @@ navy = {
 	location = 1485
 	ship = {
 		name= "Ship 1"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Ship 1"

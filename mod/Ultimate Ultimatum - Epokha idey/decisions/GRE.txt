@@ -67,7 +67,7 @@ political_decisions = {
 		}
 	}
 	
-	form_byzantine_empire = {
+	uu_restore_byzantine_empire_full = {
 		potential = {
 			tag = GRE
 			OR = {
@@ -75,6 +75,7 @@ political_decisions = {
 				government = prussian_constitutionalism
 				government = hms_government
 			}
+			NOT = { exists = BYZ }
 			is_greater_power = yes			
 		}
 		

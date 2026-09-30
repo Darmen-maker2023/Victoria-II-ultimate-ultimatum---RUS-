@@ -1,45 +1,45 @@
-MIL_FROM_TROOPS;Солдаты и армия;Soldats et Armee;Soldaten & Armee;;;;;;;;x;;;
-MIL_FROM_CAP_SHIPS;Крупные корабли;Navires;Grosskampfschiff;;;;;;;;x;;;
-MIL_FROM_LEADERS;Лидеры;Dirigeants;Anfuhrer;;;;;;;;x;;;
-OCCUPATION_SCORE; Занятие:;Occupation : ;Besetzung:;;;;;;;;x;;;
-BLOCKADE_SCORE; Блокада:;Blocus : ;Blockade:;;;;;;;;x;;;
-OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Заняты в мастерских (§Y$PERC$§!%);§Y$COUNT$§ Employes en usines (§Y$PERC$§! %);§Y$COUNT$§! in (§Y$PERC$§!%) Fabriken eingestellt;;;;;;;;x;;;
-TRADE_SUPPLY_NEED_A;$VAL$ для ежедневного снабжения армии.\n;$VAL$ a fournir a l'armee chaque jour.\n;$VAL$ zur taglichen Versorgung der Armee.\n;;;;;;;;x;;;
-TRADE_SUPPLY_NEED_N;$VAL$ для ежедневного снабжения флота.\n;$VAL$ a fournir a la marine chaque jour.\n;$VAL$ zur taglichen Versorgung der Marine.\n;;;;;;;;x;;;
-DIPLOMACY_CANNOT_SET_PRIO_WAR;Мы не можем влиять на эту страну, пока ведем с ней войну.;Nous ne pouvons pas influencer cette nation tant que nous sommes en guerre contre elle.;Wir konnen diese Nation nicht beeinflussen, wahrend wir einen Krieg gegen sie fuhren.;;;;;;;;x;;;
-DIPLOMACY_INFLUENCE_NOT_WORTH;Мы уже влияем на эту страну по максимуму, и нет никакой другой страны, которая бы на нее влияла. Очки пока не тратятся.;Nous influencons deja ce pays au maximum et aucun autre pays ne l'influence. Aucun point n'est depense pour le moment.;Wir haben den Einfluss auf dieses Land bereits maximiert und kein anderes Land beeinflusst es. Es wurden keine Punkte ausgegeben.;;;;;;;;x;;;
-COLONY_ABORT_HEADER;Когда наша колонизация будет прервана.;Lorsque notre colonisation a ete abandonnee;Sobald unsere Kolonisierung abgebrochen wurde.;;;;;;;;x;;;
-COLONY_ABORT_1;Колонизация отменена!;Abandon de la colonisation !;Kolonisierung Abgebrochen!;;;;;;;;x;;;
-COLONY_ABORT_2;$MONARCHTITLE$, наша колония в;$MONARCHTITLE$, notre colonie en;$MONARCHTITLE$, unsere Kolonie in;;;;;;;;x;;;
-COLONY_ABORT_3;§Y$TARGET$§б.;§Y$TARGET$§b.;§Y$TARGET$§b.;;;;;;;;x;;;
-COLONY_ABORT_4;был прерван!;a ete abandonnee !;wurde vorzeitig abgebrochen!;;;;;;;;x;;;
-COLONY_ABORT_5;Мы больше не можем колонизировать этот регион.;Nous ne pouvons plus coloniser cette region.;Wir konnen diese Region nicht langer kolonisieren.;;;;;;;;x;;;
+MIL_FROM_TROOPS;Солдаты и армия;Soldats et Armee;Soldaten & Armee;;;;;;;;;;;x;
+MIL_FROM_CAP_SHIPS;Крупные корабли;Navires;Grosskampfschiff;;;;;;;;;;;x;
+MIL_FROM_LEADERS;Лидеры;Dirigeants;Anfuhrer;;;;;;;;;;;x;
+OCCUPATION_SCORE; Занятие:;Occupation : ;Besetzung:;;;;;;;;;;;x;
+BLOCKADE_SCORE; Блокада:;Blocus : ;Blockade:;;;;;;;;;;;x;
+OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Заняты в мастерских (§Y$PERC$§!%);§Y$COUNT$§ Employes en usines (§Y$PERC$§! %);§Y$COUNT$§! in (§Y$PERC$§!%) Fabriken eingestellt;;;;;;;;;;;x;
+TRADE_SUPPLY_NEED_A;$VAL$ для ежедневного снабжения армии.\n;$VAL$ a fournir a l'armee chaque jour.\n;$VAL$ zur taglichen Versorgung der Armee.\n;;;;;;;;;;;x;
+TRADE_SUPPLY_NEED_N;$VAL$ для ежедневного снабжения флота.\n;$VAL$ a fournir a la marine chaque jour.\n;$VAL$ zur taglichen Versorgung der Marine.\n;;;;;;;;;;;x;
+DIPLOMACY_CANNOT_SET_PRIO_WAR;Мы не можем влиять на эту страну, пока ведем с ней войну.;Nous ne pouvons pas influencer cette nation tant que nous sommes en guerre contre elle.;Wir konnen diese Nation nicht beeinflussen, wahrend wir einen Krieg gegen sie fuhren.;;;;;;;;;;;x;
+DIPLOMACY_INFLUENCE_NOT_WORTH;Мы уже влияем на эту страну по максимуму, и нет никакой другой страны, которая бы на нее влияла. Очки пока не тратятся.;Nous influencons deja ce pays au maximum et aucun autre pays ne l'influence. Aucun point n'est depense pour le moment.;Wir haben den Einfluss auf dieses Land bereits maximiert und kein anderes Land beeinflusst es. Es wurden keine Punkte ausgegeben.;;;;;;;;;;;x;
+COLONY_ABORT_HEADER;Когда наша колонизация будет прервана.;Lorsque notre colonisation a ete abandonnee;Sobald unsere Kolonisierung abgebrochen wurde.;;;;;;;;;;;x;
+COLONY_ABORT_1;Колонизация отменена!;Abandon de la colonisation !;Kolonisierung Abgebrochen!;;;;;;;;;;;x;
+COLONY_ABORT_2;$MONARCHTITLE$, наша колония в;$MONARCHTITLE$, notre colonie en;$MONARCHTITLE$, unsere Kolonie in;;;;;;;;;;;x;
+COLONY_ABORT_3;§Y$TARGET$§б.;§Y$TARGET$§b.;§Y$TARGET$§b.;;;;;;;;;;;x;
+COLONY_ABORT_4;был прерван!;a ete abandonnee !;wurde vorzeitig abgebrochen!;;;;;;;;;;;x;
+COLONY_ABORT_5;Мы больше не можем колонизировать этот регион.;Nous ne pouvons plus coloniser cette region.;Wir konnen diese Region nicht langer kolonisieren.;;;;;;;;;;;x;
 COLONY_ABORT_6;*;*;*;*;*;*;*;;;;;;;x
 COLONY_ABORT_BTN1;ХОРОШО;D'accord;OK;*;Aceptar;*;*;;;;;;;x
 COLONY_ABORT_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
 COLONY_ABORT_BTN3;Перейти к;Voir;Gehe zu;;Ir alli;;;;;;;;;x
-COLONY_ABORT_MAP;Колония отменена!;Colonie abandonnee !;Kolonie abgebrochen!;;;;;;;;x;;;
-COLONY_ABORT_SETUP;Когда колонизация прерывается.;Quand la colonisation est abandonnee.;Wenn die Kolonisierung abgebrochen wird.;;;;;;;;x;;;
-COLONY_ABORT_LOG;Колонизация $TARGET$ была прервана.;la colonisation de $TARGET$ a ete abandonnee.;Kolonisierung von $TARGET$ wurde abgebrochen.;;;;;;;;x;;;
-DIPRELCH_VALID_CB;Действительный Casus Belli;Casus Belli valide;Gultiger Kriegsgrund;;;;;;;;x;;;
-BRIGADES_COMPARE_GREATER;Коэффициент сравнения бригад двух стран составляет не менее §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est d'au moins §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt mindestens §Y$VAL$§!;;;;;;;;x;;;
-BRIGADES_COMPARE_SMALLER;Коэффициент сравнения бригад двух стран меньше §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est inferieur a §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt weniger als §Y$VAL$§!;;;;;;;;x;;;
-CONFIRM_CREATE_STATE_DESC2;(Все локальные эффекты будут удалены.);(Tous les effets locaux seront supprimes.);(Alle lokalen Effekte werden entfernt.);;;;;;;;x;;;
+COLONY_ABORT_MAP;Колония отменена!;Colonie abandonnee !;Kolonie abgebrochen!;;;;;;;;;;;x;
+COLONY_ABORT_SETUP;Когда колонизация прерывается.;Quand la colonisation est abandonnee.;Wenn die Kolonisierung abgebrochen wird.;;;;;;;;;;;x;
+COLONY_ABORT_LOG;Колонизация $TARGET$ была прервана.;la colonisation de $TARGET$ a ete abandonnee.;Kolonisierung von $TARGET$ wurde abgebrochen.;;;;;;;;;;;x;
+DIPRELCH_VALID_CB;Действительный Casus Belli;Casus Belli valide;Gultiger Kriegsgrund;;;;;;;;;;;x;
+BRIGADES_COMPARE_GREATER;Коэффициент сравнения бригад двух стран составляет не менее §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est d'au moins §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt mindestens §Y$VAL$§!;;;;;;;;;;;x;
+BRIGADES_COMPARE_SMALLER;Коэффициент сравнения бригад двух стран меньше §Y$VAL$§!;Le facteur de comparaison des brigades des deux pays est inferieur a §Y$VAL$§ !;Der Vergleichswert der Brigaden zweier Lander betragt weniger als §Y$VAL$§!;;;;;;;;;;;x;
+CONFIRM_CREATE_STATE_DESC2;(Все локальные эффекты будут удалены.);(Tous les effets locaux seront supprimes.);(Alle lokalen Effekte werden entfernt.);;;;;;;;;;;x;
 UNIT_ENABLE_REBEL_HUNT;Охота на мятежников;Chasse aux rebelles;Jagt Rebellen;Cazar rebeldes;;;;;;;;;;x
 UNIT_DISABLE_REBEL_HUNT;(охота на мятежников);(chasse des rebelles);(Rebellen jagen);(cazando rebeldes);;;;;;;;;;x
 UNIT_REBEL_HUNT_WILL_HUNT;§Армия готова к охоте на повстанцев.§!;§GL'armee est prete pour la chasse aux rebelles.§!;§GDie Armee ist bereit, Rebellen zu jagen.§!;;;;;;;;;;;x
 UNIT_REBEL_HUNT_IS_BUSY;§RArmy в настоящее время занята и не будет охотиться на повстанцев прямо сейчас.§!;§RL'armee est occupee et ne pourra pas chasser les rebelles tout de suite.§!;§RDie Armee ist derzeit beschaftigt und wird momentan keine Rebellen jagen.§!;;;;;;;;;;;x
 UNIT_REBEL_HUNT_LOW_MORALE;§У армии слишком низкий моральный дух, и они не будут сейчас охотиться на повстанцев.§!;§RL'armee a un moral trop faible et ne peut pas chasser les rebelles maintenant.§!;§RDie Moral der Armee ist zu gering und sie wird momentan keine Rebellen jagen.§!;;;;;;;;;;;x
 UNIT_REBEL_HUNT_NO_VALID;§RОбнаружены вражеские мятежники, но наша армия не будет атаковать их, потому что они слишком сильны для нас или не смогли найти безопасный путь, чтобы добраться туда.§!;§RDes rebelles ont ete detectes mais notre armee ne les attaquera pas parce qu'ils sont trop fort pour nous ou qu'on ne peut pas trouver un passage sur pour aller vers eux.§!;§RFeindliche Rebellen wurden aufgespurt, aber unsere Armee weigert sich, sie anzugreifen, da sie viel zu stark fur uns sind oder unsere Truppen keinen sicheren Weg zu ihnen finden konnten.§!;;;;;;;;;;;x
-NOT_RELEASE_AT_WAR;§R(Невозможно освободить нации, находящиеся в состоянии войны.)§W;§R(Il n'est pas possible de liberer des nations en temps de guerre.)§W;§R(Es ist nicht moglich, wahrend eines Krieges Nationen zu entlassen.)§W;;;;;;;;x;;;
+NOT_RELEASE_AT_WAR;§R(Невозможно освободить нации, находящиеся в состоянии войны.)§W;§R(Il n'est pas possible de liberer des nations en temps de guerre.)§W;§R(Es ist nicht moglich, wahrend eines Krieges Nationen zu entlassen.)§W;;;;;;;;;;;x;
 COLONY_SUCCESS_5;§Y$PRESTIGE$§! престиж приобретен.;§Y$PRESTIGE$§! de prestige gagne.;§Y$PRESTIGE$§! Prestige gewonnen.;;;;;;;;;;;x
 COLONY_SUCCESS_6;(Базовое значение §Y$BASE$§! x §Y$PROV$§! провинций.);(Valeur de base §Y$BASE$§! x §Y$PROV$§! provinces.);(Grundwert §Y$BASE$§! x §Y$PROV$§! Provinzen.);;;;;;;;;;;x
 COUNTRY_PUPPETS_LIST; Вассалы:;Satellites : ;Marionetten:;;;;;;;;;;;x
-POLL_ESTIMATED_ELECTION;На выборах мы оцениваем следующий результат.;En cas d'election, nous nous attendons au resultat suivant.;In einer Wahl erwarten wir die folgenden Ergebnisse.;;;;;;;;x;;;
-MODIFIER_MOVEMENT_COST;Стоимость перемещения войск;Cout du mouvement de troupe;Kosten der Truppenbewegung;;;;;;;;x;;;
-SPEED_IMPACT_ON_CB;Скорость генерации изменяется на §Y$VAL$§W.;La vitesse de generation change de §Y$VAL$§W.;Die Geschwindigkeit der Generationen hat sich um §Y$VAL$§W geandert.;;;;;;;;x;;;
-TERR_COMB_WIDTH_DEC;Ширина боя на этой местности уменьшена на §Y$VAL$§W%.;L'ampleur du combat est reduite de §Y$VAL$§W % sur ce terrain.;Die Angriffsweite fur dieses Terrain ist um §Y$VAL$§W% reduziert.;;;;;;;;x;;;
-MODIFIER_BOOST_STRONGEST_PARTY;Сила сильнейшего состояния;Force du plus fort parti;Starke der starksten Partei;;;;;;;;x;;;
+POLL_ESTIMATED_ELECTION;На выборах мы оцениваем следующий результат.;En cas d'election, nous nous attendons au resultat suivant.;In einer Wahl erwarten wir die folgenden Ergebnisse.;;;;;;;;;;;x;
+MODIFIER_MOVEMENT_COST;Стоимость перемещения войск;Cout du mouvement de troupe;Kosten der Truppenbewegung;;;;;;;;;;;x;
+SPEED_IMPACT_ON_CB;Скорость генерации изменяется на §Y$VAL$§W.;La vitesse de generation change de §Y$VAL$§W.;Die Geschwindigkeit der Generationen hat sich um §Y$VAL$§W geandert.;;;;;;;;;;;x;
+TERR_COMB_WIDTH_DEC;Ширина боя на этой местности уменьшена на §Y$VAL$§W%.;L'ampleur du combat est reduite de §Y$VAL$§W % sur ce terrain.;Die Angriffsweite fur dieses Terrain ist um §Y$VAL$§W% reduziert.;;;;;;;;;;;x;
+MODIFIER_BOOST_STRONGEST_PARTY;Сила сильнейшего состояния;Force du plus fort parti;Starke der starksten Partei;;;;;;;;;;;x;
 PEACEDEMANDDESC;$COUNTRY$ требует мира на следующих условиях:;$COUNTRY$ demande la paix selon les termes suivants :;$COUNTRY$ verlangt Frieden unter den folgenden Bedingungen:;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_SETUP;Когда наш процесс оправдания войны больше недействителен.;Quand notre justification de guerre n'est plus valide.;Sobald unser Prozess der Kriegsrechtfertigung nicht langer gultig ist.;;;;;;;;;;;x
 CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x
@@ -80,13 +80,13 @@ RIGHT_CLICK_TO_REMOVE_NF;§YЩелкните правой кнопкой мыши§!, чтобы удалить текущий
 CONFIRM_REMOVE_COLONY_NF_TITLE;Удалить национальный фокус колонизации;Supprimer la cause nationale de colonisation;Den nationalen Fokus der Kolonisierung entfernen ;;;;;;;;;;;x
 CONFIRM_REMOVE_COLONY_NF_DESC;Ваш прогресс колонизации будет потерян. Хотите убрать национальный фокус?;La progression de votre colonisation va etre perdue. Voulez-vous supprimer la cause nationale ?;Euer Kolonisierungs-Prozess wird verloren gehen. Mochtet Ihr den nationalen Fokus entfernen?;;;;;;;;;;;x
 CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;;x
-po_install_communist_gov_type;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;x;
+po_install_communist_gov_type;Установить коммунистическое правительство;Installer un gouvernement communiste;Kommunistische Regierung einsetzen;;;;;;;;;;;x;
 install_communist_gov_cb;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x
 install_communist_gov_cb_desc;Установить коммунистическое правительство.;Installer le gouvernement communiste.;Setzt die kommunistische Regierung ein.;;;;;;;;;;;x
 install_communist_gov_cb_setup;Установить коммунистическое правительство. Если это будет достигнуто, страна автоматически будет добавлена в нашу сферу.;Installer le gouvernement communiste. En cas de reussite, le pays sera automatiquement ajoute a notre sphere d'influence.;Setzt die kommunistische Regierung ein. Sobald dies erreicht wurde, wird das Land automatisch unserer Sphare zugefugt. ;;;;;;;;;;;x
 install_communist_gov_cb_short;Установить коммунизм;Installer le Communisme;Kommunismus einsetzen;;;;;;;;;;;x
 CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;;x
-po_uninstall_communist_gov_type;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;x;
+po_uninstall_communist_gov_type;Удалить коммунистическое правительство;Revoquer le gouvernement communiste;Kommunistische Regierung absetzen;;;;;;;;;;;x;
 uninstall_communist_gov_cb;Удалить коммунизм;Revoquer le Communisme;Kommunismus absetzen;;;;;;;;;;;x
 uninstall_communist_gov_cb_desc;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x
 uninstall_communist_gov_cb_setup;Устранить коммунистическое правительство.;Revoquer le gouvernement communiste.;Die kommunistische Regierung absetzen.;;;;;;;;;;;x
@@ -115,7 +115,7 @@ MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;Вы уверены, что хотите отменить все вое
 SORT_BY_PRESTIGE;Сортировать по престижу;Tri par prestige;Nach Prestige sortieren;;;;;;;;;;;x
 SORT_BY_NAME;Сортировать по имени;Tri par nom;Nach Namen sortieren;;;;;;;;;;;x
 SORT_BY_SELECTED;Сортировать по выбранному;Tri par selections;Nach Auswahl sortieren;;;;;;;;;;;x
-ATTACKUSREBEL_SETUP;Когда одно из наших наземных подразделений подвергается нападению со стороны повстанцев;Quand une de nos unites terrestres subit une attaque des rebelles;Sobald eine unserer Landereinheiten von den Rebellen angegriffen wird;;;;;;;;;;x;
+ATTACKUSREBEL_SETUP;Когда одно из наших наземных подразделений подвергается нападению со стороны повстанцев;Quand une de nos unites terrestres subit une attaque des rebelles;Sobald eine unserer Landereinheiten von den Rebellen angegriffen wird;;;;;;;;;;;x;
 ATTACKUSREBEL_HEADER;Наш начальник штаба сообщает, что;Notre chef d'etat-major rapporte que;Unser Stabschef berichtet:;;Nuestro jefe de estado mayor informa de que;;;;;;;;;x
 ATTACKUSREBEL_1;Наши силы подверглись нападению!;Nos forces sont attaquees !;Unsere Truppen werden angegriffen!;;ЎEstan atacando a nuestras fuerzas!;;;;;;;;;x
 ATTACKUSREBEL_2;$MONARCHTITLE$, на нас напали в;$MONARCHTITLE$, nous avons ete attaques dans la province de;$MONARCHTITLE$, wir werden in;;$MONARCHTITLE$, hemos sido atacados en;;;;;;;;;x
@@ -125,7 +125,7 @@ ATTACKUSREBEL_5;*;*;*;;*;;;;;;;;;x
 ATTACKUSREBEL_6;*;*;*;;*;;;;;;;;;x
 ATTACKUSREBEL_LOG;На нас напали в $PROV$.;Nous avons ete attaques dans la province de $PROV$.;Wir wurden in $PROV$ angegriffen.;;Hemos sido atacados en $PROV$.;;;;;;;;;x
 ATTACKUSREBEL_BTN1;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x
-ATTACKUSREBEL_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x;x
+ATTACKUSREBEL_BTN2;ХОРОШО;D'accord;OK;;Aceptar;;;;;;;;;x;# ignored empty localisation record: ;x
 ATTACKUSREBEL_BTN3;Перейти;Voir;Gehe zu;;Ir alli;;;;;;;;;x
 ATTACKUSREBEL_MAP;Под атакой!;Nous sommes attaques !;Wird angegriffen;;ЎNos atacan!;;;;;;;;;x
 ATTACKTHEMREBEL_SETUP;Когда один из наших сухопутных отрядов атакует мятеж.;Quand une de nos unites terrestres attaque la rebellion;Sobald eine unserer Landereinheiten die Rebellen angreift.;;;;;;;;;;;x
@@ -290,7 +290,7 @@ RALLY_POINT_ENABLE_INFO;Включить или отключить эту провинцию как пункт сбора.;Ac
 RALLY_POINT_MERGE_INFO;Включить или отключить объединение подразделений в пункте назначения.\n(Армии будут объединяться до достижения локального лимита снабжения.);Activer ou desactiver la fusion des unites a destination.\n(Les armees fusionneront jusqu'a la limite de ravitaillement locale);Aktiviert oder Deaktiviert Einheiten, die an dieser Stelle zusammengefuhrt werden.\n(Armeen kommen bis zum lokalen Vorratslimit zusammen.);;;;;;;;;;;x
 RALLY_POINT_PROVINCE_INFO;$PROV$ — это §Yточка сбора§!;$PROV$ est un §Ypoint de ralliement§!;$PROV$ ist ein §YSammelpunkt§!;;;;;;;;;;;x
 RALLY_POINT_PROVINCE_MERGE_INFO;Все набранные отряды будут объединены до §Y$LIMIT$§! по прибытии сюда.;Toutes les unites recrutees fusionneront jusqu'a §Y$LIMIT$§! quand elles arriveront ici.;Alle rekrutierten Einheiten werden bis zu einer Menge von §Y$LIMIT$§! zusammengefuhrt, sobald sie ankommen.;;;;;;;;;;;x
-CB_ALLOWED_MAKE_PUPPET;Сделать вассалом;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;x;
+CB_ALLOWED_MAKE_PUPPET;Сделать вассалом;Creer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x;
 DIPLOMACY_NEGOTIATE_SUBSTATE;Нам не разрешено вести переговоры с §YСубгосударствами§W;Nous ne sommes pas autorises a negocier avec les §Ysous-etats§W;Uns ist es nicht gestattet, mit §YUnterstaaten§W zu verhandeln;;;;;;;;;;;x
 DIPLOMACY_NEGOTIATE_WE_SUBSTATE;Нам не разрешено вести переговоры со странами, если мы являемся §Yсубгосударством§W;Nous ne sommes pas autorises a negocier avec les autres pays si nous sommes un §Ysous-etat§W;Falls wir ein §YUnterstaat§W sind, ist es uns nicht gestattet, mit Landern zu verhandeln.;;;;;;;;;;;x
 DECL_WAR_NO_SUBSTATE;Нам не разрешено объявлять войну §Yсубгосударствам§W;Nous ne sommes pas autorises a declarer a la guerre aux §Ysous-etats§W;Wir durfen §YUnterstaaten§W nicht den Krieg erklaren.;;;;;;;;;;;x
@@ -307,7 +307,7 @@ CB_NOT_ON_SPHERES;Мы не можем оправдать войну против страны, которая находится в
 NO_WAR_JUSTIFICATION;У нас нет веских оснований для объявления им войны.;Il nous manque une justification valide pour leur declarer la guerre.;Wir besitzen keine gultige Kriegsrechtfertigung, um einen Krieg erklaren zu konnen.;;;;;;;;;;;x
 NOT_HOSTILE_BUILD;Не враждебный;Pas hostile;Nicht feindselig;;;;;;;;;;;x
 ACW_NAME;Разделенный дом;Une Maison Divisee;Ein geteiltes Haus;;;;;;;;;;;x
-ACW_DESC;Гражданская война бушует в Северной Америке, поскольку Конферентные Штаты пытаются отделиться от Союза. Исход неопределен, но это уже обещает быть новым типом войны, поскольку обе стороны имеют доступ к железным дорогам, телеграфу и многозарядным винтовкам. Тем временем в Европе Великобритания экспериментирует с первым военным кораблем с паровым двигателем в железном корпусе, комбинация, которая обещает произвести революцию в войне на море. Во всем мире промышленная революция набирает обороты, поскольку все больше и больше стран начинают индустриализацию. Времена меняются.;La Guerre Civile fait rage en Amerique du Nord alors que les Etats Confederes tentent de faire secession de l'Union. Le denouement est incertain, mais avec l'acces qu'ont les deux camps aux chemins de fer, aux telegraphes et aux fusils a repetition, ce sera une guerre d'un nouveau type. Pendant ce temps, en Europe, la Grande-Bretagne est en train d’experimenter le premier navire de guerre avec coque en acier et propulsion a vapeur, combinaison qui promet de revolutionner le cours de la guerre navale. Dans le monde entier, la revolution industrielle gagne du terrain et de plus en plus de pays commencent a s'industrialiser. Les temps changent...;Der Sezessionskrieg tobt in Nordamerika, da die konfoderierten Staaten versuchen, sich von der Union abzuspalten. Der Ausgang ist ungewiss, doch es verspricht schon jetzt eine neue Art des Krieges zu werden, da beide Seiten Zugriff auf Eisenbahn, Telegram;x
+ACW_DESC;Гражданская война бушует в Северной Америке, поскольку Конферентные Штаты пытаются отделиться от Союза. Исход неопределен, но это уже обещает быть новым типом войны, поскольку обе стороны имеют доступ к железным дорогам, телеграфу и многозарядным винтовкам. Тем временем в Европе Великобритания экспериментирует с первым военным кораблем с паровым двигателем в железном корпусе, комбинация, которая обещает произвести революцию в войне на море. Во всем мире промышленная революция набирает обороты, поскольку все больше и больше стран начинают индустриализацию. Времена меняются.;La Guerre Civile fait rage en Amerique du Nord alors que les Etats Confederes tentent de faire secession de l'Union. Le denouement est incertain, mais avec l'acces qu'ont les deux camps aux chemins de fer, aux telegraphes et aux fusils a repetition, ce sera une guerre d'un nouveau type. Pendant ce temps, en Europe, la Grande-Bretagne est en train d’experimenter le premier navire de guerre avec coque en acier et propulsion a vapeur, combinaison qui promet de revolutionner le cours de la guerre navale. Dans le monde entier, la revolution industrielle gagne du terrain et de plus en plus de pays commencent a s'industrialiser. Les temps changent...;Der Sezessionskrieg tobt in Nordamerika, da die konfoderierten Staaten versuchen, sich von der Union abzuspalten. Der Ausgang ist ungewiss, doch es verspricht schon jetzt eine neue Art des Krieges zu werden, da beide Seiten Zugriff auf Eisenbahn, Telegram;;;;;;;;;;;x;
 EVTNAME90000;Угроза $CB_TARGET_NAME_ADJ$;La menace de $CB_TARGET_NAME_ADJ$;Die $CB_TARGET_NAME_ADJ$ Bedrohung;;;;;;;;;;;x
 EVTDESC90000;Как всем известно, $CB_TARGET_NAME$ хочет нас достать. Это всего лишь вопрос времени, когда они начнут неспровоцированную атаку, поэтому вполне разумно, что мы предпримем шаги для упреждающей защиты. По счастливой случайности, отчет с подробным описанием их гнусных схем недавно «просочился» в прессу, и общественность сплотилась на нашей стороне.;Comme tout le monde le sait, $CB_TARGET_NAME$ veut nous avoir. Ce n'est qu'une question de temps avant qu'ils lancent une attaque injustifiee, de sorte que la seule attitude raisonnable serait que nous prenions les devants par une attaque preventive. Par chance, un rapport detaillant leurs noirs desseins a recemment ete lache dans la presse, et l'opinion publique a rallie notre cause.;"Jeder weiss, dass $CB_TARGET_NAME$ uns fertig machen will. Es ist nur eine Frage der Zeit, bis sie einen unprovozierten Angriff starten. Deshalb ist es nur vernunftig, dass wir ebenfalls Schritte unternehmen, um uns praventiv zu schutzen. Wie es das Gluck so will, ist ein Dokument uber deren schandlichen Plane erst kurzlich uber die Presse ""durchgesickert"" und die offentliche Meinung ist zu unseren Gunsten.";;;;;;;;;;;x
 EVTOPTA90000;Они идут прямо на нас!;Ils arrivent bien pour sur nous !;Bald sind sie da!;;;;;;;;;;;x
@@ -485,13 +485,13 @@ NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ Освободительное Движение;Mouvement de 
 SUPRESSION_MONTHLY_GAIN;Ежемесячный прирост: §G$VAL$§!;Gain mensuel : §G$VAL$§!;Monatlicher Zuwach: §G$VAL$§!;;;;;;;;;;;x
 MODIFIER_EDUCATION_EFFICIENCY;Эффективность образования;Efficacite de l'education;Bildungseffizienz;;;;;;;;;;;x
 MODIFIER_SUPPRESSION_POINT_GAIN;Усиление точки подавления;Point de repression gagne;Gewinn an Unterdruckungspunkten;;;;;;;;;;;x
-NOT_SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения ниже, чем §Y$VAL$§W.\n;Mouvement social dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist niedriger als §Y$VAL$§W.\n;x
-SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения выше, чем §Y$VAL$§W.\n;Mouvement social dont la force est superieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist grosser als §Y$VAL$§W.\n;x
-NOT_POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения ниже, чем §Y$VAL$§W.\n;Mouvement politique dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist niedriger als §Y$VAL$§W.\n;x
-POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения выше, чем §Y$VAL$§W.\n;Mouvement politique dont la force est superieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist grosser als §Y$VAL$§W.\n;x
+NOT_SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения ниже, чем §Y$VAL$§W.\n;Mouvement social dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist niedriger als §Y$VAL$§W.\n;;;;;;;;;;;x;
+SOCIAL_MOVEMENT_STRENGTH_TR;Сила общественного движения выше, чем §Y$VAL$§W.\n;Mouvement social dont la force est superieure a §Y$VAL$§W.\n;Die Starke der sozialen Bewegung ist grosser als §Y$VAL$§W.\n;;;;;;;;;;;x;
+NOT_POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения ниже, чем §Y$VAL$§W.\n;Mouvement politique dont la force est inferieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist niedriger als §Y$VAL$§W.\n;;;;;;;;;;;x;
+POLITICAL_MOVEMENT_STRENGTH_TR;Сила политического движения выше, чем §Y$VAL$§W.\n;Mouvement politique dont la force est superieure a §Y$VAL$§W.\n;Die Starke der politischen Bewegung ist grosser als §Y$VAL$§W.\n;;;;;;;;;;;x;
 SUPPRESS;Подавлять;Reprimer;Unterdrucken;;;;;;;;;;;x
 SUPPRESSION_DESC;Подавить это движение. Это будет стоить $VAL$ очков и сделает движение более радикальным (§R+$HIT$§!) в будущем.;Reprimer ce mouvement. Cela coutera $VAL$ points et rendra le mouvement plus radical (§R+$HIT$§!) dans le futur.;Unterdruckt diese Bewegungt. Dies kostet $VAL$ Punkte und erhoht die Chancen, dass diese Bewegung in Zukunft (§R+$HIT$§!)radikaler wird.;;;;;;;;;;;x
-CANT_SUPPRESS_DESC;Нам нужно больше очков, чтобы подавить это движение. У нас есть §R$VAL$§! очков подавления, а это требует §Y$NEED$§!.;Nous avons besoin de plus de points pour pouvoir reprimer ce mouvement. Nous avons §R$VAL$§! points de repression et il en faut §Y$NEED$§!.;Wir benotigen mehr Punkte um diese Bewegung unterdrucken zu konnen. Wir haben §R$VAL$§! Unterdruckungspunkte, benotigen jedoch  §Y$NEED$§!.;x
+CANT_SUPPRESS_DESC;Нам нужно больше очков, чтобы подавить это движение. У нас есть §R$VAL$§! очков подавления, а это требует §Y$NEED$§!.;Nous avons besoin de plus de points pour pouvoir reprimer ce mouvement. Nous avons §R$VAL$§! points de repression et il en faut §Y$NEED$§!.;Wir benotigen mehr Punkte um diese Bewegung unterdrucken zu konnen. Wir haben §R$VAL$§! Unterdruckungspunkte, benotigen jedoch  §Y$NEED$§!.;;;;;;;;;;;x;
 REFORM_MOVEMENT_DESC;Движение, призывающее к принятию закона §Y$REFORM$§!;Mouvement appelant a l'avenement de §Y$REFORM$§!;Bewegung fur die Verabschiedung von §Y$REFORM$§!;;;;;;;;;;;x
 NATIONALIST_UNION_MOVEMENT_DESC;Движение, призывающее к формированию §Y$COUNTRY$§!;Mouvement appelant a la formation de §Y$COUNTRY$§!;Bewegung fur die Grundung von §Y$COUNTRY$§!;;;;;;;;;;;x
 NATIONALIST_LIBERATION_MOVEMENT_DESC;Движение, призывающее к освобождению §Y$COUNTRY$§!;Mouvement appelant a la liberation de §Y$COUNTRY$§!;Bewegung fur die Befreiung von §Y$COUNTRY$§!;;;;;;;;;;;x
@@ -772,7 +772,7 @@ recent_safari2;Слишком много сафари;Trop de safaris;Zu viele Safaris;;;;;;;;;;;x
 recent_safari_desc;Недавно мы были на сафари.;Nous avons fait recemment un safari;Wir hatten kurzlich erst eine Safari;;;;;;;;;;;x
 recent_safari2_desc;В последнее время было проведено слишком много сафари.;Tout comptes faits, il y a eu trop de safaris recemment;Insgesamt gab es in letzter Zeit zu viele Safaris;;;;;;;;;;;x
 unciv_reactionary_rebels_title;Реакционер;Reactionnaire;Reaktionar;;;;;;;;;;;x
-unciv_reactionary_rebels_name;\$COUNTRY\$ Реакционеры;Reactionnaires de $COUNTRY$;$COUNTRY$ Reaktionare;;;;;;;;;;x;
+unciv_reactionary_rebels_name;$COUNTRY$ Реакционеры;Reactionnaires de $COUNTRY$;$COUNTRY$ Reaktionare;;;;;;;;;;;x;
 unciv_reactionary_rebels_desc;Реакционные мятежники стремятся жить по традициям своих предков и отвергают любую идею копирования манер европейцев.;Les rebelles reactionnaires ont longtemps vecu a la maniere de leurs ancetres et ont rejete l'idee meme d'imiter les manieres europeennes.;Reaktionare Rebellen streben danach, auf die Art ihrer Vorfahren zu leben und lehnen jegliche Gedanken daran ab, die Verhaltensweisen der Europaer zu kopieren.;;;;;;;;;;;x
 unciv_reactionary_rebels_army;$COUNTRY_ADJ$ Армия;Armee $COUNTRY_ADJ$;$COUNTRY_ADJ$ Armee;;;;;;;;;;;x
 SET_ECONOMIC_REFORM_EFFECT;Экономическая реформа выбрана: §Y$NAME$§W.\n;Reforme economique selectionnee : §Y$NAME$§W.\n;gewahlte Wirtschaftsreform: §Y$NAME$§W.\n;;;;;;;;;;;x
@@ -830,6 +830,6 @@ GXI;Гуанси;Guangxi;Guangxi;;;;;;;;;;;x
 MCK;Маньчжоу-го;Mandchourie;Manchuria;;;;;;;;;;;x
 LEADERSHIP;Лидерство;Preeminence;Herrschaft;;;;;;;;;;;x
 XBI;Цинхай;Qinghai;Qinghai;;;;;;;;;;;x
-EVTNAME23213;Горы Безумия;Les Monts de la Folie;Die Berge des Wahnsinns;;;;;;;;;x;;
-EVTDESC23213;Наша экспедиция на Южный полюс пробудила нечто ужасное. В руинах огромного инопланетного города они обнаружили вещи, не идентифицируемые ни как растения, ни как животные. Вещи, которые правили Землей в далеком прошлом. Вещи, которые возвращаются и полны невыразимого голода.;Notre expedition au Pole Sud a reveille quelque chose d'horrible. Dans les ruines d'une gigantesque ville extra-terrestre, on a decouvert des choses qu'on ne sait definir comme vegetales ou animales… Des choses qui regnaient sur la Terre dans des temps immemoriaux - des choses qui reviennent et sont douees d'un insatiable appetit, c'est indescriptible.;Unsere Expedition zum Sudpol hat etwas Furchtbares aufgeweckt. In den Ruinen einer riesigen, unbekannten Stadt hat sie Dinge entdeckt, die weder pflanzlichen noch tierischen Ursprungs sind. Dinge, die die Erde in der weiten Vergangenheit beherrscht haben.;;;;;;;;;x;;
-EVTOPTA23213;Ну, это нехорошо...;Ca, c'est pas bon du tout...;Das hort sich gar nicht gut an …;;;;;;;;;x;;
+EVTNAME23213;Горы Безумия;Les Monts de la Folie;Die Berge des Wahnsinns;;;;;;;;;;;x;
+EVTDESC23213;Наша экспедиция на Южный полюс пробудила нечто ужасное. В руинах огромного инопланетного города они обнаружили вещи, не идентифицируемые ни как растения, ни как животные. Вещи, которые правили Землей в далеком прошлом. Вещи, которые возвращаются и полны невыразимого голода.;Notre expedition au Pole Sud a reveille quelque chose d'horrible. Dans les ruines d'une gigantesque ville extra-terrestre, on a decouvert des choses qu'on ne sait definir comme vegetales ou animales… Des choses qui regnaient sur la Terre dans des temps immemoriaux - des choses qui reviennent et sont douees d'un insatiable appetit, c'est indescriptible.;Unsere Expedition zum Sudpol hat etwas Furchtbares aufgeweckt. In den Ruinen einer riesigen, unbekannten Stadt hat sie Dinge entdeckt, die weder pflanzlichen noch tierischen Ursprungs sind. Dinge, die die Erde in der weiten Vergangenheit beherrscht haben.;;;;;;;;;;;x;
+EVTOPTA23213;Ну, это нехорошо...;Ca, c'est pas bon du tout...;Das hort sich gar nicht gut an …;;;;;;;;;;;x;

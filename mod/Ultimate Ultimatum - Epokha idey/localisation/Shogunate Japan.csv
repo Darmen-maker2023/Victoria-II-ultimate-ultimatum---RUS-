@@ -40,8 +40,8 @@ SEN_hms_government;Сендай;;;;;;;;;;;;;x
 SEN_absolute_monarchy_ADJ;Дата;;;;;;;;;;;;;x
 SEN_prussian_constitutionalism_ADJ;Дата;;;;;;;;;;;;;x
 SEN_hms_government_ADJ;Дата;;;;;;;;;;;;;x
-TKG;Япония эпохи сёгуната;;;;;;;;;;;x;;
-TKG_ADJ;Токугава;;;;;;;;;;;x;;
+TKG;Япония эпохи сёгуната;;;;;;;;;;;;;x;
+TKG_ADJ;Токугава;;;;;;;;;;;;;x;
 TOS;Сикоку;;;;;;;;;;;;;x
 TOS_ADJ;Шикокуань;;;;;;;;;;;;;x
 TOS_absolute_monarchy;Тоса;;;;;;;;;;;;;x

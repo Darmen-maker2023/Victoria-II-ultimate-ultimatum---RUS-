@@ -69,7 +69,7 @@ some_fake_1850_3;Некогда гордая система каналов нашей страны, как видно, находит
 some_fake_1860_title_1;Линкольн убит;;Anschlag auf Lincoln;;;;;;;;;;;x
 some_fake_1860_1;Авраам Линкольн был убит в театре Форда Джоном Уилксом Бутом, застреленным с близкого расстояния.;;Abraham Lincoln in Ford's Theatre von John Wilkes Booth ermordet, Todesschuss aus kurzer Distanz.;;;;;;;;;;;x
 some_fake_1860_title_2;Линкольн штраф;;Lincoln wohlauf;;;;;;;;;;;x
-some_fake_1860_2;"Неудачная попытка убийства Авраама Линкольна Джоном Уилксом Бутом; idaceaaio nadinee iaiaaaaoaai n aaeeiia oaaoda Oidaa.";;Attentat auf Abraham Lincoln durch John Wilkes Booth fehlgeschlagen, Prдsident stцЯt Attentдter vom Balkon im Ford's Theatre.;;;;;;;;;;;x
+some_fake_1860_2;"Неудачная попытка убийства Авраама Линкольна Джоном Уилксом Бутом; idaceaaio nadinee iaiaaaaoaai n aaeeiia oaaoda Oidaa.";;Attentat auf Abraham Lincoln durch John Wilkes Booth fehlgeschlagen, Prдsident stцЯt Attentдter vom Balkon im Ford's Theatre.;;;;;;;;;;;x;
 some_fake_1860_title_3;Неспортивно;;Unsportlich;;;;;;;;;;;x
 some_fake_1860_3;Изобретена военная подводная лодка, признана во всем мире «несправедливой» и запрещена навсегда.;;"Militarisches U-Boot erfunden, weltweit als “unfair"" eingestuft und fur alle Zeiten verboten.";;;;;;;;;;;x
 some_fake_1860_title_4;Здравоохранение;;Gesundheitswesen;;;;;;;;;;;x
@@ -205,7 +205,7 @@ some_fake_ANY_13; Вероятность на следующей неделе: облачно и дождливо, северный 
 some_fake_ANY_title_14;Трагический городской пожар;;Tragisches Feuer in Stadt;;;;;;;;;;;x
 some_fake_ANY_14; Пожарную службу обвинили в проявлении недисциплинированности и неэффективности, что привело к распространению огня на несколько кварталов, что привело к самому крупному и трагическому городскому пожару на сегодняшний день.;;Feuerwache wegen fehlender Disziplin und Effizienz fur das Ausbreiten eines Feuers uber mehrere Hauser verantwortlich gemacht, das zum grossten Brand aller Zeiten in der Stadt fuhrte.;;;;;;;;;;;x
 some_fake_ANY_title_15;Ограбление рыболовного крючка!;;Angel-Raub;;;;;;;;;;;x
-some_fake_ANY_15;Полиция сообщает, что грабителю удалось украсть значительную сумму денег из кассы местного банка с помощью рыболовного крючка и палки, пока кассиршу отвлекал сообщник.;;Die Polizei berichtet vom Raub eines beachtlichen Geldbetrags in lokaler Bank unter Verwendung eines Angelhakens und Stockes, wahrend Komplize den Kassenbeamten ablenkte.;;;;;;;;;;x;
+some_fake_ANY_15;Полиция сообщает, что грабителю удалось украсть значительную сумму денег из кассы местного банка с помощью рыболовного крючка и палки, пока кассиршу отвлекал сообщник.;;Die Polizei berichtet vom Raub eines beachtlichen Geldbetrags in lokaler Bank unter Verwendung eines Angelhakens und Stockes, wahrend Komplize den Kassenbeamten ablenkte.;;;;;;;;;;;x;
 some_fake_ANY_title_16;Пусть прыгают!;;Lasst sie springen!;;;;;;;;;;;x
 some_fake_ANY_16; Если дети должны быть неподвижны, это для них пытка, утверждают ученые. Быстрое движение тела, являющееся правильным выражением радости в очень раннем возрасте, следует поощрять, а не осуждать.;;Forscher bezeichnen das Stillsitzen mussen von Kindern Folter. Ausdauernde Bewegung ist wichtig zum Ausdruck von Freude fur kleine Kinder und sollte nicht unterdruckt werden.;;;;;;;;;;;x
 some_fake_ANY_title_17;Деревянные мостовые;;Holzerne Burgersteige;;;;;;;;;;;x
@@ -311,7 +311,7 @@ REVOLUTION_NEWS_LARGE;В $TAG_0_0$ произошла революция! $STRING_0_0$ победили пра
 REVOLUTION_NEWS_TITLE_MEDIUM;РЕВОЛЮЦИЯ В $TAG_0_0_UPPER$!;;REVOLUTION IN $TAG_0_0$_UPPER!;;;;;;;;;;;x
 REVOLUTION_NEWS_MEDIUM;В $TAG_0_0$ произошла революция! $STRING_0_0$ победили правительственные силы и разрушили страну. $TAG_0_0$ теперь находится под контролем $STRING_0_4$. «Граждане могут ожидать немедленных реформ, отражающих наши $STRING_0_3$ ценности», — заявили они.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrafte besiegt und das Land zerschlagen. $TAG_0_0$ wird nun von $STRING_0_4$ $STRING_0_3$ kontrolliert.;;;;;;;;;;;x
 REVOLUTION_NEWS_TITLE_SMALL;РЕВОЛЮЦИЯ!;;REVOLUTION!;;;;;;;;;;;x
-REVOLUTION_NEWS_SMALL;В $TAG_0_0$ произошла революция! $STRING_0_0$ разгромили правительственные войска и разрушили страну.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrafte besiegt und das Land zerschlagen.;;;;;;;;;;;x 
+REVOLUTION_NEWS_SMALL;В $TAG_0_0$ произошла революция! $STRING_0_0$ разгромили правительственные войска и разрушили страну.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrafte besiegt und das Land zerschlagen.;;;;;;;;;;;x;
 INVENTION_NEWS_TITLE_LARGE;ИЗОБРЕТЕНИЕ!;;ERFINDUNG!;;;;;;;;;;;x
 INVENTION_NEWS_LARGE; Сообщается, что ученые и инженеры в $TAG_0_0$ изобрели $STRING_0_1$.;;Forscher und Ingenieure in $TAG_0_0$ haben lt. Meldungen $STRING_0_1$ erfunden. ;;;;;;;;;;;x
 INVENTION_NEWS_TITLE_MEDIUM;ИЗОБРЕТЕНИЕ!;;ERFINDUNG!;;;;;;;;;;;x
@@ -353,5 +353,5 @@ WAR_NEWS_LARGE;$DATE_LONG_0$ $TAG_0_0$ объявили, что между ними и $TAG_0_1$ тепе
 WAR_NEWS_TITLE_MEDIUM;$TAG_0_0_UPPER$ ИДУТ НА ВОЙНУ!;;$TAG_0_0_UPPER$ ZIEHT IN KRIEG!;;;;;;;;;;;x
 WAR_NEWS_MEDIUM;$DATE_LONG_0$ $TAG_0_0$ объявил, что с $TAG_0_1$ сейчас находится в состоянии войны. Заявленная причина этого заявления — '$STRING_0_1$'. 'Эта незаконная агрессия не будет терпеться', — прокомментировал министр иностранных дел $TAG_0_1$.;;Am $DATE_LONG_0$ verkundete $TAG_0_0$, dass sie sich mit $TAG_0_1$ im Kriegszustand befinden. Die angegebene Begrundung: '$STRING_0_1$'. Moge Gott ihnen allen gnadig sein. ;;;;;;;;;;;x
 WAR_NEWS_TITLE_SMALL;$TAG_0_0_$ на войне!;;$TAG_0_0_$ im Krieg!;;;;;;;;;;;x
-WAR_NEWS_SMALL;$DATE_LONG_0$ $TAG_0_0$ объявил о состоянии войны с $TAG_0_1$.;;Am $DATE_LONG_0$ verkundete $TAG_0_0$ den Kriegszustand mit $TAG_0_1$.;;;;;;;;;;;x 
+WAR_NEWS_SMALL;$DATE_LONG_0$ $TAG_0_0$ объявил о состоянии войны с $TAG_0_1$.;;Am $DATE_LONG_0$ verkundete $TAG_0_0$ den Kriegszustand mit $TAG_0_1$.;;;;;;;;;;;x;
 KEYNAME;ТЕКСТ;;TEXT;;;;;;;;;;;x

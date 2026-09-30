@@ -33,7 +33,7 @@ pensions = good_pensions
 school_reforms = no_schools
 
 
-ruling_party = JAP_fascist
+ruling_party = NIP_fascist
 upper_house = {
         fascist = 100
         liberal = 0

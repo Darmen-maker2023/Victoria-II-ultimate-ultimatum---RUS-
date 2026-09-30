@@ -1299,7 +1299,7 @@ trigger = {
 			
 	}
 			CUB = {
-			country_event = 26000029
+			# Removed call to unavailable country_event 26000029.
 			}
 	}
 	}

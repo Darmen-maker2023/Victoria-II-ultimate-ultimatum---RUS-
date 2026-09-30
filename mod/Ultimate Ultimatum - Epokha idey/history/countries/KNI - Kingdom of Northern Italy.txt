@@ -334,7 +334,7 @@ early_romanticism = 1
 
 
 1930.1.1 = { 
-government = hms_governement
+government = hms_government
 	oob = "/1936/ITA_oob.txt"
 
 ruling_party = ITA_fascist

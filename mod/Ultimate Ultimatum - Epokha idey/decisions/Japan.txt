@@ -136,7 +136,7 @@ political_decisions = {
 				limit = {
 					owns = 1089 #Etorofu
 				}
-				country_event = 32521
+				# Removed call to unavailable country_event 32521.
 			}
 		}
 		
@@ -179,7 +179,7 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = negotiate_ganghwa_treaty
-			KOR = { country_event = 85015 }
+			# Linked event 85015 is absent from this build.
 		}
 		
 		ai_will_do = {
@@ -479,7 +479,6 @@ political_decisions = {
 				}
 				owner = {
 					economic_reform = interactive
-					activate_technology = early_classical_theory_and_critique
 					any_pop = {
 						scaled_militancy = {
 							ideology = liberal
@@ -1020,7 +1019,7 @@ political_decisions = {
 					exists = yes
 				}
 				set_country_flag = wants_to_unify
-				country_event = 98650
+				# Removed call to unavailable country_event 98650.
 			}
 		}
 		
@@ -1072,7 +1071,7 @@ political_decisions = {
 					exists = yes
 				}
 				set_country_flag = wants_to_unify
-				country_event = 98650
+				# Removed call to unavailable country_event 98650.
 			}
 		}
 		
@@ -1374,7 +1373,7 @@ political_decisions = {
 			1485 = {
 				owner = {
 					set_country_flag = negotiate_unequal_treaty
-					country_event = 1316085
+					# Removed call to unavailable country_event 1316085.
 				}
 			}
 		}
