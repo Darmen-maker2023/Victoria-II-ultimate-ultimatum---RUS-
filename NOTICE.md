@@ -1,10 +1,10 @@
-# Уведомление об источниках и авторстве
+# Авторы и источники
 
-Эта сборка основана на Ultimate Ultimatum 0.8. В исходном changelog Ultimate Ultimatum перечислены заимствованные материалы и источники, включая GSGVickyMod, HPM, CWE, Ultimate Rebooted (2016), NWO, Blood and Iron, AoE, CoE и ZinnMod. Страница Ultimate Ultimatum также называет HFM и другие подмоды среди источников.
+«Знамёна идей» — дополнение к **Ultimate Ultimatum 0.8**. Основа мода и материалы других модификаций принадлежат их авторам.
 
-Все сторонние материалы принадлежат их соответствующим авторам и распространяются на применимых к ним исходных условиях. Это уведомление фиксирует атрибуцию, но не заменяет лицензию источника и не предоставляет прав на сторонние материалы. Для этой сборки пока не заявлена единая лицензия.
+В исходном списке изменений Ultimate Ultimatum указаны GSGVickyMod, HPM, CWE, Ultimate Rebooted (2016), NWO, Blood and Iron, AoE, CoE и ZinnMod. На странице Ultimate Ultimatum также упоминаются HFM и другие подмоды.
 
-Источники:
+Единая лицензия для всей сборки пока не заявлена. Для сторонних материалов сохраняются применимые к ним исходные условия. Этот список указывает источники и авторство, но не предоставляет дополнительных прав на их использование.
 
-- [Ultimate Ultimatum на ModDB](https://www.moddb.com/mods/ultimate-ultimatum)
-- [Ultimate Ultimatum 0.8 changelog](mod/Ultimate%20Ultimatum%20-%20Epokha%20idey/0.8%20Changelog.txt)
+- [Страница Ultimate Ultimatum на ModDB](https://www.moddb.com/mods/ultimate-ultimatum)
+- [Оригинальный список изменений Ultimate Ultimatum 0.8](mod/Ultimate%20Ultimatum%20-%20Epokha%20idey/0.8%20Changelog.txt)
