@@ -262,15 +262,15 @@ navy = {
 	}
 	ship = {
 		name= "Granatiere"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Carabiniere"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Nicoloso da Recco"
-		type = destroyer
+		type = cruiser
 	}
 	ship = {
 		name= "Ape"

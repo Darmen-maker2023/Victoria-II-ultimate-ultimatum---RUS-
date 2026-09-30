@@ -27,7 +27,7 @@ political_decisions = {
 		effect = {
 			prestige = 100
 			change_tag = UCS
-			set_country_flags = form_american_republics_done
+			set_country_flag = form_american_republics_done
 			add_accepted_culture = anglo_canadian
 			add_accepted_culture = mexican
 			country_event = { id=9999999 days=0 }

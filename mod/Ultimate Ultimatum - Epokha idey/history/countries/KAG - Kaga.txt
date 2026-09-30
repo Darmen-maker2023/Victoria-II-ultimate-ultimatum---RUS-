@@ -151,7 +151,6 @@ jesuit_movements_tech = 1
 early_18th_absolutism = 1
 cartesianism = 1
 early_modern_philosphies = 1
-private_banks = 1
 early_muskets = 1
 field_artillery = 1
 flintlock_muskets = 1

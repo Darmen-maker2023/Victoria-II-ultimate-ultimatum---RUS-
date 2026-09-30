@@ -10,10 +10,7 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = chinese_economic_reforms
-			add_country_modifier = {
-				name = china_economic_reforms 
-				duration = -1
-			}
+# Unavailable modifier china_economic_reforms omitted.
 		}
 		
 		ai_will_do = { factor = 1 }

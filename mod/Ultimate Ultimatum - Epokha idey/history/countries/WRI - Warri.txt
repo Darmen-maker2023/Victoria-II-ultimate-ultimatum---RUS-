@@ -53,5 +53,4 @@ oob = "WAR_oob.txt"
 	oob = "/1861/WAR_oob.txt"
 	foreign_weapons = yes_foreign_weapons
 set_country_flag = weapons_reform
-	flintlock_rifles = 1
 }

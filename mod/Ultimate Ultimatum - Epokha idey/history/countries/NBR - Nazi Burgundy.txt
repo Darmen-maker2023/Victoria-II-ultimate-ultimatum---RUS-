@@ -42,7 +42,7 @@ govt_flag =
 }
 
 
-ruling_party = GER_fascist
+ruling_party = NBR_fascist
 upper_house = {
     fascist = 89
     liberal = 2

@@ -204,7 +204,7 @@ ww2_submarines;Подводные лодки Второй мировой войны;WW2 Submarines;WW2 Submarine
 ww2_battleships;Линкоры Второй мировой войны;ww2 Battleships;ww2 Battleships;;ww2 Battleships;;;;;;;;;x
 nuclear_powered_ships_design;Проектирование атомных судов;Nuclear Powered Ships Design;Nuclear Powered Ships Design;;Nuclear Powered Ships Design;;;;;;;;;x
 marxist_economics;Марксистская экономика;Marxist Economics;Marxist Economics;;Marxist Economics;;;;;;;;;x
-early_manufactures;Ранние Производства;Early Manufactures;Early Manufactures;;Early Manufactures;x
-late_manufactures;Поздние производства;Late Manufactures;Late Manufactures;;Late Manufactures;x
-autobahn;Автобан;Autobahn;Autobahn;;Autobahn;x
-superhighways;Супермагистрали;Superhighways;Superhighways;;Superhighways;x
+early_manufactures;Ранние Производства;Early Manufactures;Early Manufactures;;Early Manufactures;;;;;;;;;x;
+late_manufactures;Поздние производства;Late Manufactures;Late Manufactures;;Late Manufactures;;;;;;;;;x;
+autobahn;Автобан;Autobahn;Autobahn;;Autobahn;;;;;;;;;x;
+superhighways;Супермагистрали;Superhighways;Superhighways;;Superhighways;;;;;;;;;x;

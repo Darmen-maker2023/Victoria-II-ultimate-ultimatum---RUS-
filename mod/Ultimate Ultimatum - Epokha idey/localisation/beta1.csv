@@ -23,8 +23,8 @@ WEGAINCB_4;против;contre;gegen;;contra;;;;;;;;;x;
 WEGAINCB_5;$ENEMY$;$ENEMY$;$ENEMY$;;$ENEMY$;;;;;;;;;x;
 WEGAINCB_6;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;$DESC$;x;
 WEGAINCB_LOG;Мы получили «$CASUS$» Casus Belli против $ENEMY$.;"Nous avons obtenu un casus belli ""$CASUS$"" contre $ENEMY$.";Wir erhielten den Kriegsgrund '$CASUS$' gegen $ENEMY$.;;Tenemos un Casus belli '$CASUS$' contra $ENEMY$.;;;;;;;;;x;
-WEGAINCB_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;OK;Rendben;OK;;;;;;x
-WEGAINCB_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;OK;Rendben;OK;;;;;;x
+WEGAINCB_BTN1;ХОРОШО;D'accord;OK;OK;OK;OK;OK;Rendben;OK;;;;;x;
+WEGAINCB_BTN2;ХОРОШО;D'accord;OK;OK;OK;OK;OK;Rendben;OK;;;;;x;
 WEGAINCB_BTN3;Перейти;Voir;Goto;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x;
 WEGAINCB_MAP;*;*;*;*;*;*;*;;;;;;;x;
 NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ Война за свободу $COUNTRY_ADJ$;$ORDER$$FIRST$ guerre de liberation $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberacion $COUNTRY_ADJ$;;;;;;;;;x;
@@ -101,23 +101,23 @@ BREAKCOUNTRYOTHER_4;$EFFECTS$;$EFFECTS$;$EFFECTS$;;$EFFECTS$;;;;;;;;;x;
 BREAKCOUNTRYOTHER_5;*;*;*;*;*;*;*;;;;;;;x;
 BREAKCOUNTRYOTHER_6;*;*;*;*;*;*;*;;;;;;;x;
 BREAKCOUNTRYOTHER_LOG;$FACTION$ реализует свои требования в $OTHER$!;$FACTION$ imposent ses revendications en $OTHER$ !;$FACTION$ siegten in $OTHER$!!;;ЎLos $FACTION$ imponen sus demandas en $OTHER$!;;;;;;;;;x;
-BREAKCOUNTRYOTHER_BTN1;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x
-BREAKCOUNTRYOTHER_BTN2;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x
+BREAKCOUNTRYOTHER_BTN1;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;x;
+BREAKCOUNTRYOTHER_BTN2;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;x;
 BREAKCOUNTRYOTHER_BTN3;Перейти;Voir;Goto;Idџ do;Ir alli;Andare;Ugrбs;Pшejнt na;;;;;;x;
 BREAKCOUNTRYOTHER_MAP;*;*;*;*;*;*;*;;;;;;;x;
-INVENTION_SETUP;Когда вы приобрели изобретение.;Si vous obtenez une invention;Wenn Sie eine Erfindung erhalten haben.;;Cuando consigas hacer un invento;Quando acquisisci un'invenzione;;;;;;x;;;
+INVENTION_SETUP;Когда вы приобрели изобретение.;Si vous obtenez une invention;Wenn Sie eine Erfindung erhalten haben.;;Cuando consigas hacer un invento;Quando acquisisci un'invenzione;;;;;;;;x;
 INVENTION_HEADER;Отчеты о;Rapports sur;Bericht uber eine;;Informe sobre;;;;;;;;;x;
-INVENTION_1;Крупное открытие;Decouverte majeure;Grosse Entdeckung;;Descubrimiento importante;Grande scoperta;;;;;;x;;;
+INVENTION_1;Крупное открытие;Decouverte majeure;Grosse Entdeckung;;Descubrimiento importante;Grande scoperta;;;;;;;;x;
 INVENTION_2;Ученые нашей страны обнаружили;Les scientifiques de notre pays ont decouvert;Wissenschaftlicher unseres Landes entdeckten;;Los cientificos de nuestro pais han descubierto;;;;;;;;;x;
-INVENTION_3;$INVENTION$;$INVENTION$;$INVENTION$;;$INVENTION$;$INVENTION$;;;;;;x;;;
-INVENTION_4;$DESC$;$DESC$;$DESC$;;$DESC$;$DESC$;;;;;;x;;;
-INVENTION_5;ЭФФЕКТ:;EFFETS :;Das hat folgende Effekte:;;EFECTO:;EFFETTO:;;;;;;x;;;
-INVENTION_6;$EFFECT$;$EFFECT$;$EFFECT$;;$EFFECT$;$EFFECT$;;;;;;x;;;
-INVENTION_LOG;Мы узнали, как работает $INVENTION$.;Nous avons decouvert : $INVENTION$.;Wir haben herausgefunden, was $INVENTION$ ermoglicht.;;Hemos descubierto como funciona el invento siguiente: $INVENTION$.;Abbiamo scoperto il funzionamento di: $INVENTION$.;;;;;;x;;;
-INVENTION_BTN1;ХОРОШО;D'accord;OK;OK;;Aceptar;OK;;;;;;x;;
-INVENTION_BTN2;ХОРОШО;D'accord;OK;OK;;Aceptar;OK;;;;;;x;;
-INVENTION_BTN3;Подробности;Details;Details;;Detalles;Dettagli;;;;;;x;;;
-INVENTION_MAP;*;*;*;;*;*;;;;;;x;;;
+INVENTION_3;$INVENTION$;$INVENTION$;$INVENTION$;;$INVENTION$;$INVENTION$;;;;;;;;x;
+INVENTION_4;$DESC$;$DESC$;$DESC$;;$DESC$;$DESC$;;;;;;;;x;
+INVENTION_5;ЭФФЕКТ:;EFFETS :;Das hat folgende Effekte:;;EFECTO:;EFFETTO:;;;;;;;;x;
+INVENTION_6;$EFFECT$;$EFFECT$;$EFFECT$;;$EFFECT$;$EFFECT$;;;;;;;;x;
+INVENTION_LOG;Мы узнали, как работает $INVENTION$.;Nous avons decouvert : $INVENTION$.;Wir haben herausgefunden, was $INVENTION$ ermoglicht.;;Hemos descubierto como funciona el invento siguiente: $INVENTION$.;Abbiamo scoperto il funzionamento di: $INVENTION$.;;;;;;;;x;
+INVENTION_BTN1;ХОРОШО;D'accord;OK;OK;;Aceptar;OK;;;;;;;x;
+INVENTION_BTN2;ХОРОШО;D'accord;OK;OK;;Aceptar;OK;;;;;;;x;
+INVENTION_BTN3;Подробности;Details;Details;;Detalles;Dettagli;;;;;;;;x;
+INVENTION_MAP;*;*;*;;*;*;;;;;;;;x;
 revanchism;Реваншизм;Revanchisme;Revanchismus;;Revanchismo;;;;;;;;;x;
 plurality;Множество;Pluralite;Pluralitat;;Pluralidad;;;;;;;;;x;
 TOPBAR_LEADERSHIP_GAIN_TOOLTIP;Каждый месяц мы получаем §Y$CURR$§W лидерства от наших сотрудников.;Nos officiers nous permettent de gagner §Y$CURR$§W points de commandement par mois.;Wir erhalten von unseren Offizieren monatlich §Y$CURR$§W Anfuhrerschaft.;;Obtenemos §Y$CURR$§W de liderazgo de nuestros oficiales cada mes.;;;;;;;;;x;
@@ -161,7 +161,7 @@ american_cultures;Американские культуры;Cultures americaines;Amerikanische Kultu
 CANT_USE_LAST_WAR_GOALS;Выбор этой цели войны положит конец войне и может быть осуществлен только в мирном соглашении с лидером войны.;La selection de cet objectif mettra fin a la guerre, mais necessite un accord de paix avec le meneur de guerre ennemi.;Die Auswahl dieses Kriegsziels wurde den Krieg beenden. Dies ist nur in einem Friedensvertrag mit dem Kriegsfuhrer moglich.;;Seleccionar este objetivo belico pondria fin a la guerra y solo puede llevarse a cabo en un acuerdo de paz con el lider de la guerra;;;;;;;;;x;
 tut_6a_13;Для улучшения промышленного производства Бельгии нам нужно больше промышленных рабочих. Щелкните значок ремесленников, чтобы установить этот фокус.;Pour ameliorer la production industrielle de la Belgique, il vous faut davantage d'ouvriers. Cliquez sur l'icone des ouvriers pour definir cette cause.;Zur Verbesserung von Belgiens Industrieproduktion benotigen wir mehr Industriearbeiter. Klicken Sie auf das Facharbeitersymbol, um einen Fokus darauf zu legen.;;Para mejorar la produccion industrial de Belgica necesitamos mas obreros. Haz clic en el icono de obreros para establecer esta prioridad.;;;;;;;;;x;
 DEN_251;Исландия и Гренландия;Islande et Groenland;Island & Gronland;;Islandia y Groenlandia;;;;;;;;;x;
-CANCELALLIANCE_THEY_ACCEPT_BTN2;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x
+CANCELALLIANCE_THEY_ACCEPT_BTN2;ХОРОШО;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;x;
 CANCELALLIANCE_THEY_ACCEPT_BTN3;Перейти к;Voir;Go to;Idџ do;Ir alli;Andare;Menj ide:;Pшejнt na;;;;;;x;
 tut_1b_19;Сейчас мы вручную назначим нашего генерала, а затем выберем свою дивизию в Спа.;Pour le moment, vous allez affecter votre general manuellement. Allez-y, selectionnez la division presente a Spa.;Fur Erste werden wir unseren General manuell zuteilen. Wahlen Sie dazu Ihre Division in Spa aus.;;De momento, asignaremos manualmente a nuestro general. Sigue adelante y selecciona tu division en Spa.;;;;;;;;;x;
 TOPBAR_DEC_SPEED;Уменьшить скорость;Reduire la vitesse;Geschwindigkeit reduzieren;;Disminuir velocidad;;;;;;;;;x;
@@ -249,7 +249,7 @@ bad_debter_desc;Из-за нестабильной экономики вашей страны банки будут требовать 
 MUST_NEGOTIATE_WITH_WAR_LEADER;Мы должны вести переговоры с врагом §YВоенным лидером§W, если мы не ведем нашу войну;A defaut de dominer la guerre que nous menons, nous devons negocier avec le §Ymeneur de guerre§W ennemi.;Wenn wir den Krieg nicht anfuhren, mussen wir mit dem feindlichen §YKriegsfuhrer§W verhandeln.;;Si no progresamos en nuestra guerra, tenemos que negociar con el §Lider de la guerra§Y enemigo;;;;;;;;;x;
 BAD_ADJ;Баденский;Bade;Baden;;Baden;;;;;;;;;x;
 WAR_LEADER;§YВоенный лидер§W;§Ymeneur de guerre§W;§YKriegsfuhrer§W;;§YLider de la guerra§W;;;;;;;;;x;
-MUST_NEGOTIATE_WITH_WAR_LEADER_NO_LEFTOVER_WARGOALS;Мы должны вести переговоры с врагом §YВоенным лидером§W, поскольку заключение мира с §Y$COUNTRY$§W положит конец войне.;Nous devons negocier avec le §Ymeneur de guerre§W ennemi, car un accord de paix avec §Y$COUNTRY$§W mettrait fin a la guerre.;Wir mussen mit dem feindlichen §YKriegsfuhrer§W verhandeln, da ein Friedensschluss mit §Y$COUNTRY$§W den Krieg beenden wurde.;;Tenemos que negociar con el §YLider de la guerra§W enemigo, ya que firmar la paz con §Y$COUNTRY$§W pondria fin a la guerra;;;;;;;;;x<;x
+MUST_NEGOTIATE_WITH_WAR_LEADER_NO_LEFTOVER_WARGOALS;Мы должны вести переговоры с врагом §YВоенным лидером§W, поскольку заключение мира с §Y$COUNTRY$§W положит конец войне.;Nous devons negocier avec le §Ymeneur de guerre§W ennemi, car un accord de paix avec §Y$COUNTRY$§W mettrait fin a la guerre.;Wir mussen mit dem feindlichen §YKriegsfuhrer§W verhandeln, da ein Friedensschluss mit §Y$COUNTRY$§W den Krieg beenden wurde.;;Tenemos que negociar con el §YLider de la guerra§W enemigo, ya que firmar la paz con §Y$COUNTRY$§W pondria fin a la guerra;;;;;;;;;x;
 WARGOAL_DEMAND;§Y$COUNTRY$§W требует этого от §Y$ENEMY$§W;§Y$COUNTRY$§W exige ceci de §Y$ENEMY$§W;§Y$COUNTRY$§W verlangt dies von §Y$ENEMY$§W.;;§Y$COUNTRY$§W exige esto de §Y$ENEMY$§W;;;;;;;;;x;
 POP_DETAILS_PROMOTIONS;Акции:;Promotions :;Beforderungen:;;Ascensos:;;;;;;;;;x;
 POP_DETAILS_DEMOTIONS;Понижения в должности:;Retrogradations :;Degradierungen:;;Degradaciones:;;;;;;;;;x;
@@ -261,8 +261,8 @@ PROVINCE_CONTROL_DAYS;Управление провинцией изменилось за последние §Y$DAYS$§W д
 ENFORCE_DEMANDS_TRIGGER;Эти мятежники победят, если будет выполнено следующее:;Si ce qui suit est vrai, ces rebelles l'emporteront :;Diese Rebellen werden gewinnen, wenn Folgendes zutrifft:;;Estos rebeldes ganaran si se cumple lo siguiente:;;;;;;;;;x;
 tut_1a_40;После того, как вы увидите стрелку движения, снимите игру с паузы, чтобы продолжить.;Apres l'apparition de la fleche de deplacement, quittez le mode Pause pour reprendre le jeu.;Wie Sie am Bewegungspfeil sehen konnen, lauft das Spiel nach Beendigung der Pause weiter.;;\nUna vez que veas la flecha de movimiento, quita la pausa del juego para ponerte en marcha.;;;;;;;;;x;
 EVTNAME15060;Первый фермерский банк;Premiere banque agricole;Erste Bauernbank;;First Farmer's Bank;;;;;;;;;x;
-POLITICS_REFORMS;Правительство;x;;;;;;;;;;;;;
-OVERVIEW_NAME;Обзор;x;;;;;;;;;;;;;
+POLITICS_REFORMS;Правительство;;;;;;;;;;;;;x;
+OVERVIEW_NAME;Обзор;;;;;;;;;;;;;x;
 POLITICS_RELEASE_NATIONS;Освобождение Наций;Nations liberables;Nationen entlassen;;Liberar naciones;;;;;;;;;x;
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W командует §Y$ARMY$§W в §Y$LOCATION$§W;§Y$NAME$§W est aux commandes de §Y$ARMY$§W a §Y$LOCATION$§W.;§Y$NAME$§W befehligt §Y$ARMY$§W in §Y$LOCATION$§W;;§Y$NAME$§W esta al mando de: §Y$ARMY$§W en §Y$LOCATION$§W;;;;;;;;;x;
 hms_government;Правительство Ее Величества;Gouvernement de Sa Majeste;Ihrer Majestat Regierung;;Gobierno de Su Majestad;;;;;;;;;x;
@@ -339,8 +339,8 @@ SIEGEUS_4;начинает быть оккупирован. Не бойтесь! Силы;est occupee. Ne craignez r
 SIEGEUS_5;$ATTACKER$;$ATTACKER$;$ATTACKER$;;$ATTACKER$;;;;;;;;;x;
 SIEGEUS_6;скоро будут изгнаны мощью наших армий.;seront bientot repoussees par nos puissantes armees.;werden schon bald von der Macht unserer Armeen vertrieben werden.;;pronto seran expulsadas por el poder de nuestros ejercitos.;;;;;;;;;x;
 SIEGEUS_LOG;$PROV$ начинает оккупироваться.;$PROV$ est occupee.;$PROV$ wird gerade vom Feind belagert.;;Han empezado a ocupar $PROV$.;;;;;;;;;x;
-SIEGEUS_BTN1;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;;x
-SIEGEUS_BTN2;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;;x
+SIEGEUS_BTN1;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;x;
+SIEGEUS_BTN2;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;x;
 SIEGEUS_BTN3;Перейти;Voir;Goto;;Ir alli;;;;;;;;;x;
 SIEGEUS_MAP;*;*;*;;*;;;;;;;;;x;
 SIEGETHEM_SETUP;Когда мы начинаем оккупировать одну из провинций нашего врага;Si nous occupons une province ennemie;Wenn wir beginnen, eine Provinz unseres Feindes zu besetzen.;;Cuando empezamos a ocupar una de las provincias de nuestro enemigo;;;;;;;;;x;
@@ -352,8 +352,8 @@ SIEGETHEM_4;Пройдет совсем немного времени, прежде чем наши силы вырвут его из л
 SIEGETHEM_5;$DEFENDER$.;$DEFENDER$.;$DEFENDER$ entrissen haben.;;$DEFENDER$.;;;;;;;;;x;
 SIEGETHEM_6;Они будут с нетерпением ждать нашего просвещенного правительства.;Sa population attend impatiemment d'etre guidee par notre gouvernement.;Sie werden sich auf unsere aufgeklarte Regierung freuen.;;Esperan con anhelo nuestro gobierno.;;;;;;;;;x;
 SIEGETHEM_LOG;Мы начали занимать $PROV$.;Nous occupons $PROV$.;Wir haben mit der Belagerung von $PROV$ begonnen.;;Hemos empezado a ocupar $PROV$.;;;;;;;;;x;
-SIEGETHEM_BTN1;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;;x
-SIEGETHEM_BTN2;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;;x
+SIEGETHEM_BTN1;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;x;
+SIEGETHEM_BTN2;ХОРОШО;D'accord;OK;OK;;OK;;;;;;;;x;
 SIEGETHEM_BTN3;Перейти;Voir;Goto;;Ir alli;;;;;;;;;x;
 SIEGETHEM_MAP;*;*;*;;*;;;;;;;;;x;
 chief_of_army;Главнокомандующий армией;Chef de l'armee;Armee-Oberbefehlshaber;;Jefe del ejercito;;;;;;;;;x;

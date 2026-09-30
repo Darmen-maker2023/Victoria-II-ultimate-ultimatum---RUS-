@@ -88,7 +88,7 @@ political_decisions = {
 		primary_culture = telegu
 		}
 			}
-country_event = 200060
+# Removed call to unavailable country_event 200060.
 		}
 		}
 	}

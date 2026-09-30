@@ -42,7 +42,7 @@ bihari;Бихари;Bihari;Biharisch;;Bihari;;;;;;;;;x
 boer;Бур;Boer;Burisch;;Boer;;;;;;;;;x
 bosniak;боснийский;Bosniaque;Bosnisch;;Bosnia;;;;;;;;;x
 brazilian;бразильский;Bresilien;Brasilianisch;;Brasilena;;;;;;;;;x
-breton;бретонский;;;;;;x;;;;;;;
+breton;бретонский;;;;;;;;;;;;;x;
 british;британский;Britannique;Britisch;;Britanica;;;;;;;;;x
 bulgarian;болгарский;Bulgare;Bulgarisch;;Bulgara;;;;;;;;;x
 burmese;бирманский;Birman;Burmesisch;;Birmana;;;;;;;;;x
@@ -68,7 +68,7 @@ east_african;Восточноафриканский;Africain oriental;Ostafrikanisch;;Africana orie
 east_asian;Восточноазиатский;Est-asiatique;Ostasiatisch;;Asiatica oriental;;;;;;;;;x
 east_slavic;восточнославянский;Slave de l'est;Ostslawisch;;Eslava del este;;;;;;;;;x
 edo;Эдо;Edo;Edoisch;;Edo;;;;;;;;;x
-english;Английский;;;;;;x;;;;;;;
+english;Английский;;;;;;;;;;;;;x;
 estonian;эстонский;Estonien;Estnisch;;Estonia;;;;;;;;;x
 ewe;Эве;Ewe;Ewenisch;;Ewe;;;;;;;;;x
 fang;Клык;Fang;Fangisch;;Fang;;;;;;;;;x
@@ -127,7 +127,7 @@ luba;Люба;Luba;Lubaisch;;Luba;;;;;;;;;x
 lunda;Лунда;Lunda;Lundaisch;;Lunda;;;;;;;;;x
 luo;Луо;Luo;Luotisch;;Luo;;;;;;;;;x
 maasai;Масаи;Maasai;Massaisch;;Maasai;;;;;;;;;x
-macedonian;македонский;;;;;;x;;;;;;;
+macedonian;македонский;;;;;;;;;;;;;x;
 maghrebi;Магрибский;Maghrebin;Maghrebinisch;;Magrebi;;;;;;;;;x
 makua;Макуа;Macua;Makuanisch;;Makua;;;;;;;;;x
 malagasy;малагасийский;Malgache;Malagasisch;;Malagasy;;;;;;;;;x
@@ -193,7 +193,7 @@ russian;Русский;Russe;Russisch;;Rusa;;;;;;;;;x
 sami;саамский;Sami;Sami;;Sami;;;;;;;;;x
 sara;Сара;Sara;Saraisch;;Sara;;;;;;;;;x
 scandinavian;скандинавский;Scandinave;Skandinawisch;;Escandinava;;;;;;;;;x
-scottish;шотландский;;;;;;x;;;;;;;
+scottish;шотландский;;;;;;;;;;;;;x;
 sena;Сена;Sena;Senaisch;;Sena;;;;;;;;;x
 senufo;Сенуфо;Senoufo;Senufotisch;;Senufo;;;;;;;;;x
 sephardic;Сефарды;Sefarade;Sephardisch;;Sefardi;;;;;;;;;x
@@ -247,9 +247,9 @@ unyamwezi;Уньямвези;Unyamwezi;Unyamwezisch;;Unyamwezi;;;;;;;;;x
 uzbek;узбекский;Ouzbek;Usbekisch;;Uzbeca;;;;;;;;;x
 vietnamese;вьетнамский;Vietnamien;Vietnamesisch;;Vietnamita;;;;;;;;;x
 wallonian;валлонский;Wallon;Wallonisch;;Valona;;;;;;;;;x
-welsh;валлийский;;;;;;x;;;;;;;
+welsh;валлийский;;;;;;;;;;;;;x;
 west_african;Западноафриканский;Ouest-africain;Westafrikanisch;;Africana occidental;;;;;;;;;x
-western_slavic;Западнославянские малые;;;;;;;;;;;;x;
+western_slavic;Западнославянские малые;;;;;;;;;;;;;x;
 wolof;волоф;Ouolof;Wolofisch;;Wolof;;;;;;;;;x
 xhosa;Коса;xhosa;xhosanisch;;xhosa;;;;;;;;;x
 yakut;Якутский;Yakoute;Jakutisch;;Yakuta;;;;;;;;;x

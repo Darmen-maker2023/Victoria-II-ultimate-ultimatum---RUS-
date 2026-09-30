@@ -30,7 +30,7 @@ pensions = low_pensions
 school_reforms = acceptable_schools
 
 
-ruling_party = "Konservativnaya Partiya"
+ruling_party = RUS_conservative
 upper_house = {
         fascist = 5
         liberal = 15

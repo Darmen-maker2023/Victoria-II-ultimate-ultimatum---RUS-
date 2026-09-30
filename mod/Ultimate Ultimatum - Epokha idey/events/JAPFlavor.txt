@@ -1596,10 +1596,7 @@ country_event = {
 		capital = 1649
 		1649 = {
 			life_rating = 10
-			add_province_modifier = {
-				name = gateway_to_harbor
-				duration = -1
-			}
+# Unavailable modifier gateway_to_harbor omitted.
 			change_province_name = "Tokyo"
 		}
 		ai_chance = {
@@ -1612,10 +1609,7 @@ country_event = {
 		set_country_flag = capital_in_the_east
 		1657 = {
 			life_rating = 10
-			add_province_modifier = {
-				name = gateway_to_harbor
-				duration = -1
-			}
+# Unavailable modifier gateway_to_harbor omitted.
 		}
 		ai_chance = {
 			factor = 0
@@ -1698,10 +1692,7 @@ country_event = {
 		prestige = 20
 		1649 = {
 			life_rating = 10
-			add_province_modifier = {
-				name = gateway_to_harbor
-				duration = -1
-			}
+# Unavailable modifier gateway_to_harbor omitted.
 		}
 		random_country = {
 			limit = {

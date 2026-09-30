@@ -127,11 +127,10 @@ country_event = {
 
 province_event = {
 
-	id = 36603
+	id = 366116
 
 	trigger = {
 		province_id = 322 #stockholm
-		owned_by = SWE
 		owned_by = SWN
 		owner = { government = absolute_monarchy }
 		year = 1848

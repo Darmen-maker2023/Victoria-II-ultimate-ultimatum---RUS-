@@ -10,7 +10,7 @@ major = yes
 trigger = {
 exist = GER
 GER = {
-government = facist_dictatorship }
+government = fascist_dictatorship }
 
 tag = CZH
 NOT = {

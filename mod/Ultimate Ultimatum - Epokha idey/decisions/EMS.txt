@@ -1,5 +1,5 @@
 political_decisions = {	
-	von_moltkes_staff_reforms = {
+	uu_ems_dispatch = {
 		potential = {
 			OR = {
 				tag = PRU
@@ -11,9 +11,9 @@ political_decisions = {
 		effect = {
 			prestige = 30
 			set_country_flag = ems_dispatch_sent
+			country_event = 19200
 		}
 		ai_will_do = {
-			country_event = 19200
 			factor = 1
 			modifier = {
 				factor = 0

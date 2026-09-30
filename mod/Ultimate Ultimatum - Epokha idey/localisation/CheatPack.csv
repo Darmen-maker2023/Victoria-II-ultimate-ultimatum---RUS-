@@ -1,10 +1,10 @@
-LaunchCheatPacks_title;Запустить чит-пак;;;;;;;;;;;;x;;;;
-LaunchCheatPacks_desc;Это включит Cheat Pack;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,;x
-DisableCheats_title;Отключить чит-пак;x
-DisableCheats_desc;Отключить опцию читов;x
-IncreaseLiteracy_title;Повышение грамотности;x
-IncreaseLiteracy_desc;Повысить грамотность населения на 0,1% стоимостью 30000 денег;x
-RemoveInfamy_title;Удалить позор;x
-RemoveInfamy_desc;Снимите с себя дурную славу на 50 единиц за 0,5 престижа.;x
-GivesMoney_title;Дает деньги;x
-GivesMoney_desc;Даст вам 10000 денег за 0,1 престижа;x
+LaunchCheatPacks_title;Запустить чит-пак;;;;;;;;;;;;;x;
+LaunchCheatPacks_desc;Это включит Cheat Pack;;;;;;;;;;;;;x;
+DisableCheats_title;Отключить чит-пак;;;;;;;;;;;;;x;
+DisableCheats_desc;Отключить опцию читов;;;;;;;;;;;;;x;
+IncreaseLiteracy_title;Повышение грамотности;;;;;;;;;;;;;x;
+IncreaseLiteracy_desc;Повысить грамотность населения на 0,1% стоимостью 30000 денег;;;;;;;;;;;;;x;
+RemoveInfamy_title;Удалить позор;;;;;;;;;;;;;x;
+RemoveInfamy_desc;Снимите с себя дурную славу на 50 единиц за 0,5 престижа.;;;;;;;;;;;;;x;
+GivesMoney_title;Дает деньги;;;;;;;;;;;;;x;
+GivesMoney_desc;Даст вам 10000 денег за 0,1 престижа;;;;;;;;;;;;;x;

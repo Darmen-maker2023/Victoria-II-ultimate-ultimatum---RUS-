@@ -14,13 +14,13 @@ unite_greece = {
 		OR = { 
 
 AND = { 
-GRE = { OR = { government = democracy government = democracy1 } }
-PEG = { OR = { government = democracy government = democracy1 } } 
+GRE = { OR = { government = democracy } }
+PEG = { OR = { government = democracy } }
 }
 
 AND = { 
-GRE = { OR = { government = hms_government government = hms_government1 } }
-PEG = { OR = { government = hms_government government = hms_government1 } }
+GRE = { OR = { government = hms_government } }
+PEG = { OR = { government = hms_government } }
 }
 
 AND = { 
@@ -28,19 +28,13 @@ GRE = { government = absolute_monarchy }
 PEG = { government = absolute_monarchy } 
 }
 
-AND = { 
-GRE = { government = theocracy } 
-PEG = { government = theocracy } 
-}
+# Unsupported legacy government branch removed.
+
+# Unsupported legacy government branch removed.
 
 AND = { 
-GRE = { government = socialist_democracy } 
-PEG = { government = socialist_democracy } 
-}
-
-AND = { 
-GRE = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 } }
-PEG = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 } } 
+GRE = { OR = { government = proletarian_dictatorship } }
+PEG = { OR = { government = proletarian_dictatorship } }
 }
 
 AND = { 

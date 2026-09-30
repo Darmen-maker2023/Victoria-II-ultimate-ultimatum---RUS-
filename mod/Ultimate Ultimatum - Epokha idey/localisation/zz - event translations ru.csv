@@ -429,7 +429,7 @@ Never! The monarchy will remain.;Нет! Монархия останется.;;;;;;;;;;;;;x;;;;;;;;;
 Never! We will fight on!;Нет! Мы продолжим борьбу!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 Never! We will fight to become the new Shogun!;Нет! Мы будем сражаться за право стать новым сёгуном!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 New York;Нью-Йорк;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
-New Zealand has surrendered, now we will enforce our will !;"Новая Зеландия капитулировала; теперь мы навяжем ей свою волю!";;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
+New Zealand has surrendered, now we will enforce our will !;"Новая Зеландия капитулировала; теперь мы навяжем ей свою волю!";;;;;;;;;;;;;x;
 New Zealand surrenders;Новая Зеландия капитулирует;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 No more signs of radiation in $PROVINCENAME$;В провинции $PROVINCENAME$ больше не обнаружено радиации;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 No! Intolerance not socialism!;Нет! Мы против нетерпимости и за социализм!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
@@ -555,7 +555,7 @@ The Age of Enlightenment is coming to an end. The Age of Industry is the way for
 The Age of Industry;Индустриальная эпоха;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 The Bolsheviks are gaining supporters in rural regions in the Empire and are putting up a fight with the army!;Большевики находят сторонников в сельских районах империи и вступают в бой с армией!;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 The Bolsheviks have been defeated and we still have control over our Central European regions.;Большевики разбиты, а мы сохранили контроль над Центральной Европой.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
-The Bolsheviks have taken over and have become the center head of the government in Russia. As well, many nations in Central Europe have claimed independence.;"Большевики захватили власть в России; они возглавили правительство, а многие страны Центральной Европы провозгласили независимость.";;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
+The Bolsheviks have taken over and have become the center head of the government in Russia. As well, many nations in Central Europe have claimed independence.;"Большевики захватили власть в России; они возглавили правительство, а многие страны Центральной Европы провозгласили независимость.";;;;;;;;;;;;;x;
 The Bolsheviks tell the people of Russia of a fair and just society, where all are equal in class and society. They have stirred many of the citizens attention.;Большевики обещают народу справедливое общество без классового неравенства. Их идеи находят отклик у множества граждан.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 The Boshin War is over.;Война Босин закончилась.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 The Boston Tea Party;Бостонское чаепитие;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
@@ -805,7 +805,7 @@ EVTDESC97641_NEWS_LONG;Сёгунат одержал верх над сторонниками императора в войне 
 EVTDESC97641_NEWS_MEDIUM;Сёгунат победил императорские силы в войне Босин.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC97641_NEWS_SHORT;Победа сёгуната в войне Босин.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC97646_NEWS_LONG;Война Босин завершилась победой императорской стороны. В Японии восстановлена власть императора, начинается эпоха Мэйдзи.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
-EVTDESC97646_NEWS_MEDIUM;"Сторонники императора победили в войне Босин; начинается эпоха Мэйдзи.";;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
+EVTDESC97646_NEWS_MEDIUM;"Сторонники императора победили в войне Босин; начинается эпоха Мэйдзи.";;;;;;;;;;;;;x;
 EVTDESC97646_NEWS_SHORT;Реставрация Мэйдзи.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC97651_NEWS_LONG;Война Босин завершилась победой сёгуната Токугава. Сторонники императорской реставрации потерпели поражение.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC97651_NEWS_MEDIUM;Сёгунат Токугава победил в войне Босин.;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;

@@ -82,7 +82,7 @@ country_event = {
 			}
 			set_country_flag = former_sphere_leader
 			leave_alliance = THIS
-			country_event = 800056
+			# Removed call to unavailable country_event 800056.
 		}
 		random_country = {
 			limit = {
@@ -100,7 +100,7 @@ country_event = {
 				value = -50
 			}
 			set_country_flag = former_overlord
-			country_event = 800055
+			# Removed call to unavailable country_event 800055.
 		}
 		any_country = {
 			limit = { 
@@ -180,7 +180,6 @@ country_event = {
 			limit = {
 				is_culture_group = italian
 				NOT = { exists = ITA }
-				NOT = { government = theocracy }
 				OR = {
 					has_country_flag = made_the_call_to_union
 					is_greater_power = yes
@@ -217,7 +216,7 @@ country_event = {
 			set_country_flag = former_sphere_leader
 			set_country_flag = objects_to_italy
 			leave_alliance = THIS
-			country_event = 800056
+			# Removed call to unavailable country_event 800056.
 		}
 		random_country = {
 			limit = {
@@ -236,7 +235,7 @@ country_event = {
 			}
 			set_country_flag = former_overlord
 			set_country_flag = objects_to_italy
-			country_event = 800055
+			# Removed call to unavailable country_event 800055.
 		}
 		any_country = {
 			limit = { 
@@ -314,7 +313,7 @@ country_event = {
 			}
 			set_country_flag = former_sphere_leader
 			leave_alliance = THIS
-			country_event = 800056
+			# Removed call to unavailable country_event 800056.
 		}
 		random_country = {
 			limit = {
@@ -332,7 +331,7 @@ country_event = {
 				value = -50
 			}
 			set_country_flag = former_overlord
-			country_event = 800055
+			# Removed call to unavailable country_event 800055.
 		}
 		random_country = {
 			limit = {
@@ -519,7 +518,7 @@ country_event = {
 						NOT = { neighbour = THIS }
 					}
 				}
-				country_event = 11104
+				# Removed call to unavailable country_event 11104.
 			}
 			random_country = {
 				limit = {
@@ -530,7 +529,7 @@ country_event = {
 						any_greater_power = { primary_culture = north_german }
 					}
 				}
-				country_event = 11104
+				# Removed call to unavailable country_event 11104.
 			}
 		}
 		random_owned = {
@@ -587,7 +586,7 @@ country_event = {
 						tag = KUK
 					}
 				}
-				country_event = 11104
+				# Removed call to unavailable country_event 11104.
 			}
 			random_country = {
 				limit = {
@@ -597,7 +596,7 @@ country_event = {
 						any_greater_power = { primary_culture = south_german }
 					}
 				}
-				country_event = 11104
+				# Removed call to unavailable country_event 11104.
 			}
 		}
 		random_owned = {
@@ -888,10 +887,7 @@ country_event = {
 				value = 100
 			}
 			THIS = {
-				add_country_modifier = {
-					name = kalmar_union
-					duration = -1
-				}
+# Unavailable modifier kalmar_union omitted.
 			}
 			country_event = 60130
 			create_alliance = THIS
@@ -915,7 +911,7 @@ country_event = {
 			}
 			set_country_flag = former_sphere_leader
 			leave_alliance = THIS
-			country_event = 800056
+			# Removed call to unavailable country_event 800056.
 		}
 		random_country = {
 			limit = {
@@ -933,7 +929,7 @@ country_event = {
 				value = -50
 			}
 			set_country_flag = former_overlord
-			country_event = 800055
+			# Removed call to unavailable country_event 800055.
 		}
 		any_country = {
 			limit = { 
@@ -1052,7 +1048,7 @@ country_event = {
 			}
 			set_country_flag = former_sphere_leader
 			leave_alliance = THIS
-			country_event = 800056
+			# Removed call to unavailable country_event 800056.
 		}
 		random_country = {
 			limit = {
@@ -1070,7 +1066,7 @@ country_event = {
 				value = -50
 			}
 			set_country_flag = former_overlord
-			country_event = 800055
+			# Removed call to unavailable country_event 800055.
 		}
 		any_country = {
 			limit = { 
