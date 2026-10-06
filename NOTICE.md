@@ -7,4 +7,4 @@
 Единая лицензия для всей сборки пока не заявлена. Для сторонних материалов сохраняются применимые к ним исходные условия. Этот список указывает источники и авторство, но не предоставляет дополнительных прав на их использование.
 
 - [Страница Ultimate Ultimatum на ModDB](https://www.moddb.com/mods/ultimate-ultimatum)
-- [Оригинальный список изменений Ultimate Ultimatum 0.8](mod/Ultimate%20Ultimatum%20-%20Epokha%20idey/0.8%20Changelog.txt)
+- [Оригинальный список изменений Ultimate Ultimatum 0.8](mod/Ultimate%20Ultimatum%20-%20Znamena%20idey/0.8%20Changelog.txt)
