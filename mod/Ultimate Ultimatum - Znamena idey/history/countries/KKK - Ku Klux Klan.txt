@@ -29,11 +29,11 @@ school_reforms = no_schools
 
 ruling_party = KKK_reactionary
 upper_house = {
-	fascist = 70
+	fascist = 68.627451
 	liberal = 0
-	conservative = 10
-	reactionary = 20
-	anarcho_liberal = 2
+	conservative = 9.803922
+	reactionary = 19.607843
+	anarcho_liberal = 1.960784
 	socialist = 0
 	communist = 0
 }

@@ -4,6 +4,7 @@ import argparse
 import csv
 from collections import Counter, defaultdict
 from dataclasses import dataclass
+from decimal import Decimal, InvalidOperation
 import json
 from pathlib import Path
 import re
@@ -243,6 +244,15 @@ def audit(mod, base=None):
                     issue('missing_party',path,node.line,f'{tag or "event"}: {value}','error')
             if key == 'government' and isinstance(value,str) and value not in governments:
                 issue('missing_government',path,node.line,value,'error')
+            if key == 'upper_house' and isinstance(value,list) and path.parts[:2] == ('history','countries'):
+                try:
+                    shares = [Decimal(n.value) for n in value]
+                    if not shares or any(not v.is_finite() or v < 0 for v in shares):
+                        issue('invalid_upper_house_share',path,node.line,'Shares must be finite and nonnegative','error')
+                    elif abs(sum(shares)-Decimal(100)) > Decimal('0.00001'):
+                        issue('upper_house_total',path,node.line,f'Shares total {sum(shares)}, expected 100','error')
+                except (InvalidOperation, TypeError, ValueError):
+                    issue('invalid_upper_house_share',path,node.line,'Nonnumeric upper-house share','error')
             if key in ['enable_ideology','is_ideology_enabled','ruling_party_ideology'] and isinstance(value,str) and value not in ideologies:
                 issue('missing_ideology',path,node.line,value,'error')
             if key in ['country_event','province_event'] and isinstance(value,list) and path.parts[0] in ['events','decisions','common'] and len(parents)>0:

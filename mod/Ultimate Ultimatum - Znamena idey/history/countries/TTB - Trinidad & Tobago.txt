@@ -30,10 +30,10 @@ set_country_flag = civilize_after_release
 
 ruling_party = TTB_liberal
 upper_house = {
-	fascist = 1
-	liberal = 59
-	conservative = 29
-	reactionary = 12
+	fascist = 0.990099
+	liberal = 58.415842
+	conservative = 28.712871
+	reactionary = 11.881188
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

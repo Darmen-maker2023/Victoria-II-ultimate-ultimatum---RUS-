@@ -292,12 +292,12 @@ school_reforms = good_schools
 	ruling_party = DAI_conservative
 upper_house = {
 	fascist = 0
-	liberal = 30
-	conservative = 60
+	liberal = 16.666667
+	conservative = 33.333333
 	reactionary = 0
 	anarcho_liberal = 0
-	socialist = 80
-	communist = 10
+	socialist = 44.444444
+	communist = 5.555556
 	}
 }
 }

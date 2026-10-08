@@ -32,13 +32,13 @@ school_reforms = no_schools
 
 ruling_party = NRT_fascist
 upper_house = {
-  fascist = 63
-  liberal = 12
-  conservative = 8
-  reactionary = 13
-  anarcho_liberal = 4
+  fascist = 62.376238
+  liberal = 11.881188
+  conservative = 7.920792
+  reactionary = 12.871287
+  anarcho_liberal = 3.960396
   socialist = 0
-  communist = 1
+  communist = 0.990099
 }
 
 

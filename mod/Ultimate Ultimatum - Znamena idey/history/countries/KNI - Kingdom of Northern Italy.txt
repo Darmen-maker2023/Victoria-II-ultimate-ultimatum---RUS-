@@ -563,11 +563,11 @@ early_romanticism = 1
 
 upper_house = {
 	fascist = 0
-	liberal = 80
-	conservative = 10
-	reactionary = 5
-	anarcho_liberal = 5
-	socialist = 5
+	liberal = 76.190475
+	conservative = 9.52381
+	reactionary = 4.761905
+	anarcho_liberal = 4.761905
+	socialist = 4.761905
 	communist = 0
 			}
 
