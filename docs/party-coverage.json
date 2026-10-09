@@ -1,0 +1,3799 @@
+{
+  "game_launched": false,
+  "public_added_records": 1001,
+  "public_registered_records": 15877,
+  "public_basic_scope": 533,
+  "public_expanded_scope": 87,
+  "coverage_intervals_verified": 3178,
+  "old_party_records_unchanged": true,
+  "major_party_counts": {
+    "ALT": 37,
+    "ANG": 37,
+    "APC": 48,
+    "ARG": 40,
+    "ARP": 48,
+    "AUS": 41,
+    "AZT": 37,
+    "BNX": 39,
+    "BOE": 37,
+    "BRC": 37,
+    "BRI": 37,
+    "BRZ": 37,
+    "CAN": 37,
+    "CAU": 37,
+    "CHE": 48,
+    "CHI": 42,
+    "CMC": 48,
+    "CMS": 37,
+    "CNK": 48,
+    "COA": 37,
+    "CRK": 48,
+    "CSA": 37,
+    "CYN": 48,
+    "DDR": 38,
+    "DEN": 37,
+    "DNB": 42,
+    "DUR": 37,
+    "ENG": 37,
+    "EUR": 37,
+    "FID": 27,
+    "FNA": 29,
+    "FRA": 43,
+    "GER": 38,
+    "GRL": 36,
+    "GSA": 28,
+    "HND": 37,
+    "IBU": 43,
+    "INC": 37,
+    "IRO": 48,
+    "ITA": 37,
+    "JAP": 37,
+    "KOR": 38,
+    "KUK": 41,
+    "LAP": 37,
+    "LEN": 37,
+    "MCM": 37,
+    "MEX": 38,
+    "MGR": 37,
+    "MNG": 42,
+    "MTC": 37,
+    "MUG": 37,
+    "MYA": 37,
+    "NAP": 37,
+    "NCN": 42,
+    "NGF": 38,
+    "NOR": 41,
+    "PAP": 37,
+    "PBC": 37,
+    "PER": 39,
+    "PLC": 37,
+    "POR": 42,
+    "POW": 37,
+    "PRU": 38,
+    "PSA": 27,
+    "QUI": 37,
+    "REH": 38,
+    "RME": 37,
+    "RUS": 65,
+    "SAR": 37,
+    "SCA": 38,
+    "SGF": 38,
+    "SIA": 37,
+    "SIC": 37,
+    "SIX": 48,
+    "SLA": 48,
+    "SPA": 43,
+    "SQH": 37,
+    "SWE": 43,
+    "SWN": 43,
+    "TEX": 37,
+    "TKG": 40,
+    "TPG": 37,
+    "TRK": 37,
+    "TUR": 37,
+    "ULA": 37,
+    "USA": 41,
+    "WYA": 37
+  },
+  "coverage_minima": {
+    "FNA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "fascist": 3,
+      "liberal": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "technocratism": 2
+    },
+    "FID": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "fascist": 3,
+      "liberal": 3,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "technocratism": 2
+    },
+    "GSA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "fascist": 3,
+      "liberal": 3,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "technocratism": 2
+    },
+    "PSA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "technocratism": 2
+    },
+    "ANG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ENG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "BRI": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "BRC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "EUR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "RUS": {
+      "agrarianism": 2,
+      "anarcho_liberal": 2,
+      "communist": 2,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 2,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "FRA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PRU": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "GER": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "AUS": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "USA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "JAP": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ITA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "KUK": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "DES": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BNX": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 4,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "BOE": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "CAU": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "DNB": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "DUR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "IBU": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 5,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 5,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "LAP": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "MGR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PBC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SLA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 4,
+      "communist": 4,
+      "conservative": 6,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 4,
+      "liberal": 5,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 6,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "TRK": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ULA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ASS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BIH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CRN": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "ESX": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MER": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "NAP": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "NBR": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "NRT": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "SSX": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "REH": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "RME": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PSC": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "PRM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "IDO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SLW": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MAL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NKA": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SKA": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SVI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BGL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "THA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KAZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TAJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TRM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KYR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UZB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LAO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ETM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MLD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MDR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MRT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GOL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GWD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BIJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GRL": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ONT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UCS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ALA": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "LSK": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "COA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "THC": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "BAR": {
+      "conservative": 2,
+      "liberal": 5,
+      "reactionary": 3
+    },
+    "JAM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PUE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TTB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "FIJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KRB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MRI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BYR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CLR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DRT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "EFT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "EMD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "FDA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GHB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HBR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HNB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MGG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MND": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MNZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NRM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "OSN": {
+      "conservative": 4,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "PML": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "RGN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SGM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SLS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "STG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TRT": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "ULM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "VER": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "WES": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WLD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WSX": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "CZR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MAC": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "KOS": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "COR": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SCL": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SDA": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "BSQ": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRY": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MLT": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "BDB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BPR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PMR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MUN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CLG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CLV": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PLT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WLS": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "NRI": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "TRR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AAC": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LIE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SXL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LUN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ANS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WUZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AUG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ALS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LOR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GEN": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SAV": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "KNI": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "CIS": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "AGL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AJU": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "ARO": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "ASH": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "BEN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BTS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CLB": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "CAR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CHD": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CMR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "COM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CTD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DAH": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "DJI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DND": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DSO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ERI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "EQG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "FAN": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "FAT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GAB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GBU": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "GAM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GHA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GUB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GUI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KNA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KNR": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "KON": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "LES": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LOA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MAU": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MLI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MOS": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "MOZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MUT": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "MWI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NGA": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NGR": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "OYO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NMB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ROC": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "RWA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SEG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SNL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SOM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SRL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SSD": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "STP": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SUD": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SWZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SYC": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 2
+    },
+    "TBK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TOG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TOO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TZN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UGA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WRI": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "WOL": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "ZAM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ZIM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "IRO": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "MYA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "WYA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SIX": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "APC": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "ARP": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "CRK": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "CMC": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "CYN": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "CNK": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "CMS": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ALT": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "MCM": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "POW": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "LEN": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "QUI": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SQH": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "INC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "AZT": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "MAR": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "MOO": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SAU": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SYR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LEB": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JOR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LYB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PAL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "QAT": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BAH": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KUW": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UAR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KUR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DEN": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "FIN": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "NOR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 4,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SCA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 4,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SWE": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SWN": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "BEL": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CAT": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "FLA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "IRE": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "NET": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "POR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SCO": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SPA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 5,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 5,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "WLL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ANH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BAD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BAV": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "COB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DZG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DDR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "FRM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HAM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HAN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HES": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HEK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HOL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LIP": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LUB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LUX": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MEC": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MEI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NAS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NGF": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "OLD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SAX": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SCH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SGF": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "WEI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "WUR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AIN": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "CHO": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "KAG": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "RYU": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "SAT": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "SEN": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "TKG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 2,
+      "communist": 2,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 2,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 2,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "TOS": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "YZW": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "LOM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LUC": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "MOD": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "PAP": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PAR": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SAR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "SIC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "TRE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TUS": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "VEN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BOH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KRA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CRI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "EST": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HUN": {
+      "conservative": 4,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "LIT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LAT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "POL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PZN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SLV": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SWI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "RUT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SIE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UKR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CZH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ALB": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "BOS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BUL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CRE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CRO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CYP": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GRE": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "ION": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MOL": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MON": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ROM": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "SER": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SLO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TUR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PEG": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "WAL": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "YUG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ALD": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "CNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "EGY": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ETH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MAD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LIB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MOR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NAL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ORA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SAF": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SOK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "RHO": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "TRI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TRN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TUN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ZAN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ZUL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ABU": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AFG": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "ARM": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "AZB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BUK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GEO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HDJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "IRQ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KHI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KOK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MUG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "NEJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "OMA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PER": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "islamist": 2,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "YEM": {
+      "conservative": 2,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HND": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "PAK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "AWA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BAS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BER": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BHO": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BIK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BUN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GWA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HYD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "IND": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JAI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JAS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JOD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KAL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KAS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KUT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "LAD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MAK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MEW": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MYS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NAG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NEP": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ORI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PAN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SHI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SIK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SIN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TRA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ATJ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BAL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BNT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BHU": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRU": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BNJ": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "BUR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CAM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CHI": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "FJN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GNG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HNN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HUI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SZC": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TAI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ZHI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NCN": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "CHG": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DAI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JAV": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KTA": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "KOR": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "LUA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "JOH": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SIA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "TIB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MTR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MLK": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MGL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MNJ": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "WIA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PHI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PTK": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "MJZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MYR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TNT": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "OIR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MCK": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MNG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "GXI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "SXI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "YNN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "XBI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "XIN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BLZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CAL": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "CAN": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "CHE": {
+      "agrarianism": 3,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 3,
+      "cyber_autonomism": 3,
+      "ecologism": 3,
+      "fascist": 3,
+      "islamist": 3,
+      "liberal": 3,
+      "militarism": 3,
+      "nationalism": 3,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 3,
+      "technocratism": 3
+    },
+    "COL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "COS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "CSA": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "CUB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "DOM": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "ELS": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "GUA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HAI": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "HAW": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "KKK": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "MAN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "MEX": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 4,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "MTC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "HON": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NBN": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "NEN": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "NEW": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "NIC": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PNM": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "QUE": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "TEX": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "UCA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ARG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 2,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "BOL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BRZ": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "CHL": {
+      "conservative": 2,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "CLM": {
+      "conservative": 3,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "ECU": {
+      "conservative": 3,
+      "liberal": 4,
+      "reactionary": 3
+    },
+    "GUY": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PEU": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PRG": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "SUR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "URU": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "VNZ": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "AST": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "NZL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ISR": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BYZ": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "ICL": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 2
+    },
+    "BAB": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "TPG": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 2,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 2,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "ARA": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "UBD": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "BYE": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "PLC": {
+      "agrarianism": 2,
+      "anarcho_liberal": 3,
+      "communist": 3,
+      "conservative": 3,
+      "corporatism": 2,
+      "cyber_autonomism": 2,
+      "ecologism": 2,
+      "fascist": 3,
+      "liberal": 3,
+      "militarism": 2,
+      "nationalism": 2,
+      "reactionary": 3,
+      "socialist": 3,
+      "syndicalism": 2,
+      "technocratism": 2
+    },
+    "GCO": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 3
+    },
+    "JAN": {
+      "conservative": 3,
+      "liberal": 3,
+      "reactionary": 3
+    },
+    "D01": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D02": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D03": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D04": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D05": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D06": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D07": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D08": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D09": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D10": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D11": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D12": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D13": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D14": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D15": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D16": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D17": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D18": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D19": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D20": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D21": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D22": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D23": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D24": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D25": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D26": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D27": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D28": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D29": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D30": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D31": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D32": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D33": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D34": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D35": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D36": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D37": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D38": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D39": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D40": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D41": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D42": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D43": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D44": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D45": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D46": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D47": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D48": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D49": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    },
+    "D50": {
+      "conservative": 2,
+      "liberal": 2,
+      "reactionary": 2
+    }
+  }
+}

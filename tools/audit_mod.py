@@ -153,6 +153,9 @@ def audit(mod, base=None, historical=False):
     party_count = 0
     for tag,path in countries.items():
         for party in get(path.as_posix()):
+            if party.key is None:
+                issue('loose_country_root_text',path,party.line,
+                      f'{tag}: bare text outside a country field: {str(party.value)[:100]}','error')
             if party.key != 'party':
                 continue
             party_count += 1

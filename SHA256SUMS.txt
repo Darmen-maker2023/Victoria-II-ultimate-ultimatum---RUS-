@@ -1,12 +1,15 @@
-d3c3a10e83997c136b3b7ab9163e37e919280f565afdbe130f8727d31e739d4b  AUDIT.md
-0a83dbc08fc6cd42403b89420e1e6215c058a431424f86e38ace9a080c873975  CHANGELOG.md
+e09e19c959234136fb7d8bcae0169f00a7a3322f939d7187aee55b19b5a0b364  AUDIT.md
+2f07ae79fd46561c0f4baa0fbce7870d38d7aefe87c7a77b8ffc6d8ae55e0317  CHANGELOG.md
+a9fcb8abc0def7d6ed4871dd5998b608c88c687844971787dd36664ab01373d6  GITHUB_DESCRIPTION.txt
 7bc376a98f9f6dbb8bd44bcb77ba73fcd5133760a43ff7b60454b2b7d50c954a  NOTICE.md
-53678f94142f6b84ea8c5e655c777c635b3620520e29a18dc4b068f044866c2c  README.md
-232e709914f72ccbb148215a1ed1ed27ed2a228b08ee170b403fe1dbdafea3c2  VERSION
-5827460c3c8322d30601d0c8843fbe4b966e27fdfbdbb05308f35f5e6ef92492  audit-results.json
+cedce38b148ba281bcd1792242a3408450f9375e2aeef0c8e07b8d1b869edf87  README.md
+f1caa3618368dc491b3d15df9ab900b18f22e9d6abae474fdbfb5d8bed28d3b5  VERSION
+58540082993113b215e988abe5cb74dbaa9ff711c012c0a7dd99eacb0e9012a5  audit-results.json
 5cda39121f5c4b4777e786537834e6b0712c709a043578dfd6ef5dd7ed11ea61  docs/native-flags-preview.png
 a0acbf0d1e91a855f8aa20ada8736fa17ba9e6b28274f50a54597b7b7e4782df  docs/native-flags-sources.json
-c1156976e5970fd1aa27fe580033df58bdf69d6352802d8f153e7ebbf75367a7  mod/Ultimate Ultimatum - Znamena idey.mod
+1926d9ac9f8bf07439161ae3105733144009ffcbfa1f887354ab7e468fb13290  docs/party-coverage.json
+502cd5ebbcc5cd1bfc0a95c99c944318bb42679266e811103c3171def4eeb758  docs/party-variety.md
+332d8fd8baf0072aafdc5e9c9d6554d9ac15055d76137c5292ad560259b19ee8  mod/Ultimate Ultimatum - Znamena idey.mod
 c40a358362277e9cd1d92e34d2e5ac546e19f5d0ee60998a383f828f0c15fe43  mod/Ultimate Ultimatum - Znamena idey/0.8 Changelog.txt
 b05308b0885c520c617c5540607ad5e9e0ccbbfa012a9838e81898d00a30759b  mod/Ultimate Ultimatum - Znamena idey/common/bookmarks.txt
 18d415ecb8d2adf27822c8f0c243c4b7a3689532bcb4f89cc53151c33f4dd044  mod/Ultimate Ultimatum - Znamena idey/common/buildings.txt
@@ -20,9 +23,9 @@ fa817f52c2ca94facdfc960c357ce6e97137ad382dd703cadb90c39cb54c0564  mod/Ultimate U
 f4ac694d9863a8d4bf393cc4c11db888f4e61b84b1de7107c4d78be5384aa91b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ajuran Sultanate.txt
 523fe077564c1c19a89a5c7d5fa4417e714a44f0425ea94e00d25d931edb65d4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Alabama.txt
 fb97540f8e71fd49d0a361b42914d30fcae9eace7a8bba045747fe5743752d2e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Alaska.txt
-97f706a1ee4e9a86b46681c2481412bc356396628d030731a93a8b986468db96  mod/Ultimate Ultimatum - Znamena idey/common/countries/Albania.txt
-0d8ac04ca17f06d02238ec997462f40073db0847fd2cc285ed1a27ced2c5f364  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aldjazair.txt
-bb4f6e76511fb03f2da2a59a663b25213254c5079160b84573048be12c83d65c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aleut.txt
+c6ad896d4f835aacd5db3c7e7b59599c857ad11f78f08943a44d62346002bbdb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Albania.txt
+ed27b255a7265642d3ce5c4bb374aef97e390de9a40697b00248df13e5d8bc81  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aldjazair.txt
+0ccb2b10d7c4acc8f158ed5ed9a110f7c6bc412eb81a3f6ac8d45948d7971ee2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aleut.txt
 8ba0d83950d983168b6d0916745d65dcd3eb07629afdb83f9cb3c31b2f717e7d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Alsace.txt
 e9182d46b8eba404b1ab9eef69737538deed6f1e88d4d3df4267d67dbbe92bd4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Angola.txt
 f70a0ea4bb47ee2588a0ff4fcef03c6aa61da6d094d3012a0633bc3a0b382120  mod/Ultimate Ultimatum - Znamena idey/common/countries/Anhalt.txt
@@ -31,19 +34,19 @@ e2ea4ee2e3cbf90923ffe540a90368148e8c9ac7b422c086b3261f437458fc68  mod/Ultimate U
 f3b35e5bc058b099e11be6819579d2f7f4d560787ce5da728addb98b3dce14b9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Apache.txt
 e2cd91186dff53a008f73a568426fc2b532533a0df5419ad8225fb6c0abab665  mod/Ultimate Ultimatum - Znamena idey/common/countries/Arabia.txt
 a2245ff48fbc6c42d4ec704d43437e9e3b85ca3839392ede546cb62d490324e7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Arapaho.txt
-6d07bf70b9bad72aec9560c66ef293d78fd93d75c03b522776f613ad643201b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Argentina.txt
-35f3509870a1bd30a71fb0995dfb294bd234c61fb30c5d44ebe52ba9cbf0d149  mod/Ultimate Ultimatum - Znamena idey/common/countries/Armenia.txt
+fcb14e21c75733fd19e2fcdbf0e27074b1fa567430b72240df25b1d1e8196fa3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Argentina.txt
+3750ee15eb5a96ab9528a0d9eb2e87318439cc1e871368ef5c7a3c0f5e318144  mod/Ultimate Ultimatum - Znamena idey/common/countries/Armenia.txt
 6d8aeb0035ae0136e546baee4eb86506b433bbf8650dda2d7de8812ff7c18881  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aro.txt
 e46f173952fbe2fb492d653a8cf2a570ffdb67060910a9d87d35002d7c8c516d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ashanti.txt
 fba68c89c56a8cbc8a97cd18b90778039097ac50218cbc9da5f9d9ad8fe3c422  mod/Ultimate Ultimatum - Znamena idey/common/countries/Assam.txt
 844e127760cefdf359815d25fc721494e529b020d4d91752aa22eb851ffeb933  mod/Ultimate Ultimatum - Znamena idey/common/countries/Atjeh.txt
 e3f4751e5c9d54f682075e523050507100566fa5e50ce92efcd85f82739d075b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Augsburg.txt
 5143326a624b758921acdb3b0f0704d83513e6d1b952175bcfa7eb193e050749  mod/Ultimate Ultimatum - Znamena idey/common/countries/Australia.txt
-f33cbbb4a64b0325d29b3db04151ff7055a5871f10f3e959eb2afdb7f6e4811f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Austria-Hungary.txt
-f9b48a2d35f35d31b18ef0f58694bc580e16fdb8605154bee504ee15430e9b23  mod/Ultimate Ultimatum - Znamena idey/common/countries/Austria.txt
+e3d53759300e831c0d7401f9200a3f9e512480c722651bf4d735fca400049093  mod/Ultimate Ultimatum - Znamena idey/common/countries/Austria-Hungary.txt
+76ec9df22725bba7d689b048fa633ae136202c7ffc84ab68db6e6862895d7cdf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Austria.txt
 e63e920681dae36600def5afb9dac74760e5251f072fbefe9a9354f11389d379  mod/Ultimate Ultimatum - Znamena idey/common/countries/Awadh.txt
 670747f604387bebba0f362b416c538310b51eeeb1d331481ab30413622b4865  mod/Ultimate Ultimatum - Znamena idey/common/countries/Azerbaijan.txt
-ca9e620ed96a2d5bb436443dda503fdb4aaa927ba842c0d9a582983560a2502c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aztec Empire.txt
+0a2ac92432f7521f36588457c2f315d2038dc522122b4fc58f0ca0d32a4edd4d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Aztec Empire.txt
 4c943353a664c9668212d4d643d03f865c7d01cca788f53eac29fd7bc9bbd1f2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Babylonia.txt
 7f2f4463529fce2f2b89f3503afd64a49a3e73c256c8efa608c403d613e94592  mod/Ultimate Ultimatum - Znamena idey/common/countries/Baden.txt
 fe77497368e28627e8b5dfbd792942832a07ce6889d891665f7ca245eea85ff4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bahrain.txt
@@ -59,7 +62,7 @@ bee91bea77ff3363d8207c5f803a8be613f46d7fdcf3687dc33a8ac980436e66  mod/Ultimate U
 12ec1e6886d9980c7a09affbd40d851bd3e745db0e88a6e5dafb0d8d62e0e972  mod/Ultimate Ultimatum - Znamena idey/common/countries/Belarus.txt
 72e0e046dcf6a44daabb68e2dace1e4ddffba3894f9a2f79f0a44df9a1d19062  mod/Ultimate Ultimatum - Znamena idey/common/countries/Belgium.txt
 ce2df6c6ce41572eb165c82de49482dcfb8c03ec0b0a5a72ee9a7fa311b40cc7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Belize.txt
-9e8fd5c28a38ec1881e84ec45319084f3936a7aa7434db1a318f4e0127416a23  mod/Ultimate Ultimatum - Znamena idey/common/countries/Benelux.txt
+32a1770c98f1ee3b5134a4f100439a44ddd93da02c8c0cea5b6e3b8fa6684108  mod/Ultimate Ultimatum - Znamena idey/common/countries/Benelux.txt
 423903883b661ffdad93a9762a5d52d9447edec01dd3abe274ae42def956763d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Benin.txt
 01df6d7a909c5ce7c797a96c796ed8efb9f02a1e78b1ed387f3535f61ba8ded1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Berg.txt
 04552f6439a8983b2a97261b74af7ccdcb9ab0385b2261b250353a0691bae8df  mod/Ultimate Ultimatum - Znamena idey/common/countries/Beroda.txt
@@ -68,7 +71,7 @@ c6fbaf55473e7994911c1367776ff4d563cf5c9731a337fce6602b36a3921137  mod/Ultimate U
 6246eb8f96fa37f888f252af27b4fe4618294fa39cb58d995e452f8043e5651f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bihar.txt
 aa08e449a76d3610b8aa8dad84f4e8ad454dd224bc7fbffa21dc4c669015f5f1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bijapur.txt
 7e97f308e49968fafa85c4487f23f127344303f195db6bbb86f1e15c978702e7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bikaner.txt
-59898752fa4dc2b1f06daa3be6f7b9fa540eef819019d6b1c01ecbcc2d1ffa17  mod/Ultimate Ultimatum - Znamena idey/common/countries/Boer Federation.txt
+5861be5fc67b086ab535f9e67e1f73842e690b12f66a442f4722bf04615c7adb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Boer Federation.txt
 cd5552d5d6dd5332ce10601095ed15d7c48450d5ba92e63a0866bafb0546f161  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bohemia-Moravia.txt
 d8e8d1706407931d990d9b57485b71f81a5a2e740b7a85269e8484e889e4d5b7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bolivia.txt
 c8c98ee75d761b3573b4c5c8ff3241eab5e7065c2b78836aec7645bd2ca87cc8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bosnia-Herzegovina.txt
@@ -76,11 +79,11 @@ c8c98ee75d761b3573b4c5c8ff3241eab5e7065c2b78836aec7645bd2ca87cc8  mod/Ultimate U
 657719ba4037d79889553f122ad47c8f1e4125f9d29c5b91fbb2c9ee509ecaaf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brandenburg-Prussia.txt
 4b6019efdfdc5e63970ac0104b8f8537032b979546f2a35b8dbe4b3b9e95b8ac  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brandenburg.txt
 e64885c134e650d88844eb29f90736c3aec62da081a23f2409f055c58e27849f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Braunschweig.txt
-78fb5c4e8b5c18d2b7b037efe99b6864e2c6dcef56403e7faf184ab36d19ec67  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brazil.txt
+495794d0d9cf22f67bb7c83f5db29f7f655caf089665d8cb1953298515a6c2b2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brazil.txt
 b990748ba146864049102b92ac34620a62ff89203fda1ee0027a2f6e49eadcd5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bremen.txt
-912db5978324aecd464f611b1929f5d7b826651dbc4f33ea3761c5770b05c631  mod/Ultimate Ultimatum - Znamena idey/common/countries/British Commonwealth.txt
-9d42b3b7f506b40e8d75e15d137e7b7f1e2bbaaf4ff5e102cdc80c1a9eed45a8  mod/Ultimate Ultimatum - Znamena idey/common/countries/British Federation.txt
-aea99278134c7f89324e5017f5f6491cb4d9eb63a3f95d5b1741b97178cc24ca  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brittany.txt
+52a0fff8c292957369dcd2bec872dd08169589f9d389134098b86dc2f77ecb41  mod/Ultimate Ultimatum - Znamena idey/common/countries/British Commonwealth.txt
+76141706b30efc99bf165a8519c8774f4767553f19decdaf3418377c8ecd4a70  mod/Ultimate Ultimatum - Znamena idey/common/countries/British Federation.txt
+c1237e1dac4dc93e2ebb252f33821cb357bfd135aeb3c26bf30b8efa68d60043  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brittany.txt
 eae4d5b20cc613d069cac41fb892e873080c2f41013c49f211da5a4c8e843a11  mod/Ultimate Ultimatum - Znamena idey/common/countries/Brunei.txt
 221daec24a2e230ce05f6deed8da2eacc24d54b3cd551bf69298d0cdd45108a4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Buffer Zone.txt
 da6aa52fb26c4c9475295932a9a1c93d5a3e91e1a2a57d96212bec0377b996bf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Bukkhara.txt
@@ -89,37 +92,37 @@ caf391984a1b07c746816799252a92eac905d0a692708efc2faa33ac385bcf22  mod/Ultimate U
 a1675d1208d98a5661668b89d558f2104017a3aed87fe25537b97c6251fd7998  mod/Ultimate Ultimatum - Znamena idey/common/countries/Burma.txt
 f159a00f7e208921e84a6c5b03bfbfc3153ea9e35cde3aeda2c799870c4fc5f3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Burundi.txt
 eb0e4ddb6cd0733858b97499da1847470de5403ca025a08b0bca70cb5597cd71  mod/Ultimate Ultimatum - Znamena idey/common/countries/Byzantium.txt
-b3e0deae59f211710f3a6e23ba9ce0394d3b02757c3cd966ee9f5c9ffb4bf84e  mod/Ultimate Ultimatum - Znamena idey/common/countries/CSA.txt
+b38a54e45f5dad9aa3c33ce8424f30723bb2b2b5eca77b12551becd8751cefb7  mod/Ultimate Ultimatum - Znamena idey/common/countries/CSA.txt
 789b53884c7296ee31f86a21393b02e6db575767bb43f99639710232bcbf931b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Calabar.txt
-f15bb6046dbcff43d8c6f91c219bf23a834c8b4b6f2954654e1ced539c671294  mod/Ultimate Ultimatum - Znamena idey/common/countries/Californian Republic.txt
+ec116d03c73dd6e14d4e1d60e43f531edcfa2fc7a618933f93301be7fb71b669  mod/Ultimate Ultimatum - Znamena idey/common/countries/Californian Republic.txt
 60b24882d4ad2245d24d1742f5338666340ef35c5a49578840f3e59664c572c4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cambodia.txt
 e25857cddc68244336da4dec66c252b7025615741a1404f123ebfc6900575b7a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cameroon.txt
-21320992030d55650eac065a3c285af5a7e4c974028710b3ee64370fb15ac717  mod/Ultimate Ultimatum - Znamena idey/common/countries/Canada.txt
+97a13ccda2d07bd1e5a7fdeab46b096c07c83024ced021f8ddf6da34d9a6b804  mod/Ultimate Ultimatum - Znamena idey/common/countries/Canada.txt
 c58d88aa72b254d27c7c908a368ced4f2173c6b9cc00f1e6f0e939698ea28b32  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cape Verde.txt
 36fedbdc5f9dabf0ff31e0c35dfa4c11f2361dc4162b2069aa25c226f8454d32  mod/Ultimate Ultimatum - Znamena idey/common/countries/Catalonia.txt
-6e0fe45885681ee499c144f10ec880260b159bda8c273d23c4071dd0a035856e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Caucas.txt
+9529af8253a3de05f063db522b21502d63d9b7396a4d138a1d16b6064e5a8f26  mod/Ultimate Ultimatum - Znamena idey/common/countries/Caucas.txt
 128a660cad87eb298833b0dbb99e18dd96b39cbf57b52d736d83129f85409cdf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Central African Republic.txt
 606391a19d9345fae5331bd7290df9c91803360d60e314b61f7b20abaf86058c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chad.txt
 da06d24e89af9b6d5e5e8da01cf20fdd34ec3b8a444979cea01ccbc6cb3c0827  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chagatai.txt
 074d84ce1ef4964c515c1072b187111df55ee8f9ec90e236301db0efe4a004c2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cherokee.txt
 6d963527f467f949a577a3f9877d93bdcfa9a9ae9aae7ddf5f0c9353643a35c3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cheyenne.txt
-c364087d651d65e2ef5f221ed0c341296080172bfd7bb997aa7c4582bdf38f92  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chile.txt
-53a0b403cbf2a5d6d2eeb2afac0767e4a39f9a289666731811794d6f8cad426e  mod/Ultimate Ultimatum - Znamena idey/common/countries/China.txt
+682a6ed4b2f5adbf4a0381affab328e4b9e9efce0ec5378dcee8609df05a0b38  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chile.txt
+3cca608089475180842f475bd626558f6e83d81dc312a86334b248f44c8c9ded  mod/Ultimate Ultimatum - Znamena idey/common/countries/China.txt
 52c3ae5c302425625c7dcdb0d738fda7da81769ca267c603476156d74490b0c7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chinook.txt
-dcbff2b50ce2fc853e267f4d2a1de836fddddea4e32ad9a20be572d88e73a35a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Choshu.txt
-adac6bac8ff99da92ab0d7daea73195767f2dd5624b43a30b6aad6442f868c81  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chumash.txt
+ea4e9b918c73e16598e83239193d13c577203ba6b574ffe262badcf49de67556  mod/Ultimate Ultimatum - Znamena idey/common/countries/Choshu.txt
+c51c6eeec90726e03176e78342ad58247a353155ee8ed32aef79f870a5d02d5b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Chumash.txt
 98d967789376fc67293a499b74e96440c236936505290ad71c91825f672476a3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cisalpine Republic.txt
 5fac9f014b4e0c17abb8780d7d80f8030adce817dcc2f9d010ec87bf78391de6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Civilized nation.txt
 5b29e8c04b662442f5250a5d572a79c80dc5b7eb290c77a958ee5b01a446beac  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cleves.txt
 514313d7d7d3f1f52c68881a8c7c5903281e7e3cd1c3be2f97a12a2e4b9cb34c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Colmar.txt
 8f689b9a643e5a70e92dc5b1423a7a38e6127dfe974daeed9ad6753fe310a74b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cologne.txt
 fbc648bf5556283df2cfb6f3f544e4b8c3ce11f543f2145c733f5bb7af7d3ca4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Colombia.txt
-90210074294ec437a33e058b17607b84e3d3801d31bf12ede93c67ef1130d304  mod/Ultimate Ultimatum - Znamena idey/common/countries/Colonial America.txt
+045f96fb901fe4312adc7990678ff2c5337be396c60249aa12a5b5080d3d4807  mod/Ultimate Ultimatum - Znamena idey/common/countries/Colonial America.txt
 005e2d0316374f6fc5fb917d2ca9ad0d915f51d553a6bf76d5383141534b0b80  mod/Ultimate Ultimatum - Znamena idey/common/countries/Columbia.txt
 03edd01283c391170723b2c3074596d238100649e12865e3e24ad8aadac84300  mod/Ultimate Ultimatum - Znamena idey/common/countries/Comanche.txt
 351166ada202f0bf93bef6ffa95a16fe34140242166d0bbef1d4a8a366f70530  mod/Ultimate Ultimatum - Znamena idey/common/countries/Comoros.txt
 952f5b8c851fb4f0412378a6b3098e61dd440aaf1b75deda841b88b5dffc7536  mod/Ultimate Ultimatum - Znamena idey/common/countries/Congo Free State.txt
-f5dc70da2a960aae6c90cd0dbc2b77ad8a3465ffa19dcb61024e59bfcc2c16c2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cornwall.txt
+ba628665ded4cb95796610b90dc8835abb5a39784842a15f352716f7b4c44df2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cornwall.txt
 7428fb4205c2d83eb36c4daaf52e0696f5894a01cab97eec445ba3ec52b7478f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Corsica.txt
 7906504a266552c73c0f7d6d61a29a75e7a8f39a3613d47e7cdad8d61ef67dc6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Costa Rica.txt
 58919be73f95b0c6172b47472654e0c09acaad4160cfd47e98572754e6c7ce3e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Creek.txt
@@ -130,94 +133,94 @@ e729a546a32c8817208bcb5f67e9b1bab577a0d84416e2710265ac50bd5e1298  mod/Ultimate U
 753346bfdd1def6b80a6d6daa14d6ffc3ecf50e4ea4e4cb8f68a74787e3fcdae  mod/Ultimate Ultimatum - Znamena idey/common/countries/Cyprus.txt
 a5ddc3b090510823646a5c35b67b08a72f037266b99c632e6857eaf1c329fa86  mod/Ultimate Ultimatum - Znamena idey/common/countries/Czech.txt
 e75b4bd102a718591bc3a8a53423844ea264dbcad03371eec2101477c2b94511  mod/Ultimate Ultimatum - Znamena idey/common/countries/Czechoslovakia.txt
-556482fedbee322fd32a8a4205c162d469e36808969db773cbe3e53c609436a4  mod/Ultimate Ultimatum - Znamena idey/common/countries/D01.txt
-676733313c1eccacca8be0f8b38d87e0d797c1143cc75d06166619e3c51415da  mod/Ultimate Ultimatum - Znamena idey/common/countries/D02.txt
-0a444f66f8a86fc5a8663dba4937e7cc9302291dc4217a3ef37b58df901680d3  mod/Ultimate Ultimatum - Znamena idey/common/countries/D03.txt
-178f59803ccbe99ed8e6faeb404e931fd9ed5a1839abf9d9cd2b31b83a907405  mod/Ultimate Ultimatum - Znamena idey/common/countries/D04.txt
-0b3a073d7a19261c05f9561f40e2a6bafb5fa895775fa811980f4c5e3e468806  mod/Ultimate Ultimatum - Znamena idey/common/countries/D05.txt
-d65089218f0093562bc01581824b6c9fcdad044c19a986471dd4edc4302b20e9  mod/Ultimate Ultimatum - Znamena idey/common/countries/D06.txt
-f7a42ad3433a50c5c11c4f5708bb8ed95a118b6e3235c8d09fb4eee6b8d3ab63  mod/Ultimate Ultimatum - Znamena idey/common/countries/D07.txt
-a0792d1ee43a738f1c909721e21c4c4056255e707aba9e1bb1339625e466e9fc  mod/Ultimate Ultimatum - Znamena idey/common/countries/D08.txt
-eae49ee9e6982fc8fe8dc9ea43e7832453170df83d56ef033e4144a8b62e339a  mod/Ultimate Ultimatum - Znamena idey/common/countries/D09.txt
-1d05a79f66899fe1c47d5012c59cfa3501d9dba697a834913d97ee2e061b14b9  mod/Ultimate Ultimatum - Znamena idey/common/countries/D10.txt
-495db406fe649bee29c0e5434bba20189f7ca6f975b00034b16ab955ecf20b1b  mod/Ultimate Ultimatum - Znamena idey/common/countries/D11.txt
-81868c62207f1d930ce20573dcc5b626cd7c5f03818347f8c3025fecec74ca3c  mod/Ultimate Ultimatum - Znamena idey/common/countries/D12.txt
-9bd3ae557599ff74088e0a313f66b2c6efcba88e6be143b59844872241597851  mod/Ultimate Ultimatum - Znamena idey/common/countries/D13.txt
-efb593c987db4b08c75eb4895ce4deae152d0b625af8457fadc10461c25b7cc8  mod/Ultimate Ultimatum - Znamena idey/common/countries/D14.txt
-6cec9eb0a2ba0c2cc1e1b0f901b4d0b42978dce4887b3b91073e8e32c4fea9bc  mod/Ultimate Ultimatum - Znamena idey/common/countries/D15.txt
-2498af94632863a118e8d97e55e6e0c050e217718c68d70b73567b971b1e0674  mod/Ultimate Ultimatum - Znamena idey/common/countries/D16.txt
-e33b5cdf18812011fb3d06c45555604cccef7b4dcbe0f37632ad72ede164d0b4  mod/Ultimate Ultimatum - Znamena idey/common/countries/D17.txt
-60822d86aa76fc54ee6479d2169dd4829298a505927ea63e573881926abd5c87  mod/Ultimate Ultimatum - Znamena idey/common/countries/D18.txt
-8c5b003778dc4575dc1c879ce3569903ca0fd67f268934808676f4b3de62c959  mod/Ultimate Ultimatum - Znamena idey/common/countries/D19.txt
-87cb3659795de57b3aa4ebd8c5cdc519a96c4b3c159257b7046eb6a23ad701a9  mod/Ultimate Ultimatum - Znamena idey/common/countries/D20.txt
-c64f9e825240c13038722d83ccc05bd2099ed377923e0bfe957fee19aa956f06  mod/Ultimate Ultimatum - Znamena idey/common/countries/D21.txt
-5fb05068832ffbdbd35ae23a003a60dc66754c56f6e27b2763c75afeb7cf3c6b  mod/Ultimate Ultimatum - Znamena idey/common/countries/D22.txt
-afc41555cf53aded5e4716055c5f31f7a426cbda51e482636899736a35dbd817  mod/Ultimate Ultimatum - Znamena idey/common/countries/D23.txt
-94a23dd146a26fca09686f867dbaecf39c267e7e249e1178fe06e67e68a5ce28  mod/Ultimate Ultimatum - Znamena idey/common/countries/D24.txt
-1d0c93d67653ab7b02763303df7fe155a322ab2da2e00f97102e1be6d569d3a5  mod/Ultimate Ultimatum - Znamena idey/common/countries/D25.txt
-5183d535718abf205f05eb8635e3233602e62d25fe51d147427e72eb3fd02f1e  mod/Ultimate Ultimatum - Znamena idey/common/countries/D26.txt
-bf9c6cc182a941b55b9287e5348e4e20aee5182592783229e46e0f365b2603c5  mod/Ultimate Ultimatum - Znamena idey/common/countries/D27.txt
-e63d066c64db5dfbb753981e17ad86c4ad7fd31bbf926356e9e5102cf83810fb  mod/Ultimate Ultimatum - Znamena idey/common/countries/D28.txt
-165c6fedb3a5968009b16cbdc6abaefede91c953b96f7c6773f8b2d2a3cdcfb7  mod/Ultimate Ultimatum - Znamena idey/common/countries/D29.txt
-64d8c6cfa2e5fb10cf5c9ad83915d38f44dd599d7b9b0bb5d5b978050c905ae8  mod/Ultimate Ultimatum - Znamena idey/common/countries/D30.txt
-eb48cdfcf0aaa486b49bf7c83f54d6d1f0c97b7dc057fa180d7c308ba33702a2  mod/Ultimate Ultimatum - Znamena idey/common/countries/D31.txt
-6e60a7952d56aa424a584849143a83146e55e51821f631e2ce0722409f9566cd  mod/Ultimate Ultimatum - Znamena idey/common/countries/D32.txt
-026365dda48ce947de8ff21ca3e5a5388e35b0aa30cf49579d39b1388140510e  mod/Ultimate Ultimatum - Znamena idey/common/countries/D33.txt
-cb2f89b16aa8b87ab0f358de71b1602c1b33030f7130a49e8819110205d8e284  mod/Ultimate Ultimatum - Znamena idey/common/countries/D34.txt
-5b7872c74cae3a0e56fdeba8c32503471896cf56c884757348829c8c8bf1d40e  mod/Ultimate Ultimatum - Znamena idey/common/countries/D35.txt
-ae55aaa6a15272a739da58c7ff80adea2326f9fa0537ca2880c01c7f77326a96  mod/Ultimate Ultimatum - Znamena idey/common/countries/D36.txt
-9eff6d04e880c60d8f014d7f2877fa5518e84ab37f9479c631e17bf740a55240  mod/Ultimate Ultimatum - Znamena idey/common/countries/D37.txt
-e56cd42bc3cb88db4ddbd43bebc188eed651345e1c6d5815841fd3c4866eb9f9  mod/Ultimate Ultimatum - Znamena idey/common/countries/D38.txt
-6f8e57d3b4b0cfa18f84bf6529dabe8d7e2bfeb0cf3d6e3fc273c38674530927  mod/Ultimate Ultimatum - Znamena idey/common/countries/D39.txt
-af79220f3c24a6b6b0ee01a77bb98b211af260dd776acfea2a07f764140e1a0a  mod/Ultimate Ultimatum - Znamena idey/common/countries/D40.txt
-185b965252387d912ffc0400fb0b70f56531be5f3dd87184c9bdff2264714134  mod/Ultimate Ultimatum - Znamena idey/common/countries/D41.txt
-f2d57cf379c77e84f0bfd735ba70e5c176786ea77182f133b973c0ee9bc33c51  mod/Ultimate Ultimatum - Znamena idey/common/countries/D42.txt
-c9f729f40539241399abbbab321bdc8ad87c29de04caccfe8fd7fbc9b5042450  mod/Ultimate Ultimatum - Znamena idey/common/countries/D43.txt
-12c16a4ea4bda66a919d499c7041572f53dde28b57aa2a417a89f08c326d63ce  mod/Ultimate Ultimatum - Znamena idey/common/countries/D44.txt
-4e87fe2c1574746bd9fb7a5f7102258a3902657b40cb0696f6371987dfdc1ffd  mod/Ultimate Ultimatum - Znamena idey/common/countries/D45.txt
-0ada9fe23edcd2f9a681c3dd77eb0da81daeb9fd5c233904e495d9351323ddd7  mod/Ultimate Ultimatum - Znamena idey/common/countries/D46.txt
-4c0796964573ce567eb3719c3ae20b3fa0192787e75a74bf78babbf94dc4c118  mod/Ultimate Ultimatum - Znamena idey/common/countries/D47.txt
-57faa03dbc6108cec51abed421e807b637ed327448b8575c8062c643b36b71d7  mod/Ultimate Ultimatum - Znamena idey/common/countries/D48.txt
-6b9e0f8b6de2ec251fdf0f5199af61d9228cc339ffc3177cad9677f54a816e56  mod/Ultimate Ultimatum - Znamena idey/common/countries/D49.txt
-b05561173ecf3b4118a0c84fb53e4c6c54243df2292a9fa291659d4cd5e82579  mod/Ultimate Ultimatum - Znamena idey/common/countries/D50.txt
+b335ee14f15b3a27511b9d48246dfae766bbe055a5ee11a7313f9a01ca59839d  mod/Ultimate Ultimatum - Znamena idey/common/countries/D01.txt
+f8c582f500edce3791fa26730f977fca1556e98e52ae21c4af4d7df25f27cf53  mod/Ultimate Ultimatum - Znamena idey/common/countries/D02.txt
+dad18d75aa8d37796d6f9e8ca1f24aa1f88eff7bef18870e15406e4d2856ee38  mod/Ultimate Ultimatum - Znamena idey/common/countries/D03.txt
+0e8b6c9ec1ef7dc0a1ab4ca4e726b8e16c33205af596d7e29fd548827c40ccb4  mod/Ultimate Ultimatum - Znamena idey/common/countries/D04.txt
+53686fd6e02aee5722031f66a3ec3629565e216d4779ecfa1ceac46cc82486b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/D05.txt
+0d632e5b9a3dba1ee29713ac3d1ab9bf18eb04ad53296f3be7b73c5de0425b4e  mod/Ultimate Ultimatum - Znamena idey/common/countries/D06.txt
+86527819bb2556ad9ba79b3ed1b241735c1eff3989f18fabe5e3b18de3a0ef3b  mod/Ultimate Ultimatum - Znamena idey/common/countries/D07.txt
+2f7270abc6e19155125b301eac3dd0ebfeaba68eb6870a0be6ea51a86ac943e6  mod/Ultimate Ultimatum - Znamena idey/common/countries/D08.txt
+95dea321a05afcffdd4b5ef4109513467153e516fcd878749017e2f8b5431351  mod/Ultimate Ultimatum - Znamena idey/common/countries/D09.txt
+1b3b9575728ff5740a3eb6be8110ad8ff6d8f0ca196043886dc9e3a191361840  mod/Ultimate Ultimatum - Znamena idey/common/countries/D10.txt
+061d6ac19944eee93efca4e62e5d9f50364c18b30ec4578585688a2d264b2d2d  mod/Ultimate Ultimatum - Znamena idey/common/countries/D11.txt
+3918986b796f94223dbe3c43c74c811f7f0711e3959e9db16484269d2e7b9d15  mod/Ultimate Ultimatum - Znamena idey/common/countries/D12.txt
+83b746d59c212ecabbb5998157daa4c768413687d73b78a1aabbaa28adfd2fad  mod/Ultimate Ultimatum - Znamena idey/common/countries/D13.txt
+817fe4462573e8074a60b9a9c1dc32c69c6e5eba70ca90a8b71020bb17051c76  mod/Ultimate Ultimatum - Znamena idey/common/countries/D14.txt
+f5805fb36d80f65860c059355a10854f25d03c6132f5f498db4ee08ec530e501  mod/Ultimate Ultimatum - Znamena idey/common/countries/D15.txt
+3e4adfbc1db3182d700aaacc4ca927d4209c587ee1ce3818b46985a869a62f67  mod/Ultimate Ultimatum - Znamena idey/common/countries/D16.txt
+df3ffbd17964f5f1f816812f28bbb07c5a275415925c2aa98f4ca3aba10d25b8  mod/Ultimate Ultimatum - Znamena idey/common/countries/D17.txt
+266fc1e25c13ab4bfff6c5d2992b59969b5ac04872909b167494c858c71db1b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/D18.txt
+42abf569791a0dd31bfbe95ca1efc02ac7bc60edbbd89708ac12f927cf827302  mod/Ultimate Ultimatum - Znamena idey/common/countries/D19.txt
+57b8c6739e44dc2d62a15495351510b10dd04d6f5caf88d563ff8d17f7b73a22  mod/Ultimate Ultimatum - Znamena idey/common/countries/D20.txt
+3a8dd9f041c816188c68663996d55d0753a96eed58776d60ef2c8f5e661991fe  mod/Ultimate Ultimatum - Znamena idey/common/countries/D21.txt
+aa5adcc1651c0ef5867e5c847956dba62a30024e038cc199e2a0323825eb10ad  mod/Ultimate Ultimatum - Znamena idey/common/countries/D22.txt
+3dd7cbcb0eb77729bcf0ad5594bf40285b9954968958c1062d2263b40feac9d9  mod/Ultimate Ultimatum - Znamena idey/common/countries/D23.txt
+a3a772fa6b4d7a7b58c18deb021972a84b28266b19b739f0fde6400d1af3d7c0  mod/Ultimate Ultimatum - Znamena idey/common/countries/D24.txt
+b6aba676eebed0a0948463f4e5ca9c5eca0cb3cd4d31f089012bb92931b479b8  mod/Ultimate Ultimatum - Znamena idey/common/countries/D25.txt
+52be4ec78ddeabe6a711369541bc152d67c18dffd464364f8e7378bcd4dde1a1  mod/Ultimate Ultimatum - Znamena idey/common/countries/D26.txt
+46af3c423bb8cb0d0f8a342645a90cb12bdbe2f3d02e4182edbb7641802be014  mod/Ultimate Ultimatum - Znamena idey/common/countries/D27.txt
+8fe309eb4f172969424b740a201a394c87b177531779d391037d380043544bcc  mod/Ultimate Ultimatum - Znamena idey/common/countries/D28.txt
+837b894668428abe4caec6459271119fa8b7c6eb8a7ff630ea0c6f9f033cdbbc  mod/Ultimate Ultimatum - Znamena idey/common/countries/D29.txt
+82ae6ef1267d00becad75b02a3cc9c35f747a41736c5bca34c3a9ca5351c4cd0  mod/Ultimate Ultimatum - Znamena idey/common/countries/D30.txt
+11fa37d88af40019e9174883cac38f084ca60bbb15b6dbbbda46b02deb3a208c  mod/Ultimate Ultimatum - Znamena idey/common/countries/D31.txt
+4a274556eed6ac548a7b5e0f440849b9c33f36233306714467b6d2b0f40e7c4b  mod/Ultimate Ultimatum - Znamena idey/common/countries/D32.txt
+5c9f46c7e81cb4eebf98236cffecbd941bdb125c8540ec4bf41bc559a4ac3c1a  mod/Ultimate Ultimatum - Znamena idey/common/countries/D33.txt
+8af44a7c3c4346034ea505500334c5be275d15df67d99dd559d3e2938a08afb2  mod/Ultimate Ultimatum - Znamena idey/common/countries/D34.txt
+bda1d06c4272e13c04efb2a0a18c642c3697cf98ee084bd4f9eb7702e8a28c0e  mod/Ultimate Ultimatum - Znamena idey/common/countries/D35.txt
+6c18cf93d5f2bcefe3fe72715595b75ba52edc10edca9ee274e08541613b6ed6  mod/Ultimate Ultimatum - Znamena idey/common/countries/D36.txt
+58e3f8fca07541fb6b466a688dd7b16092e184077ff3e18a1b1a413f60b817bd  mod/Ultimate Ultimatum - Znamena idey/common/countries/D37.txt
+cfb361d8b8c30f62e63538965b68330752914932f3c26da6ed912d3632d360e7  mod/Ultimate Ultimatum - Znamena idey/common/countries/D38.txt
+320102edd461752d25bc94bcaccc7c1550fd2cedb835739daee5d0584aecce4d  mod/Ultimate Ultimatum - Znamena idey/common/countries/D39.txt
+abd1d45dc24bcb63b82ef3267e3ff3ff5e7c76670e3be1045fb837a38f92c89d  mod/Ultimate Ultimatum - Znamena idey/common/countries/D40.txt
+a233e6a13d806943d56efb4725fb227c03a034347b4e18e7d4df1d2db08853a6  mod/Ultimate Ultimatum - Znamena idey/common/countries/D41.txt
+87a4e7e7fa896e9da51326d6c3da31b5fa3d6b22b9eaedad0f8b4c6ef14e0e3c  mod/Ultimate Ultimatum - Znamena idey/common/countries/D42.txt
+5fb84a43afda034d6bc87d9d7e4cced6a6b2bbdc680a72a8bdf18d6e33a00180  mod/Ultimate Ultimatum - Znamena idey/common/countries/D43.txt
+ee30ce49d0abbf2c75b7594100f007cd4fc87d6db83cdd0b9c1622831c56f572  mod/Ultimate Ultimatum - Znamena idey/common/countries/D44.txt
+39b26d4fcb39a010bf0c2b86e0bf6bc7be5bd68c8ae9fd9c41e7cca86494f89a  mod/Ultimate Ultimatum - Znamena idey/common/countries/D45.txt
+020d5ffbd112bddb8c925dd13f32acc394746dfbd498a9035a8e1a30273f594d  mod/Ultimate Ultimatum - Znamena idey/common/countries/D46.txt
+25a88a0a0b25d0789decc3bfd2684540d2a3ea2853cf2218dae02f2b95ff6151  mod/Ultimate Ultimatum - Znamena idey/common/countries/D47.txt
+08eb50daabc79aeffcd42dfd7ed33d9df9e2b62b2959a7de96dfc2bc8759274a  mod/Ultimate Ultimatum - Znamena idey/common/countries/D48.txt
+8599f285bd0c19833d7854b23a967af2aae35aca7d3c11834f4370c9d17a8ec3  mod/Ultimate Ultimatum - Znamena idey/common/countries/D49.txt
+8845ec322ad7e9c5837df3bb6c0eed703855566b06176609d66746bc9a54b1a3  mod/Ultimate Ultimatum - Znamena idey/common/countries/D50.txt
 00b73ef4198f6f7996c412e65827dfa524429147185a121590cceb04a5ea1478  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dahomey.txt
 1fe3e24e939e2bb0ef303eb744b65a6a0ae5f50b390d65327fe1048b86943525  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dai Viet.txt
-59a2f6b60450cae61515729df7a4ebad27d6a37dd527a7717232f9db4a90b81e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Danubian Federation.txt
+ca6855ac7fa4b9e883f31d9e91a28e6eb4f962695e87dbbcbde3a7f2130499b9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Danubian Federation.txt
 10e547a093b8f42894810ccaa48683fb98b34cc311f5bb3fb62cf673a1e731b5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Danzig.txt
 bd985a57ff79f4a4f7bf6ff70d088aed37e41c109d23c6547b4fdb26ec8f9609  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dendi.txt
-2e0b15818fddaa476c612d0ff9e6af27d30786e5cac491309d21d35404f0e021  mod/Ultimate Ultimatum - Znamena idey/common/countries/Denmark.txt
+43e783074f1bc385afac7dc225a4098cffd8854bf0b27d43b8569641578d1ab3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Denmark.txt
 fae3c333210e8df7d226bd3ddda420db299a975672cdf1227ce3930635e5386d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Deseret.txt
 e9bf4105d9e617961dab73e90714029c45b5b136d5e39d3aa2f867238cb2e5c4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Djibouti.txt
-9ccdee824e0fb00f7e3743e2e2190f18a0cd177b7dda2b723e2b58b8f38bc661  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dominican Republic.txt
+bcf2bb280fdfbd01a812cc250efdad45760656b42e2571a5d256534ce95f5001  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dominican Republic.txt
 0eede7a254fd53dd45c2420a2a59a5bb503cc2c0f2270c8baf4896775e94b642  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dortmund.txt
 41efd66b3e4c252d3a32057c038032916527d4f329fd4a28db767e71d8cb6478  mod/Ultimate Ultimatum - Znamena idey/common/countries/Dosso.txt
 a2553d98bd1983b041871a6101143e88ccacf5a76aa540508ce2f1673d910104  mod/Ultimate Ultimatum - Znamena idey/common/countries/Duchy of Warsaw.txt
-70cdece27b119049e393342b58f2bcfa37fabc45c8453041e080e9435ee873d5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Durrani Empire.txt
-be3b8e6abaed2e8a595d9dbcc0068e5c1c7320905aba84d4be17a4b22fbd665f  mod/Ultimate Ultimatum - Znamena idey/common/countries/East Germany.txt
+b1d9a82b2b810b4c0ef0662ccf2a9910578c7269a037f832a57cf794f6db6f5c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Durrani Empire.txt
+c0e6ab935d51a9be6e1b841c958dbe203e0b57516b5390bf6de694ccb4d58868  mod/Ultimate Ultimatum - Znamena idey/common/countries/East Germany.txt
 b545bd2129ccf3a524914aed4fba58bea7f031d2022d183d68507388510d3a8b  mod/Ultimate Ultimatum - Znamena idey/common/countries/East Timor.txt
 1838236a799efb37a72567330260f212b503b60f660d6df3873868013ed76441  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ecuador.txt
 49ccb403ea9c93a6dcc9a070c7e932b118fd2b896197092cb796cf364699f8b2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Egypt.txt
 998d52bc3163eeff997d90ed4a832d8aee8cb65e84bb2ad23711b9a401aeae61  mod/Ultimate Ultimatum - Znamena idey/common/countries/El Salvador.txt
 88f9ef89c5ba1230b04ecd77e2359ccc10bcf7765765cca6a911c598c886cbe0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Emden.txt
-81ed86f9d09bbafc210ad12164b25aac3898427893ab9bb881db27fdf784dc48  mod/Ultimate Ultimatum - Znamena idey/common/countries/England.txt
+4edc4134ca16b1154bc3896c7bd0a33bb739f0a9a842a6eb9fb2d50f37e61bc2  mod/Ultimate Ultimatum - Znamena idey/common/countries/England.txt
 c21844caf2618f5d08fc02b82e993ef2973597088f5b4f50e253548afa1f387c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Equatorial Guinea.txt
 c72b6227295e41b4dc33176f6951f0cc8e7958fcf494ce5cda1a0bd85b20a9b2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Erfurt.txt
 645fb8569fc4134bbdd929e09ae5a107cda329a0e207e281432fdc78ad0e8680  mod/Ultimate Ultimatum - Znamena idey/common/countries/Eritrea.txt
-99bb6da8c15f9a4ff7780e3ecbee45df8a91172b76598c60b2cfd087c7341313  mod/Ultimate Ultimatum - Znamena idey/common/countries/Essex.txt
+313322111eb627219ad0039b9bdceecb765511ddddc7a63154e8101cafc63596  mod/Ultimate Ultimatum - Znamena idey/common/countries/Essex.txt
 e6852598116e1d318ebc58272a6fc96cf1d44246531d47d3b4eabaa61f7ae499  mod/Ultimate Ultimatum - Znamena idey/common/countries/Estonia.txt
 edbeca60f22147ec3167cbf163b1550cd811051b628d31df91cff87ba86fd674  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ethiopia.txt
-244c7c037ee297647861926cd797c994817c0ca8d5474ffcfbc8bb8fd58e3a07  mod/Ultimate Ultimatum - Znamena idey/common/countries/European Union.txt
+44172b623a08fc0cabdb2f10de51c6763fa045c590e09b73caf3d543a803e87c  mod/Ultimate Ultimatum - Znamena idey/common/countries/European Union.txt
 352479adf806dfb2e3444cad70f52f07dbf81e812eeefd32b1d12b617f9b3b69  mod/Ultimate Ultimatum - Znamena idey/common/countries/Fante Confederacy.txt
 bc34781077509442eac0721d2b8ea8a55d9800b14ac4d48643acf36382a5ccd6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Fatso.txt
 d511d6791b8ec5a7ef641950c89dbcbd0ba6bf68b14ddddabb1a2817802abd1a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Fiji.txt
-7edc361f18e1ca6018c8ed284af836950445a0c221292de9e06a34d341574125  mod/Ultimate Ultimatum - Znamena idey/common/countries/Finland.txt
+4f45d5fc4b588f192fc0ab80ba22dd90b76828e921f8a7ddd7b5b2844327f913  mod/Ultimate Ultimatum - Znamena idey/common/countries/Finland.txt
 781b059fb2dc9825ba75dfcdf59992b900fdebc5c40890208caed807373065dd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Flanders.txt
 e59308ac2cdf4184c6c420063151fc9c83baebdb975205a62a8c4249031e8a99  mod/Ultimate Ultimatum - Znamena idey/common/countries/France.gdoc
-c06db917054f8212e89767f1f755538765c27da1249cbab63abf94f498cfadd1  mod/Ultimate Ultimatum - Znamena idey/common/countries/France.txt
+bd92b1319918ea5cad801d68e1c092f28b7ab5634949672db46e4db2d2b967fc  mod/Ultimate Ultimatum - Znamena idey/common/countries/France.txt
 d619e78ca2df5547bae68f03484cb686e069f467ad258a762d220906d7d400e0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Franco Spain.txt
 4971f0ad1b7f90dcabf98c3fab9e2fc15685eb0639b95e67a001f5ed0332cff2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Frankfurt am Main.txt
-a4eb7df71b737f7567f1581b9fe14b13b5278524acd35e3aa3192361fa255094  mod/Ultimate Ultimatum - Znamena idey/common/countries/French Indochina.txt
-0da44d4058643b97754d128c31f7cf1dc00a4583b63f860c93f685aff23fcb5d  mod/Ultimate Ultimatum - Znamena idey/common/countries/French North Africa.txt
+0710ac5a6a1c32bbd42f8b04cf9f9a94262d6abf45db48b77bded01e89ee3aa3  mod/Ultimate Ultimatum - Znamena idey/common/countries/French Indochina.txt
+9f734e3da9375c321162ced554ea089df1d988f05b57b249cc2345b5bc4a5024  mod/Ultimate Ultimatum - Znamena idey/common/countries/French North Africa.txt
 fd3a266c9320651159a79427ef373512917b31bcde1790d592c49830af7dd075  mod/Ultimate Ultimatum - Znamena idey/common/countries/Fujian.txt
 c8540822e04f8e16b943f8fdac8bf78b627069844d0b8caaf7955b23a49ee159  mod/Ultimate Ultimatum - Znamena idey/common/countries/Fulda.txt
 7a5eab937b9346cc01291cbcd2b72ad862e53448f56c3388a1861eb28ae7c8cd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Gabon.txt
@@ -225,14 +228,14 @@ c8540822e04f8e16b943f8fdac8bf78b627069844d0b8caaf7955b23a49ee159  mod/Ultimate U
 f57d57b5c36095718cd2342e69ba1514c6d5ec10257e514874c8b641ad1bd0f7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Gambia.txt
 180ae6bc956ea76ab65eec2b27ad0d283e62af3b9795a41fff370258a13b1e62  mod/Ultimate Ultimatum - Znamena idey/common/countries/Genoa.txt
 c2287b5bdb8dbcae37e108bc80a11acaea6017d2a3f446c8a972c466999faf91  mod/Ultimate Ultimatum - Znamena idey/common/countries/Georgia.txt
-162ca17f5c71bf60796827bc70fa315d0a27069e24f06d161ef643d6ec958a0f  mod/Ultimate Ultimatum - Znamena idey/common/countries/German States.txt
-449adda0ff6d233db8bbab56302634a6df63c807c5dc138ee058cc022d0178f7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Germany.txt
+7b78ead13f5e24a738844f51c2b673d2646a39f808594bfa73f47b28241491da  mod/Ultimate Ultimatum - Znamena idey/common/countries/German States.txt
+8d9d0c4a028cf0d349a95f33991d8389ac1284c69049805958a3a6444c3a3da2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Germany.txt
 0e6e291743a366fa34e9da1c1c912277e60bf6d551627bc7093bdad4b28e0413  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ghana.txt
 d7855cb16cc27f8a92ac26855ee02b4f52cf5ac26b9d3056b540364a3031081b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Golconda.txt
 56beebf589b1e02b0112882081e7b3220a0d97db1e06cdc7c2fadf50b10d8c66  mod/Ultimate Ultimatum - Znamena idey/common/countries/Gondwana.txt
 cd1d3fedff86642a3e0347188948da44e58f758dc058d5f70964e0ac33232556  mod/Ultimate Ultimatum - Znamena idey/common/countries/Gran Colombia.txt
 3e7cd6c13ed0ce9de934613e705b1825692430accc22b5627c378c2e61015cc9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Greece.txt
-0bc13765b663d223f04e61a459f48c20c28ca8dd6b5670f27ac01ae4049d20a7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Greenland.txt
+77f9bac736f6c6a280dd7a113bb6cbe719a5434021ff323a7db4cf666260b004  mod/Ultimate Ultimatum - Znamena idey/common/countries/Greenland.txt
 23067debc8e2091a8982496802ba87c7499cc96238330f341b97dcd7d25db635  mod/Ultimate Ultimatum - Znamena idey/common/countries/Guangdong.txt
 66ab72f1a331a0b8238b0405992d55b660ad7bc78e54e7c4539c2a787fe8a3a7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Guangxi Clique.txt
 1c69df80cecb6ed4e0ea57805d063ac0f1b672ab6c434824fcbc0ae414117709  mod/Ultimate Ultimatum - Znamena idey/common/countries/Guatemala.txt
@@ -251,36 +254,36 @@ b28adc159780a22b554311942e18c8adf8701211f15b62810c7b3d24eea7f72f  mod/Ultimate U
 d775db835f095b0c5eb8d426acd7c59f057fa8cee2c22b521d2cb89a72358deb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Hesse-Kassel.txt
 95b1cb14e1d098b720fc5bc7ec9aa677a7c649d7816327aaef3099b4c2adecb2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Hohenzollern.txt
 1c3ea1076b82f8d74078f3671bbea3454c37ce522d9cc47153ec173a7e16a5c2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Holstein.txt
-315cc783bdaea00890ca220e5307908cb3b2c6a4d15ae98e82fec7d36eb94030  mod/Ultimate Ultimatum - Znamena idey/common/countries/HolyRomanEmpire.txt
+677d9f3a1744631a804809d1a00f4e3a9f361e89d95cf15c9479a617cbc617ac  mod/Ultimate Ultimatum - Znamena idey/common/countries/HolyRomanEmpire.txt
 0cab4299cd8ca42b613220a217ec7cb99123b594acedfa50394b52c6105f7904  mod/Ultimate Ultimatum - Znamena idey/common/countries/Honduras.txt
 93429e2d34d1b9094517d80afa653b7a04ff05a4a95dc7f0694fe2a38073d025  mod/Ultimate Ultimatum - Znamena idey/common/countries/Hunan.txt
 5a59280dd29bbcaf1f2c0ae0e16d4de78b85b1da7c212cf70d86f9eebd40bb7b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Hungary.txt
-23e1fd1e027e1899c9ff420e755f4d39540512f883a4bee8bc1815ea4a5d0d2c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Huron.txt
+293e3c5ce27618ce6ddd2d047f1553921927d6f70ffc903b3b80f94644cba665  mod/Ultimate Ultimatum - Znamena idey/common/countries/Huron.txt
 9b7ad4711fd2aae56d7b818bf1e45860c26b2c8a584849afd260e5d32b47acff  mod/Ultimate Ultimatum - Znamena idey/common/countries/Hyderabad.txt
-bd85e050ec950b344d5c20d9e1fd31ebb22f678d816e84f77a50fa42112028b3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iberian Union.txt
-43d431a5acb5585ba4549aadd31704895fe9a0dfe45bb27d3fac4b80835d9e32  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iceland.txt
-b81c359a4fd38373a10502f7fd310a81947c468d8f698f35a9d0a62ba0731923  mod/Ultimate Ultimatum - Znamena idey/common/countries/Inca Empire.txt
-6ebaad7443ce73a9894b68811cc3a1cd85a01df0217ee73d83d1bde9ce57f23f  mod/Ultimate Ultimatum - Znamena idey/common/countries/India.txt
+9fb788795c4129ddb0e12c1dac810e29207abcbcfacc28f4db5c08eae02065c7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iberian Union.txt
+8e53702519adb787a6de348d43ec7c8a460744fe31623e2fcefba3de8411cb38  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iceland.txt
+a4b85a6fde65a1835648c1279506892f0307460d7df24fb542facaff3d91a425  mod/Ultimate Ultimatum - Znamena idey/common/countries/Inca Empire.txt
+cea8fe68b62d70bf7b2a93d8c1c890a155de6adc47dacc94c043063207dee9db  mod/Ultimate Ultimatum - Znamena idey/common/countries/India.txt
 8501381859c596806f7ee0508872043256bf95eac19cf83c91443ad0ac9c396c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Indonesia.txt
 b520693c1656ebdda1c8249a9a5ad6ad72cad4942ce0d3f70772483650168354  mod/Ultimate Ultimatum - Znamena idey/common/countries/Indore.txt
 084821aadc01cab127a873beaef63674861335b4a647a70e13a5fdae4d8df7b6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ionian Islands.txt
 f19ce678aa61092f4efb18a6116f06ed57ed0ba97a060e9f52a5cb03dc4e2650  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iraq.txt
-30800972ac31038d94696832c88ddec8ba486e74db40f25dfe5bb1e658f2ea34  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ireland.txt
+b622caa890a927463baa750d8d7ecf369abbe45994dace14753b7b3d66953d4f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ireland.txt
 776026adaa1b5e0b3dfe073180f299e7b34d6f2e8e7f1b0683ce08cffc666c73  mod/Ultimate Ultimatum - Znamena idey/common/countries/Iroquois.txt
 9ab183ee432a205a3cd7a8a1aadb25c00aecdee7c4a3e0e51161c76da6bb31c1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Israel.txt
-edd685d22864bf158a9e25000f0863cb741e4eae2587109f6baced6497e75154  mod/Ultimate Ultimatum - Znamena idey/common/countries/Italy.txt
+e5ed72526074d9503ee42cd181871f38d6e2b67f60b879d0cb4a18cf200bce59  mod/Ultimate Ultimatum - Znamena idey/common/countries/Italy.txt
 bbf75579dbcb512517565f1ad5ccadfaba46491b6113be89ed5a9c238297bc91  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ivory Coast.txt
 a3001e24056608e99e119f7c498010c0f2885813675086328acf1bb03e078afb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jaipur.txt
 244f87642621b2cdd084ebe893c168f94554b466fd59c7c0049ab8f3a4fa65e2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jaisalmer.txt
 326702c67d98590045fec27a47d3ccf37011467ae067df2b28958cdbf8a0f3bf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jamaica.txt
 1ce74ccd3902f6122cdeb75a0108e1fe822780f4742608c74805fe64b8bc0fa8  mod/Ultimate Ultimatum - Znamena idey/common/countries/JanMayen.txt
-5a95523967d2d3c197ce557a6644a0b5b6564114c4fec19ce637f0fa1e6d85d6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Japan.txt
+65928b3bef65c7e032e56bddb4fa16578ec98e9f161bb08b3bd25a9ee18cebbb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Japan.txt
 d6c7b62c68594f35a83340178b48180a25e2aa3f406824650a6eae329aa4096d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Java.txt
 44de4c2bd2f55867a428ff94ebeb2330c86cdd629f6e694b68bd558e3b4819a0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jianzhou.txt
 731fa883450aeddb2faad27c638993de0b01a38511195978129fc2adef21c950  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jodhpur.txt
 f4e127fd7209f0fbc6e13d6b2c2ad7887e79775402cfc3d1517d91659995b500  mod/Ultimate Ultimatum - Znamena idey/common/countries/Johore.txt
 c3fc534c131037a8defa6dba1c26854a932943607b14cff0716b6adb82f2b534  mod/Ultimate Ultimatum - Znamena idey/common/countries/Jordan.txt
-1ace725afb1a2dce7278087599976b005fd20a5a7b5fb97d2e0ebf7f2eaf9336  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kaga.txt
+208c216a99ebe37591c5b1dc5d34a7f7b9474681e29caa76904ba2c84f06305a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kaga.txt
 dabaeaedec8123d6bb78a55e07efe12377ae30d8bba23389223d2215725a4608  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kalat.txt
 71e6aaae1b0be385f26643abf080eb9a48193a2449e884e8ec986bc4d24244fc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kashmir.txt
 e1837b17d2a00852bcb1ce56f4feb85ae6f03d6b18570b0d691f5b33858785ac  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kazakhstan.txt
@@ -291,8 +294,8 @@ e63882807e192eaf389c741d7ca292ea552c1a342f6526b7a133bceccba98e1d  mod/Ultimate U
 cf47a5e8bb3497d060bbeb9d74059bb9ab3bc831eff1938751cec534e4562aab  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kokand.txt
 f2ebfcd5987fffaf1b077590cf8fbc45667f1a86680f02e2f7d5fa3ccb78fad5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kong.txt
 f0365a7993faa56627350106e225219272ae11cbab058af7cba0dd717fdfa024  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kongo.txt
-403929279fb97f8b2326dd70f2e7f4a1e581840c15e0cac8c1a5d6cf31a0e619  mod/Ultimate Ultimatum - Znamena idey/common/countries/Korea.txt
-93e66b0e8f246f8d51ee3a2aac6c8c1ee872d0a3749b8f02a0e93435a58339a4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kosovo.txt
+b5d8a9df156b073497e53f79eb0649504a2850302aa5bfff4bb55d7767654e60  mod/Ultimate Ultimatum - Znamena idey/common/countries/Korea.txt
+182e76008007ee2fbf86898445f55cbd0dcad128129d6801c747f3e765408ec0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kosovo.txt
 ce1e99505489487857980945d637c5d75c319075ccdee1c741e8042c9ab9a5d9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Krakow.txt
 239d90e688b893ab5a42fa39302b1acdcc9c6da97a556c303eba0df2b2aebfd2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ku Klux Klan.txt
 dfc96f9797c60badf247f2ee6ac0cb2b1fe06a37eb52cc4253d15f30d78b9d21  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kurdistan.txt
@@ -300,12 +303,12 @@ a1dc205ec400541580c26b17853e0e22801cdebf4c2047605e1cb06765fde2f4  mod/Ultimate U
 94047c831bd4aff700d2169b972227779ef8d1d1942fac2534d4509bf94fc833  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kutch.txt
 dc6ebc26d8f5d1831d5bed2cc0e8629a3c4164e15a5172918a2c58621ce8b4a3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kuwait.txt
 5409daefa3dc00bdbf4d48371eb759fc618c38a855bc93669350e697319382b3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Kyrgistan.txt
-af035c7487be2f49583229b7bfe59dc7418183655b3c67932302876d36d699ee  mod/Ultimate Ultimatum - Znamena idey/common/countries/La-Plata.txt
+755341b3e19064312c31ec1c29d4f7c2c1d5c05f99d6dd4c03ba9d29c2b2414d  mod/Ultimate Ultimatum - Znamena idey/common/countries/La-Plata.txt
 468f1bd08e2c20505d28a8d829abd187f5c8247a83f091a572511f332fa7f8e0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ladakh.txt
 b35571d942f33ca0834e572b683dcac4f2d0fb1c1d41374b8fb2903e9aa5cc28  mod/Ultimate Ultimatum - Znamena idey/common/countries/Laos.txt
 7c2b1e83a9ea1064203fb6b1cac9ee2f4dbc1d6bc4a9b2cf4e52c7c373eed3c0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Latvia.txt
 af613d206cf061f67d313de32b9bb4534f54d2b611ace87ab30b5ea679022f72  mod/Ultimate Ultimatum - Znamena idey/common/countries/Lebanon.txt
-0aa806d873a38ef3b7fa218f746dd6eb20291ed18deacc196a79e8c8d01dba4d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Lenape.txt
+fdbc888b24a259d60385291c00c208ed937a5ce5db7971b7337bce04d031e156  mod/Ultimate Ultimatum - Znamena idey/common/countries/Lenape.txt
 7405e83a5c78f9d7d2337ea6097b4b8a094f12d3ad2a60bbf7a1ed6a1011940d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Lesotho.txt
 33fcbf28b26e80c41c6018b6832e358e96747ca64874f8cd9be1749a9be230d2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Liberia.txt
 93f246f14e16adc48aa1998f3de22bb345189da3c65eba379b901c63ded62e33  mod/Ultimate Ultimatum - Znamena idey/common/countries/Liege.txt
@@ -324,7 +327,7 @@ f8eb83a1a69877281551f290044357f2998d9c53569c625c6c8d8960e70a845d  mod/Ultimate U
 00e8c141539a477e0673a42928c7626651173a0c88b40b345eb817bb81f77341  mod/Ultimate Ultimatum - Znamena idey/common/countries/Madagascar.txt
 7baf4ae2a6e6b27baea7fb855fed1a01a136572b5cc3ffafd39b34f5446dc37e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Madurai.txt
 ca0bcc41d648b232d3e9301147c73279fa4afa2b8eafd0b520c2a86d069884d9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Magdeburg.txt
-d62a1e37b69e6abde627eea7ed6d4953812b3b2fe9b06bdf7b636778184e37fd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Maghreb.txt
+5c91ba6f136e7236b759392ac57e17f9d6e7b76866b16820336533b0ea983e11  mod/Ultimate Ultimatum - Znamena idey/common/countries/Maghreb.txt
 8c8a7e64609a3ce7a96d4196dabbb5bd66aed4f0057ac4d10fcf4fefbdaebcb0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mainz.txt
 2cf85f00be915dd9d52999daa71d0be12b0cddb5b3bf44721f17989b5822fc78  mod/Ultimate Ultimatum - Znamena idey/common/countries/Makran.txt
 fdfbfb4955c48b192f9e672281ab707029b08f8899d9560031ce17f989eea802  mod/Ultimate Ultimatum - Znamena idey/common/countries/Malawi.txt
@@ -340,16 +343,16 @@ d2ae927ee1f7ae47455580fb3e5f2da2b0fd59747eb7d8b7a4c15187f5a8f084  mod/Ultimate U
 d59e41c6e8c30475cd37386a0436ae4166dce3b776db6b80f4681e192282831e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Marshall Islands.txt
 b31a45eaae55e80bf617b557103808df1fc7db966190b19c49180ecd038df6c8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mataram.txt
 947ebef096c485a484b5b44253c13aeb632eafbd427c4711b35ac84125769a74  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mauritania.txt
-e195cd50006dfd1d1027a5460926c771b58beec9d46effc794a80ee8040b1de9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Maya.txt
+effdb4953e3490cb280cc674a1e559aec07e05b5523f5ff93edb1c6baf7a3c90  mod/Ultimate Ultimatum - Znamena idey/common/countries/Maya.txt
 b33f385cd998cfa0b3a54a4d63461a116cf40bb2593465969dab788a3f8ef6d8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mecklenburg.txt
 b5a6a798b482f0a1596139daab90a8b2f32416cfff1dcceabbafa6ef886c1e9f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mengjiang.txt
-b39feaebe927bf785913609f5915321c361d2802017d7d71eec51b6968863e4a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mercia.txt
-a201a3425d45d1bbcd9676ed0e207582fde46af703d2f0c7e75aed873a1c61bd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Metis Confederacy.txt
+01047f89d263eaf82ec4882de5bda2363edd2fe7b3c70761291eabf7bcbdf817  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mercia.txt
+d89ebf33bda72bd8ca7be571483facd75a860d327540eedd613b0b4ecfeb4819  mod/Ultimate Ultimatum - Znamena idey/common/countries/Metis Confederacy.txt
 31cad5b4fa8c4a1baa011484ed1c19387d1191107e665642a870e942049e49d0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mewar.txt
-65d03a83251c1c4a03054f182da9d30199c36c6dbb617e5e4800248e67ceb692  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mexico.txt
-4b64f6b72fa99ea6660b80c719c0ffcb0e29d5b607ed511dd8e64444a99bce58  mod/Ultimate Ultimatum - Znamena idey/common/countries/Micmac.txt
+19034e4bdf3b329e8238a19cb92968cee4179cccfe47cbf24a5d16674ba5cda6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mexico.txt
+5eb616ad6f22bb5ba157d769cea69a86989618f576a1333d1f1f88a4ecccbdac  mod/Ultimate Ultimatum - Znamena idey/common/countries/Micmac.txt
 fb9f368b7b80622762c38e296b8c3978d9e5852b28142006aea068e29d1fd509  mod/Ultimate Ultimatum - Znamena idey/common/countries/Minden.txt
-8b4afc5375db17b92d69a1c1932e449b86c39fb9b65e7ecf70f6b688934d34bd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ming.txt
+98365374419f1561f42fc5d7124b7ec5db0c3600f185bffea5cfec34ede0de38  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ming.txt
 f2ace66a97defb8db9fa99a6b62d364455435128f80a9fc55a49175faaef68a3  mod/Ultimate Ultimatum - Znamena idey/common/countries/Modena.txt
 8764f280bd900b7bb2e49d3c8a2a9d2d86d8dddd0bf74951b0c30ed1dbfcf17e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Moldavia.txt
 bd54bd99f933c7260010bf6e5d216fd85b86f1365161faf5f5be9c1132ffbd80  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mongolia.txt
@@ -358,17 +361,17 @@ bd54bd99f933c7260010bf6e5d216fd85b86f1365161faf5f5be9c1132ffbd80  mod/Ultimate U
 f7a7c88179b536d9010d51f480813c4cda6cccec4895e5cc5f14e0ff3f4072b2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Morocco.txt
 c057295f76b101487fc7ec36fd5bb751e37be513236b8569f3ccc8f602c2014a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mossi.txt
 b904fe9f767945548fbdcc110536463adf6afffb79109223d9b288c70a5d8bb0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mozambique.txt
-6aced3fa476b604c6f966671c7e86cc478093d39b8b9357c566849e7ed718223  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mughalistan.txt
+f88d834404498e0ed5bc991f5841b4629ed12193079e4cd8d5c91f92b4fd13df  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mughalistan.txt
 b193b8cd6efeb6f5bfb32e01f7eeb76a152115b6569e882748f3dbcef2096637  mod/Ultimate Ultimatum - Znamena idey/common/countries/Munster.txt
 55488c220266e38a7d8e3427906fa44317464e474bb556d31ef3263deb2bd583  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mutapa.txt
 3de0fc677abe5d3a04c8b2878646d2330de6b2059c29fef1712835e1bc09faa6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Mysore.txt
-d19a9e3386f757b9e92e7c5d13c4192f250ba990baca373972ae1946b883ce4a  mod/Ultimate Ultimatum - Znamena idey/common/countries/NBurgundy.txt
+b907b6f724eba0a5b638490a48100e7b3d8553568b12951108a2fa9b97df973d  mod/Ultimate Ultimatum - Znamena idey/common/countries/NBurgundy.txt
 1b651515660b67d1a7095958aafe72142808949edbca4d10f76bd0ded89b61e1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nagpur.txt
 b2945d194954520e1672a4e2a8544923248245718355c77428f8d3559a2858cd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Namibia.txt
-d5b180f4f84a32071cc41f69a455064a2dab8d071042cc9cd0e158e256beb4b4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Naples.txt
+9a4edfe8ff0f3b558aec179841dfb755813b1bcc69cde55a7ddcbc3986d9e88d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Naples.txt
 dbc8e09abddb789231fee905cc34ad65f3ace11f2ce1c5ee4d90d9183fb789cc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nassau.txt
 193d58d223d120804b2d17b20534c4ec9203239426019cb3c90d6fdfcf73c597  mod/Ultimate Ultimatum - Znamena idey/common/countries/Natalia.txt
-31c77a0a6d31394ce434606ec73eb440a0c7f05e5bad5bda348ed2a016dc7786  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nationalist China.txt
+adbbef627d9388ca93b7a3bb1ddbb39cb9dda940961830129564a2013049235e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nationalist China.txt
 04febebcfdcd7fe17c9675040c0113fee83c23ed6647c0d6a221fac56f6a2518  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nejd.txt
 ce6e8439a1c3bd221af497c665ebc300eacc2dffa9e5871d8d75d6f797cdce38  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nepal.txt
 12d4b7b9745aa8b3eed105b0c4da1d7a9b297cd4434e01e6297c37d0d46d5d92  mod/Ultimate Ultimatum - Znamena idey/common/countries/Netherlands.txt
@@ -380,11 +383,11 @@ ce6e8439a1c3bd221af497c665ebc300eacc2dffa9e5871d8d75d6f797cdce38  mod/Ultimate U
 2cd0ab8235524b2070bebb7af07ad1ca934a64fe248acf4a262c1d3abb0373da  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nicaragua.txt
 a818b3d2ad5e9884897b9a947208791e411a95d759ca68f7e5b47fa775ac713c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Niger.txt
 77e55178c266d55b318212d1e5229d4efd9170a0448f7adf250fd2274dc82820  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nigeria.txt
-f2e788976d11f00c67e809b4620bb2e166d049be9f91ea06e6d4887085053893  mod/Ultimate Ultimatum - Znamena idey/common/countries/North German Fed.txt
-ed5f616ac51c42145430f0e41f974362379755c301a644611aca028331985921  mod/Ultimate Ultimatum - Znamena idey/common/countries/North Korea.txt
+d7c768534254666c33e55787be9e9f5f4e2f83a7b8787989569a650afb47ad3e  mod/Ultimate Ultimatum - Znamena idey/common/countries/North German Fed.txt
+65edbd21cdbffbd57b5d840b18efd3877fa975877101d9a07b83081a22ae9f7a  mod/Ultimate Ultimatum - Znamena idey/common/countries/North Korea.txt
 8a7836c7791321824de30ea35fac82765d9a165f675c36e4d10da2e131e1c28e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Northern Ireland.txt
-b2a35f5be92ad392054150aedcb8c622d0b1df669f83b151a14512d9159a303e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Northumbria.txt
-42e130d800d8b43d7143ed1c124c24b56a00a5ecb79b35aeed61d3d8de884da2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Norway.txt
+6da9bfe09adf5988fbbc90ba05a1c4fa390115fa02d02fc492013077f29e1220  mod/Ultimate Ultimatum - Znamena idey/common/countries/Northumbria.txt
+04f438ea8c090ed44692c971f70935a722b0556cced1767fc6cb18be9d55ad09  mod/Ultimate Ultimatum - Znamena idey/common/countries/Norway.txt
 70015d36db0bc45b865cc48eda52ac1c505cb1ac14aae7863cd4468eb10cc50d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nri.txt
 07c00113bde9fe2ef94893b12cf571dccacac88be206f703dc3c24ebcb4e2696  mod/Ultimate Ultimatum - Znamena idey/common/countries/Nuremburg.txt
 482a41a31993108d320ea6d95889c888972a023177b2fdf4b52d9a162022bbcc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Oirat.txt
@@ -394,9 +397,9 @@ cd62f6449f66ecd379e2f2e5bb845550e93f46cb825a7afe7729002914963af2  mod/Ultimate U
 57fd73ac929b19caf4c9a2d42744a61c2196930dde0ef5cdf4fc1dc64a508533  mod/Ultimate Ultimatum - Znamena idey/common/countries/Oranje.txt
 7e41d8e4c8fa73e67ddc7ab1d391cfaf680684a92b31eef48f08f4ec79f2daa9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Orissa.txt
 88257f944a91f7cc63b7be5f68d9986c3706ba414dec857c05eba560ef752730  mod/Ultimate Ultimatum - Znamena idey/common/countries/Osnabruck.txt
-f322798f8a6c10df618b52053770e36f2be418880b02af21bc43af5ae27f5990  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ottoman Empire.txt
+fd4485697d3636e87c8dd1b9db31b18e8b31148926df46ed6c8db589abae47b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ottoman Empire.txt
 679e85d962d64c24013b78bc68f88d6c83fe6d0627f8d8c4568997c361aefdca  mod/Ultimate Ultimatum - Znamena idey/common/countries/Oyo.txt
-cba0f2486649400ec59327e6125b321fd1770d51ff1d1f6159c0f5222a58244a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pacific States.txt
+f75881d616906a72b5bb13ce9bbaca6fa897bc5cd90d1d7da1d5cfa146e6bdeb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pacific States.txt
 2702bedfebcf16babdedd582c3b9d729323d8fd7be0d004a0fe916491015486d  mod/Ultimate Ultimatum - Znamena idey/common/countries/PaganRome.txt
 f85f7d094d0df0128d0717db666bb196d08afb85bc69ab782c3be3791b9a4421  mod/Ultimate Ultimatum - Znamena idey/common/countries/PaganScandinavia.txt
 5e24a7cecf367ce35868b00301993d8775501c024fd542535e6991080c37ad72  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pakistan.txt
@@ -404,41 +407,41 @@ c4158bb53c3a8e87a0f2654c44eda604432ab0555e92bcbfa7c2d281da42fd03  mod/Ultimate U
 f11f805db71e3480fbe10d50e690fede6189fb94d0b3b0a6f585d8fb7e6590ea  mod/Ultimate Ultimatum - Znamena idey/common/countries/Palestine.txt
 6dafacb0b97e5a8d05bcdac3cb7f1ec8d3600916ffca35131f88acfe9c8e99da  mod/Ultimate Ultimatum - Znamena idey/common/countries/Panama.txt
 6532704655cd98b9d16df4f9be8ed5f0e7571b5be2a9b51ea379b1c625d6eab6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Panjab.txt
-b6791ee41835e1368ac8b4fac9e736c3255fef7804c85226544644af4d088f56  mod/Ultimate Ultimatum - Znamena idey/common/countries/Papal States.txt
+b0a0c36878b0db8fe1de7dc382718b8e816c9a08648f08ffe1f7822a4800e3aa  mod/Ultimate Ultimatum - Znamena idey/common/countries/Papal States.txt
 216ab0bc9ff367468364cdde98871db77b4a34093a8c977e6f219fbdd113d88b  mod/Ultimate Ultimatum - Znamena idey/common/countries/PapuaNewGuinea.txt
 f0c0267c83e82ff58d6c0db604c31cb2878f8d2a4679c30f58ef8f02aaee35b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Paraguay.txt
 cb9d4bb483ec55d58e701786566f6126d5b5c6279c7c8cfc6b6387c4d25ec645  mod/Ultimate Ultimatum - Znamena idey/common/countries/Parma.txt
 7edd0c796d93288aaf1c8f1aacd45e13c60d66326404b6eea919ccc5afe69751  mod/Ultimate Ultimatum - Znamena idey/common/countries/Peoples Republic of Greece.txt
-b9321448d534d709c59aad92408155e8b6f06c30c79a691247d31d0ab2d431aa  mod/Ultimate Ultimatum - Znamena idey/common/countries/Persia.txt
-d52f8acb2bd0cfa2be542c706c865a0fe21bed6fcb9d96e7997552b545944072  mod/Ultimate Ultimatum - Znamena idey/common/countries/Peru-Bolivia Confederation.txt
+d232182d495444179322bde6542d7a0aa29e706d5693e801539f112934128fe1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Persia.txt
+578f36fa336aaff2c9c6579199ef18798b9ee19615db2bae01c92cc2d75fe3dc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Peru-Bolivia Confederation.txt
 bddb09e3e1a49475a0678dd550fb5a894aad1cf309fb4ede2300393972155661  mod/Ultimate Ultimatum - Znamena idey/common/countries/Peru.txt
 c1cc9356620fcdf71c69347f508caf20335290b8ccfd25b2076ac4bcb3fc92ea  mod/Ultimate Ultimatum - Znamena idey/common/countries/Philippines.txt
 93833b3d6c9c1d6ac8b9a8fcc5c3f934bdaaf827313760b0c45358f46729c234  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pirates.txt
-50079f79d36a0f27aabce7e0cda423a3229ef4fbdf02b0019b0e8522963699e9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Poland-Lithuania.txt
+a94305ed078d0dd5eb29aac980c96b9b47e5cc1a0d6fc052a290d5b9937d9781  mod/Ultimate Ultimatum - Znamena idey/common/countries/Poland-Lithuania.txt
 4e6f4df6db0fe8b3dd82847a87e736ba05b9ecceb81c7b5301988f0cd69361cc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Poland.txt
 71c7f13b9d3f6101308f6f607de98367b2929d55b6280578cfb706de612093a9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pomerania.txt
 5fab8a67e1c8bb7ae181c3507ea2216199802570baf99a29ab4ba1d0c13202f2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pomerelia.txt
 f3dd12991c5fd0a2ab2cb7242bf853ad6fdb374cb877b54f30f459dde00545d8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Pontianak.txt
-d461225b2330561b00a37ea13d37c8e21132f8b2c51205937461a540b9024642  mod/Ultimate Ultimatum - Znamena idey/common/countries/Portugal.txt
-1d7ffeadd9ff71d2e4c125e16184b5125273857f78dbb5ae6d42ed0bf4e6ceb8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Powhatan.txt
+f4801c9c225861f5875418f925cdb8ee270650c7a1fa6654bce97eb548c5fac7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Portugal.txt
+0e2d57418a551e5e27fc6a22f952d8ab1b51373cacc5daa8770021fab4b34356  mod/Ultimate Ultimatum - Znamena idey/common/countries/Powhatan.txt
 3be321efc6ddea4ee2498b4635bc287d9124e8ab43e4c09be6f584f00572e336  mod/Ultimate Ultimatum - Znamena idey/common/countries/Poznan.txt
-208960ca7406451e3832dbfc1f9be39f02e61dab3c98c9d580c11e5948092f98  mod/Ultimate Ultimatum - Znamena idey/common/countries/Prussia.txt
+f2a553ea292445993830b2a876a1ce62c87824ea9b0568d66e96d2ba166e90fb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Prussia.txt
 9f1f44b1a373baa7f24bba7125b9f8a77ee02f0d9ba84790f0a8413b9ca29d37  mod/Ultimate Ultimatum - Znamena idey/common/countries/Puerto Rico.txt
 ec16771eb664e350b57a88c5521296658a2df24c99ad2669188d00853fe5b5b1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Qatar.txt
 5fc07624bd513ef8f2678964f1f31d21bf849b1c0268af39b1e9e95e9dfe05fc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Quebec.txt
-47be3f74e973b83a5492ef64a1d81547b9c6d529eba0633364211ae789b3b2e1  mod/Ultimate Ultimatum - Znamena idey/common/countries/Quinnipiac.txt
+757b97a085667939470c3066d576de2eb7aa91d476ea53b01e6e5b824c894645  mod/Ultimate Ultimatum - Znamena idey/common/countries/Quinnipiac.txt
 a8c5e493a2df864859c520ed199e25714e11b3440519709e3cbe85c09bf037b4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Regensburg.txt
 65a12a20342f3d1095e61d2c711e65d090d52a2514d163f259fb3f1199caff44  mod/Ultimate Ultimatum - Znamena idey/common/countries/Republic of Congo.txt
 d6ca3b4f1b6fe87d0e792eeaec2cbfcc09f3cbe9ba4f37acaf793afc05e6cfeb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Romania.txt
-114f25b419a63723e35ac9c7ccb2d47da1c7df9c040545adc3cee2a70aeae5a6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Rome.txt
-e2b57e6d6babcc229c594130595216db328ca1c033a77a3417c92f4a82219405  mod/Ultimate Ultimatum - Znamena idey/common/countries/Russia.txt
+8b8d09f418eafec4bb931b691756c238d202271f3e073141386b18bfe0530b7a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Rome.txt
+5cffef73a4b31db8ab42123adba7035886b9fcede15d945acc456dbfa5cacd34  mod/Ultimate Ultimatum - Znamena idey/common/countries/Russia.txt
 9daaa423eb9f078b4cb3eb282709956cbb2b3bc19e4d10bbebc8fde2fe5b92ac  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ruthenia.txt
 b6bde43ee37970d473fa3f4740bbcb5004b0db8ee3a89b5a1e218a66297cfe87  mod/Ultimate Ultimatum - Znamena idey/common/countries/Rwanda.txt
-52be7007504bc899bb9edb7c8690a6b91d88701926a83d6e34e618127efb451e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ryukyu.txt
+aef027e46eccddf61c55a529d2ac388c232e922a816b231abf95c5a2fbe40354  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ryukyu.txt
 1a1ba86d97311345620c41f86a262742014b478ecc2040e1c74d643b435cfd78  mod/Ultimate Ultimatum - Znamena idey/common/countries/SaoTomePrincipe.txt
-851793a593d91c67fd044d1f172a9a6c1d22321fb4077882fc9ff385b5330db7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sardinia-Piedmont.txt
+ea5973395f17f0f028af20551efd64e88cb5ad02b9f47e9c4db66792e85531eb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sardinia-Piedmont.txt
 710d27fe1066c094906e77f338f5aedf48dec6a97d117ed7197e4b62932ed0b6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sardinia.txt
-d2f21efdc130ae27b002dc6734ea2223b906f65155ed1bbc0ec458fbe02433d6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Satsuma.txt
+dc05d48908085eaee62751b40c93a33d35f238824790f96e4e11e4a098cd1349  mod/Ultimate Ultimatum - Znamena idey/common/countries/Satsuma.txt
 ec32cc192dffe5bac363b419c41065dc8558a85582e8d5151b3a7b9e2bd266e5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Saudi Arabia.txt
 6841122c3c0c1cdc011165b5510e32078d8c902ca5855373df690a830cfda71f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Savoy.txt
 f594d2b360e1e276ec091a85d11a1e881210981adfe272a6fc5ccde0ee3ab76a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Saxe-Coburg-Gotha.txt
@@ -446,18 +449,18 @@ a239d0026fc6b936e342e8c641fec233381098c0844fb84401f374cddb48d057  mod/Ultimate U
 ff58504926df25e7a99b03d9e6f43a7214352421383746a581b39a9a99df1ed7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Saxe-Meiningen.txt
 b2e2c8ec1b703c96f2b08599c8cf569dd8e1ee4f4c5c59a6cbccf0d74dcbe2cc  mod/Ultimate Ultimatum - Znamena idey/common/countries/Saxe-Weimar.txt
 95dde82bea50745e68b1dceeae0b810d4b1b74965d3badb73c5b0241733d4443  mod/Ultimate Ultimatum - Znamena idey/common/countries/Saxony.txt
-06f208c05b69133e4d91ad56cedbe8951b7528b45fc4c1d7c51e9e5f5c500f68  mod/Ultimate Ultimatum - Znamena idey/common/countries/Scandinavia.txt
+ba13da6bdf7e26dfb05233e8950b8d8568ff181ed6a21b1052592bcca0406b27  mod/Ultimate Ultimatum - Znamena idey/common/countries/Scandinavia.txt
 fd35a12fe38b91dc61b152bbfd7f583a85e3c9df33ba855874bd397b5ddfdfba  mod/Ultimate Ultimatum - Znamena idey/common/countries/Schleswig.txt
-68eaa1eb306d6af41cd14155d2a922bb40ee058501878c0532a52f1a17231fb6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Scotland.txt
+0e3cde74b8932b103ea5af96bac581133e84a23578961e5594b77197946624fb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Scotland.txt
 e2e1660f151f80d638748380f5d262f447a49451e9a84c8800b57ae6c6c65fbf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Segu.txt
-19e4758b4470dceee06fbb358dfa75180504c4eb6cb4ff8d9ca353b63ce8b257  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sendai.txt
+819c2de9e88bfd523b12dd0528a4a8e00a2f4ea189a9a547fa4309a5e7114145  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sendai.txt
 4273996d7bde6a2d44e1d0fa0bd06a1c98d1272c2ce8e5a500598db4e8b7e1c4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Senegal.txt
-591750f397d18b39ee12aea92135a3d85aa865f5cc440f29218ade8068c5dd2f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Serbia.txt
+71c1386c4599bb305658a41ba8b574f16503f774b5006f74a67e18e3ccab5c3c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Serbia.txt
 d216b910e2fd448654a46ff2ea53e7d79bf2190dd6bab1da3eef750e7dc9f679  mod/Ultimate Ultimatum - Znamena idey/common/countries/Seychelles.txt
 36b106e9ded473fb4e7c19a30f67bba24425428b6aa0d2974f560e2fac83a5ab  mod/Ultimate Ultimatum - Znamena idey/common/countries/Shanxi.txt
 3aeea8ea248487f6499c5f430a57e95d13a8d81a3d269708c70aaa4466652da6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Shimla.txt
-3211969a06aed569833e8b127897268f68feffd25ab8b0080f49b1df80197072  mod/Ultimate Ultimatum - Znamena idey/common/countries/Shogunate Japan.txt
-d84493641878626000ccb18d0fc9136bea8188eeb0696e57bf11ab5bb3c8673c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Siam.txt
+381bb98d62bf94c764e5ca9fe4571359d8175eb07d05895d0aa4f9abb56acc35  mod/Ultimate Ultimatum - Znamena idey/common/countries/Shogunate Japan.txt
+3053bd09f5670f7fe0444f3bd5ef9642308edb1f7779dccba0bfe7d8d0f2c791  mod/Ultimate Ultimatum - Znamena idey/common/countries/Siam.txt
 d54278c0d855d261cd5fcaa3e9741ea92a01a82a931ae3dae794b2501b5390fd  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sichuan.txt
 5a9b93809ea9278fc06d6cc548f82858c2a014e49adab6173c6bfb7a544e5ecf  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sicily.txt
 6d1ac3c25521e5488e3265e8dacde81c493f3accf84ebb29b6cf65e655969ce4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Siebenburgen.txt
@@ -467,70 +470,70 @@ d54278c0d855d261cd5fcaa3e9741ea92a01a82a931ae3dae794b2501b5390fd  mod/Ultimate U
 1c55bf020c6e2d374cd02014e42d2bccd2e0cacf1c016ea96cd3930068bd9a02  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sind.txt
 358ba314c96849f5e5cca314a3e76498d144718c110640dfb0ec4737c6a48e4c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Singapore.txt
 eae906fcc9424c518a7cf634d8aeffff7366131d29124dfcb026903dfe741ce4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sioux.txt
-848915a958ee9d863e6b761a291180a992f8d48c7092729c85488375b2a17917  mod/Ultimate Ultimatum - Znamena idey/common/countries/Slavic Union.txt
+54b6d6c20ea643b8b041cc08a5952436a900ee49201c7295edcb12d326691ef4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Slavic Union.txt
 c2318ca42dbf0f741e0ca79d5f98e4bf8f00bde504afedd6b1c8c7307d2455ed  mod/Ultimate Ultimatum - Znamena idey/common/countries/Slovakia.txt
 fb2e3b6bda9be78b2598e38fa1ce135bc1861edfff17e8fd4680be9a35547153  mod/Ultimate Ultimatum - Znamena idey/common/countries/Slovenia.txt
 c18d3003fd93910bb9b82f956e38669522c6c3c1da8360a992aebf50bf55c0b4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sokoto.txt
 b98267a502984b6a8b5674ed332168d9de1858e2b58745cdef10d88e5f114586  mod/Ultimate Ultimatum - Znamena idey/common/countries/Somalia.txt
 321c3bcea82f4fcfee73ec1fcfae121d0d736b02a55637dbbff4e4ddeb4cb4ff  mod/Ultimate Ultimatum - Znamena idey/common/countries/South Africa.txt
-c4174d2608249718272c0278a8785bd23dec18ec75853628a9ff93c0f809ef5f  mod/Ultimate Ultimatum - Znamena idey/common/countries/South German Fed.txt
-dd2be2de52e78ec154b9ec236b17925fb1d60d6773a086fc063aa1774dcfc933  mod/Ultimate Ultimatum - Znamena idey/common/countries/South Korea.txt
+ee4ab8e8d534ca544a1bfe1c52c1255ac46f107b44c880e7020e1457bab9cc6a  mod/Ultimate Ultimatum - Znamena idey/common/countries/South German Fed.txt
+69b5ea41b151ffd24015dccf8b7ae49d49d19db7a45c449399ff005e7d115a06  mod/Ultimate Ultimatum - Znamena idey/common/countries/South Korea.txt
 20b14845956e2632a77a0f9980bc8f5e3270da56d62dc5472f5047173a28d006  mod/Ultimate Ultimatum - Znamena idey/common/countries/South Sudan.txt
 240042a8a02222b57aaaf5c13546579707545214a833001048148e653a0a01ba  mod/Ultimate Ultimatum - Znamena idey/common/countries/South Vietnam.txt
 b30321a2b5b1960cd313bfc8d2c2d810f4d66144024ad1b267f49d247f8d5856  mod/Ultimate Ultimatum - Znamena idey/common/countries/Southern Rhodesia.txt
-db0e5404736c403ad5ab85b93fc7a0e2aab011230d105fbd3903402cef358bf0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Spain.txt
+29dfaf14ab1817587f60d125c93116808ad41411984ccb7b096fc2333f73433a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Spain.txt
 c0bea4850f2fe4e4668e8556a072da95d59323bdceb69681b6872a505dd0e5e4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Strassburg.txt
 f59330a62735c12569c4ea341d43975e0cbd588c07085bbe2f8f6a0ed8b18d9d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sudan.txt
 18efe0dfd73f38f1df7bbdf84b6df0e4cba588676d965adc23ab798b5bed5e2e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sulawesi.txt
 1951278959e364e845f1649eba2f99787eb47f8c447093de1547754f67d317c4  mod/Ultimate Ultimatum - Znamena idey/common/countries/Suriname.txt
-d4758e602ec8e03124f142fd0002c58583d0298490cccb8397b874042527cd7e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Susquehannock.txt
-bde22e427194910ee775ce8283e7ea7a7a89d00522839d34985c9e965d33d406  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sussex.txt
+2b7294b7e780ee2ac1379795c5ad6a4e8b948b433fc2049029c48d51dbaa375f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Susquehannock.txt
+67453f590a60b32433f70e9e7582e6659a0ab2c45f1f1efd6f05efb11d9db3f9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sussex.txt
 b273f179e1f6f22936f4e40f24eeecf605262ee8356d46e74e6f7d6d7dfeae06  mod/Ultimate Ultimatum - Znamena idey/common/countries/Swaziland.txt
-e5e09260635642aa677849d8cd6afadfb1fb2eb97cd99b7053d2cb766821577e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sweden-Norway.txt
-71de4e996915b8abfa3efef432b06e9a7ae8e7ecbf0dfc1d57f6139d52e95405  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sweden.txt
+8c322ba09bfe593c90d1a90c6c450fbfdbc41a4b1a35c4f56d2ce3aa4432dfb8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sweden-Norway.txt
+1d0c685fcb9c578ce4752e61e8d4a971a18448d2dfc90091add00f9a7844b61d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Sweden.txt
 62ff6a0ef9e3bdc0244fe81fdcb78cc877577cb48e21b37c980cfb930798fa96  mod/Ultimate Ultimatum - Znamena idey/common/countries/Switzerland.txt
 a4717f7c501451cd757d675296ea709477e22c09cb5d3bc7f45c06503a335bbb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Syria.txt
-afd335cbd0782898063216794ffba2dc45d4ab8ea0ee611a236923435171455d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Taiping.txt
+36684ae307b7e912569aa97132522afe9a0e3475780263b4686074f46ba9565a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Taiping.txt
 75ff100bc4b7985066fea6b6171d2c647e5473e939e2a7965a66044a26db1d1d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Taiwan.txt
 ac9e923624985d8fcf6c86135b72721c62e0accdd41200040880b897b583fd1d  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tajikistan.txt
 bbea6c389ba6312f112284708c801bc995493c0e490a4fca3d213063173b7944  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tannu Tuva.txt
 86c3bc44a4a106ce7032c8e032eca4b51c1153cf69d407292b0dbd15a157da3b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tanzania.txt
-ea09691d05936f9b28497edbd75cc4506841e12392a07cabe3df222f48301384  mod/Ultimate Ultimatum - Znamena idey/common/countries/Texas.txt
+a685160d64c5717c0ba782a90610202e470a781272a2d6efccb04572d5d0a97b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Texas.txt
 18a805aa54d3db69c9b3c39aa66a46fb505d7bd5bd74f3799cfbfa0c693b57a6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Thailand.txt
 2cf6f10a4d4dd4fb7ec5b523bbe23ab0799433ddca1ee521ded84d100992a188  mod/Ultimate Ultimatum - Znamena idey/common/countries/ThirteenColonies.txt
 c7c1d3634e505d90bbc4b55b421738d26b00dbc017a5d016fe3c4500799e6c84  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tibet.txt
 ed417070dc40bf1821323d9afa5405814b4ff9417539c7bde6219553e6243260  mod/Ultimate Ultimatum - Znamena idey/common/countries/Timbuktu.txt
 a4c3f4da1ff3b269ce7691f397bafa2ba8057a48f3d8d560b55942d4812dcf2c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Togo.txt
 8ebdbbc5bf4fd731a3ba2a1b605167506f58c7f4908df7886de7d2f645ec3974  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tooro.txt
-f7d55aeaa6b42fa07dd4b0bd6551c82c22ad687a7e67f7af8d606aa000098c8f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tosa.txt
+60fca069a49d75416d5befe72bd3e59d4e5bd1ff6d40c2b29fbb6a609b04cb2f  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tosa.txt
 aa362e2f18dc099017f989d9d256214400a39f88b1c233ae465fc3c64dd160ed  mod/Ultimate Ultimatum - Znamena idey/common/countries/Transvaal.txt
 a85d222153a7df9ddc0b2c3cb1882fea1e7f6e85f40fa8ec642e3e3c1ab08712  mod/Ultimate Ultimatum - Znamena idey/common/countries/Travancore.txt
-bb997868c5c6c657525a7474e1bcb5b230a17dd39353ef3c7732a1128dc7587c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Trent.txt
+89dec5eebd1fac4e4b25f5723b20ee99946ad2081dbce2506f464e8e5b80bee7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Trent.txt
 5c8a39415a9343cd780843ad5ef2093b287e69d2fb87ae39319fdedb9e96519c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Trier.txt
 9e9cf495424ac78c382213cd603bb22aac10f562fb8fb20fa09bb9117a859ca5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Trieste.txt
 f1d8b8b32b9a6736ccf309dc6d1022b14d6bb4e458f0d486f9c529793c624b97  mod/Ultimate Ultimatum - Znamena idey/common/countries/Trinidad.txt
 827ec6b3de0c530d66e2e16232e98cfd8e03dc21d4930388e751b2a7bd95cb67  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tripoli.txt
 2c3c244679d81b52bc49b562ec40358e72c8026ee146ffbdc07c4f7da2da55a5  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tunis.txt
-0759c61ff4c266771e9a50d836d479393f370e5707da7a417603bae475c8daaa  mod/Ultimate Ultimatum - Znamena idey/common/countries/Turkestan.txt
+8bfedbedbe736811c479f6a15ad3de748b4a3e8642afadc1b847bd725c1e7183  mod/Ultimate Ultimatum - Znamena idey/common/countries/Turkestan.txt
 8b4911759bfde011561d63ea4f5272027c15c970eaf22335231620f23aeabeb7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Turkmenistan.txt
 90a6a7a5893e1904efab6a053d2650fc95a238aef27ee252ef9d463f731a8106  mod/Ultimate Ultimatum - Znamena idey/common/countries/Tuscany.txt
-efca0953cbedb81650fd00c956f97d910112ecc3face815c42086bdf54184e1b  mod/Ultimate Ultimatum - Znamena idey/common/countries/Two Sicilies.txt
+69c4d3fbbd93f290483f22a25fce8f9e1ba8445f17a00ca1b7662423dc4ac7e9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Two Sicilies.txt
 9bb1f5f3df59c3666b00168ab9fa4351efa869055b73f9326222eec988d03ed4  mod/Ultimate Ultimatum - Znamena idey/common/countries/UCS.txt
-77f7739a40a36358f8531b9368a12cd63b65e275b39fcd5a892ef9c25ae927c4  mod/Ultimate Ultimatum - Znamena idey/common/countries/USA.txt
+1fad1de23d993fece6f7093603322fb52c732460b58977956d3c547eb9d75e44  mod/Ultimate Ultimatum - Znamena idey/common/countries/USA.txt
 a21e8163dfd13e09ace1978fcc1525d14e3a9f1ee450db3bd4ddd747d8fb025c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Uganda.txt
 ceae42f65e70624e04527735141e445e095c4794990631de4596f9deb76a1cd8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ukraine.txt
 ab4e4eabb4c2eda8902ee43c58d91924c942da52b6bf257d2e67659952a79cd9  mod/Ultimate Ultimatum - Znamena idey/common/countries/Ulm.txt
 9cc0e126e5370bca012470808d787749b28a2887c811c87b56ed9092b8753f04  mod/Ultimate Ultimatum - Znamena idey/common/countries/Uncivilized nation.txt
-fe097ec320ad5fbba919a1d55cd1130eff679ac951b61a7d01db8bfd7ec14997  mod/Ultimate Ultimatum - Znamena idey/common/countries/Union Latinoamericana.txt
+c6fdfebe04d5f2d186123b8aeb3b765cc3c4a2988076e659f30a1932cfe65f6c  mod/Ultimate Ultimatum - Znamena idey/common/countries/Union Latinoamericana.txt
 f5074d5c3fb1fd2c4cc96387241dfd3e7c45ec4e6dde20e40b47e255d53bcc75  mod/Ultimate Ultimatum - Znamena idey/common/countries/United Arab Republic.txt
 39514a5f8b7e42b2ffb861ee5c00a584e7e06b978213ad7fd9ca10100600ad28  mod/Ultimate Ultimatum - Znamena idey/common/countries/United Baltic Provinces.txt
-c23bd282496d8920f7a22b55bfa7185ff9422fd99bb61842cd4f5d978426f262  mod/Ultimate Ultimatum - Znamena idey/common/countries/United Kingdom.txt
+5d99014e67d1e495b92abda3b3ad177de8d338a12131e6f6e487d80963634fc2  mod/Ultimate Ultimatum - Znamena idey/common/countries/United Kingdom.txt
 feee4107f0f47b015cc4d46eb0066c50bbac087b2362192a833a25bfe57bd89c  mod/Ultimate Ultimatum - Znamena idey/common/countries/United States of Central America.txt
-b6683412438e76e022aa359ff85c9793b7ce0683c8569d48a6fc65344733d37e  mod/Ultimate Ultimatum - Znamena idey/common/countries/Uruguay.txt
+61689fdacef5e6dc691c5a7545ac2bc99d90448a400b83a9a78354c1750787fb  mod/Ultimate Ultimatum - Znamena idey/common/countries/Uruguay.txt
 f5ff680c8d4e57556037d86448a7f3f73f439ec801fff82dd9d6e0d4b0e172c6  mod/Ultimate Ultimatum - Znamena idey/common/countries/Uzbekistan.txt
 0bb0297d5f553394b857e46296199caf4a5535e5831d8aaa8ea122b4b8d73826  mod/Ultimate Ultimatum - Znamena idey/common/countries/Venezuela.txt
 383f48c5a40f9e4829df5ca72f1d432d3cdf370e3610fbe39f0224d34cba105a  mod/Ultimate Ultimatum - Znamena idey/common/countries/Venice.txt
-b891fb5c8de4193e40b9a4faec969abd336c94b1294f7f8592e5b54f98b9f6c2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Verden.txt
+cc532e6fc0f000d309b258bb8b7a68bbcc0d0d13ad38a7627b8dbbd84b9597b8  mod/Ultimate Ultimatum - Znamena idey/common/countries/Verden.txt
 1e167c8ee265fd7b3314be7d853b24fab00ae0dd42e2ece13e7621dc8afb54c7  mod/Ultimate Ultimatum - Znamena idey/common/countries/Waldeck.txt
 26b799c5ebcc45de62b5b3ac65e621c97df8f25d83a117329b8b0840acbbd612  mod/Ultimate Ultimatum - Znamena idey/common/countries/Wales.txt
 d75c550ba9ed62ac0e2d48785402d72a261bfc1d995bd78465d92b1eb35e4eaa  mod/Ultimate Ultimatum - Znamena idey/common/countries/Wallachia.txt
@@ -546,7 +549,7 @@ b1eb21f3484906a176bca7f137c3321270b53a077e3caa7f0732515565f3bdce  mod/Ultimate U
 8f5fee15848b59cb701d42e4172df7adb530158f18513a8bc367bfee507d6ff2  mod/Ultimate Ultimatum - Znamena idey/common/countries/Xinjiang.txt
 fcd269894086b8046bc8bb662263edd8ce2a1a43b33e2809f6b797a343cd7682  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yemen.txt
 b42a4e34caa2dc3370016e5c003d30e2ace38265213a5b7c4123876d301b0712  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yeren.txt
-f6d1b73afbb36bcdb7cf2f96883896db1372d2893b0d144d7a07df79710fce77  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yonezawa.txt
+ba71a25272107149c59abacfca07e1e1230562e8423107412049985846bc0aa0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yonezawa.txt
 e74b1b2f42ca485ba9fcd367b549c446d6c2dc5cb955f1465803450ed27063a0  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yugoslavia.txt
 6435a696a7de620338071d6e18f123ee5e7a999bc4c6d2a265fd2be159e2cd41  mod/Ultimate Ultimatum - Znamena idey/common/countries/Yunnan.txt
 91b7030f9206840cecadcc8cf8eeec8a096da6edf897c34c217922cb36041dab  mod/Ultimate Ultimatum - Znamena idey/common/countries/Zambia.txt
@@ -13356,13 +13359,14 @@ a841ddfdb5a7b2901ab2af3c855979bf6880de47c253eb4dd83982e9b61ff754  mod/Ultimate U
 3423588be055ef2776ed38e0e4cdfb40b990c506e57abca9dbd5c0b78ee4252b  mod/Ultimate Ultimatum - Znamena idey/localisation/newtext.csv
 b754dc491b6647a2620dc122fbde9f6abb99f8dc3609c5d555a175cb5dc0d965  mod/Ultimate Ultimatum - Znamena idey/localisation/rdsmod.csv
 23c599116ead8df3213c29e542c8b68a4d5d4ba6bffcfb07342b1b6bf32ab2b9  mod/Ultimate Ultimatum - Znamena idey/localisation/text.csv
-d90f7d2d58caf90fd197658a6e606ad60eaf9cf720fc1947c6acb1feeae9fe1f  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - 1600 politics ru.csv
+f96e9a704178f3ca362b164b51254f7f20149f72cbc3b6bcf05e649046357bfc  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - 1600 politics ru.csv
 aa92228a90317ed7372c33a257046d707f309fdc58d886bf5581887e3cb377f8  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - Russia parties.csv
 bfa47efad470e4d20a88d0a025a15398c2d1ec08318af1910b900d3ef77ebe93  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - WW2.csv
 5c06e56b3c8aea412958d9b2316120c3a941aa7a72f9bd5a9f4e3f0d2d53ca08  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - birthcontrol.csv
 e42da419a284927114b39c8501cbf0daa16ef5f6359b890d727ecd0db1e22815  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - coldwar.csv
 5b7047017ed3b5eef24d19df1fce98119bd9d08eefe01a8e5163d96bc26d53cd  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - cultural.csv
 5b6c2266c6f6764b3ea31c0c3852a75e85dd25ac25f2c6c109651e1c312c1a6e  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - cultures.csv
+802879bd8561b92dae9db4f0d13e48a5dee543ba8f5949b2711cd102db9c2950  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - dated alternatives ru.csv
 ec92b154d2e24ceb13f343789c2b3b04613d476549a9852c761ec4ba45041f44  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - decolonization.csv
 9893271c0e2c59f00f4cfea42aa38184b39b2a8a17bf6332da7da7f50151cc34  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - demo_transition.csv
 27335fa441939e1c15050dc4a5aff7ab149ac52eaa8b86602f676e069c1ba207  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - extrareforms.csv
@@ -13371,14 +13375,14 @@ ec92b154d2e24ceb13f343789c2b3b04613d476549a9852c761ec4ba45041f44  mod/Ultimate U
 c483ba516e790615f5f8c1c9854f2f43ce559e8aa588312edd428e746ca28c21  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - governments.csv
 2667350b006ae0f7f924d66f3cca02f57e68ba271fb8cd451db99981f7baee57  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - integrated identities ru.csv
 4009d61123a0b6d4d7d73bc54fd60fe4a657a915b600f14f430617f8561c0029  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - integrated ideologies ru.csv
-29767374fcfd47f7f84b63b0e12f4ecca9aacce205745c14a7402e6cb74b6737  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - integrated parties ru.csv
+74aa6bb8bf51fbae265cd6a4302743797b663d72ec3f73b47a01ab1554040cc9  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - integrated parties ru.csv
 ffb8d7269a4fac46ddf118fc23280f7591e66613fc05336b12feaa8f9a7cd32b  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - international.csv
 9afb17a06b7596acb1365d4987e135ba5e2d7c8a59a43b429723c0e2a54d59d8  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - map.csv
 c676d351836935acd7fc54729c8407860dbbd47ec312f07d5518dc5f7b6579b5  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - nation_identity - 2.csv
 d7ea01f5b636b2cb5b5e657906b1a4bba4af953f6d32634616676a57a62a151d  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - nation_identity.csv
 8225e51d45586e32b06fd6f081280045c6842ef0c6e0b3de1cdee7d750891090  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - nature.csv
 d0324b70ab5f073729a88e4a3cba08302220bddfe7d415af619fc047d5d234ee  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - parties.csv
-e14c44405865027dd39dc6c70ab584b2d11e123da2a4e64a542baba754b92bab  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - political_parties - 2.csv
+c8b5f279a71c309e2bc02f1b5d3c0bfadc277087ef9355ccd6db48ef70114ab6  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - political_parties - 2.csv
 a185fc7b5040e1b235b3ba057a653cc9173f7a62bb5e286f783167a8686999ad  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - political_parties.csv
 f0c5972111896367630f9ce1aba4ff400f89da8ecc59541461013592b3e348b1  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - post-industrial.csv
 6e4d439c944b691b68a99196e15020e713617c0607eee21c43ef053d057841af  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - pre-industrial.csv
@@ -13394,7 +13398,7 @@ a527aef25eb61242b0dabb427a39bacc60bab34f1c0a8917352f54200a61c1a0  mod/Ultimate U
 5a8c8a53e1d11fe0945463ad8ba850e672391a1c4df5486f73a879ef8fd194fd  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - vip.csv
 b325e0f79babbbb3aab1c51eee24ab626e8307361ee67d8c69f9c23bddc3085d  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - war.csv
 247189f0e9685875b423e2b6d3e18010fca32c9038c4cf83131a57af16a1129d  mod/Ultimate Ultimatum - Znamena idey/localisation/ultimate - wmd.csv
-43a90d94e0273f025e6e19f930c1a2d7eb402eccfac3899043f0368fddfb3e08  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - chinook politics ru.csv
+88f0b49c6b7e5b3af5f852a452478c7360ffea21691dc68a257707076f2f4f90  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - chinook politics ru.csv
 b74030c810b3716165613679d0a9e80983a4cce9ffbf153e224635d7be63a870  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - colonial reserve ru.csv
 4a593ac63d6937ad66243f6771eb9534afb7664aa899aa647e5342a76c08da77  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - decision titles ru.csv
 ac58ab34db7adf051b62c36567dea762d42e3cfc8847cb93f6556876d30d47d5  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - event translations ru.csv
@@ -13402,7 +13406,7 @@ ac58ab34db7adf051b62c36567dea762d42e3cfc8847cb93f6556876d30d47d5  mod/Ultimate U
 6eb0d5de4a066157edf3b0c67562d95f3a0e6ad068eb607b60e8a58dd4a52f41  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - native american events ru.csv
 4e294b8eec4f17baabe5b65b372c6a1eb65341b9defe3a0877cb2e558a6d58c6  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - native american mechanics ru.csv
 149b7003f1d8e8488b9ce9a49a3d628ecac99bcbad85883a1522e3440bb9b44f  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - native frontier settlement ru.csv
-9dd6c48e89df5a80fe39208c571016b891b985b6826b4b6b9ad89ecc0c8a9206  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - native party roster ru.csv
+20d23e2a9973921c60e5df459ad5ff5c1ed2e4fb4d40d1d5a8bff3e96cac9ab7  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - native party roster ru.csv
 f2cfc2361a3bf750afab6a68615ce255633a65275653de74f4c0b9fe02c0de2a  mod/Ultimate Ultimatum - Znamena idey/localisation/zz - public alpha3 repairs ru.csv
 1bdf1123aa84406225858991d35a6c2ce95db016c6476ce3700fb14c7f44966b  mod/Ultimate Ultimatum - Znamena idey/localisation/zz_uu_audit_20261009.csv
 97244c6f021d05c3e130c0bb2aa8ed6e19502d7a60db95176eae1fdca4196fc5  mod/Ultimate Ultimatum - Znamena idey/localisation/zz_uu_indigenous_government_names_20261008.csv
@@ -13510,5 +13514,5 @@ d61a30e94b83b3de1a6aed26dbca4d72ea9ec0c7e5a7718decc522222ae40217  mod/Ultimate U
 a9074b73f768b40e117e5a5d721bc2b30aa8732f6436466d05a7d58559d18932  mod/Ultimate Ultimatum - Znamena idey/units/submarine.txt
 0d00090f80e36e31a3cb5fb5faa58a7b5a58ea7b5361667e10a77309d2b79794  mod/Ultimate Ultimatum - Znamena idey/units/tank.txt
 1a827c4a6e94172076502f37b3fbfbb83ff3071ffeae75ada38c5a16221020f6  mod/Ultimate Ultimatum - Znamena idey/units/transport_plane.txt
-56ceb72b6c282a8908ca10d0d636d362a56d5a1f7eda7310146685fda6dd39cc  tools/audit_mod.py
+14efd9b3b6413bce07789c2c7aefd13e6208f2f1fbc591d8bf0b649696ec0b3c  tools/audit_mod.py
 b58c513d05b7920c7551b15ba7cc62ad78a3a61f628a491feabf9724e37fbe52  tools/release-invariants.json
