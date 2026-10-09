@@ -10,14 +10,14 @@ civilized = no
 ruling_party = CNK_conservative
 upper_house = {
 	fascist = 0
-	liberal = 20
-	conservative = 25
+	liberal = 0
+	conservative = 60
 	reactionary = 40
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-	agrarianism = 10
-	nationalism = 5
+	agrarianism = 0
+	nationalism = 0
 }
 
 slavery = yes_slavery

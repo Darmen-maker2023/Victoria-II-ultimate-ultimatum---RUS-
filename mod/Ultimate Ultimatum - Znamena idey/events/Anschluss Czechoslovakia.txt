@@ -4,7 +4,7 @@ country_event = {
 	title = "Cede Sudetenland to Germany?"
 	desc = "Adolf Hitler, the dictator of Germany is demanding us that we give Sudetenland to them because we have ethnic Germans living here, what shall we do?"
 	
-	is_triggered_only_once = yes
+	fire_only_once = yes
 major = yes
 
 trigger = {
@@ -55,10 +55,10 @@ secede_province = GER }
 secede_province = GER }
 628 = {
 secede_province = GER }
-}
 
 ai_chance = {
 			factor = 25
 		}
+}
 
 }

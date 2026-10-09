@@ -87,7 +87,7 @@ def field(node, name):
     return next((x.value for x in node.value if x.key == name), None) if isinstance(node.value,list) else None
 
 
-def audit(mod, base=None):
+def audit(mod, base=None, historical=False):
     findings = []
     def issue(kind,path,line,message,severity='warning'):
         findings.append({'kind':kind,'path':path.as_posix() if isinstance(path,Path) else path,'line':line,'message':message,'severity':severity})
@@ -166,6 +166,10 @@ def audit(mod, base=None):
                 val = field(party,key)
                 if not val or not re.fullmatch(r'\d+\.\d+\.\d+',val):
                     issue('party_date',path,party.line,f'{tag} {name}: {key}={val}','error')
+            if historical and ideology in ideologies and ideologies[ideology]:
+                start=field(party,'start_date')
+                if start and tuple(map(int,start.split('.'))) < tuple(map(int,ideologies[ideology].split('.'))):
+                    issue('party_before_ideology',path,party.line,f'{name}: {start} before {ideologies[ideology]}','error')
     all_parties = set().union(*parties.values()) if parties else set()
     event_ids = defaultdict(list)
     decision_ids = defaultdict(list)
@@ -174,16 +178,39 @@ def audit(mod, base=None):
             for node in nodes:
                 if node.key in ['country_event','province_event'] and isinstance(node.value,list):
                     event_ids[field(node,'id')].append((path,node.line))
+                    if not any(n.key == 'option' for n in node.value):
+                        issue('event_without_option',path,node.line,str(field(node,'id')),'error')
+                    for child, ancestors in walk(node.value):
+                        if child.key in ['option','mean_time_to_happen'] and ancestors:
+                            issue('nested_event_metadata',path,child.line,f'{child.key} inside {ancestors}','error')
+                        if not ancestors and child.key in ['ai_chance','prestige','release','any_pop','tag','is_triggered_only_once','fires_only_once','mayor']:
+                            issue('misplaced_event_field',path,child.line,str(child.key),'error')
+                else:
+                    issue('orphan_event_field',path,node.line,str(node.key),'error')
         if path.parts[0] == 'decisions':
             for group in nodes:
                 if group.key == 'political_decisions' and isinstance(group.value,list):
                     for node in group.value:
                         if node.key:
                             decision_ids[node.key].append((path,node.line))
+                        if not isinstance(node.value,list) or node.key in ['ai_will_do','potential','allow','effect'] or field(node,'potential') is None or field(node,'effect') is None:
+                            issue('invalid_decision_structure',path,node.line,str(node.key),'error')
+                        elif isinstance(node.value,list):
+                            for child,ancestors in walk(node.value):
+                                if child.key in ['potential','allow','effect','ai_will_do'] and ancestors:
+                                    issue('nested_decision_metadata',path,child.line,f'{child.key} inside {ancestors}','error')
+                            for condition in ['potential','allow']:
+                                block=next((n for n in node.value if n.key==condition),None)
+                                if block:
+                                    for child,_ in walk(block.value):
+                                        if child.key in ['change_tag','set_country_flag','set_global_flag','country_event','province_event','secede_province','inherit','annex_to']:
+                                            issue('effect_in_decision_condition',path,child.line,str(child.key),'error')
+                else:
+                    issue('missing_decision_container',path,group.line,str(group.key),'error')
     for kind,table in [('duplicate_event',event_ids),('duplicate_decision',decision_ids)]:
         for key,locations in table.items():
             if len(locations)>1 or key is None:
-                issue(kind,locations[0][0],locations[0][1],f'{key}: '+', '.join(f'{p}:{ln}' for p,ln in locations),'error' if kind=='duplicate_event' else 'warning')
+                issue(kind,locations[0][0],locations[0][1],f'{key}: '+', '.join(f'{p}:{ln}' for p,ln in locations),'error')
     loc = defaultdict(list)
     csv_rows = 0
     for path in sorted((mod/'localisation').glob('*.csv')):
@@ -290,8 +317,9 @@ def main():
     ap.add_argument('mod',type=Path)
     ap.add_argument('--base',type=Path)
     ap.add_argument('--output',type=Path)
+    ap.add_argument('--historical',action='store_true',help='Check party starts against ideology dates for the public edition')
     args=ap.parse_args()
-    result=audit(args.mod,args.base)
+    result=audit(args.mod,args.base,historical=args.historical)
     if args.output:
         args.output.parent.mkdir(parents=True,exist_ok=True)
         args.output.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')

@@ -5,7 +5,6 @@ country_event = {
 	desc = "We are now forming a union with Norway"
 	picture = "FormSweden-Norway"
 	major = yes
-	tag = SWE
 
 	is_triggered_only = yes
 
@@ -22,5 +21,6 @@ country_event = {
 			militancy = 1
 			consciousness = 1
 		}
-	}
+	}trigger = {
+	tag = SWE}
 }

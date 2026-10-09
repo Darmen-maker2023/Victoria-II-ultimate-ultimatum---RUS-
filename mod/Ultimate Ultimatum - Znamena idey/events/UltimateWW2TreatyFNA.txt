@@ -40,12 +40,13 @@ AND = {
 controlled_by = BUL
 }
 }
+}
+}
 	
 	
 	mean_time_to_happen = {
 		days = 1
 	}
-}
 	
 	
 ##Annex French North africa#
@@ -57,5 +58,4 @@ controlled_by = BUL
 	prestige = 25
 }
 	}
-}
 }

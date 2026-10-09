@@ -8,3 +8,5 @@
 
 - [Страница Ultimate Ultimatum на ModDB](https://www.moddb.com/mods/ultimate-ultimatum)
 - [Оригинальный список изменений Ultimate Ultimatum 0.8](mod/Ultimate%20Ultimatum%20-%20Znamena%20idey/0.8%20Changelog.txt)
+
+Обновлённые индейские знамёна — авторские игровые интерпретации культурных мотивов. Источники, даты современных символов и условности перечислены в [пояснениях к флагам](docs/native-flags-sources.json).

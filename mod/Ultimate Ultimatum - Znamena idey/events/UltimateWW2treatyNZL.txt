@@ -36,6 +36,7 @@ AND = {
 		
 	has_global_flag = WW2_inprogress
 	}
+}
 	
 	mean_time_to_happen = {
 		days = 1
@@ -51,5 +52,4 @@ AND = {
 	prestige = 25
 }
 	}
-}
 }

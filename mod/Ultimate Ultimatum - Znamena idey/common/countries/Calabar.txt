@@ -111,7 +111,7 @@ unit_names = {
 		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
 		
 	}
-	ironCLBd = {
+	ironclad = {
 		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
 		
 	}

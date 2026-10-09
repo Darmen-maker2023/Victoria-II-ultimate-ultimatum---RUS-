@@ -69,8 +69,10 @@ political_decisions = {
 	accepting_walloon_people = {
 		picture = "become_wallonia"
 		potential = {
+	OR = {
 			tag = NET
 			tag = BNX
+	}
 			NOT = { has_country_flag = accepting_walloon_people }
 			year = 1860
 		}

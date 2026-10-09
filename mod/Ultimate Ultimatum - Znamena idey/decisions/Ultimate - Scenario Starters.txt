@@ -118,6 +118,7 @@ victorianscenariostarter = {
 		effect = {
 		REH = { all_core = { remove_core = REH } } 
 			}
+}
 WW1scenariostarter = {
 	picture = spaceprogrampic
 		potential = {
@@ -915,5 +916,4 @@ any_country = {
 
 				}
 					}
-}
 }

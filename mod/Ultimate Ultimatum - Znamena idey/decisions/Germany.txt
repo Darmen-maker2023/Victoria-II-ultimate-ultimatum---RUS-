@@ -602,6 +602,7 @@ political_decisions = {
             create_vassal = SLV
     		badboy = 15
 			SLV = { prestige = -10000 }
+        }
 
 			ai_will_do = {
 				factor = 1
@@ -614,6 +615,5 @@ political_decisions = {
 	                 }
 	                       }
 			              }
-        }
      }
 }

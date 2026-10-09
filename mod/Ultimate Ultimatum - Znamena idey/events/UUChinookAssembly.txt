@@ -21,4 +21,5 @@ country_event = {
 		upper_house = { ideology = agrarianism value = 0.10 }
 		upper_house = { ideology = nationalism value = 0.05 }
 	}
+	is_triggered_only = yes
 }

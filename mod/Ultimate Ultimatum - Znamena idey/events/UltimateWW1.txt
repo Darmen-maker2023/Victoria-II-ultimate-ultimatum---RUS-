@@ -458,11 +458,11 @@ country_event = {
 		NOT = {
 		year = 1920
 		}
+	}
 		 
 		
 		mean_time_to_happen = {
 		months = 1
-	}
 	}
 
 		option = {

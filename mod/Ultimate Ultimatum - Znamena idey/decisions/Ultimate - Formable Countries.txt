@@ -1130,9 +1130,7 @@ exists = ITA
 		}
 	}
 
-}
-	
-	form_benelux = {
+	form_benelux_postwar = {
 					potential = {
 					year = 1946
 					OR = {
@@ -1197,4 +1195,6 @@ exists = ITA
 	                     }
 	                           }
 		                         }
+}
+
 }

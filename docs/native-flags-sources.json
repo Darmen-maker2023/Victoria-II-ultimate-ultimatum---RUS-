@@ -1,0 +1,134 @@
+{
+  "ALT": {
+    "name": "Алеуты",
+    "motif": "kayak",
+    "basis": "Байдарка и море; авторское знамя по культурному мотиву.",
+    "reference": "https://www.apiai.org/community-services/traditional-foods-program/glossary-vocabulary/"
+  },
+  "APC": {
+    "name": "Апачи",
+    "motif": "mountains",
+    "basis": "Четыре горы мескалеро; условная модель для общего игрового тега апачей, не официальный флаг всех апачей.",
+    "reference": "https://mescaleroapachetribe.com/our-culture/"
+  },
+  "ARP": {
+    "name": "Арапахо",
+    "motif": "arapaho",
+    "basis": "Семь полос и разделённый круг северных арапахо; современный флаг, 1936/1956.",
+    "reference": "https://northernarapaho.com/159/Arapaho-Flag"
+  },
+  "AZT": {
+    "name": "Ацтеки",
+    "motif": "eagle_cactus",
+    "basis": "Орёл на кактусе: знак основания Теночтитлана из Кодекса Мендоса; знамя авторское.",
+    "reference": "https://uknowledge.uky.edu/world_mexico_codices/10/"
+  },
+  "CHE": {
+    "name": "Чероки",
+    "motif": "cherokee",
+    "basis": "Семилучевая звезда и семь кланов; современная национальная символика, не засвидетельствованный флаг 1600 года.",
+    "reference": "https://visitcherokeenation.com/faq/"
+  },
+  "CMC": {
+    "name": "Команчи",
+    "motif": "horse_rider",
+    "basis": "Конный воин, синий, красный и золото: переработка узнаваемой основы исходного UU.",
+    "reference": "https://www.comanchenation.com/children-youth-services/page/about-child-support"
+  },
+  "CMS": {
+    "name": "Чумаши",
+    "motif": "tomol",
+    "basis": "Томол — традиционная дощатая лодка; знамя авторское.",
+    "reference": "https://chumash.gov/culture"
+  },
+  "CNK": {
+    "name": "Чинук",
+    "motif": "salmon",
+    "basis": "Лосось и красно-чёрная прибрежная графика. Новый самостоятельный рисунок без Spirit Face; не копия зарегистрированного логотипа нации.",
+    "reference": "https://chinooknation.org/chinook-tribe-culture/"
+  },
+  "CRK": {
+    "name": "Маскоги",
+    "motif": "wheat_plough",
+    "basis": "Сноп и плуг: мотив официальной печати маскоги после 1867 года; не древняя печать.",
+    "reference": "https://www.fivecivilizedtribes.org/Muscogee-Seal.html"
+  },
+  "CYN": {
+    "name": "Шайенны",
+    "motif": "morning_star",
+    "basis": "Утренняя звезда: узнаваемая современная основа флага северных шайеннов в исходном UU.",
+    "reference": "https://www.cheyennenation.com/"
+  },
+  "GRL": {
+    "name": "Инуиты",
+    "motif": "polar_sun",
+    "basis": "Полярный горизонт; республиканский вариант воспроизводит геометрию современного флага Гренландии, принятого в 1985 году.",
+    "reference": "https://erfalasorput.gl/da/erfalasortaarsimanerup-paasissutissartaa/"
+  },
+  "INC": {
+    "name": "Инки",
+    "motif": "inti",
+    "basis": "Золотой солнечный диск Инти. Композиция знамени авторская; радужный флаг не выдаётся за флаг инков.",
+    "reference": "https://www.metmuseum.org/pt/essays/ancient-andean-metalworking"
+  },
+  "IRO": {
+    "name": "Ирокезы",
+    "motif": "hiawatha",
+    "basis": "Пояс Гайаваты: четыре квадрата и центральное дерево, связанные белой линией.",
+    "reference": "https://www.onondaganation.org/culture/wampum/hiawatha-belt/"
+  },
+  "LEN": {
+    "name": "Ленапе",
+    "motif": "turtle",
+    "basis": "Черепаха и три клановых отметки. Это общая игровая композиция, не присвоение печати одной современной нации всем ленапе.",
+    "reference": "https://www.delawarenation-nsn.gov/history/"
+  },
+  "MCM": {
+    "name": "Микмак",
+    "motif": "mikmaq",
+    "basis": "Красный крест, звезда и полумесяц на белом: мотив флага Великого совета.",
+    "reference": "https://www.princeedwardisland.ca/sites/default/files/publications/eco_flagpro.pdf"
+  },
+  "MTC": {
+    "name": "Метисы",
+    "motif": "infinity",
+    "basis": "Белая бесконечность на синем, известная с XIX века; красный вариант также принадлежит традиции метисов.",
+    "reference": "https://www.metisnation.org/about-the-mno/culture-heritage/symbols-and-traditions/"
+  },
+  "MYA": {
+    "name": "Майя",
+    "motif": "maya_sun",
+    "basis": "Направления мира и четырёхлепестковый солнечный знак. Авторская модель для общего игрового тега, не единый исторический флаг всех майя.",
+    "reference": "https://www.metmuseum.org/art/collection/search/889934"
+  },
+  "POW": {
+    "name": "Поухатаны",
+    "motif": "mantle",
+    "basis": "Человек и два животных среди раковинных кругов: композиционный мотив мантии Поухатана начала XVII века, не точная копия предмета.",
+    "reference": "https://www.ashmolean.org/node/178731"
+  },
+  "QUI": {
+    "name": "Квиннипиак",
+    "motif": "shell",
+    "basis": "Раковина и вампум прибрежных алгонкинов; авторский вариант, исторический официальный флаг не заявляется.",
+    "reference": "https://www.haudenosauneeconfederacy.com/wampum/"
+  },
+  "SIX": {
+    "name": "Сиу",
+    "motif": "seven_fires",
+    "basis": "Семь костров Очетти Шаковин; общий союз, а не печать одной современной резервации.",
+    "reference": "https://americanindian.si.edu/nk360/plains-belonging-homelands/oceti-sakowin"
+  },
+  "SQH": {
+    "name": "Саскуэханнок",
+    "motif": "longhouse",
+    "basis": "Длинный дом и палисад — подтверждённые черты поселений; авторское знамя.",
+    "reference": "https://www.phmc.state.pa.us/portal/communities/archaeology/files/changing_frontiers.pdf"
+  },
+  "WYA": {
+    "name": "Вендат",
+    "motif": "wendat",
+    "basis": "Черепаха, костёр совета и двенадцать клановых отметок из объяснения символов Wyandotte Nation; авторская композиция.",
+    "reference": "https://wyandotte-nation.org/"
+  }
+}

@@ -115,7 +115,7 @@ country_event = {
 	news_desc_medium = "EVTDESC21600_NEWS_MEDIUM"
 	news_desc_short = "EVTDESC21600_NEWS_SHORT"
 	picture = "bigwavedisaster"
-    fires_only_once = yes
+    fire_only_once = yes
 
 
 	trigger = {
@@ -409,4 +409,3 @@ country_event = {
 #		prestige = 5
 #	}
 #}
-

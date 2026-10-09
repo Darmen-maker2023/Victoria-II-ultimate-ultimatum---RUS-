@@ -4,7 +4,7 @@ country_event = {
 	title = "The end of Gran Colombia"
 	desc = "Due to the high militancy in our country we have no choice but to dismantle ourselves"
 	picture = "scream"
-	is_triggered_only_once = yes
+	fire_only_once = yes
 major = yes
 
 trigger = {
@@ -31,4 +31,3 @@ change_tag = CLM
 
 	
 		}
-	

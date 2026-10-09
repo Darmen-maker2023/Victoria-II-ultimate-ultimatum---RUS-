@@ -4,7 +4,7 @@ country_event = {
 	title = "Peru declare independence"
 	desc = "Following the example of our other American colonies Peru in 1821 declared independence , our advisors say that we can't let them go so that we don't become a weak empire talking about it's former glory , so how do we respond?"
 	picture = "scream"
-	is_triggered_only_once = yes
+	fire_only_once = yes
 major = yes
 
 trigger = {

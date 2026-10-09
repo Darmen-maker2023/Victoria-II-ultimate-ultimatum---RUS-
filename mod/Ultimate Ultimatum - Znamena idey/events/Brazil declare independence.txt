@@ -4,7 +4,7 @@ country_event = {
 	title = "Brazil declare independence"
 	desc = "On the 7th of September of 1821 D.Pedro IV  , son of the king of Portugal  declared the independence of Brazil which was only accepted by Portugal in 1825 , how should we respond?"
 	picture = "scream"
-	is_triggered_only_once = yes
+	fire_only_once = yes
 major = yes
 
 trigger = {

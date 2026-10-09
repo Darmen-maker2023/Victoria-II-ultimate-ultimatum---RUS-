@@ -4,7 +4,6 @@ country_event = {
 	title = "The Qing conquest of Ming"
 	desc = "After forming and uniting our Jurchen brethren, we can start the conquest of Ming"
 	picture = "QingconquestofMing"
-	tag = CHI
 
 	is_triggered_only = yes
 
@@ -27,5 +26,6 @@ country_event = {
 			consciousness = 1
 		}
 	}
-}
+}trigger = {
+	tag = CHI}
 }

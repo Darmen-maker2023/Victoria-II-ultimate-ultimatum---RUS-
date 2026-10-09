@@ -69,6 +69,7 @@ tag = FRA
 	605 = {
 	controlled_by = THIS
 		}
+}
 	
 
 mean_time_to_happen = {
@@ -84,7 +85,7 @@ name = "Make them our puppet"
 	FRA = {
 	create_vassal = SWI
 	end_war = SWI
-	milCISry_access = SWI
+	military_access = SWI
 		}
            
 	prestige = 1000
@@ -104,6 +105,7 @@ political_reform = underground_parties
 		ai_chance = {
 			factor = 25
 		}
+}
 
 
 	
@@ -120,6 +122,5 @@ name = "Annex  Switzerland"
         
 	
 		}
-}
-}
+	fire_only_once = yes
 }

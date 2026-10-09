@@ -78,12 +78,12 @@ release = ALB
 release = MOL
 }
 		
+		ai_chance = {
+			factor = 25
+		}
+
 
 # Incomplete reference to an unregistered country omitted.
 
 }	
-	
-		ai_chance = {
-			factor = 25
-		}
 }

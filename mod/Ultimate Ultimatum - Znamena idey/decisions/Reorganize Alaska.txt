@@ -46,7 +46,7 @@ political_decisions = {
 				add_core = LSK
 			}
 			set_country_flag = reorganize_alaska_done
-			}
 			prestige = 5
+			}
 		}
 	}

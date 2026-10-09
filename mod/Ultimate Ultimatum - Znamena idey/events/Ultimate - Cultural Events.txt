@@ -895,6 +895,7 @@ name = "just... one... more... year"
                         }
         
                         }
+	is_triggered_only = yes
 }
 
 
@@ -909,7 +910,7 @@ name = "just... one... more... year"
 country_event = {
         id = 202000
         title = "Japan Likes Our Sexy Official"
-        desc = "Natalia Vladimirovna Poklonskaya has reached international fame after a recent press conference. A cult of personality has begun in Japan and they’re ravenous for Crimean political officials! Glory to Crimea!"
+        desc = "UU_AUDIT_POKLONSKAYA_DESC"
         picture = "waifu"
 
 
@@ -929,10 +930,12 @@ mean_time_to_happen = {
 
 
 option = {
-name = "They can’t get enough of her!"
+name = "UU_AUDIT_POKLONSKAYA_OPTION"
         relation = {
                 who = JAP
                 value = 50
                         }
                 }
+	fire_only_once = yes
+	is_triggered_only = yes
 }

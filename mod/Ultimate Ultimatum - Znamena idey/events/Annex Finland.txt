@@ -4,7 +4,6 @@ country_event = {
 	title = "Annex Finland"
 	desc = "After war with Sweden, it is time to annex Finland"
 	picture = "TreatyofVersailles"
-	tag = RUS
 	is_triggered_only = yes
 
 	option = {
@@ -23,5 +22,6 @@ country_event = {
 			militancy = 2
 			consciousness = 1
 		}
-	}
+	}trigger = {
+	tag = RUS}
 }

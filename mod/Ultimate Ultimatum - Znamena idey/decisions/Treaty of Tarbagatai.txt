@@ -31,7 +31,7 @@ political_decisions = {
 			}
 			set_country_flag = treaty_of_tarbagatai_done
 			country_event = { id=8182833 days=0 }
-			}
 			prestige = 1
+			}
 		}
 	}

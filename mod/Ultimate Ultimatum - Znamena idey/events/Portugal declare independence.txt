@@ -22,11 +22,10 @@ name = "Ok let them go"
 
 	release = POR
 militancy = 3
-}
 		ai_chance = {
 			factor = 25
 		}
-		}
+}
 	option = {
 	name = "Never"
 	prestige = -10
@@ -43,4 +42,5 @@ war = {
 }
 
 	
+		}
 		}

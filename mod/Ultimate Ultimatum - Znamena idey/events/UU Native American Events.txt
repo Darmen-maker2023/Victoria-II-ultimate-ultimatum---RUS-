@@ -3,7 +3,6 @@ country_event = {
 	title = "UU_NATIVE_COUNCIL_TITLE"
 	desc = "UU_NATIVE_COUNCIL_DESC"
 	picture = "native_force"
-	fire_only_once = yes
 	trigger = {
 		year = 1600
 		NOT = { has_country_flag = uu_native_council_event_done }
@@ -53,7 +52,6 @@ country_event = {
 	title = "UU_NATIVE_ROUTES_TITLE"
 	desc = "UU_NATIVE_ROUTES_DESC"
 	picture = "native_force"
-	fire_only_once = yes
 	trigger = {
 		year = 1600
 		NOT = { has_country_flag = uu_native_routes_event_done }
@@ -103,7 +101,6 @@ country_event = {
 	title = "UU_NATIVE_STEWARDSHIP_TITLE"
 	desc = "UU_NATIVE_STEWARDSHIP_DESC"
 	picture = "native_force"
-	fire_only_once = yes
 	trigger = {
 		year = 1600
 		NOT = { has_country_flag = uu_native_stewardship_event_done }

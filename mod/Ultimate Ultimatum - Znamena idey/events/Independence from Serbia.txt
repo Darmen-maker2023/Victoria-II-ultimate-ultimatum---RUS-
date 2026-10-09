@@ -15,6 +15,7 @@ NOT  = {
 exists = MON 
 
  }
+	}
 	
 		
 	
@@ -43,7 +44,6 @@ casus_belli = become_independent }
  option = {
 name = "Let them go"
 release = MON }
-	}
 }
 #Kosovo Independence
 country_event = {

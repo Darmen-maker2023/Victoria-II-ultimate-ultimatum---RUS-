@@ -20,6 +20,7 @@ tag = BRI }
 	
 		
 	has_global_flag = WW2_inprogress
+}
         
 	
 	
@@ -37,5 +38,4 @@ tag = BRI }
 	prestige = 25
 }
 	}
-}
 }

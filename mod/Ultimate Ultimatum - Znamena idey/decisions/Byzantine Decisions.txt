@@ -18,6 +18,7 @@ political_decisions = {
 	ai_will_do = {
 		factor = 1
 	}
+}
 
 	rename_istanbul = {
 		potential = {
@@ -40,12 +41,11 @@ political_decisions = {
 				}
 			}
 		prestige = 5
-		money -100
+	money = -100
 	}
 	
 	ai_will_do = {
 		factor = 1
 	}
-}
 }
 }

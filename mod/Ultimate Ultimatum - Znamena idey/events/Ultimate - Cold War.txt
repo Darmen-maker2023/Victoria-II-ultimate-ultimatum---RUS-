@@ -1,8 +1,8 @@
 country_event = {
 
 id = 26000000
-title = 2600000 #Greek Civil War
-desc = 2600000
+title = "UU_AUDIT_26000000_TITLE" #Greek Civil War
+desc = "UU_AUDIT_26000000_DESC"
 picture = "greek_civil_war"
 fire_only_once = yes
 
@@ -35,8 +35,8 @@ trigger = {
 country_event = {
 
 id = 26000001
-title = ev_26000001 #Roswell Incident
-desc = ev_26000001
+title = "UU_AUDIT_26000001_TITLE" #Roswell Incident
+desc = "UU_AUDIT_26000001_DESC"
 picture = "roswell"
 fire_only_once = yes
 
@@ -59,8 +59,8 @@ fire_only_once = yes
 country_event = {
 
 id = 26000002
-title = ev_26000002 #Indochina War (1945-1975)
-desc = ev_26000002
+title = "UU_AUDIT_26000002_TITLE" #Indochina War (1945-1975)
+desc = "UU_AUDIT_26000002_DESC"
 picture = "legionnaire-indochina"
 fire_only_once = yes
 
@@ -161,8 +161,8 @@ fire_only_once = yes
 country_event = {
 
 id = 26000003
-title = ev_26000003 #State of Israel Begins (1948)
-desc = ev_26000003
+title = "UU_AUDIT_26000003_TITLE" #State of Israel Begins (1948)
+desc = "UU_AUDIT_26000003_DESC"
 picture = "independeceIsrael"
 fire_only_once = yes
 
@@ -199,8 +199,8 @@ fire_only_once = yes
 country_event = {
 
 id = 26000004
-title = ev_26000004 #War of Independence of Israel (1948)
-desc = ev_26000004
+title = "UU_AUDIT_26000004_TITLE" #War of Independence of Israel (1948)
+desc = "UU_AUDIT_26000004_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -238,8 +238,8 @@ fire_only_once = yes
 country_event = {
 
 id = 26000005
-title = ev_26000005 #Partition of India
-desc = ev_26000005
+title = "UU_AUDIT_26000005_TITLE" #Partition of India
+desc = "UU_AUDIT_26000005_DESC"
 picture = "partition_of_India"
 fire_only_once = yes
 
@@ -271,27 +271,27 @@ trigger = {
 	1257 = {
 		secede_province = PAK
 		}
-
-	}
 	ai_chance = {
 			factor = 100
 		}
+
+	}
 	
 	option = {
 		name = "Not yet."
 	
 		country_event = 170502
-	}
 	ai_chance = {
 			factor = 0
 		}
+	}
 }
 
 country_event = {
 
 id = 26000006
-title = ev_26000006 #Partition of Korea
-desc = ev_26000006
+title = "UU_AUDIT_26000006_TITLE" #Partition of Korea
+desc = "UU_AUDIT_26000006_DESC"
 picture = "korean_partition"
 fire_only_once = yes
 
@@ -343,8 +343,8 @@ trigger = {
 country_event = {
 
 id = 26000007
-title = ev_26000007 #Korean War
-desc = ev_26000007
+title = "UU_AUDIT_26000007_TITLE" #Korean War
+desc = "UU_AUDIT_26000007_DESC"
 picture = "korean_war"
 fire_only_once = yes
 
@@ -399,8 +399,8 @@ trigger = {
 country_event = {
 
 id = 26000008
-title = ev_2600008 #UK cedes Newfoundland to Canada
-desc = ev_2600008
+title = "UU_AUDIT_26000008_TITLE" #UK cedes Newfoundland to Canada
+desc = "UU_AUDIT_26000008_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -495,8 +495,8 @@ trigger = {
 
 country_event = {
 	id = 26000009  # Libya Independence
-	title = ev_2600009
-	desc = ev_2600009
+	title = "UU_AUDIT_26000009_TITLE"
+	desc = "UU_AUDIT_26000009_DESC"
 	
 	trigger = {
 		OR = {
@@ -516,6 +516,7 @@ country_event = {
 				has_country_flag = libya_not_formed
 		}		
 	}
+}
 		
 	mean_time_to_happen = { days = 25 }
 
@@ -537,13 +538,12 @@ country_event = {
 		set_country_flag = libya_not_formed
 	}
 }
-}
 
 country_event = {
 
 id = 26000010
-title = ev_2600010 #Broz Tito takes the power
-desc = ev_2600010
+title = "UU_AUDIT_26000010_TITLE" #Broz Tito takes the power
+desc = "UU_AUDIT_26000010_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -578,8 +578,8 @@ trigger = {
 country_event = {
 
 id = 26000011
-title = ev_260011 #South Vietnam secession and becomes under US influence
-desc = ev_2600011
+title = "UU_AUDIT_26000011_TITLE" #South Vietnam secession and becomes under US influence
+desc = "UU_AUDIT_26000011_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -633,8 +633,8 @@ trigger = {
 country_event = {
 
 id = 26000012
-title = ev_260012 #Cuban Revolution Begins
-desc = ev_2600012
+title = "UU_AUDIT_26000012_TITLE" #Cuban Revolution Begins
+desc = "UU_AUDIT_26000012_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -653,7 +653,7 @@ trigger = {
 	}
 
 	option = {
-		name = "¡Viva Cuba Libre!"
+		name = "UU_AUDIT_CUBA_FREE_OPTION"
 		set_country_flag = cuban_revolution
 		
 	any_pop = {
@@ -675,8 +675,8 @@ trigger = {
 country_event = {
 
 id = 26000013
-title = ev_260013 #Fidel Castro takes the Power
-desc = ev_2600013
+title = "UU_AUDIT_26000013_TITLE" #Fidel Castro takes the Power
+desc = "UU_AUDIT_26000013_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -720,8 +720,8 @@ trigger = {
 country_event = {
 
 id = 26000014
-title = ev_260014 #Sino-Soviet Split
-desc = ev_2600014
+title = "UU_AUDIT_26000014_TITLE" #Sino-Soviet Split
+desc = "UU_AUDIT_26000014_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -763,8 +763,8 @@ trigger = {
 country_event = {
 
 id = 26000015
-title = ev_26000015 #Martin Luther King speech in Washington DC
-desc = ev_26000015
+title = "UU_AUDIT_26000015_TITLE" #Martin Luther King speech in Washington DC
+desc = "UU_AUDIT_26000015_DESC"
 picture = "Washington_1963"
 fire_only_once = yes
 
@@ -801,8 +801,8 @@ trigger = {
 country_event = {
 
 id = 26000016
-title = ev_26000016 #Gulf Tokin Incident
-desc = ev_26000016
+title = "UU_AUDIT_26000016_TITLE" #Gulf Tokin Incident
+desc = "UU_AUDIT_26000016_DESC"
 picture = "Tonkingunboats"
 fire_only_once = yes
 
@@ -838,8 +838,8 @@ trigger = {
 country_event = {
 
 id = 26000017
-title = ev_26000017 #Vietnam war begins
-desc = ev_26000017
+title = "UU_AUDIT_26000017_TITLE" #Vietnam war begins
+desc = "UU_AUDIT_26000017_DESC"
 picture = "US_Army_Saigon_1965"
 
 is_triggered_only = yes
@@ -868,8 +868,8 @@ is_triggered_only = yes
 country_event = {
 
 id = 26000018
-title = ev_26000018 #Chinese Cultural Revolution
-desc = ev_26000018
+title = "UU_AUDIT_26000018_TITLE" #Chinese Cultural Revolution
+desc = "UU_AUDIT_26000018_DESC"
 picture = "Cultural_Revolution_poster"
 fire_only_once = yes
 
@@ -912,8 +912,8 @@ trigger = {
 country_event = {
 
 id = 26000019
-title = ev_26000019 #Prague Spring (1968)
-desc = ev_26000019
+title = "UU_AUDIT_26000019_TITLE" #Prague Spring (1968)
+desc = "UU_AUDIT_26000019_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -949,8 +949,8 @@ trigger = {
 country_event = {
 
 id = 26000020
-title = ev_26000020 #Russia Reacts to Prague Spring (1968)
-desc = ev_26000020
+title = "UU_AUDIT_26000020_TITLE" #Russia Reacts to Prague Spring (1968)
+desc = "UU_AUDIT_26000020_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -977,8 +977,8 @@ trigger = {
 country_event = {
 
 id = 26000021
-title = ev_26000021 #Six days war
-desc = ev_26000021
+title = "UU_AUDIT_26000021_TITLE" #Six days war
+desc = "UU_AUDIT_26000021_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1017,8 +1017,8 @@ trigger = {
 country_event = {
 
 id = 26000022
-title = ev_26000022 #Varsovia Pact Invades Czechoslovakia (1968)
-desc = ev_26000022
+title = "UU_AUDIT_26000022_TITLE" #Varsovia Pact Invades Czechoslovakia (1968)
+desc = "UU_AUDIT_26000022_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1056,8 +1056,8 @@ trigger = {
 
 country_event = {
 id = 26000023
-title = ev_26000023 #May 1968 in France
-desc = ev_26000023
+title = "UU_AUDIT_26000023_TITLE" #May 1968 in France
+desc = "UU_AUDIT_26000023_DESC"
 picture = ""
 
 fire_only_once = yes
@@ -1096,8 +1096,8 @@ trigger = {
 
 country_event = {
 id = 26000024
-title = ev_26000024 #Tlatelolco Massacre
-desc = ev_26000024
+title = "UU_AUDIT_26000024_TITLE" #Tlatelolco Massacre
+desc = "UU_AUDIT_26000024_DESC"
 picture = ""
 
 fire_only_once = yes
@@ -1150,8 +1150,8 @@ trigger = {
 country_event = {
 
 id = 26000025
-title = ev_26000025 #Woodstrock Festival
-desc = ev_26000025
+title = "UU_AUDIT_26000025_TITLE" #Woodstrock Festival
+desc = "UU_AUDIT_26000025_DESC"
 picture = "woodstock"
 fire_only_once = yes
 
@@ -1183,8 +1183,8 @@ trigger = {
 	
 country_event = {
 id = 26000026
-title = ev_26000026 #Laos Intervention
-desc = ev_26000026
+title = "UU_AUDIT_26000026_TITLE" #Laos Intervention
+desc = "UU_AUDIT_26000026_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1222,8 +1222,8 @@ trigger = {
 
 country_event = {
 id = 26000027
-title = ev_26000027 #Watergate Scandal
-desc = ev_26000027
+title = "UU_AUDIT_26000027_TITLE" #Watergate Scandal
+desc = "UU_AUDIT_26000027_DESC"
 picture = "Nixon-depart"
 fire_only_once = yes
 
@@ -1253,8 +1253,8 @@ trigger = {
 country_event = {
 
 id = 26000028
-title = ev_26000028 #Angola declares Independence and civil war begins
-desc = ev_26000028
+title = "UU_AUDIT_26000028_TITLE" #Angola declares Independence and civil war begins
+desc = "UU_AUDIT_26000028_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1271,8 +1271,6 @@ trigger = {
 	mean_time_to_happen = {
 		months = 6
 	}
-	
-	release = ANG
 
 	option = {
 		name = "UU_EVENT_ANGOLA_INDEPENDENCE_OPTION"
@@ -1301,14 +1299,16 @@ trigger = {
 			CUB = {
 			# Removed call to unavailable country_event 26000029.
 			}
+
+	release = ANG
 	}
 	}
 	
 country_event = {
 
 id = 260000029
-title = ev_26000029 #Cuban Intervention in Angola Civil War
-desc = ev_26000029
+title = "UU_AUDIT_260000029_TITLE" #Cuban Intervention in Angola Civil War
+desc = "UU_AUDIT_260000029_DESC"
 picture = ""
 
 is_triggered_only = yes
@@ -1333,8 +1333,8 @@ is_triggered_only = yes
 country_event = {
 
 id = 26000030
-title = ev_26000030 #Yom Kipur War
-desc = ev_26000030
+title = "UU_AUDIT_26000030_TITLE" #Yom Kipur War
+desc = "UU_AUDIT_26000030_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1372,8 +1372,8 @@ trigger = {
 country_event = {
 
 id = 26000032
-title = ev_26000032 #Chilean coup d'état (1973)
-desc = ev_26000032
+title = "UU_AUDIT_26000032_TITLE" #Chilean coup d'état (1973)
+desc = "UU_AUDIT_26000032_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1406,8 +1406,8 @@ trigger = {
 country_event = {
 
 id = 26000033
-title = ev_26000033 #Soviet Invasion of Afghanistan
-desc = ev_26000033
+title = "UU_AUDIT_26000033_TITLE" #Soviet Invasion of Afghanistan
+desc = "UU_AUDIT_26000033_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1445,8 +1445,8 @@ trigger = {
 country_event = {
 
 id = 26000034
-title = ev_26000034 #Iranian Revolution
-desc = ev_260000034
+title = "UU_AUDIT_26000034_TITLE" #Iranian Revolution
+desc = "UU_AUDIT_26000034_DESC"
 picture = "iran_1979"
 fire_only_once = yes
 
@@ -1490,8 +1490,8 @@ trigger = {
 country_event = {
 
 id = 26000035
-title = ev_26000035 #Ayatolah Khomeini takes the power
-desc = ev_26000035
+title = "UU_AUDIT_26000035_TITLE" #Ayatolah Khomeini takes the power
+desc = "UU_AUDIT_26000035_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1520,8 +1520,8 @@ trigger = {
 country_event = {
 
 id = 26000036
-title = ev_26000036 #Iran-Iraq War
-desc = ev_26000036
+title = "UU_AUDIT_26000036_TITLE" #Iran-Iraq War
+desc = "UU_AUDIT_26000036_DESC"
 picture = "War_in_the_gulf"
 fire_only_once = yes
 
@@ -1560,8 +1560,8 @@ trigger = {
 country_event = {
 
 id = 26000037
-title = ev_26000037 #Argentina takes Falkland Islands
-desc = ev_26000037
+title = "UU_AUDIT_26000037_TITLE" #Argentina takes Falkland Islands
+desc = "UU_AUDIT_26000037_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1602,8 +1602,8 @@ trigger = {
 country_event = {
 
 id = 26000038
-title = ev_26000038 #Falklands War
-desc = ev_26000038
+title = "UU_AUDIT_26000038_TITLE" #Falklands War
+desc = "UU_AUDIT_26000038_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1646,8 +1646,8 @@ trigger = {
 country_event = {
 
 id = 26000039
-title = ev_26000039 #US invades Panama
-desc = ev_26000039
+title = "UU_AUDIT_26000039_TITLE" #US invades Panama
+desc = "UU_AUDIT_26000039_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1686,8 +1686,8 @@ trigger = {
 
 country_event = {
 	id = 26000040 # Mexico City destroyed by earthquake
-	title = ev_20000040
-	desc = desc_ev_2000040
+	title = "UU_AUDIT_26000040_TITLE"
+	desc = "UU_AUDIT_26000040_DESC"
 	picture = earthquakeold
 	fire_only_once = yes
 	trigger = {
@@ -1711,8 +1711,8 @@ country_event = {
 
 country_event = {
 	id = 26000041 #Comet Halley
-	title = ev_26000041
-	desc = desc_ev_26000041
+	title = "UU_AUDIT_26000041_TITLE"
+	desc = "UU_AUDIT_26000041_DESC"
 	picture = sight
 	fire_only_once = yes
 	trigger = {
@@ -1733,8 +1733,8 @@ country_event = {
 country_event = {
 
 id = 26000042
-title = ev_26000042 #Perestroika and Glasnot begins
-desc = ev_26000042
+title = "UU_AUDIT_26000042_TITLE" #Perestroika and Glasnot begins
+desc = "UU_AUDIT_26000042_DESC"
 picture = "perestroika"
 fire_only_once = yes
 
@@ -1769,8 +1769,8 @@ trigger = {
 country_event = {
 
 id = 26000043
-title = ev_26000043 #Revolutions of 1989
-desc = ev_26000043
+title = "UU_AUDIT_26000043_TITLE" #Revolutions of 1989
+desc = "UU_AUDIT_26000043_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -1818,8 +1818,8 @@ trigger = {
 country_event = {
 
 id = 26000044
-title = ev_26000044 #Tiananmen Square protests of 1989
-desc = ev_26000044
+title = "UU_AUDIT_26000044_TITLE" #Tiananmen Square protests of 1989
+desc = "UU_AUDIT_26000044_DESC"
 picture = "tankman"
 fire_only_once = yes
 
@@ -1878,11 +1878,11 @@ trigger = {
 	
 country_event = {
 id = 26000045
-title = ev_26000045 #German Reunification
-desc = ev_26000045
+title = "UU_AUDIT_26000045_TITLE" #German Reunification
+desc = "UU_AUDIT_26000045_DESC"
 picture = "one_germany"
 fire_only_once = yes
-mayor = yes
+major = yes
 
 trigger = {
 		tag = GER
@@ -1914,10 +1914,10 @@ trigger = {
 		inherit = DDR
 		
 		change_tag = GER
-	}
 	ai_chance = {
 			factor = 0.90
 		}
+	}
 	
 	option = {
 		name = "Reunification will be gradual."
@@ -1925,25 +1925,25 @@ trigger = {
 		GER = {
 			create_vassal = DDR
 		}
-		
-	}
 	ai_chance = {
 			factor = 0.09
 		}
+
+	}
 		option = {
 		name = "No. We are two diferent countries."
-	}
 	
 	ai_chance = {
 			factor = 0.01
 		}
+	}
 }
 	
 country_event = {
 
 id = 26000046
-title = ev_26000046 #Iraq attacks Kuwait
-desc = ev_26000046
+title = "UU_AUDIT_26000046_TITLE" #Iraq attacks Kuwait
+desc = "UU_AUDIT_26000046_DESC"
 picture = "kuwait1990"
 fire_only_once = yes
 
@@ -1981,8 +1981,8 @@ trigger = {
 
 country_event = {
 id = 26000047
-title = ev_26000047 #War of Gulf (1990)
-desc = ev_26000047
+title = "UU_AUDIT_26000047_TITLE" #War of Gulf (1990)
+desc = "UU_AUDIT_26000047_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -2033,8 +2033,8 @@ trigger = {
 country_event = {
 
 id = 26000048
-title = ev_26000048 #Breakup of Yugoslavia begins
-desc = ev_26000048
+title = "UU_AUDIT_26000048_TITLE" #Breakup of Yugoslavia begins
+desc = "UU_AUDIT_26000048_DESC"
 picture = ""
 fire_only_once = yes
 
@@ -2110,10 +2110,10 @@ trigger = {
 country_event = {
 
 id = 26000049
-title = ev_26000049 #Dissolution USSR
-desc = ev_26000049
+title = "UU_AUDIT_26000049_TITLE" #Dissolution USSR
+desc = "UU_AUDIT_26000049_DESC"
 picture = ""
-mayor = yes
+major = yes
 fire_only_once = yes
 
 trigger = {

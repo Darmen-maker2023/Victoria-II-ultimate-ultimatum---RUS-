@@ -101,25 +101,24 @@ country_event = {
 	title = "Proposal for Baltic unification"
 	desc = "Estonia has proposed that we should unify   do you accept the offer ? "
 	picture = administration
-	fire_only_once = yes
-	trigger = {
-		
-	tag = EST
-tag = LAT 
+	trigger = { OR = { tag = LAT tag = LIT } exists = UBD NOT = { has_country_flag = uu_baltic_offer_done }
 }
 	option = {
 		name = "Good idea"
-EST = {
+	set_country_flag = uu_baltic_offer_done
+UBD = {
 inherit = THIS }
 		
 ai_chance = {
 			factor = 25
 		}
-option = {
-name = "We don't want to"
-}
 
 	}
+option = {
+name = "We don't want to"
+	set_country_flag = uu_baltic_offer_done
+}
+	is_triggered_only = yes
 }
 
 
@@ -131,25 +130,24 @@ country_event = {
 	title = "Proposal for Baltic unification"
 	desc = "Lithuania has proposed that we should unify   do you accept the offer ? "
 	picture = administration
-	fire_only_once = yes
-	trigger = {
-		
-	tag = EST
-tag = LAT 
+	trigger = { OR = { tag = EST tag = LAT } exists = UBD NOT = { has_country_flag = uu_baltic_offer_done }
 }
 	option = {
 		name = "Good idea"
-LIT = {
+	set_country_flag = uu_baltic_offer_done
+UBD = {
 inherit = THIS }
 		
 ai_chance = {
 			factor = 25
 		}
-option = {
-name = "We don't want to"
-}
 
 	}
+option = {
+name = "We don't want to"
+	set_country_flag = uu_baltic_offer_done
+}
+	is_triggered_only = yes
 }
 
 
@@ -161,23 +159,22 @@ country_event = {
 	title = "Proposal for Baltic unification"
 	desc = "Latvia has proposed that we should unify   do you accept the offer ? "
 	picture = administration
-	fire_only_once = yes
-	trigger = {
-		
-	tag = EST
-tag = LAT 
+	trigger = { OR = { tag = EST tag = LIT } exists = UBD NOT = { has_country_flag = uu_baltic_offer_done }
 }
 	option = {
 		name = "Good idea"
-EST = {
+	set_country_flag = uu_baltic_offer_done
+UBD = {
 inherit = THIS }
 		
 ai_chance = {
 			factor = 25
 		}
-option = {
-name = "We don't want to"
-}
 
 	}
+option = {
+name = "We don't want to"
+	set_country_flag = uu_baltic_offer_done
+}
+	is_triggered_only = yes
 }

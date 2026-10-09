@@ -1,7 +1,7 @@
 #The Ottoman Empire is occupied by the allies
 country_event = {
 	id = 10000004
-	title = "Treaty of Sèvres"
+	title = "UU_AUDIT_SEVRES_TITLE"
 	desc = "The War is lost, and now we have to accept the dismantlement of our Empire"
 	picture = "TreatyofVersailles"
 

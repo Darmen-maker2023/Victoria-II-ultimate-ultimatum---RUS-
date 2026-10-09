@@ -12,8 +12,10 @@ country_event = {
 	news_desc_short = "EVTDESC23450_NEWS_SHORT"
 
 	trigger = {
+	OR = {
 		tag = SWE 
 		tag = SWN
+	}
 		year = 1898
 		not = {
 			year = 1905

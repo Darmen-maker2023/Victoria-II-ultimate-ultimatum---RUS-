@@ -301,7 +301,7 @@ country_event = {
 		}
 
        option = {
-		name = "For the República Española!"
+		name = "UU_AUDIT_SPANISH_REPUBLIC_OPTION"
 		prestige = -5 
 		set_global_flag = spanish_civil_war
 		set_global_flag = spcw_happening

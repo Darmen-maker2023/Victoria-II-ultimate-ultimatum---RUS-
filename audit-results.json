@@ -5,12 +5,12 @@
       "history/units/v2dd2.txt",
       "interface/credits.txt"
     ],
-    "localisation_files": 91,
-    "localisation_rows": 57600,
-    "localisation_keys": 41235,
+    "localisation_files": 94,
+    "localisation_rows": 58421,
+    "localisation_keys": 42055,
     "countries": 539,
-    "parties": 14707,
-    "party_records_including_unregistered_countries": 14783,
+    "parties": 14876,
+    "party_records_including_unregistered_countries": 14952,
     "ideologies": 16,
     "technologies": 210,
     "technology_folders": 6,
@@ -48,7 +48,7 @@
       "tech_power": 7
     },
     "events": 2019,
-    "decisions": 656,
+    "decisions": 643,
     "counts_by_kind": {
       "unregistered_country_history": 1
     },

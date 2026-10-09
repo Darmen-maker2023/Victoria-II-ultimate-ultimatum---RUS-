@@ -27,7 +27,6 @@ name = "Make them our puppet"
 	treasury = 200000
 	
 	create_vassal = POR
-}
        
 	
 		
@@ -36,5 +35,5 @@ name = "Make them our puppet"
            
 	prestige = 1000
 }
-	
-	
+	fire_only_once = yes
+}

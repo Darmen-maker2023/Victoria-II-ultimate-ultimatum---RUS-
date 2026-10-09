@@ -17,13 +17,13 @@ name = "Ok i agree!"
 
 	inherit = POR
 militancy = 3
-}
 		ai_chance = {
 			factor = 25
 		}
-		}
+}
 	option = {
 	name = "We don't need to"
 	prestige = -25
 	
+		}
 		}

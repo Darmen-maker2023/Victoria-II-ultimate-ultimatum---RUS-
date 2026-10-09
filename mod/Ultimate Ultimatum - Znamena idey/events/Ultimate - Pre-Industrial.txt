@@ -9030,20 +9030,20 @@ country_event = {
 		USA = {
 			treasury = -100000
 		}
-	}
 			ai_chance = {
 			factor = 100
 		}
+	}
 	option = {
 		name = event_option_no
 		relation = {
 			who = USA
 			value = -50
 		}
-	}
 			ai_chance = {
 			factor = 0
 		}
+	}
 }
 country_event = {
 	id = 20000339 # Burlington Arcade opened in London

@@ -8,7 +8,7 @@ country_event = {
 trigger = {
 	has_country_flag = WW2_Axis
 tag = GER
-	AND = {
+	OR = {
 
 	549 = {
 	controlled_by = RUS
@@ -36,12 +36,11 @@ tag = GER
 	GER = {
 	war_exhaustion = 10
 		}
-			}
 	has_global_flag = WW2inprogress
 	NOT = {
 		has_global_flag = WW2_ended_GER_lost
 		}
-		}
+			}
 
 mean_time_to_happen = {
 		days = 1 }
@@ -217,6 +216,7 @@ inherit = FNA }
 	consciousness = 6
 			}
 		}
+		}
 
 
-#}	
+#}
