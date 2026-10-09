@@ -1,23 +1,4 @@
 {
-  "personal": {
-    "files_compared": 72,
-    "before_structure_defects": {
-      "nested_decision_metadata": 17,
-      "invalid_decision": 1,
-      "missing_decision_container": 6,
-      "nested_event_metadata": 65,
-      "events_without_options": 30,
-      "orphan_event_fields": 4
-    },
-    "after_structure_defects": {
-      "nested_decision_metadata": 0,
-      "nested_event_metadata": 0
-    },
-    "party_order_preserved": true,
-    "event_ids_preserved": true,
-    "chinook_parties": 48,
-    "native_flags_verified": 110
-  },
   "public": {
     "files_compared": 80,
     "before_structure_defects": {
@@ -36,5 +17,6 @@
     "event_ids_preserved": true,
     "chinook_parties": 48,
     "native_flags_verified": 110
-  }
+  },
+  "version": "0.1.0-alpha.5"
 }
